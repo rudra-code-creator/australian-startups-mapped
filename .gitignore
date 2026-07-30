@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+.next/
+out/
+dist/
+
+# Env
+.env
+.env*.local
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
+
+# Local Cursor hook state (regenerated)
+.cursor/hooks/state/
