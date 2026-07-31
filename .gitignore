@@ -15,3 +15,6 @@ Thumbs.db
 
 # Local Cursor hook state (regenerated)
 .cursor/hooks/state/
+
+.worktrees/
+.superpowers/
