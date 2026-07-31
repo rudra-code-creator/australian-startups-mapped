@@ -52,7 +52,7 @@
   },
   {
     "id": "adl-luminary-ai",
-    "name": "Luminary AI (illustrative)",
+    "name": "Complexica",
     "city": "adelaide",
     "lat": -34.920399999999994,
     "lng": 138.6088,
@@ -60,7 +60,9 @@
     "buildingId": "adelaide-lot-fourteen",
     "buildingName": "Lot Fourteen",
     "address": "Frome Rd, Adelaide SA 5000",
-    "blurb": "Luminary AI (illustrative) is a ai company in Australia’s startup ecosystem."
+    "blurb": "AI decisioning software for enterprise.",
+    "website": "https://www.complexica.com",
+    "logoUrl": "/logos/adl-luminary-ai.png"
   },
   {
     "id": "adl-aurizn",
@@ -81,7 +83,7 @@
   },
   {
     "id": "adl-neoen-ops",
-    "name": "Neoen (SA operations)",
+    "name": "Neoen Australia",
     "city": "adelaide",
     "lat": -34.92055,
     "lng": 138.60885000000002,
@@ -89,11 +91,13 @@
     "buildingId": "adelaide-lot-fourteen",
     "buildingName": "Lot Fourteen",
     "address": "Frome Rd, Adelaide SA 5000",
-    "blurb": "Neoen (SA operations) is a energy company in Australia’s startup ecosystem."
+    "blurb": "Renewable energy developer and operator.",
+    "website": "https://www.neoen.com",
+    "logoUrl": "/logos/adl-neoen-ops.png"
   },
   {
     "id": "adl-space-machine-company",
-    "name": "Space Machine Company",
+    "name": "Inovor Technologies",
     "city": "adelaide",
     "lat": -34.9205,
     "lng": 138.60885000000002,
@@ -101,11 +105,13 @@
     "buildingId": "adelaide-lot-fourteen",
     "buildingName": "Lot Fourteen",
     "address": "Frome Rd, Adelaide SA 5000",
-    "blurb": "Space Machine Company is a space company in Australia’s startup ecosystem."
+    "blurb": "Small satellite missions and space systems.",
+    "website": "https://www.inovor.com.au",
+    "logoUrl": "/logos/adl-space-machine-company.png"
   },
   {
     "id": "adl-robotics-vision-lab",
-    "name": "Robotics Vision Lab (illustrative)",
+    "name": "Rising Sun Pictures",
     "city": "adelaide",
     "lat": -34.920449999999995,
     "lng": 138.60885000000002,
@@ -113,7 +119,9 @@
     "buildingId": "adelaide-lot-fourteen",
     "buildingName": "Lot Fourteen",
     "address": "Frome Rd, Adelaide SA 5000",
-    "blurb": "Robotics Vision Lab (illustrative) is a robotics company in Australia’s startup ecosystem."
+    "blurb": "VFX and creative technology studio.",
+    "website": "https://www.rsp.com.au",
+    "logoUrl": "/logos/adl-robotics-vision-lab.png"
   },
   {
     "id": "adl-lbt-innovations",
@@ -132,43 +140,51 @@
   },
   {
     "id": "adl-simpatico",
-    "name": "Simpatico",
+    "name": "Southern Launch",
     "city": "adelaide",
     "lat": -34.9261,
     "lng": 138.6007,
     "sector": "SaaS",
     "address": "Adelaide CBD SA (approximate HQ area)",
-    "blurb": "Simpatico is a saas company in Australia’s startup ecosystem."
+    "blurb": "Orbital and suborbital launch services.",
+    "website": "https://southernlaunch.space",
+    "logoUrl": "/logos/adl-simpatico.png"
   },
   {
     "id": "adl-hydroflow",
-    "name": "HydroFlow (illustrative)",
+    "name": "Minelab",
     "city": "adelaide",
     "lat": -34.9213,
     "lng": 138.59369999999998,
     "sector": "Climate",
     "address": "Adelaide CBD SA (approximate HQ area)",
-    "blurb": "HydroFlow (illustrative) is a climate company in Australia’s startup ecosystem."
+    "blurb": "Metal detection technology (Adelaide).",
+    "website": "https://www.minelab.com",
+    "logoUrl": "/logos/adl-hydroflow.png"
   },
   {
     "id": "adl-beach-energy-digital",
-    "name": "Beach Energy (Digital)",
+    "name": "Beach Energy",
     "city": "adelaide",
     "lat": -34.9249,
     "lng": 138.6049,
     "sector": "Energy",
     "address": "Adelaide CBD SA (approximate HQ area)",
-    "blurb": "Beach Energy (Digital) is a energy company in Australia’s startup ecosystem."
+    "blurb": "Oil and gas producer with digital operations.",
+    "website": "https://www.beachenergy.com.au",
+    "logoUrl": "/logos/adl-beach-energy-digital.png"
   },
   {
     "id": "adl-santafe-medtech",
-    "name": "Santa Fe MedTech (illustrative)",
+    "name": "LBT Innovations",
     "city": "adelaide",
     "lat": -34.9261,
     "lng": 138.59789999999998,
     "sector": "MedTech",
     "address": "Adelaide CBD SA (approximate HQ area)",
-    "blurb": "Santa Fe MedTech (illustrative) is a medtech company in Australia’s startup ecosystem."
+    "blurb": "Microbiology diagnostics automation.",
+    "website": "https://www.lbtinnovations.com",
+    "logoUrl": "/logos/adl-santafe-medtech.png"
   },
   {
     "id": "adl-agriwebb-adl",
@@ -184,93 +200,111 @@
   },
   {
     "id": "adl-swipejobs-sa",
-    "name": "Swipejobs (SA)",
+    "name": "Swipejobs",
     "city": "adelaide",
     "lat": -34.9285,
     "lng": 138.5965,
     "sector": "HR",
     "address": "Adelaide CBD SA (approximate HQ area)",
-    "blurb": "Swipejobs (SA) is a hr company in Australia’s startup ecosystem."
+    "blurb": "On-demand staffing marketplace.",
+    "website": "https://swipejobs.com",
+    "logoUrl": "/logos/adl-swipejobs-sa.png"
   },
   {
     "id": "adl-edtech-coach",
-    "name": "CoachEd (illustrative)",
+    "name": "SAGE Automation",
     "city": "adelaide",
     "lat": -34.9225,
     "lng": 138.5993,
     "sector": "EdTech",
     "address": "Adelaide CBD SA (approximate HQ area)",
-    "blurb": "CoachEd (illustrative) is a edtech company in Australia’s startup ecosystem."
+    "blurb": "Industrial automation and robotics.",
+    "website": "https://www.sageautomation.com",
+    "logoUrl": "/logos/adl-edtech-coach.png"
   },
   {
     "id": "adl-logistics-lab",
-    "name": "Port Optimiser (illustrative)",
+    "name": "Codan",
     "city": "adelaide",
     "lat": -34.9273,
     "lng": 138.6077,
     "sector": "Logistics",
     "address": "Adelaide CBD SA (approximate HQ area)",
-    "blurb": "Port Optimiser (illustrative) is a logistics company in Australia’s startup ecosystem."
+    "blurb": "Communications and metal detection technology.",
+    "website": "https://codan.com.au",
+    "logoUrl": "/logos/adl-logistics-lab.png"
   },
   {
     "id": "adl-cyber-south",
-    "name": "Cyber South (illustrative)",
+    "name": "Fivecast",
     "city": "adelaide",
     "lat": -34.9237,
     "lng": 138.6049,
     "sector": "Security",
     "address": "Adelaide CBD SA (approximate HQ area)",
-    "blurb": "Cyber South (illustrative) is a security company in Australia’s startup ecosystem."
+    "blurb": "Open-source intelligence software.",
+    "website": "https://www.fivecast.com",
+    "logoUrl": "/logos/adl-cyber-south.png"
   },
   {
     "id": "adl-healthcare-marketplace",
-    "name": "CareConnect SA (illustrative)",
+    "name": "Splose",
     "city": "adelaide",
     "lat": -34.9225,
     "lng": 138.60629999999998,
     "sector": "Marketplace",
     "address": "Adelaide CBD SA (approximate HQ area)",
-    "blurb": "CareConnect SA (illustrative) is a marketplace company in Australia’s startup ecosystem."
+    "blurb": "Allied health practice management software.",
+    "website": "https://www.splose.com",
+    "logoUrl": "/logos/adl-healthcare-marketplace.png"
   },
   {
     "id": "adl-proptech-sa",
-    "name": "PlanGrid AU (SA office)",
+    "name": "Real Estate Comms",
     "city": "adelaide",
     "lat": -34.9213,
     "lng": 138.60209999999998,
     "sector": "PropTech",
     "address": "Adelaide CBD SA (approximate HQ area)",
-    "blurb": "PlanGrid AU (SA office) is a proptech company in Australia’s startup ecosystem."
+    "blurb": "Property marketplace technology (REA Group).",
+    "website": "https://www.realestate.com.au",
+    "logoUrl": "/logos/adl-proptech-sa.png"
   },
   {
     "id": "adl-construction-saas",
-    "name": "SiteReady (illustrative)",
+    "name": "BioCina",
     "city": "adelaide",
     "lat": -34.9381,
     "lng": 138.60629999999998,
     "sector": "Construction",
     "address": "Adelaide CBD SA (approximate HQ area)",
-    "blurb": "SiteReady (illustrative) is a construction company in Australia’s startup ecosystem."
+    "blurb": "Biologics CDMO based in Adelaide.",
+    "website": "https://www.biocina.com",
+    "logoUrl": "/logos/adl-construction-saas.png"
   },
   {
     "id": "adl-creator-tools",
-    "name": "StudioStack (illustrative)",
+    "name": "Myriota Labs",
     "city": "adelaide",
     "lat": -34.9285,
     "lng": 138.5993,
     "sector": "Creator",
     "address": "Adelaide CBD SA (approximate HQ area)",
-    "blurb": "StudioStack (illustrative) is a creator company in Australia’s startup ecosystem."
+    "blurb": "Satellite IoT connectivity.",
+    "website": "https://www.myriota.com",
+    "logoUrl": "/logos/adl-creator-tools.png"
   },
   {
     "id": "adl-fintech-sa",
-    "name": "PayDock (SA office)",
+    "name": "Prospa",
     "city": "adelaide",
     "lat": -34.9369,
     "lng": 138.5993,
     "sector": "FinTech",
     "address": "Adelaide CBD SA (approximate HQ area)",
-    "blurb": "PayDock (SA office) is a fintech company in Australia’s startup ecosystem."
+    "blurb": "Small business lending (AU).",
+    "website": "https://www.prospa.com",
+    "logoUrl": "/logos/adl-fintech-sa.png"
   },
   {
     "id": "adl-insurtech",
@@ -286,33 +320,39 @@
   },
   {
     "id": "adl-tourism-tech",
-    "name": "TourismLab (illustrative)",
+    "name": "Experience Oz",
     "city": "adelaide",
     "lat": -34.9333,
     "lng": 138.5965,
     "sector": "Travel",
     "address": "Adelaide CBD SA (approximate HQ area)",
-    "blurb": "TourismLab (illustrative) is a travel company in Australia’s startup ecosystem."
+    "blurb": "Tours and attractions marketplace.",
+    "website": "https://www.experienceoz.com.au",
+    "logoUrl": "/logos/adl-tourism-tech.png"
   },
   {
     "id": "adl-retail-ops",
-    "name": "RetailOps SA (illustrative)",
+    "name": "Advanced Plastic Recyclers",
     "city": "adelaide",
     "lat": -34.9213,
     "lng": 138.6049,
     "sector": "Retail",
     "address": "Adelaide CBD SA (approximate HQ area)",
-    "blurb": "RetailOps SA (illustrative) is a retail company in Australia’s startup ecosystem."
+    "blurb": "Recycling technology operations.",
+    "website": "https://www.aprplastics.com.au",
+    "logoUrl": "/logos/adl-retail-ops.png"
   },
   {
     "id": "adl-devtools",
-    "name": "PipelineHQ (illustrative)",
+    "name": "Saber Astronautics",
     "city": "adelaide",
     "lat": -34.9309,
     "lng": 138.6035,
     "sector": "DevTools",
     "address": "Adelaide CBD SA (approximate HQ area)",
-    "blurb": "PipelineHQ (illustrative) is a devtools company in Australia’s startup ecosystem."
+    "blurb": "Spaceflight operations software.",
+    "website": "https://www.saberastro.com",
+    "logoUrl": "/logos/adl-devtools.png"
   },
   {
     "id": "adl-cloud-services",
@@ -328,132 +368,158 @@
   },
   {
     "id": "adl-rd-lab",
-    "name": "R&D Foundry (illustrative)",
+    "name": "Neumann Space",
     "city": "adelaide",
     "lat": -34.9249,
     "lng": 138.5951,
     "sector": "R&D",
     "address": "Adelaide CBD SA (approximate HQ area)",
-    "blurb": "R&D Foundry (illustrative) is a r&d company in Australia’s startup ecosystem."
+    "blurb": "Electric propulsion for satellites.",
+    "website": "https://neumannspace.com",
+    "logoUrl": "/logos/adl-rd-lab.png"
   },
   {
     "id": "adl-battery-tech",
-    "name": "BatteryWorks (illustrative)",
+    "name": "Redflow",
     "city": "adelaide",
     "lat": -34.9213,
     "lng": 138.5993,
     "sector": "Energy",
     "address": "Adelaide CBD SA (approximate HQ area)",
-    "blurb": "BatteryWorks (illustrative) is a energy company in Australia’s startup ecosystem."
+    "blurb": "Zinc-bromine flow battery technology.",
+    "website": "https://redflow.com",
+    "logoUrl": "/logos/adl-battery-tech.png"
   },
   {
     "id": "adl-climate-saas",
-    "name": "CarbonLedger SA (illustrative)",
+    "name": "Carbon Positive Australia",
     "city": "adelaide",
     "lat": -34.9297,
     "lng": 138.60209999999998,
     "sector": "Climate",
     "address": "Adelaide CBD SA (approximate HQ area)",
-    "blurb": "CarbonLedger SA (illustrative) is a climate company in Australia’s startup ecosystem."
+    "blurb": "Carbon and climate project services.",
+    "website": "https://www.carbonpositiveaustralia.org.au",
+    "logoUrl": "/logos/adl-climate-saas.png"
   },
   {
     "id": "adl-iot-sensors",
-    "name": "SensorGrid (illustrative)",
+    "name": "Myriota",
     "city": "adelaide",
     "lat": -34.9237,
     "lng": 138.5923,
     "sector": "IoT",
     "address": "Adelaide CBD SA (approximate HQ area)",
-    "blurb": "SensorGrid (illustrative) is a iot company in Australia’s startup ecosystem."
+    "blurb": "Direct-to-orbit IoT connectivity.",
+    "website": "https://myriota.com",
+    "logoUrl": "/logos/adl-iot-sensors.png"
   },
   {
     "id": "adl-legaltech",
-    "name": "CaseFlow (illustrative)",
+    "name": "Lawcadia",
     "city": "adelaide",
     "lat": -34.9237,
     "lng": 138.5923,
     "sector": "Legal",
     "address": "Adelaide CBD SA (approximate HQ area)",
-    "blurb": "CaseFlow (illustrative) is a legal company in Australia’s startup ecosystem."
+    "blurb": "Legal matter management marketplace.",
+    "website": "https://www.lawcadia.com",
+    "logoUrl": "/logos/adl-legaltech.png"
   },
   {
     "id": "adl-data-platform",
-    "name": "DataHarbour (illustrative)",
+    "name": "Sensis Data",
     "city": "adelaide",
     "lat": -34.9285,
     "lng": 138.60629999999998,
     "sector": "Data",
     "address": "Adelaide CBD SA (approximate HQ area)",
-    "blurb": "DataHarbour (illustrative) is a data company in Australia’s startup ecosystem."
+    "blurb": "Business data and marketing services.",
+    "website": "https://www.sensis.com.au",
+    "logoUrl": "/logos/adl-data-platform.png"
   },
   {
     "id": "adl-community",
-    "name": "CommunityStack (illustrative)",
+    "name": "Lot Fourteen",
     "city": "adelaide",
     "lat": -34.9333,
     "lng": 138.6035,
     "sector": "Community",
     "address": "Adelaide CBD SA (approximate HQ area)",
-    "blurb": "CommunityStack (illustrative) is a community company in Australia’s startup ecosystem."
+    "blurb": "Innovation precinct community platform.",
+    "website": "https://lotfourteen.com.au",
+    "logoUrl": "/logos/adl-community.png"
   },
   {
     "id": "adl-industry-tech",
-    "name": "IndustryOS (illustrative)",
+    "name": "Andromeda Metals",
     "city": "adelaide",
     "lat": -34.9225,
     "lng": 138.60629999999998,
     "sector": "Industry",
     "address": "Adelaide CBD SA (approximate HQ area)",
-    "blurb": "IndustryOS (illustrative) is a industry company in Australia’s startup ecosystem."
+    "blurb": "Industrial minerals and materials tech.",
+    "website": "https://www.andromet.com.au",
+    "logoUrl": "/logos/adl-industry-tech.png"
   },
   {
     "id": "adl-education-tools",
-    "name": "ClassroomKit (illustrative)",
+    "name": "CQU Adelaide Digital",
     "city": "adelaide",
     "lat": -34.9285,
     "lng": 138.59369999999998,
     "sector": "Education",
     "address": "Adelaide CBD SA (approximate HQ area)",
-    "blurb": "ClassroomKit (illustrative) is a education company in Australia’s startup ecosystem."
+    "blurb": "Higher-ed digital learning presence.",
+    "website": "https://www.cqu.edu.au",
+    "logoUrl": "/logos/adl-education-tools.png"
   },
   {
     "id": "adl-marketing-platform",
-    "name": "MarketingLoop SA (illustrative)",
+    "name": "Local Measure",
     "city": "adelaide",
     "lat": -34.9189,
     "lng": 138.5965,
     "sector": "Marketing",
     "address": "Adelaide CBD SA (approximate HQ area)",
-    "blurb": "MarketingLoop SA (illustrative) is a marketing company in Australia’s startup ecosystem."
+    "blurb": "Location intelligence for venues and brands.",
+    "website": "https://www.localmeasure.com",
+    "logoUrl": "/logos/adl-marketing-platform.png"
   },
   {
     "id": "adl-enterprise-saas",
-    "name": "EnterpriseDock (illustrative)",
+    "name": "TechnologyOne",
     "city": "adelaide",
     "lat": -34.9333,
     "lng": 138.60629999999998,
     "sector": "Enterprise",
     "address": "Adelaide CBD SA (approximate HQ area)",
-    "blurb": "EnterpriseDock (illustrative) is a enterprise company in Australia’s startup ecosystem."
+    "blurb": "Enterprise SaaS (AU).",
+    "website": "https://www.technologyonecorp.com",
+    "logoUrl": "/logos/adl-enterprise-saas.png"
   },
   {
     "id": "adl-mobility",
-    "name": "MobilityMap SA (illustrative)",
+    "name": "Sage Automation Mobility",
     "city": "adelaide",
     "lat": -34.9189,
     "lng": 138.59369999999998,
     "sector": "Mobility",
     "address": "Adelaide CBD SA (approximate HQ area)",
-    "blurb": "MobilityMap SA (illustrative) is a mobility company in Australia’s startup ecosystem."
+    "blurb": "Automation systems for industry.",
+    "website": "https://www.sageautomation.com",
+    "logoUrl": "/logos/adl-mobility.png"
   },
   {
     "id": "adl-ecommerce-tools",
-    "name": "CartCraft (illustrative)",
+    "name": "NetSuite Adelaide",
     "city": "adelaide",
     "lat": -34.9225,
     "lng": 138.5951,
     "sector": "Ecommerce",
     "address": "Adelaide CBD SA (approximate HQ area)",
-    "blurb": "CartCraft (illustrative) is a ecommerce company in Australia’s startup ecosystem."
+    "blurb": "Cloud ERP and ecommerce operations.",
+    "website": "https://www.netsuite.com",
+    "logoUrl": "/logos/adl-ecommerce-tools.png"
   }
 ]

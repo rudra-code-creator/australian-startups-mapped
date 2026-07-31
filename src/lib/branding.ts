@@ -38,6 +38,10 @@ export function duckDuckGoIconUrl(domain: string): string {
   return `https://icons.duckduckgo.com/ip3/${domain}.ico`;
 }
 
+export function iconHorseUrl(domain: string): string {
+  return `https://icon.horse/icon/${domain}`;
+}
+
 export function websitePreviewUrl(website: string): string {
   return `https://s0.wp.com/mshots/v1/${encodeURIComponent(website)}?w=1200`;
 }
@@ -58,13 +62,16 @@ export function logoCandidates(
 
   const domain = domainFromWebsite(startup.website);
   if (domain) {
-    urls.push(unavatarDomainUrl(domain));
-    urls.push(unavatarGoogleUrl(domain));
-    urls.push(clearbitLogoUrl(domain));
+    // Prefer raster icon hosts over unavatar (often returns tiny SVG marks).
+    urls.push(iconHorseUrl(domain));
+    urls.push(gstaticFaviconUrl(domain, 256));
     urls.push(gstaticFaviconUrl(domain, 128));
     urls.push(googleFaviconUrl(domain, 128));
+    urls.push(clearbitLogoUrl(domain));
+    urls.push(unavatarGoogleUrl(domain));
     urls.push(unavatarDuckDuckGoUrl(domain));
     urls.push(duckDuckGoIconUrl(domain));
+    urls.push(unavatarDomainUrl(domain));
   }
 
   return [...new Set(urls)];

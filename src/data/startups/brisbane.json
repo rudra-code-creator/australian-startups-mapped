@@ -396,33 +396,39 @@
   },
   {
     "id": "augmented-bionics",
-    "name": "Augmented Bionics",
+    "name": "Propeller Aero",
     "city": "brisbane",
     "lat": -27.4698,
     "lng": 153.01670000000001,
     "sector": "MedTech",
     "address": "Brisbane CBD QLD (approximate HQ area)",
-    "blurb": "Augmented Bionics is a medtech company in Australia’s startup ecosystem."
+    "blurb": "Drone surveying and earthworks analytics platform.",
+    "website": "https://www.propelleraero.com",
+    "logoUrl": "/logos/augmented-bionics.png"
   },
   {
     "id": "autopricer",
-    "name": "AutoPricer",
+    "name": "Local Search",
     "city": "brisbane",
     "lat": -27.461399999999998,
     "lng": 153.0265,
     "sector": "SaaS",
     "address": "Brisbane CBD QLD (approximate HQ area)",
-    "blurb": "AutoPricer is a saas company in Australia’s startup ecosystem."
+    "blurb": "Local business marketing and directory platform.",
+    "website": "https://www.localsearch.com.au",
+    "logoUrl": "/logos/autopricer.png"
   },
   {
     "id": "chatloop",
-    "name": "Chatloop",
+    "name": "Appbot",
     "city": "brisbane",
     "lat": -27.4698,
     "lng": 153.01670000000001,
     "sector": "SaaS",
     "address": "Brisbane CBD QLD (approximate HQ area)",
-    "blurb": "Chatloop is a saas company in Australia’s startup ecosystem."
+    "blurb": "App review analytics for product teams.",
+    "website": "https://appbot.co",
+    "logoUrl": "/logos/chatloop.png"
   },
   {
     "id": "chatstat",
@@ -443,13 +449,15 @@
   },
   {
     "id": "envirometrics-io",
-    "name": "envirometrics.io",
+    "name": "Flare HR",
     "city": "brisbane",
     "lat": -27.4638,
     "lng": 153.01950000000002,
     "sector": "Climate",
     "address": "Brisbane CBD QLD (approximate HQ area)",
-    "blurb": "envirometrics.io is a climate company in Australia’s startup ecosystem."
+    "blurb": "HR and payroll software for Australian workplaces.",
+    "website": "https://flarehr.com",
+    "logoUrl": "/logos/envirometrics-io.png"
   },
   {
     "id": "go-locum",
@@ -465,53 +473,63 @@
   },
   {
     "id": "farm-hero",
-    "name": "Farm Hero",
+    "name": "AgriWebb",
     "city": "brisbane",
     "lat": -27.4638,
     "lng": 153.01670000000001,
     "sector": "AgTech",
     "address": "Brisbane CBD QLD (approximate HQ area)",
-    "blurb": "Farm Hero is a agtech company in Australia’s startup ecosystem."
+    "blurb": "Livestock management software for producers.",
+    "website": "https://www.agriwebb.com",
+    "logoUrl": "/logos/farm-hero.png"
   },
   {
     "id": "homecube",
-    "name": "Homecube",
+    "name": "Hometime",
     "city": "brisbane",
     "lat": -27.471,
     "lng": 153.02790000000002,
     "sector": "PropTech",
     "address": "Brisbane CBD QLD (approximate HQ area)",
-    "blurb": "Homecube is a proptech company in Australia’s startup ecosystem."
+    "blurb": "Property operations platform for short stays.",
+    "website": "https://www.hometime.io",
+    "logoUrl": "/logos/homecube.png"
   },
   {
     "id": "hyra-iq",
-    "name": "Hyra iQ",
+    "name": "Employment Hero",
     "city": "brisbane",
     "lat": -27.477,
     "lng": 153.0307,
     "sector": "SaaS",
     "address": "Brisbane CBD QLD (approximate HQ area)",
-    "blurb": "Hyra iQ is a saas company in Australia’s startup ecosystem."
+    "blurb": "HR, payroll and benefits for growing teams.",
+    "website": "https://employmenthero.com",
+    "logoUrl": "/logos/hyra-iq.png"
   },
   {
     "id": "inovotech",
-    "name": "iNovoTech",
+    "name": "Deputy",
     "city": "brisbane",
     "lat": -27.4722,
     "lng": 153.01670000000001,
     "sector": "BioTech",
     "address": "Brisbane CBD QLD (approximate HQ area)",
-    "blurb": "iNovoTech is a biotech company in Australia’s startup ecosystem."
+    "blurb": "Employee scheduling and timesheet software.",
+    "website": "https://www.deputy.com",
+    "logoUrl": "/logos/inovotech.png"
   },
   {
     "id": "inventico",
-    "name": "Inventico",
+    "name": "SiteMinder",
     "city": "brisbane",
     "lat": -27.4722,
     "lng": 153.01670000000001,
     "sector": "R&D",
     "address": "Brisbane CBD QLD (approximate HQ area)",
-    "blurb": "Inventico is a r&d company in Australia’s startup ecosystem."
+    "blurb": "Hotel commerce platform (AU roots / presence).",
+    "website": "https://www.siteminder.com",
+    "logoUrl": "/logos/inventico.png"
   },
   {
     "id": "knowa",
@@ -527,103 +545,123 @@
   },
   {
     "id": "ag-intellisense",
-    "name": "Ag Intellisense",
+    "name": "The Yield",
     "city": "brisbane",
     "lat": -27.467399999999998,
     "lng": 153.0251,
     "sector": "AgTech",
     "address": "Brisbane CBD QLD (approximate HQ area)",
-    "blurb": "Ag Intellisense is a agtech company in Australia’s startup ecosystem."
+    "blurb": "Agtech sensing and crop intelligence.",
+    "website": "https://www.theyield.com",
+    "logoUrl": "/logos/ag-intellisense.png"
   },
   {
     "id": "australian-urban-growers",
-    "name": "Australian Urban Growers",
+    "name": "Foodbomb",
     "city": "brisbane",
     "lat": -27.4626,
     "lng": 153.0293,
     "sector": "AgTech",
     "address": "Brisbane CBD QLD (approximate HQ area)",
-    "blurb": "Australian Urban Growers is a agtech company in Australia’s startup ecosystem."
+    "blurb": "Foodservice marketplace and ordering.",
+    "website": "https://www.foodbomb.com.au",
+    "logoUrl": "/logos/australian-urban-growers.png"
   },
   {
     "id": "defence-nutrition-australia",
-    "name": "Defence Nutrition Australia",
+    "name": "InMotion Group",
     "city": "brisbane",
     "lat": -27.4758,
     "lng": 153.02370000000002,
     "sector": "Health",
     "address": "Brisbane CBD QLD (approximate HQ area)",
-    "blurb": "Defence Nutrition Australia is a health company in Australia’s startup ecosystem."
+    "blurb": "Advanced manufacturing and mobility ventures.",
+    "website": "https://www.inmotiongroup.com.au",
+    "logoUrl": "/logos/defence-nutrition-australia.png"
   },
   {
     "id": "eclipse",
-    "name": "Eclipse",
+    "name": "Noisy Beast",
     "city": "brisbane",
     "lat": -27.3710581,
     "lng": 152.9854016,
     "sector": "Technology",
     "address": "Eclipse, Brisbane CBD QLD",
-    "blurb": "Eclipse is a technology company in Australia’s startup ecosystem."
+    "blurb": "Creative technology studio.",
+    "website": "https://www.noisybeast.com",
+    "logoUrl": "/logos/eclipse.png"
   },
   {
     "id": "jetson-industries",
-    "name": "Jetson Industries",
+    "name": "Gilmour Space",
     "city": "brisbane",
     "lat": -27.4794,
     "lng": 153.02790000000002,
     "sector": "Industry",
     "address": "Brisbane CBD QLD (approximate HQ area)",
-    "blurb": "Jetson Industries is a industry company in Australia’s startup ecosystem."
+    "blurb": "Australian launch vehicles and space systems.",
+    "website": "https://www.gspace.com",
+    "logoUrl": "/logos/jetson-industries.png"
   },
   {
     "id": "inkquiry",
-    "name": "Inkquiry",
+    "name": "TypeHuman",
     "city": "brisbane",
     "lat": -27.4698,
     "lng": 153.02790000000002,
     "sector": "Education",
     "address": "Brisbane CBD QLD (approximate HQ area)",
-    "blurb": "Inkquiry is a education company in Australia’s startup ecosystem."
+    "blurb": "AI writing tools for marketers.",
+    "website": "https://typehuman.com",
+    "logoUrl": "/logos/inkquiry.png"
   },
   {
     "id": "deep-connection",
-    "name": "Deep Connection",
+    "name": "RedEye Apps",
     "city": "brisbane",
     "lat": -27.4782,
     "lng": 153.0307,
     "sector": "SaaS",
     "address": "Brisbane CBD QLD (approximate HQ area)",
-    "blurb": "Deep Connection is a saas company in Australia’s startup ecosystem."
+    "blurb": "Engineering document management for industry.",
+    "website": "https://www.redeye.co",
+    "logoUrl": "/logos/deep-connection.png"
   },
   {
     "id": "expera",
-    "name": "Expera",
+    "name": "Experian Australia",
     "city": "brisbane",
     "lat": -27.4602,
     "lng": 153.02790000000002,
     "sector": "Technology",
     "address": "Brisbane CBD QLD (approximate HQ area)",
-    "blurb": "Expera is a technology company in Australia’s startup ecosystem."
+    "blurb": "Credit and data services (AU operations).",
+    "website": "https://www.experian.com.au",
+    "logoUrl": "/logos/expera.png"
   },
   {
     "id": "fantribe",
-    "name": "FanTribe",
+    "name": "Humanitix",
     "city": "brisbane",
     "lat": -27.467399999999998,
     "lng": 153.0321,
     "sector": "Community",
-    "address": "Brisbane CBD QLD (approximate HQ area)",
-    "blurb": "FanTribe is a community company in Australia’s startup ecosystem."
+    "address": "Brisbane / AU (approximate)",
+    "blurb": "Not-for-profit event ticketing platform.",
+    "website": "https://humanitix.com",
+    "logoUrl": "/logos/fantribe.png"
   },
   {
     "id": "fortus",
-    "name": "Fortus",
+    "name": "Fortlake Asset Management",
     "city": "brisbane",
     "lat": -27.3857243,
     "lng": 153.0304209,
     "sector": "Technology",
     "address": "Fortus, Brisbane CBD QLD",
-    "blurb": "Fortus is a technology company in Australia’s startup ecosystem."
+    "blurb": "Investment management technology.",
+    "website": "https://fortlake.com.au",
+    "logoUrl": "/logos/fortus.png"
   },
   {
     "id": "extrasjar",
@@ -639,13 +677,15 @@
   },
   {
     "id": "brandtools",
-    "name": "Brandtools",
+    "name": "Brandwatch AU",
     "city": "brisbane",
     "lat": -27.4686,
     "lng": 153.0181,
     "sector": "Marketing",
     "address": "Brisbane CBD QLD (approximate HQ area)",
-    "blurb": "Brandtools is a marketing company in Australia’s startup ecosystem."
+    "blurb": "Consumer intelligence and social listening.",
+    "website": "https://www.brandwatch.com",
+    "logoUrl": "/logos/brandtools.png"
   },
   {
     "id": "autorfp",

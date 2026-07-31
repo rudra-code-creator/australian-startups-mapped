@@ -10,13 +10,13 @@ describe("branding", () => {
     expect(domainFromWebsite("https://www.canva.com/about")).toBe("canva.com");
   });
 
-  it("builds logo candidate chain with local + unavatar", () => {
+  it("builds logo candidate chain with local + icon hosts", () => {
     const urls = logoCandidates({
       id: "go1",
       website: "https://go1.com",
     });
     expect(urls[0]).toBe("/logos/go1.png");
-    expect(urls.some((u) => u.includes("unavatar.io"))).toBe(true);
+    expect(urls.some((u) => u.includes("icon.horse"))).toBe(true);
     expect(urls.some((u) => u.includes("google.com/s2/favicons"))).toBe(true);
   });
 

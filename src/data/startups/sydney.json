@@ -199,7 +199,7 @@
     "sector": "FinTech",
     "address": "Level 23/100 Barangaroo Ave, Barangaroo NSW 2000",
     "blurb": "BNPL pioneer (Block) enabling pay-in-four checkout experiences.",
-    "logoUrl": "https://unavatar.io/afterpay.com",
+    "logoUrl": "/logos/syd-afterpay.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.afterpay.com?w=1200"
     ]
@@ -467,14 +467,14 @@
   },
   {
     "id": "syd-assembly-payments",
-    "name": "Assembly Payments",
+    "name": "Till Payments",
     "city": "sydney",
     "lat": -33.8675323,
     "lng": 151.2077746,
-    "website": "https://assemblypayments.com",
+    "website": "https://tillpayments.com",
     "sector": "FinTech",
     "address": "1/32 Martin Pl, Sydney NSW 2000",
-    "blurb": "Payments orchestration and marketplace payout infrastructure.",
+    "blurb": "Payments platform (formerly Assembly Payments).",
     "logoUrl": "/logos/syd-assembly-payments.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fassemblypayments.com?w=1200"
@@ -494,13 +494,15 @@
   },
   {
     "id": "syd-vet-chat",
-    "name": "Vets Central",
+    "name": "PetSure",
     "city": "sydney",
     "lat": -33.8736,
     "lng": 151.2107,
     "sector": "Health",
     "address": "Sydney CBD NSW (approximate HQ area)",
-    "blurb": "Vets Central is a health company in Australia’s startup ecosystem."
+    "blurb": "Pet insurance technology and claims.",
+    "website": "https://www.petsure.com.au",
+    "logoUrl": "/logos/syd-vet-chat.png"
   },
   {
     "id": "syd-lovewell",
@@ -543,13 +545,15 @@
   },
   {
     "id": "syd-tyro-ml",
-    "name": "Nutmeg (AU office)",
+    "name": "Immutable",
     "city": "sydney",
     "lat": -33.8784,
     "lng": 151.20090000000002,
     "sector": "FinTech",
     "address": "Sydney CBD NSW (approximate HQ area)",
-    "blurb": "Nutmeg (AU office) is a fintech company in Australia’s startup ecosystem."
+    "blurb": "Web3 gaming and NFT infrastructure.",
+    "website": "https://www.immutable.com",
+    "logoUrl": "/logos/syd-tyro-ml.png"
   },
   {
     "id": "syd-halon",

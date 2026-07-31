@@ -266,13 +266,15 @@
   },
   {
     "id": "mel-tiger-trade",
-    "name": "Tiger Trade (AU)",
+    "name": "Tiger Brokers AU",
     "city": "melbourne",
     "lat": -37.8076,
     "lng": 144.9631,
     "sector": "FinTech",
     "address": "Melbourne CBD VIC (approximate HQ area)",
-    "blurb": "Tiger Trade (AU) is a fintech company in Australia’s startup ecosystem."
+    "blurb": "Online brokerage platform.",
+    "website": "https://www.tigerbrokers.com.au",
+    "logoUrl": "/logos/mel-tiger-trade.png"
   },
   {
     "id": "mel-lendi",
@@ -294,7 +296,9 @@
     "lng": 144.8311158,
     "sector": "Mobility",
     "address": "A2B Australia, Melbourne CBD VIC",
-    "blurb": "A2B Australia is a mobility company in Australia’s startup ecosystem."
+    "blurb": "Taxi and personal transport network technology.",
+    "website": "https://www.a2baustralia.com",
+    "logoUrl": "/logos/mel-a2b-australia.png"
   },
   {
     "id": "mel-zeller",
@@ -388,13 +392,15 @@
   },
   {
     "id": "mel-cameo",
-    "name": "Cameo (AU studio)",
+    "name": "Cameo",
     "city": "melbourne",
     "lat": -37.8076,
     "lng": 144.9673,
     "sector": "Creator",
     "address": "Melbourne CBD VIC (approximate HQ area)",
-    "blurb": "Cameo (AU studio) is a creator company in Australia’s startup ecosystem."
+    "blurb": "Personalised video shout-outs (AU presence).",
+    "website": "https://www.cameo.com",
+    "logoUrl": "/logos/mel-cameo.png"
   },
   {
     "id": "mel-coinspot",
@@ -473,33 +479,39 @@
   },
   {
     "id": "mel-promise-pay",
-    "name": "PromisePay (Melbourne office)",
+    "name": "Pin Payments",
     "city": "melbourne",
     "lat": -37.812400000000004,
     "lng": 144.96869999999998,
     "sector": "FinTech",
     "address": "Melbourne CBD VIC (approximate HQ area)",
-    "blurb": "PromisePay (Melbourne office) is a fintech company in Australia’s startup ecosystem."
+    "blurb": "Australian payment gateway for developers.",
+    "website": "https://pinpayments.com",
+    "logoUrl": "/logos/mel-promise-pay.png"
   },
   {
     "id": "mel-forestry",
-    "name": "Forestry (Climate)",
+    "name": "Carbon Positive Australia",
     "city": "melbourne",
     "lat": -37.804,
     "lng": 144.9673,
     "sector": "Climate",
     "address": "Melbourne CBD VIC (approximate HQ area)",
-    "blurb": "Forestry (Climate) is a climate company in Australia’s startup ecosystem."
+    "blurb": "Reforestation and carbon project technology.",
+    "website": "https://carbonpositiveaustralia.org.au",
+    "logoUrl": "/logos/mel-forestry.png"
   },
   {
     "id": "mel-flip",
-    "name": "Flip (Retail ops)",
+    "name": "Catch.com.au",
     "city": "melbourne",
     "lat": -37.8136,
     "lng": 144.96869999999998,
     "sector": "Retail",
     "address": "Melbourne CBD VIC (approximate HQ area)",
-    "blurb": "Flip (Retail ops) is a retail company in Australia’s startup ecosystem."
+    "blurb": "Online marketplace and retail commerce.",
+    "website": "https://www.catch.com.au",
+    "logoUrl": "/logos/mel-flip.png"
   },
   {
     "id": "mel-goget-mel",
@@ -511,7 +523,7 @@
     "address": "Melbourne CBD VIC (approximate HQ area)",
     "blurb": "GoGet (Melbourne office) is a mobility company in Australia’s startup ecosystem.",
     "website": "https://www.goget.com.au",
-    "logoUrl": "https://unavatar.io/goget.com.au"
+    "logoUrl": "/logos/mel-goget-mel.png"
   },
   {
     "id": "mel-kiwi-rails",
@@ -527,13 +539,15 @@
   },
   {
     "id": "mel-snapfix",
-    "name": "Snap Fix",
+    "name": "ServiceSeeking",
     "city": "melbourne",
     "lat": -37.8208,
     "lng": 144.9631,
     "sector": "PropTech",
     "address": "Melbourne CBD VIC (approximate HQ area)",
-    "blurb": "Snap Fix is a proptech company in Australia’s startup ecosystem."
+    "blurb": "Marketplace for local service providers.",
+    "website": "https://www.serviceseeking.com.au",
+    "logoUrl": "/logos/mel-snapfix.png"
   },
   {
     "id": "mel-spriggy",
@@ -549,23 +563,27 @@
   },
   {
     "id": "mel-reach",
-    "name": "Reach (Digital commerce)",
+    "name": "The Iconic",
     "city": "melbourne",
     "lat": -37.81,
     "lng": 144.9645,
     "sector": "Ecommerce",
     "address": "Melbourne CBD VIC (approximate HQ area)",
-    "blurb": "Reach (Digital commerce) is a ecommerce company in Australia’s startup ecosystem."
+    "blurb": "Online fashion retail.",
+    "website": "https://www.theiconic.com.au",
+    "logoUrl": "/logos/mel-reach.png"
   },
   {
     "id": "mel-kinaxis",
-    "name": "Kinaxis (Melbourne office)",
+    "name": "Kinaxis",
     "city": "melbourne",
     "lat": -37.8232,
     "lng": 144.9603,
     "sector": "Enterprise",
     "address": "Melbourne CBD VIC (approximate HQ area)",
-    "blurb": "Kinaxis (Melbourne office) is a enterprise company in Australia’s startup ecosystem."
+    "blurb": "Supply chain planning software (AU office).",
+    "website": "https://www.kinaxis.com",
+    "logoUrl": "/logos/mel-kinaxis.png"
   },
   {
     "id": "mel-archistar",

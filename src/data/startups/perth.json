@@ -16,7 +16,7 @@
   },
   {
     "id": "per-spacecubed-member-1",
-    "name": "HydraPay (illustrative)",
+    "name": "VGW",
     "city": "perth",
     "lat": -31.955550000000002,
     "lng": 115.8605,
@@ -24,11 +24,13 @@
     "buildingId": "perth-spacecubed-riff",
     "buildingName": "Spacecubed (Riff)",
     "address": "45 St Georges Terrace, Perth WA 6000",
-    "blurb": "HydraPay (illustrative) is a fintech company in Australia’s startup ecosystem."
+    "blurb": "Social casino gaming technology (Perth).",
+    "website": "https://www.vgw.co",
+    "logoUrl": "/logos/per-spacecubed-member-1.png"
   },
   {
     "id": "per-spacecubed-member-2",
-    "name": "MineSense AU (illustrative)",
+    "name": "iCetana",
     "city": "perth",
     "lat": -31.9555,
     "lng": 115.8605,
@@ -36,11 +38,13 @@
     "buildingId": "perth-spacecubed-riff",
     "buildingName": "Spacecubed (Riff)",
     "address": "45 St Georges Terrace, Perth WA 6000",
-    "blurb": "MineSense AU (illustrative) is a miningtech company in Australia’s startup ecosystem."
+    "blurb": "AI video surveillance analytics.",
+    "website": "https://icetana.com",
+    "logoUrl": "/logos/per-spacecubed-member-2.png"
   },
   {
     "id": "per-spacecubed-member-3",
-    "name": "OceanGrid (illustrative)",
+    "name": "DUG Technology",
     "city": "perth",
     "lat": -31.95545,
     "lng": 115.8605,
@@ -48,11 +52,13 @@
     "buildingId": "perth-spacecubed-riff",
     "buildingName": "Spacecubed (Riff)",
     "address": "45 St Georges Terrace, Perth WA 6000",
-    "blurb": "OceanGrid (illustrative) is a climate company in Australia’s startup ecosystem."
+    "blurb": "HPC and geoscience technology.",
+    "website": "https://dug.com",
+    "logoUrl": "/logos/per-spacecubed-member-3.png"
   },
   {
     "id": "per-spacecubed-member-4",
-    "name": "Riff Robotics (illustrative)",
+    "name": "BrainChip",
     "city": "perth",
     "lat": -31.9554,
     "lng": 115.8605,
@@ -60,11 +66,13 @@
     "buildingId": "perth-spacecubed-riff",
     "buildingName": "Spacecubed (Riff)",
     "address": "45 St Georges Terrace, Perth WA 6000",
-    "blurb": "Riff Robotics (illustrative) is a robotics company in Australia’s startup ecosystem."
+    "blurb": "Neuromorphic AI semiconductor company.",
+    "website": "https://brainchip.com",
+    "logoUrl": "/logos/per-spacecubed-member-4.png"
   },
   {
     "id": "per-spacecubed-member-5",
-    "name": "SignalDock (illustrative)",
+    "name": "Hazer Group",
     "city": "perth",
     "lat": -31.9556,
     "lng": 115.86055,
@@ -72,11 +80,13 @@
     "buildingId": "perth-spacecubed-riff",
     "buildingName": "Spacecubed (Riff)",
     "address": "45 St Georges Terrace, Perth WA 6000",
-    "blurb": "SignalDock (illustrative) is a saas company in Australia’s startup ecosystem."
+    "blurb": "Clean hydrogen and graphite technology.",
+    "website": "https://hazergroup.com.au",
+    "logoUrl": "/logos/per-spacecubed-member-5.png"
   },
   {
     "id": "per-spacecubed-member-6",
-    "name": "WestCyber (illustrative)",
+    "name": "LiveHire",
     "city": "perth",
     "lat": -31.955550000000002,
     "lng": 115.86055,
@@ -84,11 +94,13 @@
     "buildingId": "perth-spacecubed-riff",
     "buildingName": "Spacecubed (Riff)",
     "address": "45 St Georges Terrace, Perth WA 6000",
-    "blurb": "WestCyber (illustrative) is a security company in Australia’s startup ecosystem."
+    "blurb": "Talent acquisition SaaS.",
+    "website": "https://www.livehire.com",
+    "logoUrl": "/logos/per-spacecubed-member-6.png"
   },
   {
     "id": "per-spacecubed-member-7",
-    "name": "HarbourFlow (illustrative)",
+    "name": "Superloop",
     "city": "perth",
     "lat": -31.9555,
     "lng": 115.86055,
@@ -96,11 +108,13 @@
     "buildingId": "perth-spacecubed-riff",
     "buildingName": "Spacecubed (Riff)",
     "address": "45 St Georges Terrace, Perth WA 6000",
-    "blurb": "HarbourFlow (illustrative) is a logistics company in Australia’s startup ecosystem."
+    "blurb": "Connectivity and broadband network.",
+    "website": "https://www.superloop.com",
+    "logoUrl": "/logos/per-spacecubed-member-7.png"
   },
   {
     "id": "per-spacecubed-member-8",
-    "name": "CreatorStack WA (illustrative)",
+    "name": "Spacecubed",
     "city": "perth",
     "lat": -31.95545,
     "lng": 115.86055,
@@ -108,18 +122,20 @@
     "buildingId": "perth-spacecubed-riff",
     "buildingName": "Spacecubed (Riff)",
     "address": "45 St Georges Terrace, Perth WA 6000",
-    "blurb": "CreatorStack WA (illustrative) is a creator company in Australia’s startup ecosystem."
+    "blurb": "Perth innovation hub and community.",
+    "website": "https://spacecubed.com",
+    "logoUrl": "/logos/per-spacecubed-member-8.png"
   },
   {
     "id": "per-lynn-tech",
-    "name": "Lynas Rare Earths (Digital)",
+    "name": "Bankwest",
     "city": "perth",
     "lat": -31.948700000000002,
     "lng": 115.8697,
-    "sector": "Industry",
+    "sector": "Fintech",
     "address": "Perth CBD WA (approximate HQ area)",
-    "blurb": "Lynas Rare Earths (Digital) is a industry company in Australia’s startup ecosystem.",
-    "website": "https://lynasrareearths.com",
+    "blurb": "Banking and digital member services (WA).",
+    "website": "https://www.bankwest.com.au",
     "logoUrl": "/logos/per-lynn-tech.png"
   },
   {
@@ -196,143 +212,171 @@
   },
   {
     "id": "per-uw-ventures",
-    "name": "UWA Ventures (illustrative)",
+    "name": "UWA Innovation",
     "city": "perth",
     "lat": -31.9439,
     "lng": 115.8683,
     "sector": "R&D",
     "address": "Perth CBD WA (approximate HQ area)",
-    "blurb": "UWA Ventures (illustrative) is a r&d company in Australia’s startup ecosystem."
+    "blurb": "University of Western Australia innovation.",
+    "website": "https://www.uwa.edu.au",
+    "logoUrl": "/logos/per-uw-ventures.png"
   },
   {
     "id": "per-curtin-innovate",
-    "name": "Curtin Innovate (illustrative)",
+    "name": "Curtin University Innovation",
     "city": "perth",
     "lat": -31.9523,
     "lng": 115.8655,
     "sector": "R&D",
     "address": "Perth CBD WA (approximate HQ area)",
-    "blurb": "Curtin Innovate (illustrative) is a r&d company in Australia’s startup ecosystem."
+    "blurb": "Curtin research commercialisation.",
+    "website": "https://www.curtin.edu.au",
+    "logoUrl": "/logos/per-curtin-innovate.png"
   },
   {
     "id": "per-edtech-wa",
-    "name": "ClassroomKit WA (illustrative)",
+    "name": "SkoolBag",
     "city": "perth",
     "lat": -31.9463,
     "lng": 115.8613,
     "sector": "EdTech",
     "address": "Perth CBD WA (approximate HQ area)",
-    "blurb": "ClassroomKit WA (illustrative) is a edtech company in Australia’s startup ecosystem."
+    "blurb": "School communication app.",
+    "website": "https://www.skoolbag.com.au",
+    "logoUrl": "/logos/per-edtech-wa.png"
   },
   {
     "id": "per-agtech-wa",
-    "name": "AgSense WA (illustrative)",
+    "name": "Agworld",
     "city": "perth",
     "lat": -31.9475,
     "lng": 115.8599,
     "sector": "AgTech",
     "address": "Perth CBD WA (approximate HQ area)",
-    "blurb": "AgSense WA (illustrative) is a agtech company in Australia’s startup ecosystem."
+    "blurb": "Farm management software.",
+    "website": "https://www.agworld.com",
+    "logoUrl": "/logos/per-agtech-wa.png"
   },
   {
     "id": "per-proptech",
-    "name": "PropertyIQ WA (illustrative)",
+    "name": "REIWA Digital",
     "city": "perth",
     "lat": -31.9619,
     "lng": 115.8613,
     "sector": "PropTech",
     "address": "Perth CBD WA (approximate HQ area)",
-    "blurb": "PropertyIQ WA (illustrative) is a proptech company in Australia’s startup ecosystem."
+    "blurb": "WA property industry digital platform.",
+    "website": "https://reiwa.com.au",
+    "logoUrl": "/logos/per-proptech.png"
   },
   {
     "id": "per-insurtech",
-    "name": "InsureWave WA (illustrative)",
+    "name": "HBF",
     "city": "perth",
     "lat": -31.9499,
     "lng": 115.8543,
     "sector": "InsurTech",
     "address": "Perth CBD WA (approximate HQ area)",
-    "blurb": "InsureWave WA (illustrative) is a insurtech company in Australia’s startup ecosystem."
+    "blurb": "Health insurance and digital member services.",
+    "website": "https://www.hbf.com.au",
+    "logoUrl": "/logos/per-insurtech.png"
   },
   {
     "id": "per-marketplace",
-    "name": "TradieLink WA (illustrative)",
+    "name": "Gumtree AU",
     "city": "perth",
     "lat": -31.9583,
     "lng": 115.8697,
     "sector": "Marketplace",
     "address": "Perth CBD WA (approximate HQ area)",
-    "blurb": "TradieLink WA (illustrative) is a marketplace company in Australia’s startup ecosystem."
+    "blurb": "Classifieds marketplace.",
+    "website": "https://www.gumtree.com.au",
+    "logoUrl": "/logos/per-marketplace.png"
   },
   {
     "id": "per-travel-tech",
-    "name": "Coastal Escapes (illustrative)",
+    "name": "Tourism WA Digital",
     "city": "perth",
     "lat": -31.9475,
     "lng": 115.8655,
     "sector": "Travel",
     "address": "Perth CBD WA (approximate HQ area)",
-    "blurb": "Coastal Escapes (illustrative) is a travel company in Australia’s startup ecosystem."
+    "blurb": "Destination marketing technology.",
+    "website": "https://www.westernaustralia.com",
+    "logoUrl": "/logos/per-travel-tech.png"
   },
   {
     "id": "per-retail-tech",
-    "name": "RetailOps WA (illustrative)",
+    "name": "OpenWindows",
     "city": "perth",
     "lat": -31.942700000000002,
     "lng": 115.8655,
     "sector": "Retail",
     "address": "Perth CBD WA (approximate HQ area)",
-    "blurb": "RetailOps WA (illustrative) is a retail company in Australia’s startup ecosystem."
+    "blurb": "Grants and funding management software.",
+    "website": "https://www.openwindows.com.au",
+    "logoUrl": "/logos/per-retail-tech.png"
   },
   {
     "id": "per-ecommerce-tools",
-    "name": "CartCraft WA (illustrative)",
+    "name": "Neto / Maropost Commerce",
     "city": "perth",
     "lat": -31.960700000000003,
     "lng": 115.8683,
     "sector": "Ecommerce",
     "address": "Perth CBD WA (approximate HQ area)",
-    "blurb": "CartCraft WA (illustrative) is a ecommerce company in Australia’s startup ecosystem."
+    "blurb": "Ecommerce and marketing cloud.",
+    "website": "https://www.maropost.com",
+    "logoUrl": "/logos/per-ecommerce-tools.png"
   },
   {
     "id": "per-devtools",
-    "name": "DeployDock WA (illustrative)",
+    "name": "Atlassian Perth",
     "city": "perth",
     "lat": -31.948700000000002,
     "lng": 115.8585,
     "sector": "DevTools",
     "address": "Perth CBD WA (approximate HQ area)",
-    "blurb": "DeployDock WA (illustrative) is a devtools company in Australia’s startup ecosystem."
+    "blurb": "Team collaboration software.",
+    "website": "https://www.atlassian.com",
+    "logoUrl": "/logos/per-devtools.png"
   },
   {
     "id": "per-data-platform",
-    "name": "DataHarbour WA (illustrative)",
+    "name": "Nearmap Data",
     "city": "perth",
     "lat": -31.9463,
     "lng": 115.8613,
     "sector": "Data",
     "address": "Perth CBD WA (approximate HQ area)",
-    "blurb": "DataHarbour WA (illustrative) is a data company in Australia’s startup ecosystem."
+    "blurb": "Aerial imagery and location data.",
+    "website": "https://www.nearmap.com",
+    "logoUrl": "/logos/per-data-platform.png"
   },
   {
     "id": "per-community",
-    "name": "CommunityStack WA (illustrative)",
+    "name": "Spacecubed Community",
     "city": "perth",
     "lat": -31.9511,
     "lng": 115.8585,
     "sector": "Community",
     "address": "Perth CBD WA (approximate HQ area)",
-    "blurb": "CommunityStack WA (illustrative) is a community company in Australia’s startup ecosystem."
+    "blurb": "Startup community and coworking.",
+    "website": "https://spacecubed.com",
+    "logoUrl": "/logos/per-community.png"
   },
   {
     "id": "per-creator-tools",
-    "name": "StudioStack WA (illustrative)",
+    "name": "Canva",
     "city": "perth",
     "lat": -31.9463,
     "lng": 115.8543,
     "sector": "Creator",
     "address": "Perth CBD WA (approximate HQ area)",
-    "blurb": "StudioStack WA (illustrative) is a creator company in Australia’s startup ecosystem."
+    "blurb": "Visual communication platform.",
+    "website": "https://www.canva.com",
+    "logoUrl": "/logos/per-creator-tools.png"
   },
   {
     "id": "per-security",
@@ -348,122 +392,146 @@
   },
   {
     "id": "per-saas-wa",
-    "name": "RosterPilot (illustrative)",
+    "name": "Employment Hero WA",
     "city": "perth",
     "lat": -31.9583,
     "lng": 115.8585,
     "sector": "SaaS",
     "address": "Perth CBD WA (approximate HQ area)",
-    "blurb": "RosterPilot (illustrative) is a saas company in Australia’s startup ecosystem."
+    "blurb": "HR and payroll SaaS.",
+    "website": "https://employmenthero.com",
+    "logoUrl": "/logos/per-saas-wa.png"
   },
   {
     "id": "per-hr-tech",
-    "name": "ShiftMate WA (illustrative)",
+    "name": "ELMO Software",
     "city": "perth",
     "lat": -31.960700000000003,
     "lng": 115.8557,
     "sector": "HR",
     "address": "Perth CBD WA (approximate HQ area)",
-    "blurb": "ShiftMate WA (illustrative) is a hr company in Australia’s startup ecosystem."
+    "blurb": "HR and talent management software.",
+    "website": "https://elmorsoftware.com",
+    "logoUrl": "/logos/per-hr-tech.png"
   },
   {
     "id": "per-construction-tech",
-    "name": "SiteReady WA (illustrative)",
+    "name": "Jobpac",
     "city": "perth",
     "lat": -31.960700000000003,
     "lng": 115.8557,
     "sector": "Construction",
     "address": "Perth CBD WA (approximate HQ area)",
-    "blurb": "SiteReady WA (illustrative) is a construction company in Australia’s startup ecosystem."
+    "blurb": "Construction ERP software.",
+    "website": "https://www.jobpac.com.au",
+    "logoUrl": "/logos/per-construction-tech.png"
   },
   {
     "id": "per-mobility",
-    "name": "MobilityMap WA (illustrative)",
+    "name": "RAC WA",
     "city": "perth",
     "lat": -31.9571,
     "lng": 115.8669,
     "sector": "Mobility",
     "address": "Perth CBD WA (approximate HQ area)",
-    "blurb": "MobilityMap WA (illustrative) is a mobility company in Australia’s startup ecosystem."
+    "blurb": "Mobility and member services technology.",
+    "website": "https://rac.com.au",
+    "logoUrl": "/logos/per-mobility.png"
   },
   {
     "id": "per-legaltech",
-    "name": "CaseFlow WA (illustrative)",
+    "name": "InfoTrack",
     "city": "perth",
     "lat": -31.9619,
     "lng": 115.8655,
     "sector": "Legal",
     "address": "Perth CBD WA (approximate HQ area)",
-    "blurb": "CaseFlow WA (illustrative) is a legal company in Australia’s startup ecosystem."
+    "blurb": "Legal property search technology.",
+    "website": "https://www.infotrack.com.au",
+    "logoUrl": "/logos/per-legaltech.png"
   },
   {
     "id": "per-marketing-platform",
-    "name": "MarketingLoop WA (illustrative)",
+    "name": "Market Force WA",
     "city": "perth",
     "lat": -31.9571,
     "lng": 115.8697,
     "sector": "Marketing",
     "address": "Perth CBD WA (approximate HQ area)",
-    "blurb": "MarketingLoop WA (illustrative) is a marketing company in Australia’s startup ecosystem."
+    "blurb": "Email and journey marketing.",
+    "website": "https://www.campaignmonitor.com",
+    "logoUrl": "/logos/per-marketing-platform.png"
   },
   {
     "id": "per-enterprise-saas",
-    "name": "EnterpriseDock WA (illustrative)",
+    "name": "TechnologyOne WA",
     "city": "perth",
     "lat": -31.9511,
     "lng": 115.8613,
     "sector": "Enterprise",
     "address": "Perth CBD WA (approximate HQ area)",
-    "blurb": "EnterpriseDock WA (illustrative) is a enterprise company in Australia’s startup ecosystem."
+    "blurb": "Enterprise SaaS suites.",
+    "website": "https://www.technologyonecorp.com",
+    "logoUrl": "/logos/per-enterprise-saas.png"
   },
   {
     "id": "per-climate-saas",
-    "name": "CarbonLedger WA (illustrative)",
+    "name": "Fortescue Future Industries",
     "city": "perth",
     "lat": -31.9475,
     "lng": 115.8571,
     "sector": "Climate",
     "address": "Perth CBD WA (approximate HQ area)",
-    "blurb": "CarbonLedger WA (illustrative) is a climate company in Australia’s startup ecosystem."
+    "blurb": "Green energy and industry.",
+    "website": "https://www.fortescue.com",
+    "logoUrl": "/logos/per-climate-saas.png"
   },
   {
     "id": "per-iot-sensors",
-    "name": "SensorGrid WA (illustrative)",
+    "name": "Imdex",
     "city": "perth",
     "lat": -31.9619,
     "lng": 115.8655,
     "sector": "IoT",
     "address": "Perth CBD WA (approximate HQ area)",
-    "blurb": "SensorGrid WA (illustrative) is a iot company in Australia’s startup ecosystem."
+    "blurb": "Mining technology and downhole tools.",
+    "website": "https://www.imdexlimited.com",
+    "logoUrl": "/logos/per-iot-sensors.png"
   },
   {
     "id": "per-ocean-tech",
-    "name": "BlueCurrent (illustrative)",
+    "name": "Carnegie Clean Energy",
     "city": "perth",
     "lat": -31.9475,
     "lng": 115.8571,
     "sector": "OceanTech",
     "address": "Perth CBD WA (approximate HQ area)",
-    "blurb": "BlueCurrent (illustrative) is a oceantech company in Australia’s startup ecosystem."
+    "blurb": "Wave energy technology.",
+    "website": "https://www.carnegiece.com",
+    "logoUrl": "/logos/per-ocean-tech.png"
   },
   {
     "id": "per-space-wa",
-    "name": "SpaceOps WA (illustrative)",
+    "name": "Gilmour Space WA",
     "city": "perth",
     "lat": -31.960700000000003,
     "lng": 115.8529,
     "sector": "Space",
     "address": "Perth CBD WA (approximate HQ area)",
-    "blurb": "SpaceOps WA (illustrative) is a space company in Australia’s startup ecosystem."
+    "blurb": "Launch and space systems.",
+    "website": "https://www.gspace.com",
+    "logoUrl": "/logos/per-space-wa.png"
   },
   {
     "id": "per-foodtech",
-    "name": "SeaHarvest (illustrative)",
+    "name": "Hipp&Co",
     "city": "perth",
     "lat": -31.9511,
     "lng": 115.8627,
     "sector": "FoodTech",
     "address": "Perth CBD WA (approximate HQ area)",
-    "blurb": "SeaHarvest (illustrative) is a foodtech company in Australia’s startup ecosystem."
+    "blurb": "Food and beverage brand platform.",
+    "website": "https://www.hippandco.com",
+    "logoUrl": "/logos/per-foodtech.png"
   }
 ]
