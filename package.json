@@ -13,7 +13,9 @@
     "db:studio": "prisma studio"
   },
   "dependencies": {
+    "@prisma/adapter-better-sqlite3": "^7.9.1",
     "@prisma/client": "^7.9.1",
+    "better-sqlite3": "^13.0.2",
     "dotenv": "^16.4.5",
     "iron-session": "^8.0.4",
     "leaflet": "^1.9.4",
