@@ -42,7 +42,7 @@ function buildLogoHtml({
     `background:white;border:${border};display:grid;place-items:center;`;
 
   const initDiv =
-    `<div data-init style="width:${SIZE}px;height:${SIZE}px;display:${candidates.length ? "none" : "grid"};place-items:center;background:var(--teal);color:white;font-weight:700;letter-spacing:0.06em;">${initials}</div>`;
+    `<div data-init style="width:${SIZE}px;height:${SIZE}px;display:${candidates.length ? "none" : "grid"};place-items:center;background:linear-gradient(145deg, rgba(15,107,107,0.16), rgba(12,27,36,0.08));color:var(--teal-deep);font-weight:700;letter-spacing:0.04em;border:1px solid rgba(15,107,107,0.22);box-sizing:border-box;border-radius:9999px;">${initials}</div>`;
 
   if (!candidates.length) {
     return `<div title="${title}" style="${shell}">${initDiv}</div>`;

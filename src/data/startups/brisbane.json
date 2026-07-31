@@ -9,7 +9,7 @@
     "sector": "EdTech",
     "address": "315 Brunswick St, Fortitude Valley QLD 4006",
     "blurb": "Workplace learning platform used by enterprises to train and upskill teams.",
-    "logoUrl": "https://logo.clearbit.com/go1.com",
+    "logoUrl": "/logos/go1.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fgo1.com?w=1200"
     ]
@@ -24,7 +24,7 @@
     "sector": "Energy",
     "address": "48 Scottsdale Dr, Robina QLD 4226",
     "blurb": "Australian EV fast-charging hardware company serving networks worldwide.",
-    "logoUrl": "https://logo.clearbit.com/tritiumcharging.com",
+    "logoUrl": "/logos/tritium.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Ftritiumcharging.com?w=1200"
     ]
@@ -39,7 +39,7 @@
     "sector": "SaaS",
     "address": "540 Wickham St, Fortitude Valley QLD 4006",
     "blurb": "Enterprise SaaS vendor for government, education, and health organisations.",
-    "logoUrl": "https://logo.clearbit.com/technology1.com",
+    "logoUrl": "/logos/technologyone.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Ftechnology1.com?w=1200"
     ]
@@ -54,7 +54,7 @@
     "sector": "Enterprise",
     "address": "Level 2/545 Queen St, Brisbane City QLD 4000",
     "blurb": "Engineering document management software for industrial operators.",
-    "logoUrl": "https://logo.clearbit.com/redeye.co",
+    "logoUrl": "/logos/redeye-apps.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fredeye.co?w=1200"
     ]
@@ -69,7 +69,7 @@
     "sector": "SaaS",
     "address": "300 Ann St, Brisbane City QLD 4000",
     "blurb": "Field service and deskless workforce scheduling platform.",
-    "logoUrl": "https://logo.clearbit.com/skedulo.com",
+    "logoUrl": "/logos/skedulo.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fskedulo.com?w=1200"
     ]
@@ -84,7 +84,7 @@
     "sector": "HR",
     "address": "120 Edward St, Brisbane City QLD 4000",
     "blurb": "Workforce management, rostering, and time-tracking software for Australian businesses.",
-    "logoUrl": "https://logo.clearbit.com/tanda.com.au",
+    "logoUrl": "/logos/tanda.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Ftanda.com.au?w=1200"
     ]
@@ -99,7 +99,7 @@
     "sector": "Gaming",
     "address": "88 Tribune St, South Brisbane QLD 4101",
     "blurb": "Independent game studio behind Fruit Ninja and other mobile hits.",
-    "logoUrl": "https://logo.clearbit.com/halfbrick.com",
+    "logoUrl": "/logos/halfbrick-studios.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fhalfbrick.com?w=1200"
     ]
@@ -116,7 +116,7 @@
     "buildingName": "The Precinct",
     "address": "100 Brunswick St, Fortitude Valley QLD 4006",
     "blurb": "On-demand user research platform connecting teams with real customers.",
-    "logoUrl": "https://logo.clearbit.com/askable.com",
+    "logoUrl": "/logos/askable.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Faskable.com?w=1200"
     ]
@@ -133,7 +133,7 @@
     "buildingName": "The Precinct",
     "address": "100 Brunswick St, Fortitude Valley QLD 4006",
     "blurb": "Personal finance app helping Australians track spending and improve money habits.",
-    "logoUrl": "https://logo.clearbit.com/wemoney.com.au",
+    "logoUrl": "/logos/wemoney.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwemoney.com.au?w=1200"
     ]
@@ -148,7 +148,9 @@
     "buildingId": "brisbane-the-precinct",
     "buildingName": "The Precinct",
     "address": "100 Brunswick St, Fortitude Valley QLD 4006",
-    "blurb": "Edge networking and content delivery infrastructure for real-time applications."
+    "blurb": "Edge networking and content delivery infrastructure for real-time applications.",
+    "website": "https://oneqode.com",
+    "logoUrl": "/logos/oneqode.png"
   },
   {
     "id": "fleetyr",
@@ -162,7 +164,7 @@
     "buildingName": "The Precinct",
     "address": "100 Brunswick St, Fortitude Valley QLD 4006",
     "blurb": "Fleet and mobility operations software for modern transport teams.",
-    "logoUrl": "https://logo.clearbit.com/fleetyr.com",
+    "logoUrl": "/logos/fleetyr.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Ffleetyr.com?w=1200"
     ]
@@ -177,7 +179,7 @@
     "sector": "DevTools",
     "address": "200 Adelaide St, Brisbane City QLD 4000",
     "blurb": "Continuous delivery and DevOps automation platform for software teams.",
-    "logoUrl": "https://logo.clearbit.com/octopus.com",
+    "logoUrl": "/logos/octopus-deploy.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Foctopus.com?w=1200"
     ]
@@ -192,7 +194,7 @@
     "sector": "Creator",
     "address": "1 Eagle St, Brisbane City QLD 4000",
     "blurb": "Browser-based video editor (Microsoft) popular with creators and workplaces.",
-    "logoUrl": "https://logo.clearbit.com/clipchamp.com",
+    "logoUrl": "/logos/clipchamp.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fclipchamp.com?w=1200"
     ]
@@ -207,7 +209,7 @@
     "sector": "Health",
     "address": "88 Tribune St, South Brisbane QLD 4101",
     "blurb": "Home-care marketplace connecting older Australians with trusted support.",
-    "logoUrl": "https://logo.clearbit.com/fivegoodfriends.com.au",
+    "logoUrl": "/logos/five-good-friends.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Ffivegoodfriends.com.au?w=1200"
     ]
@@ -222,7 +224,7 @@
     "sector": "IT",
     "address": "67 High St, Toowong QLD 4066",
     "blurb": "Australian IT solutions provider for cloud, security, and digital workplace.",
-    "logoUrl": "https://logo.clearbit.com/data3.com",
+    "logoUrl": "/logos/data3.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fdata3.com?w=1200"
     ]
@@ -237,7 +239,7 @@
     "sector": "BioTech",
     "address": "31 Thompson St, Bowen Hills QLD 4006",
     "blurb": "Needle-free vaccine delivery patch technology developed in Brisbane.",
-    "logoUrl": "https://logo.clearbit.com/vaxxas.com",
+    "logoUrl": "/logos/vaxxas.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fvaxxas.com?w=1200"
     ]
@@ -252,7 +254,7 @@
     "sector": "Health",
     "address": "41 Baxter St, Fortitude Valley QLD 4006",
     "blurb": "Personalised hearing headphones designed around individual hearing profiles.",
-    "logoUrl": "https://logo.clearbit.com/audeara.com",
+    "logoUrl": "/logos/audeara.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Faudeara.com?w=1200"
     ]
@@ -265,7 +267,9 @@
     "lng": 153.01670000000001,
     "sector": "Health",
     "address": "Brisbane CBD QLD (approximate HQ area)",
-    "blurb": "ResApp Health is a health company in Australia’s startup ecosystem."
+    "blurb": "ResApp Health is a health company in Australia’s startup ecosystem.",
+    "website": "https://www.resapphealth.com.au",
+    "logoUrl": "/logos/resapp-health.png"
   },
   {
     "id": "procurepro",
@@ -277,7 +281,7 @@
     "sector": "Construction",
     "address": "300 George St, Brisbane City QLD 4000",
     "blurb": "Construction procurement software for contractors and suppliers.",
-    "logoUrl": "https://logo.clearbit.com/procurepro.co",
+    "logoUrl": "/logos/procurepro.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fprocurepro.co?w=1200"
     ]
@@ -292,7 +296,7 @@
     "sector": "Energy",
     "address": "37 Warry St, Fortitude Valley QLD 4006",
     "blurb": "Green hydrogen energy systems for remote and industrial power.",
-    "logoUrl": "https://logo.clearbit.com/endua.com",
+    "logoUrl": "/logos/endua.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fendua.com?w=1200"
     ]
@@ -307,7 +311,7 @@
     "sector": "AI",
     "address": "123 Melbourne St, South Brisbane QLD 4101",
     "blurb": "AI voice and character performance tools for games and media.",
-    "logoUrl": "https://logo.clearbit.com/replicastudios.com",
+    "logoUrl": "/logos/replica-studios.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Freplicastudios.com?w=1200"
     ]
@@ -320,7 +324,9 @@
     "lng": 153.01670000000001,
     "sector": "AI",
     "address": "Brisbane CBD QLD (approximate HQ area)",
-    "blurb": "Edexia is a ai company in Australia’s startup ecosystem."
+    "blurb": "Edexia is a ai company in Australia’s startup ecosystem.",
+    "website": "https://edexia.com",
+    "logoUrl": "/logos/edexia.png"
   },
   {
     "id": "neuphoria",
@@ -330,7 +336,9 @@
     "lng": 153.0293,
     "sector": "AI",
     "address": "Brisbane CBD QLD (approximate HQ area)",
-    "blurb": "Neuphoria is a ai company in Australia’s startup ecosystem."
+    "blurb": "Neuphoria is a ai company in Australia’s startup ecosystem.",
+    "website": "https://neuphoria.com",
+    "logoUrl": "/logos/neuphoria.png"
   },
   {
     "id": "vault-cloud",
@@ -342,7 +350,7 @@
     "sector": "Cloud",
     "address": "300 Queen St, Brisbane City QLD 4000",
     "blurb": "Sovereign cloud hosting for governments and regulated industries.",
-    "logoUrl": "https://logo.clearbit.com/vaultcloud.com.au",
+    "logoUrl": "/logos/vault-cloud.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fvaultcloud.com.au?w=1200"
     ]
@@ -355,7 +363,9 @@
     "lng": 153.0321,
     "sector": "Travel",
     "address": "Brisbane CBD QLD (approximate HQ area)",
-    "blurb": "Wotif Group is a travel company in Australia’s startup ecosystem."
+    "blurb": "Wotif Group is a travel company in Australia’s startup ecosystem.",
+    "website": "https://www.wotif.com",
+    "logoUrl": "/logos/wotif-group.png"
   },
   {
     "id": "flight-centre",
@@ -367,7 +377,7 @@
     "sector": "Travel",
     "address": "275 Grey St, South Brisbane QLD 4101",
     "blurb": "Global travel retailer and corporate travel group founded in Brisbane.",
-    "logoUrl": "https://logo.clearbit.com/flightcentre.com.au",
+    "logoUrl": "/logos/flight-centre.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.flightcentre.com.au?w=1200"
     ]
@@ -380,7 +390,9 @@
     "lng": 153.02370000000002,
     "sector": "BioTech",
     "address": "Brisbane CBD QLD (approximate HQ area)",
-    "blurb": "ClearSKY Genomics is a biotech company in Australia’s startup ecosystem."
+    "blurb": "ClearSKY Genomics is a biotech company in Australia’s startup ecosystem.",
+    "website": "https://www.clearskymedical.com",
+    "logoUrl": "/logos/clearsky-genomics.png"
   },
   {
     "id": "augmented-bionics",
@@ -424,7 +436,7 @@
     "buildingId": "brisbane-the-precinct",
     "buildingName": "The Precinct",
     "website": "https://chatstat.com",
-    "logoUrl": "https://logo.clearbit.com/chatstat.com",
+    "logoUrl": "/logos/chatstat.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fchatstat.com?w=1200"
     ]
@@ -447,7 +459,9 @@
     "lng": 153.0307,
     "sector": "Health",
     "address": "Brisbane CBD QLD (approximate HQ area)",
-    "blurb": "Go Locum is a health company in Australia’s startup ecosystem."
+    "blurb": "Go Locum is a health company in Australia’s startup ecosystem.",
+    "website": "https://golocum.com.au",
+    "logoUrl": "/logos/go-locum.png"
   },
   {
     "id": "farm-hero",
@@ -507,7 +521,9 @@
     "lng": 153.0321,
     "sector": "SaaS",
     "address": "Brisbane CBD QLD (approximate HQ area)",
-    "blurb": "Knowa is a saas company in Australia’s startup ecosystem."
+    "blurb": "Knowa is a saas company in Australia’s startup ecosystem.",
+    "website": "https://knowa.co",
+    "logoUrl": "/logos/knowa.png"
   },
   {
     "id": "ag-intellisense",
@@ -617,7 +633,9 @@
     "lng": 153.02370000000002,
     "sector": "FinTech",
     "address": "Brisbane CBD QLD (approximate HQ area)",
-    "blurb": "ExtrasJar is a fintech company in Australia’s startup ecosystem."
+    "blurb": "ExtrasJar is a fintech company in Australia’s startup ecosystem.",
+    "website": "https://extrasjar.com",
+    "logoUrl": "/logos/extrasjar.png"
   },
   {
     "id": "brandtools",
@@ -639,7 +657,7 @@
     "sector": "AI / Sales",
     "address": "Brisbane City QLD 4000",
     "blurb": "AI-first RFP and security questionnaire platform that drafts trusted, cited responses so teams win more deals faster.",
-    "logoUrl": "https://logo.clearbit.com/autorfp.ai",
+    "logoUrl": "/logos/autorfp.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fautorfp.ai?w=1200"
     ]

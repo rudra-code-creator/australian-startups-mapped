@@ -10,11 +10,13 @@ describe("branding", () => {
     expect(domainFromWebsite("https://www.canva.com/about")).toBe("canva.com");
   });
 
-  it("builds logo candidate chain", () => {
+  it("builds logo candidate chain with local + unavatar", () => {
     const urls = logoCandidates({
+      id: "go1",
       website: "https://go1.com",
     });
-    expect(urls[0]).toContain("logo.clearbit.com/go1.com");
+    expect(urls[0]).toBe("/logos/go1.png");
+    expect(urls.some((u) => u.includes("unavatar.io"))).toBe(true);
     expect(urls.some((u) => u.includes("google.com/s2/favicons"))).toBe(true);
   });
 
@@ -27,7 +29,7 @@ describe("branding", () => {
       lng: 153.0,
       website: "https://go1.com",
     });
-    expect(enriched.logoUrl).toContain("clearbit");
+    expect(enriched.logoUrl).toBeTruthy();
     expect(enriched.imageUrls?.[0]).toContain("mshots");
   });
 });

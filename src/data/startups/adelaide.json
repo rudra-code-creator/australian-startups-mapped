@@ -11,7 +11,7 @@
     "buildingName": "Lot Fourteen",
     "address": "Frome Rd, Adelaide SA 5000",
     "blurb": "Nanosatellite and space connectivity company supporting resources and defence.",
-    "logoUrl": "https://logo.clearbit.com/fleetspace.com",
+    "logoUrl": "/logos/adl-fleet-space.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Ffleetspace.com?w=1200"
     ]
@@ -28,7 +28,7 @@
     "buildingName": "Lot Fourteen",
     "address": "Frome Rd, Adelaide SA 5000",
     "blurb": "Low-cost satellite IoT connectivity for remote sensors and assets.",
-    "logoUrl": "https://logo.clearbit.com/myriota.com",
+    "logoUrl": "/logos/adl-myriota.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fmyriota.com?w=1200"
     ]
@@ -45,7 +45,7 @@
     "buildingName": "Lot Fourteen",
     "address": "Frome Rd, Adelaide SA 5000",
     "blurb": "Open-source intelligence software for law enforcement and national security.",
-    "logoUrl": "https://logo.clearbit.com/fivecast.com",
+    "logoUrl": "/logos/adl-fivecast.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Ffivecast.com?w=1200"
     ]
@@ -74,7 +74,7 @@
     "buildingName": "Lot Fourteen",
     "address": "Frome Rd, Adelaide SA 5000",
     "blurb": "Defence and national security technology company based at Lot Fourteen.",
-    "logoUrl": "https://logo.clearbit.com/aurizn.co",
+    "logoUrl": "/logos/adl-aurizn.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Faurizn.co?w=1200"
     ]
@@ -125,7 +125,7 @@
     "sector": "BioTech",
     "address": "28 Greenhill Rd, Wayville SA 5034",
     "blurb": "Medical technology company automating microbiology plate reading.",
-    "logoUrl": "https://logo.clearbit.com/lbtinnovations.com",
+    "logoUrl": "/logos/adl-lbt-innovations.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.lbtinnovations.com?w=1200"
     ]
@@ -178,7 +178,9 @@
     "lng": 138.59369999999998,
     "sector": "AgTech",
     "address": "Adelaide CBD SA (approximate HQ area)",
-    "blurb": "AgriWebb (Adelaide office) is a agtech company in Australia’s startup ecosystem."
+    "blurb": "AgriWebb (Adelaide office) is a agtech company in Australia’s startup ecosystem.",
+    "website": "https://www.agriwebb.com",
+    "logoUrl": "/logos/adl-agriwebb-adl.png"
   },
   {
     "id": "adl-swipejobs-sa",
@@ -278,7 +280,9 @@
     "lng": 138.5993,
     "sector": "InsurTech",
     "address": "Adelaide CBD SA (approximate HQ area)",
-    "blurb": "Cover Genius (Adelaide office) is a insurtech company in Australia’s startup ecosystem."
+    "blurb": "Cover Genius (Adelaide office) is a insurtech company in Australia’s startup ecosystem.",
+    "website": "https://covergenius.com",
+    "logoUrl": "/logos/adl-insurtech.png"
   },
   {
     "id": "adl-tourism-tech",
@@ -318,7 +322,9 @@
     "lng": 138.59789999999998,
     "sector": "Cloud",
     "address": "Adelaide CBD SA (approximate HQ area)",
-    "blurb": "Vault Cloud (Adelaide office) is a cloud company in Australia’s startup ecosystem."
+    "blurb": "Vault Cloud (Adelaide office) is a cloud company in Australia’s startup ecosystem.",
+    "website": "https://vaultcloud.com.au",
+    "logoUrl": "/logos/adl-cloud-services.png"
   },
   {
     "id": "adl-rd-lab",

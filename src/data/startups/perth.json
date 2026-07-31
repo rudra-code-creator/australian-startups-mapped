@@ -9,7 +9,7 @@
     "sector": "Health",
     "address": "191 St Georges Terrace, Perth WA 6000",
     "blurb": "Online healthcare booking platform connecting patients with clinics.",
-    "logoUrl": "https://logo.clearbit.com/healthengine.com.au",
+    "logoUrl": "/logos/per-healthengine.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fhealthengine.com.au?w=1200"
     ]
@@ -118,7 +118,9 @@
     "lng": 115.8697,
     "sector": "Industry",
     "address": "Perth CBD WA (approximate HQ area)",
-    "blurb": "Lynas Rare Earths (Digital) is a industry company in Australia’s startup ecosystem."
+    "blurb": "Lynas Rare Earths (Digital) is a industry company in Australia’s startup ecosystem.",
+    "website": "https://lynasrareearths.com",
+    "logoUrl": "/logos/per-lynn-tech.png"
   },
   {
     "id": "per-woodside-digital",
@@ -128,7 +130,9 @@
     "lng": 115.8683,
     "sector": "Energy",
     "address": "Perth CBD WA (approximate HQ area)",
-    "blurb": "Woodside (Digital) is a energy company in Australia’s startup ecosystem."
+    "blurb": "Woodside (Digital) is a energy company in Australia’s startup ecosystem.",
+    "website": "https://www.woodside.com",
+    "logoUrl": "/logos/per-woodside-digital.png"
   },
   {
     "id": "per-bhp-tech",
@@ -138,7 +142,9 @@
     "lng": 115.8627,
     "sector": "MiningTech",
     "address": "Perth CBD WA (approximate HQ area)",
-    "blurb": "BHP (Tech) is a miningtech company in Australia’s startup ecosystem."
+    "blurb": "BHP (Tech) is a miningtech company in Australia’s startup ecosystem.",
+    "website": "https://www.bhp.com",
+    "logoUrl": "/logos/per-bhp-tech.png"
   },
   {
     "id": "per-rio-tech",
@@ -148,7 +154,9 @@
     "lng": 115.8669,
     "sector": "MiningTech",
     "address": "Perth CBD WA (approximate HQ area)",
-    "blurb": "Rio Tinto (Tech) is a miningtech company in Australia’s startup ecosystem."
+    "blurb": "Rio Tinto (Tech) is a miningtech company in Australia’s startup ecosystem.",
+    "website": "https://www.riotinto.com",
+    "logoUrl": "/logos/per-rio-tech.png"
   },
   {
     "id": "per-fortescue-future",
@@ -158,7 +166,9 @@
     "lng": 115.8613,
     "sector": "Energy",
     "address": "Perth CBD WA (approximate HQ area)",
-    "blurb": "Fortescue (Energy/Tech) is a energy company in Australia’s startup ecosystem."
+    "blurb": "Fortescue (Energy/Tech) is a energy company in Australia’s startup ecosystem.",
+    "website": "https://www.fortescue.com",
+    "logoUrl": "/logos/per-fortescue-future.png"
   },
   {
     "id": "per-nearmap-per",
@@ -168,7 +178,9 @@
     "lng": 115.8557,
     "sector": "GeoTech",
     "address": "Perth CBD WA (approximate HQ area)",
-    "blurb": "Nearmap (Perth office) is a geotech company in Australia’s startup ecosystem."
+    "blurb": "Nearmap (Perth office) is a geotech company in Australia’s startup ecosystem.",
+    "website": "https://www.nearmap.com",
+    "logoUrl": "/logos/per-nearmap-per.png"
   },
   {
     "id": "per-telethon-kids-tech",
@@ -178,7 +190,9 @@
     "lng": 115.8599,
     "sector": "Health",
     "address": "Perth CBD WA (approximate HQ area)",
-    "blurb": "Telethon Kids (Digital) is a health company in Australia’s startup ecosystem."
+    "blurb": "Telethon Kids (Digital) is a health company in Australia’s startup ecosystem.",
+    "website": "https://www.telethonkids.org.au",
+    "logoUrl": "/logos/per-telethon-kids-tech.png"
   },
   {
     "id": "per-uw-ventures",
@@ -328,7 +342,9 @@
     "lng": 115.8697,
     "sector": "Security",
     "address": "Perth CBD WA (approximate HQ area)",
-    "blurb": "CyberCX (Perth office) is a security company in Australia’s startup ecosystem."
+    "blurb": "CyberCX (Perth office) is a security company in Australia’s startup ecosystem.",
+    "website": "https://cybercx.com.au",
+    "logoUrl": "/logos/per-security.png"
   },
   {
     "id": "per-saas-wa",
