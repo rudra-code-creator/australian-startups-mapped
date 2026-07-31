@@ -1,9 +1,8 @@
 import dynamic from "next/dynamic";
 import { notFound } from "next/navigation";
+import { headers } from "next/headers";
 import { isCitySlug } from "@/lib/cities";
-import { loadBuildings, loadSeedStartups } from "@/lib/load-seed";
-import { groupMarkers } from "@/lib/group-markers";
-import type { CitySlug } from "@/lib/types";
+import type { Building, CitySlug, MapMarker, Startup } from "@/lib/types";
 
 const StartupMap = dynamic(
   () => import("@/components/map/StartupMap").then((m) => m.StartupMap),
@@ -17,6 +16,30 @@ const StartupMap = dynamic(
   },
 );
 
+type StartupsApiResponse = {
+  city: CitySlug;
+  startups: Startup[];
+  buildings: Building[];
+  markers: MapMarker[];
+  count: number;
+};
+
+async function fetchCityMapData(city: CitySlug): Promise<StartupsApiResponse> {
+  const h = await headers();
+  const host = h.get("host");
+  if (!host) {
+    throw new Error("Missing host header for city map fetch");
+  }
+  const proto = h.get("x-forwarded-proto") ?? "http";
+  const res = await fetch(`${proto}://${host}/api/startups/${city}`, {
+    next: { revalidate: 60 },
+  });
+  if (!res.ok) {
+    throw new Error(`Failed to load startups for ${city}`);
+  }
+  return (await res.json()) as StartupsApiResponse;
+}
+
 export default async function CityMapPage({
   params,
 }: {
@@ -25,16 +48,14 @@ export default async function CityMapPage({
   const { city } = await params;
   if (!isCitySlug(city)) notFound();
 
-  const startups = loadSeedStartups(city);
-  const buildings = loadBuildings().filter((b) => b.city === city);
-  const markers = groupMarkers(startups, buildings);
+  const data = await fetchCityMapData(city);
 
   return (
     <main className="min-h-screen">
       <StartupMap
-        city={city as CitySlug}
-        startups={startups}
-        markers={markers}
+        city={city}
+        startups={data.startups}
+        markers={data.markers}
       />
     </main>
   );

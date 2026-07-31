@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Fraunces, DM_Sans } from "next/font/google";
 import "leaflet/dist/leaflet.css";
 import "./globals.css";
+import { Shell } from "@/components/Shell";
 
 const fraunces = Fraunces({
   subsets: ["latin"],
@@ -26,7 +27,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className={fraunces.className}>
-      <body className={dmSans.className}>{children}</body>
+      <body className={dmSans.className}>
+        <Shell>{children}</Shell>
+      </body>
     </html>
   );
 }
