@@ -1,7 +1,37 @@
 [
-  { "id": "brisbane-the-precinct", "name": "The Precinct", "city": "brisbane", "lat": -27.467, "lng": 153.028 },
-  { "id": "sydney-stone-and-chalk", "name": "Stone & Chalk", "city": "sydney", "lat": -33.8667, "lng": 151.2073 },
-  { "id": "melbourne-melbourne-connect", "name": "Melbourne Connect", "city": "melbourne", "lat": -37.8003, "lng": 144.9646 },
-  { "id": "adelaide-lot-fourteen", "name": "Lot Fourteen", "city": "adelaide", "lat": -34.9221, "lng": 138.5999 },
-  { "id": "perth-spacecubed-riff", "name": "Spacecubed (Riff)", "city": "perth", "lat": -31.9554, "lng": 115.8602 }
+  {
+    "id": "brisbane-the-precinct",
+    "name": "The Precinct",
+    "city": "brisbane",
+    "lat": -27.4576,
+    "lng": 153.0338
+  },
+  {
+    "id": "sydney-stone-and-chalk",
+    "name": "Stone & Chalk",
+    "city": "sydney",
+    "lat": -33.8651,
+    "lng": 151.2048
+  },
+  {
+    "id": "melbourne-melbourne-connect",
+    "name": "Melbourne Connect",
+    "city": "melbourne",
+    "lat": -37.8002,
+    "lng": 144.9643
+  },
+  {
+    "id": "adelaide-lot-fourteen",
+    "name": "Lot Fourteen",
+    "city": "adelaide",
+    "lat": -34.9205,
+    "lng": 138.6089
+  },
+  {
+    "id": "perth-spacecubed-riff",
+    "name": "Spacecubed (Riff)",
+    "city": "perth",
+    "lat": -31.9555,
+    "lng": 115.8606
+  }
 ]

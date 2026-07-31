@@ -1,3 +1,4 @@
+import { enrichStartupPresentation } from "./branding";
 import { isCitySlug } from "./cities";
 import { loadBuildings, loadSeedStartups } from "./load-seed";
 import { mergeStartups } from "./merge-startups";
@@ -28,19 +29,22 @@ export async function getCityMapData(
 
   const approved: Startup[] = approvedRows
     .filter((r) => r.lat != null && r.lng != null)
-    .map((r) => ({
-      id: r.id,
-      name: r.name,
-      city,
-      lat: r.lat as number,
-      lng: r.lng as number,
-      logoUrl: r.logoUrl ?? undefined,
-      website: r.website ?? undefined,
-      blurb: r.blurb ?? undefined,
-      buildingId: r.buildingId ?? undefined,
-      buildingName: r.buildingName ?? undefined,
-      sector: r.sector ?? undefined,
-    }));
+    .map((r) =>
+      enrichStartupPresentation({
+        id: r.id,
+        name: r.name,
+        city,
+        lat: r.lat as number,
+        lng: r.lng as number,
+        logoUrl: r.logoUrl ?? undefined,
+        website: r.website ?? undefined,
+        blurb: r.blurb ?? undefined,
+        address: r.addressOrBuilding || undefined,
+        buildingId: r.buildingId ?? undefined,
+        buildingName: r.buildingName ?? undefined,
+        sector: r.sector ?? undefined,
+      }),
+    );
 
   const startups = mergeStartups(loadSeedStartups(city), approved);
   const buildings = loadBuildings().filter((b) => b.city === city);

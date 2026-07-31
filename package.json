@@ -10,7 +10,8 @@
     "test": "vitest run",
     "test:watch": "vitest",
     "db:push": "prisma db push",
-    "db:studio": "prisma studio"
+    "db:studio": "prisma studio",
+    "enrich:seeds": "node scripts/enrich-seeds.mjs"
   },
   "dependencies": {
     "@libsql/client": "^0.15.15",

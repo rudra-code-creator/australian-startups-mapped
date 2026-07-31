@@ -3,101 +3,161 @@
     "id": "mel-airwallex",
     "name": "Airwallex",
     "city": "melbourne",
-    "lat": -37.8003,
-    "lng": 144.9646,
+    "lat": -37.80025,
+    "lng": 144.9642,
     "website": "https://www.airwallex.com",
     "sector": "FinTech",
     "buildingId": "melbourne-melbourne-connect",
-    "buildingName": "Melbourne Connect"
+    "buildingName": "Melbourne Connect",
+    "address": "Level 7/15 William St, Melbourne VIC 3000",
+    "blurb": "Global payments and financial infrastructure for modern businesses.",
+    "logoUrl": "https://logo.clearbit.com/airwallex.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.airwallex.com?w=1200"
+    ]
   },
   {
     "id": "mel-culture-amp",
     "name": "Culture Amp",
     "city": "melbourne",
-    "lat": -37.8003,
-    "lng": 144.9646,
+    "lat": -37.8002,
+    "lng": 144.9642,
     "website": "https://www.cultureamp.com",
     "sector": "HR",
     "buildingId": "melbourne-melbourne-connect",
-    "buildingName": "Melbourne Connect"
+    "buildingName": "Melbourne Connect",
+    "address": "31 Queen St, Melbourne VIC 3000",
+    "blurb": "Employee experience platform for engagement, performance, and development.",
+    "logoUrl": "https://logo.clearbit.com/cultureamp.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.cultureamp.com?w=1200"
+    ]
   },
   {
     "id": "mel-linktree",
     "name": "Linktree",
     "city": "melbourne",
-    "lat": -37.8003,
-    "lng": 144.9646,
+    "lat": -37.800149999999995,
+    "lng": 144.9642,
     "website": "https://linktr.ee",
     "sector": "Creator",
     "buildingId": "melbourne-melbourne-connect",
-    "buildingName": "Melbourne Connect"
+    "buildingName": "Melbourne Connect",
+    "address": "1/180 Flinders St, Melbourne VIC 3000",
+    "blurb": "Link-in-bio platform helping creators and brands share everything in one place.",
+    "logoUrl": "https://logo.clearbit.com/linktr.ee",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Flinktr.ee?w=1200"
+    ]
   },
   {
     "id": "mel-judo-bank",
     "name": "Judo Bank",
     "city": "melbourne",
-    "lat": -37.8003,
-    "lng": 144.9646,
+    "lat": -37.80009999999999,
+    "lng": 144.9642,
     "website": "https://www.judo.bank",
     "sector": "FinTech",
     "buildingId": "melbourne-melbourne-connect",
-    "buildingName": "Melbourne Connect"
+    "buildingName": "Melbourne Connect",
+    "address": "Level 26/360 Collins St, Melbourne VIC 3000",
+    "blurb": "Challenger bank focused on SME lending and relationship banking.",
+    "logoUrl": "https://logo.clearbit.com/judo.bank",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.judo.bank?w=1200"
+    ]
   },
   {
     "id": "mel-harrison-ai",
     "name": "Harrison.ai",
     "city": "melbourne",
     "lat": -37.8003,
-    "lng": 144.9646,
+    "lng": 144.96425000000002,
     "website": "https://www.harrison.ai",
     "sector": "AI",
     "buildingId": "melbourne-melbourne-connect",
-    "buildingName": "Melbourne Connect"
+    "buildingName": "Melbourne Connect",
+    "address": "700 Swanston St, Carlton VIC 3053",
+    "blurb": "Clinical AI company with a strong Melbourne research and product footprint.",
+    "logoUrl": "https://logo.clearbit.com/harrison.ai",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.harrison.ai?w=1200"
+    ]
   },
   {
     "id": "mel-envato",
     "name": "Envato",
     "city": "melbourne",
-    "lat": -37.8098,
-    "lng": 144.9633,
+    "lat": -37.8177124,
+    "lng": 144.9466189,
     "website": "https://envato.com",
-    "sector": "Creator"
+    "sector": "Creator",
+    "address": "120 Harbour Esplanade, Docklands VIC 3008",
+    "blurb": "Creative ecosystem behind Envato Elements and ThemeForest.",
+    "logoUrl": "https://logo.clearbit.com/envato.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fenvato.com?w=1200"
+    ]
   },
   {
     "id": "mel-redbubble",
     "name": "Redbubble",
     "city": "melbourne",
-    "lat": -37.8149,
-    "lng": 144.9642,
+    "lat": -37.8279576,
+    "lng": 145.0343633,
     "website": "https://www.redbubble.com",
-    "sector": "Ecommerce"
+    "sector": "Ecommerce",
+    "address": "1/672 Glenferrie Rd, Hawthorn VIC 3122",
+    "blurb": "Global marketplace for independent artists to sell print-on-demand products.",
+    "logoUrl": "https://logo.clearbit.com/redbubble.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.redbubble.com?w=1200"
+    ]
   },
   {
     "id": "mel-seek",
     "name": "SEEK",
     "city": "melbourne",
-    "lat": -37.8167,
-    "lng": 144.9599,
+    "lat": -37.8273818,
+    "lng": 144.9902958,
     "website": "https://www.seek.com.au",
-    "sector": "Marketplace"
+    "sector": "Marketplace",
+    "address": "60 Cremorne St, Cremorne VIC 3121",
+    "blurb": "Australia’s leading online employment marketplace.",
+    "logoUrl": "https://logo.clearbit.com/seek.com.au",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.seek.com.au?w=1200"
+    ]
   },
   {
     "id": "mel-rea-group",
     "name": "REA Group",
     "city": "melbourne",
-    "lat": -37.8186,
-    "lng": 144.9577,
+    "lat": -37.8288931,
+    "lng": 144.9976364,
     "website": "https://www.rea-group.com",
-    "sector": "PropTech"
+    "sector": "PropTech",
+    "address": "511 Church St, Richmond VIC 3121",
+    "blurb": "Digital property group behind realestate.com.au.",
+    "logoUrl": "https://logo.clearbit.com/rea-group.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.rea-group.com?w=1200"
+    ]
   },
   {
     "id": "mel-carsales",
     "name": "carsales",
     "city": "melbourne",
-    "lat": -37.8159,
-    "lng": 144.9704,
+    "lat": -37.8177285,
+    "lng": 144.9900123,
     "website": "https://www.carsales.com.au",
-    "sector": "Marketplace"
+    "sector": "Marketplace",
+    "address": "449 Punt Rd, Richmond VIC 3121",
+    "blurb": "Online automotive marketplace for cars, bikes, and commercial vehicles.",
+    "logoUrl": "https://logo.clearbit.com/carsales.com.au",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.carsales.com.au?w=1200"
+    ]
   },
   {
     "id": "mel-myob",
@@ -106,284 +166,382 @@
     "lat": -37.8122,
     "lng": 144.961,
     "website": "https://www.myob.com",
-    "sector": "SaaS"
+    "sector": "SaaS",
+    "address": "Level 3/168 Cremorne St, Cremorne VIC 3121",
+    "blurb": "Accounting and business management software for Australian SMEs.",
+    "logoUrl": "https://logo.clearbit.com/myob.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.myob.com?w=1200"
+    ]
   },
   {
     "id": "mel-xero-mel",
     "name": "Xero (Melbourne office)",
     "city": "melbourne",
-    "lat": -37.8132,
-    "lng": 144.9578,
-    "sector": "SaaS"
+    "lat": -37.804,
+    "lng": 144.9575,
+    "sector": "SaaS",
+    "address": "Melbourne CBD VIC (approximate HQ area)",
+    "blurb": "Xero (Melbourne office) is a saas company in Australia’s startup ecosystem."
   },
   {
     "id": "mel-sensis-digital",
     "name": "Sensis (Digital)",
     "city": "melbourne",
-    "lat": -37.8141,
-    "lng": 144.9669,
-    "sector": "Marketing"
+    "lat": -37.822,
+    "lng": 144.9673,
+    "sector": "Marketing",
+    "address": "Melbourne CBD VIC (approximate HQ area)",
+    "blurb": "Sensis (Digital) is a marketing company in Australia’s startup ecosystem."
   },
   {
     "id": "mel-hotdoc",
     "name": "HotDoc",
     "city": "melbourne",
-    "lat": -37.809,
-    "lng": 144.962,
+    "lat": -37.8167691,
+    "lng": 144.9695733,
     "website": "https://www.hotdoc.com.au",
-    "sector": "Health"
+    "sector": "Health",
+    "address": "1/180 Flinders St, Melbourne VIC 3000",
+    "blurb": "Online GP booking and patient engagement platform.",
+    "logoUrl": "https://logo.clearbit.com/hotdoc.com.au",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.hotdoc.com.au?w=1200"
+    ]
   },
   {
     "id": "mel-1password-mel",
     "name": "1Password (Melbourne office)",
     "city": "melbourne",
-    "lat": -37.8119,
-    "lng": 144.9685,
-    "sector": "Security"
+    "lat": -37.812400000000004,
+    "lng": 144.9645,
+    "sector": "Security",
+    "address": "Melbourne CBD VIC (approximate HQ area)",
+    "blurb": "1Password (Melbourne office) is a security company in Australia’s startup ecosystem."
   },
   {
     "id": "mel-anzx-innovation",
     "name": "ANZx (Innovation)",
     "city": "melbourne",
-    "lat": -37.8172,
-    "lng": 144.966,
-    "sector": "FinTech"
+    "lat": -37.8088,
+    "lng": 144.9547,
+    "sector": "FinTech",
+    "address": "Melbourne CBD VIC (approximate HQ area)",
+    "blurb": "ANZx (Innovation) is a fintech company in Australia’s startup ecosystem."
   },
   {
     "id": "mel-wise-tech",
     "name": "WiseTech Global",
     "city": "melbourne",
-    "lat": -37.8088,
-    "lng": 144.9554,
+    "lat": -37.8162,
+    "lng": 144.9635,
     "website": "https://www.wisetechglobal.com",
-    "sector": "Logistics"
+    "sector": "Logistics",
+    "address": "Level 15/360 Collins St, Melbourne VIC 3000",
+    "blurb": "Logistics execution software group with Australian offices including Melbourne.",
+    "logoUrl": "https://logo.clearbit.com/wisetechglobal.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.wisetechglobal.com?w=1200"
+    ]
   },
   {
     "id": "mel-montu",
     "name": "Montu",
     "city": "melbourne",
-    "lat": -37.8129,
-    "lng": 144.9712,
-    "sector": "Health"
+    "lat": -37.8136,
+    "lng": 144.9589,
+    "sector": "Health",
+    "address": "Melbourne CBD VIC (approximate HQ area)",
+    "blurb": "Montu is a health company in Australia’s startup ecosystem."
   },
   {
     "id": "mel-tiger-trade",
     "name": "Tiger Trade (AU)",
     "city": "melbourne",
-    "lat": -37.816,
-    "lng": 144.9621,
-    "sector": "FinTech"
+    "lat": -37.8076,
+    "lng": 144.9631,
+    "sector": "FinTech",
+    "address": "Melbourne CBD VIC (approximate HQ area)",
+    "blurb": "Tiger Trade (AU) is a fintech company in Australia’s startup ecosystem."
   },
   {
     "id": "mel-lendi",
     "name": "Lendi Group",
     "city": "melbourne",
-    "lat": -37.8163,
-    "lng": 144.9693,
-    "sector": "FinTech"
+    "lat": -37.8196,
+    "lng": 144.9589,
+    "sector": "FinTech",
+    "address": "Melbourne CBD VIC (approximate HQ area)",
+    "blurb": "Lendi Group is a fintech company in Australia’s startup ecosystem."
   },
   {
     "id": "mel-a2b-australia",
     "name": "A2B Australia",
     "city": "melbourne",
-    "lat": -37.8202,
-    "lng": 144.9652,
-    "sector": "Mobility"
+    "lat": -37.8355573,
+    "lng": 144.8311158,
+    "sector": "Mobility",
+    "address": "A2B Australia, Melbourne CBD VIC",
+    "blurb": "A2B Australia is a mobility company in Australia’s startup ecosystem."
   },
   {
     "id": "mel-zeller",
     "name": "Zeller",
     "city": "melbourne",
-    "lat": -37.8125,
-    "lng": 144.9559,
+    "lat": -37.8167691,
+    "lng": 144.9695733,
     "website": "https://www.myzeller.com",
-    "sector": "FinTech"
+    "sector": "FinTech",
+    "address": "1/180 Flinders St, Melbourne VIC 3000",
+    "blurb": "Payments and banking tools for Australian small businesses.",
+    "logoUrl": "https://logo.clearbit.com/myzeller.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.myzeller.com?w=1200"
+    ]
   },
   {
     "id": "mel-eucalyptus-mel",
     "name": "Eucalyptus (Melbourne office)",
     "city": "melbourne",
-    "lat": -37.8148,
-    "lng": 144.957,
-    "sector": "Health"
+    "lat": -37.8112,
+    "lng": 144.9673,
+    "sector": "Health",
+    "address": "Melbourne CBD VIC (approximate HQ area)",
+    "blurb": "Eucalyptus (Melbourne office) is a health company in Australia’s startup ecosystem."
   },
   {
     "id": "mel-hubspot-mel",
     "name": "HubSpot (Melbourne office)",
     "city": "melbourne",
-    "lat": -37.8126,
-    "lng": 144.9639,
-    "sector": "SaaS"
+    "lat": -37.8196,
+    "lng": 144.9603,
+    "sector": "SaaS",
+    "address": "Melbourne CBD VIC (approximate HQ area)",
+    "blurb": "HubSpot (Melbourne office) is a saas company in Australia’s startup ecosystem."
   },
   {
     "id": "mel-splend",
     "name": "Splend",
     "city": "melbourne",
-    "lat": -37.8198,
-    "lng": 144.9579,
+    "lat": -37.8167691,
+    "lng": 144.9695733,
     "website": "https://www.splend.com.au",
-    "sector": "Mobility"
+    "sector": "Mobility",
+    "address": "1/180 Flinders St, Melbourne VIC 3000",
+    "blurb": "Flexible vehicle subscription and fleet mobility services.",
+    "logoUrl": "https://logo.clearbit.com/splend.com.au",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.splend.com.au?w=1200"
+    ]
   },
   {
     "id": "mel-better-caring",
     "name": "Mable",
     "city": "melbourne",
-    "lat": -37.8108,
-    "lng": 144.9699,
-    "sector": "Marketplace"
+    "lat": -37.804,
+    "lng": 144.9617,
+    "sector": "Marketplace",
+    "address": "Melbourne CBD VIC (approximate HQ area)",
+    "blurb": "Mable is a marketplace company in Australia’s startup ecosystem."
   },
   {
     "id": "mel-ordermentum",
     "name": "Ordermentum",
     "city": "melbourne",
-    "lat": -37.8121,
-    "lng": 144.9751,
-    "sector": "Logistics"
+    "lat": -37.822,
+    "lng": 144.9617,
+    "sector": "Logistics",
+    "address": "Melbourne CBD VIC (approximate HQ area)",
+    "blurb": "Ordermentum is a logistics company in Australia’s startup ecosystem."
   },
   {
     "id": "mel-forethought",
     "name": "Forethought (AU)",
     "city": "melbourne",
-    "lat": -37.8081,
-    "lng": 144.9658,
-    "sector": "AI"
+    "lat": -37.8052,
+    "lng": 144.9575,
+    "sector": "AI",
+    "address": "Melbourne CBD VIC (approximate HQ area)",
+    "blurb": "Forethought (AU) is a ai company in Australia’s startup ecosystem."
   },
   {
     "id": "mel-cameo",
     "name": "Cameo (AU studio)",
     "city": "melbourne",
-    "lat": -37.8164,
-    "lng": 144.9555,
-    "sector": "Creator"
+    "lat": -37.8076,
+    "lng": 144.9673,
+    "sector": "Creator",
+    "address": "Melbourne CBD VIC (approximate HQ area)",
+    "blurb": "Cameo (AU studio) is a creator company in Australia’s startup ecosystem."
   },
   {
     "id": "mel-coinspot",
     "name": "CoinSpot (Melbourne office)",
     "city": "melbourne",
-    "lat": -37.8152,
-    "lng": 144.9723,
-    "sector": "FinTech"
+    "lat": -37.822,
+    "lng": 144.9645,
+    "sector": "FinTech",
+    "address": "Melbourne CBD VIC (approximate HQ area)",
+    "blurb": "CoinSpot (Melbourne office) is a fintech company in Australia’s startup ecosystem."
   },
   {
     "id": "mel-swipe-crypto",
     "name": "Swyftx (Melbourne office)",
     "city": "melbourne",
-    "lat": -37.8112,
-    "lng": 144.9603,
-    "sector": "FinTech"
+    "lat": -37.822,
+    "lng": 144.9659,
+    "sector": "FinTech",
+    "address": "Melbourne CBD VIC (approximate HQ area)",
+    "blurb": "Swyftx (Melbourne office) is a fintech company in Australia’s startup ecosystem."
   },
   {
     "id": "mel-grok-learning",
     "name": "Grok Learning (Melbourne office)",
     "city": "melbourne",
-    "lat": -37.8179,
-    "lng": 144.963,
-    "sector": "EdTech"
+    "lat": -37.8136,
+    "lng": 144.9561,
+    "sector": "EdTech",
+    "address": "Melbourne CBD VIC (approximate HQ area)",
+    "blurb": "Grok Learning (Melbourne office) is a edtech company in Australia’s startup ecosystem."
   },
   {
     "id": "mel-wisr",
     "name": "Wisr (Melbourne office)",
     "city": "melbourne",
-    "lat": -37.8206,
-    "lng": 144.9639,
-    "sector": "FinTech"
+    "lat": -37.8232,
+    "lng": 144.96869999999998,
+    "sector": "FinTech",
+    "address": "Melbourne CBD VIC (approximate HQ area)",
+    "blurb": "Wisr (Melbourne office) is a fintech company in Australia’s startup ecosystem."
   },
   {
     "id": "mel-kogan",
     "name": "Kogan.com",
     "city": "melbourne",
-    "lat": -37.817,
-    "lng": 144.9518,
+    "lat": -37.8301862,
+    "lng": 144.9495596,
     "website": "https://www.kogan.com",
-    "sector": "Ecommerce"
+    "sector": "Ecommerce",
+    "address": "139 Gladstone St, South Melbourne VIC 3205",
+    "blurb": "Online retailer and consumer brand group founded in Melbourne.",
+    "logoUrl": "https://logo.clearbit.com/kogan.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.kogan.com?w=1200"
+    ]
   },
   {
     "id": "mel-the-iconic-mel",
     "name": "THE ICONIC (Melbourne office)",
     "city": "melbourne",
-    "lat": -37.812,
-    "lng": 144.9526,
-    "sector": "Ecommerce"
+    "lat": -37.818400000000004,
+    "lng": 144.9617,
+    "sector": "Ecommerce",
+    "address": "Melbourne CBD VIC (approximate HQ area)",
+    "blurb": "THE ICONIC (Melbourne office) is a ecommerce company in Australia’s startup ecosystem."
   },
   {
     "id": "mel-promise-pay",
     "name": "PromisePay (Melbourne office)",
     "city": "melbourne",
-    "lat": -37.8194,
-    "lng": 144.9714,
-    "sector": "FinTech"
+    "lat": -37.812400000000004,
+    "lng": 144.96869999999998,
+    "sector": "FinTech",
+    "address": "Melbourne CBD VIC (approximate HQ area)",
+    "blurb": "PromisePay (Melbourne office) is a fintech company in Australia’s startup ecosystem."
   },
   {
     "id": "mel-forestry",
     "name": "Forestry (Climate)",
     "city": "melbourne",
-    "lat": -37.8094,
-    "lng": 144.9567,
-    "sector": "Climate"
+    "lat": -37.804,
+    "lng": 144.9673,
+    "sector": "Climate",
+    "address": "Melbourne CBD VIC (approximate HQ area)",
+    "blurb": "Forestry (Climate) is a climate company in Australia’s startup ecosystem."
   },
   {
     "id": "mel-flip",
     "name": "Flip (Retail ops)",
     "city": "melbourne",
-    "lat": -37.8181,
-    "lng": 144.9596,
-    "sector": "Retail"
+    "lat": -37.8136,
+    "lng": 144.96869999999998,
+    "sector": "Retail",
+    "address": "Melbourne CBD VIC (approximate HQ area)",
+    "blurb": "Flip (Retail ops) is a retail company in Australia’s startup ecosystem."
   },
   {
     "id": "mel-goget-mel",
     "name": "GoGet (Melbourne office)",
     "city": "melbourne",
-    "lat": -37.8103,
-    "lng": 144.9588,
-    "sector": "Mobility"
+    "lat": -37.8208,
+    "lng": 144.9715,
+    "sector": "Mobility",
+    "address": "Melbourne CBD VIC (approximate HQ area)",
+    "blurb": "GoGet (Melbourne office) is a mobility company in Australia’s startup ecosystem."
   },
   {
     "id": "mel-kiwi-rails",
     "name": "Buildkite (Melbourne office)",
     "city": "melbourne",
-    "lat": -37.8162,
-    "lng": 144.968,
-    "sector": "DevTools"
+    "lat": -37.816,
+    "lng": 144.9617,
+    "sector": "DevTools",
+    "address": "Melbourne CBD VIC (approximate HQ area)",
+    "blurb": "Buildkite (Melbourne office) is a devtools company in Australia’s startup ecosystem."
   },
   {
     "id": "mel-snapfix",
     "name": "Snap Fix",
     "city": "melbourne",
-    "lat": -37.8134,
-    "lng": 144.9762,
-    "sector": "PropTech"
+    "lat": -37.8208,
+    "lng": 144.9631,
+    "sector": "PropTech",
+    "address": "Melbourne CBD VIC (approximate HQ area)",
+    "blurb": "Snap Fix is a proptech company in Australia’s startup ecosystem."
   },
   {
     "id": "mel-spriggy",
     "name": "Spriggy (Melbourne office)",
     "city": "melbourne",
-    "lat": -37.8097,
-    "lng": 144.9728,
-    "sector": "FinTech"
+    "lat": -37.806400000000004,
+    "lng": 144.9617,
+    "sector": "FinTech",
+    "address": "Melbourne CBD VIC (approximate HQ area)",
+    "blurb": "Spriggy (Melbourne office) is a fintech company in Australia’s startup ecosystem."
   },
   {
     "id": "mel-reach",
     "name": "Reach (Digital commerce)",
     "city": "melbourne",
-    "lat": -37.8209,
-    "lng": 144.9591,
-    "sector": "Ecommerce"
+    "lat": -37.81,
+    "lng": 144.9645,
+    "sector": "Ecommerce",
+    "address": "Melbourne CBD VIC (approximate HQ area)",
+    "blurb": "Reach (Digital commerce) is a ecommerce company in Australia’s startup ecosystem."
   },
   {
     "id": "mel-kinaxis",
     "name": "Kinaxis (Melbourne office)",
     "city": "melbourne",
-    "lat": -37.8176,
-    "lng": 144.9523,
-    "sector": "Enterprise"
+    "lat": -37.8232,
+    "lng": 144.9603,
+    "sector": "Enterprise",
+    "address": "Melbourne CBD VIC (approximate HQ area)",
+    "blurb": "Kinaxis (Melbourne office) is a enterprise company in Australia’s startup ecosystem."
   },
   {
     "id": "mel-archistar",
     "name": "Archistar",
     "city": "melbourne",
-    "lat": -37.8114,
-    "lng": 144.9646,
+    "lat": -37.8167691,
+    "lng": 144.9695733,
     "website": "https://archistar.ai",
-    "sector": "PropTech"
+    "sector": "PropTech",
+    "address": "1/180 Flinders St, Melbourne VIC 3000",
+    "blurb": "Property development feasibility and design intelligence platform.",
+    "logoUrl": "https://logo.clearbit.com/archistar.ai",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Farchistar.ai?w=1200"
+    ]
   }
 ]

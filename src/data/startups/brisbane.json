@@ -3,28 +3,46 @@
     "id": "go1",
     "name": "Go1",
     "city": "brisbane",
-    "lat": -27.4697,
-    "lng": 153.025,
+    "lat": -27.4581545,
+    "lng": 153.0342273,
     "website": "https://go1.com",
-    "sector": "EdTech"
+    "sector": "EdTech",
+    "address": "315 Brunswick St, Fortitude Valley QLD 4006",
+    "blurb": "Workplace learning platform used by enterprises to train and upskill teams.",
+    "logoUrl": "https://logo.clearbit.com/go1.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fgo1.com?w=1200"
+    ]
   },
   {
     "id": "tritium",
     "name": "Tritium",
     "city": "brisbane",
-    "lat": -27.4742,
-    "lng": 153.0175,
+    "lat": -28.0902562,
+    "lng": 153.3912737,
     "website": "https://tritiumcharging.com",
-    "sector": "Energy"
+    "sector": "Energy",
+    "address": "48 Scottsdale Dr, Robina QLD 4226",
+    "blurb": "Australian EV fast-charging hardware company serving networks worldwide.",
+    "logoUrl": "https://logo.clearbit.com/tritiumcharging.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Ftritiumcharging.com?w=1200"
+    ]
   },
   {
     "id": "technologyone",
     "name": "TechnologyOne",
     "city": "brisbane",
-    "lat": -27.4659,
-    "lng": 153.0247,
+    "lat": -27.4525005,
+    "lng": 153.0381243,
     "website": "https://technology1.com",
-    "sector": "SaaS"
+    "sector": "SaaS",
+    "address": "540 Wickham St, Fortitude Valley QLD 4006",
+    "blurb": "Enterprise SaaS vendor for government, education, and health organisations.",
+    "logoUrl": "https://logo.clearbit.com/technology1.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Ftechnology1.com?w=1200"
+    ]
   },
   {
     "id": "redeye-apps",
@@ -33,407 +51,575 @@
     "lat": -27.4578,
     "lng": 153.0318,
     "website": "https://redeye.co",
-    "sector": "Enterprise"
+    "sector": "Enterprise",
+    "address": "Level 2/545 Queen St, Brisbane City QLD 4000",
+    "blurb": "Engineering document management software for industrial operators.",
+    "logoUrl": "https://logo.clearbit.com/redeye.co",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fredeye.co?w=1200"
+    ]
   },
   {
     "id": "skedulo",
     "name": "Skedulo",
     "city": "brisbane",
-    "lat": -27.4708,
-    "lng": 153.0222,
+    "lat": -27.4650727,
+    "lng": 153.0273213,
     "website": "https://skedulo.com",
-    "sector": "SaaS"
+    "sector": "SaaS",
+    "address": "300 Ann St, Brisbane City QLD 4000",
+    "blurb": "Field service and deskless workforce scheduling platform.",
+    "logoUrl": "https://logo.clearbit.com/skedulo.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fskedulo.com?w=1200"
+    ]
   },
   {
     "id": "tanda",
     "name": "Tanda",
     "city": "brisbane",
-    "lat": -27.4689,
-    "lng": 153.0256,
+    "lat": -27.4702636,
+    "lng": 153.0284045,
     "website": "https://tanda.com.au",
-    "sector": "HR"
+    "sector": "HR",
+    "address": "120 Edward St, Brisbane City QLD 4000",
+    "blurb": "Workforce management, rostering, and time-tracking software for Australian businesses.",
+    "logoUrl": "https://logo.clearbit.com/tanda.com.au",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Ftanda.com.au?w=1200"
+    ]
   },
   {
     "id": "halfbrick-studios",
     "name": "Halfbrick Studios",
     "city": "brisbane",
-    "lat": -27.4599,
-    "lng": 153.0351,
+    "lat": -27.4817486,
+    "lng": 153.0214488,
     "website": "https://halfbrick.com",
-    "sector": "Gaming"
+    "sector": "Gaming",
+    "address": "88 Tribune St, South Brisbane QLD 4101",
+    "blurb": "Independent game studio behind Fruit Ninja and other mobile hits.",
+    "logoUrl": "https://logo.clearbit.com/halfbrick.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fhalfbrick.com?w=1200"
+    ]
   },
   {
     "id": "askable",
     "name": "Askable",
     "city": "brisbane",
-    "lat": -27.467,
-    "lng": 153.028,
+    "lat": -27.45765,
+    "lng": 153.0337,
     "website": "https://askable.com",
     "sector": "Research",
     "buildingId": "brisbane-the-precinct",
-    "buildingName": "The Precinct"
+    "buildingName": "The Precinct",
+    "address": "100 Brunswick St, Fortitude Valley QLD 4006",
+    "blurb": "On-demand user research platform connecting teams with real customers.",
+    "logoUrl": "https://logo.clearbit.com/askable.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Faskable.com?w=1200"
+    ]
   },
   {
     "id": "wemoney",
     "name": "WeMoney",
     "city": "brisbane",
-    "lat": -27.467,
-    "lng": 153.028,
+    "lat": -27.4576,
+    "lng": 153.0337,
     "website": "https://wemoney.com.au",
     "sector": "FinTech",
     "buildingId": "brisbane-the-precinct",
-    "buildingName": "The Precinct"
+    "buildingName": "The Precinct",
+    "address": "100 Brunswick St, Fortitude Valley QLD 4006",
+    "blurb": "Personal finance app helping Australians track spending and improve money habits.",
+    "logoUrl": "https://logo.clearbit.com/wemoney.com.au",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwemoney.com.au?w=1200"
+    ]
   },
   {
     "id": "oneqode",
     "name": "OneQode",
     "city": "brisbane",
-    "lat": -27.467,
-    "lng": 153.028,
+    "lat": -27.457549999999998,
+    "lng": 153.0337,
     "sector": "Infrastructure",
     "buildingId": "brisbane-the-precinct",
-    "buildingName": "The Precinct"
+    "buildingName": "The Precinct",
+    "address": "100 Brunswick St, Fortitude Valley QLD 4006",
+    "blurb": "Edge networking and content delivery infrastructure for real-time applications."
   },
   {
     "id": "fleetyr",
     "name": "Fleetyr",
     "city": "brisbane",
-    "lat": -27.467,
-    "lng": 153.028,
+    "lat": -27.4575,
+    "lng": 153.0337,
     "website": "https://fleetyr.com",
     "sector": "Logistics",
     "buildingId": "brisbane-the-precinct",
-    "buildingName": "The Precinct"
+    "buildingName": "The Precinct",
+    "address": "100 Brunswick St, Fortitude Valley QLD 4006",
+    "blurb": "Fleet and mobility operations software for modern transport teams.",
+    "logoUrl": "https://logo.clearbit.com/fleetyr.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Ffleetyr.com?w=1200"
+    ]
   },
   {
     "id": "octopus-deploy",
     "name": "Octopus Deploy",
     "city": "brisbane",
-    "lat": -27.4682,
-    "lng": 153.0239,
+    "lat": -27.4688765,
+    "lng": 153.0244885,
     "website": "https://octopus.com",
-    "sector": "DevTools"
+    "sector": "DevTools",
+    "address": "200 Adelaide St, Brisbane City QLD 4000",
+    "blurb": "Continuous delivery and DevOps automation platform for software teams.",
+    "logoUrl": "https://logo.clearbit.com/octopus.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Foctopus.com?w=1200"
+    ]
   },
   {
     "id": "clipchamp",
     "name": "Clipchamp",
     "city": "brisbane",
-    "lat": -27.4627,
-    "lng": 153.0337,
+    "lat": -27.4702959,
+    "lng": 153.0305241,
     "website": "https://clipchamp.com",
-    "sector": "Creator"
+    "sector": "Creator",
+    "address": "1 Eagle St, Brisbane City QLD 4000",
+    "blurb": "Browser-based video editor (Microsoft) popular with creators and workplaces.",
+    "logoUrl": "https://logo.clearbit.com/clipchamp.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fclipchamp.com?w=1200"
+    ]
   },
   {
     "id": "five-good-friends",
     "name": "Five Good Friends",
     "city": "brisbane",
-    "lat": -27.4691,
-    "lng": 153.0192,
+    "lat": -27.4817486,
+    "lng": 153.0214488,
     "website": "https://fivegoodfriends.com.au",
-    "sector": "Health"
+    "sector": "Health",
+    "address": "88 Tribune St, South Brisbane QLD 4101",
+    "blurb": "Home-care marketplace connecting older Australians with trusted support.",
+    "logoUrl": "https://logo.clearbit.com/fivegoodfriends.com.au",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Ffivegoodfriends.com.au?w=1200"
+    ]
   },
   {
     "id": "data3",
     "name": "Data#3",
     "city": "brisbane",
-    "lat": -27.4686,
-    "lng": 153.0312,
+    "lat": -27.4869978,
+    "lng": 152.9905526,
     "website": "https://data3.com",
-    "sector": "IT"
+    "sector": "IT",
+    "address": "67 High St, Toowong QLD 4066",
+    "blurb": "Australian IT solutions provider for cloud, security, and digital workplace.",
+    "logoUrl": "https://logo.clearbit.com/data3.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fdata3.com?w=1200"
+    ]
   },
   {
     "id": "vaxxas",
     "name": "Vaxxas",
     "city": "brisbane",
-    "lat": -27.4448,
-    "lng": 153.0298,
+    "lat": -27.4410442,
+    "lng": 153.0413077,
     "website": "https://vaxxas.com",
-    "sector": "BioTech"
+    "sector": "BioTech",
+    "address": "31 Thompson St, Bowen Hills QLD 4006",
+    "blurb": "Needle-free vaccine delivery patch technology developed in Brisbane.",
+    "logoUrl": "https://logo.clearbit.com/vaxxas.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fvaxxas.com?w=1200"
+    ]
   },
   {
     "id": "audeara",
     "name": "Audeara",
     "city": "brisbane",
-    "lat": -27.4652,
-    "lng": 153.0343,
+    "lat": -27.454264,
+    "lng": 153.0321205,
     "website": "https://audeara.com",
-    "sector": "Health"
+    "sector": "Health",
+    "address": "41 Baxter St, Fortitude Valley QLD 4006",
+    "blurb": "Personalised hearing headphones designed around individual hearing profiles.",
+    "logoUrl": "https://logo.clearbit.com/audeara.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Faudeara.com?w=1200"
+    ]
   },
   {
     "id": "resapp-health",
     "name": "ResApp Health",
     "city": "brisbane",
-    "lat": -27.4986,
-    "lng": 153.0135,
-    "sector": "Health"
+    "lat": -27.4794,
+    "lng": 153.01670000000001,
+    "sector": "Health",
+    "address": "Brisbane CBD QLD (approximate HQ area)",
+    "blurb": "ResApp Health is a health company in Australia’s startup ecosystem."
   },
   {
     "id": "procurepro",
     "name": "ProcurePro",
     "city": "brisbane",
-    "lat": -27.4559,
-    "lng": 153.0357,
+    "lat": -27.4669069,
+    "lng": 153.019693,
     "website": "https://procurepro.co",
-    "sector": "Construction"
+    "sector": "Construction",
+    "address": "300 George St, Brisbane City QLD 4000",
+    "blurb": "Construction procurement software for contractors and suppliers.",
+    "logoUrl": "https://logo.clearbit.com/procurepro.co",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fprocurepro.co?w=1200"
+    ]
   },
   {
     "id": "endua",
     "name": "Endua",
     "city": "brisbane",
-    "lat": -27.4542,
-    "lng": 153.0432,
+    "lat": -27.4556469,
+    "lng": 153.0301475,
     "website": "https://endua.com",
-    "sector": "Energy"
+    "sector": "Energy",
+    "address": "37 Warry St, Fortitude Valley QLD 4006",
+    "blurb": "Green hydrogen energy systems for remote and industrial power.",
+    "logoUrl": "https://logo.clearbit.com/endua.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fendua.com?w=1200"
+    ]
   },
   {
     "id": "replica-studios",
     "name": "Replica Studios",
     "city": "brisbane",
-    "lat": -27.4506,
-    "lng": 153.0449,
+    "lat": -27.4752845,
+    "lng": 153.01551,
     "website": "https://replicastudios.com",
-    "sector": "AI"
+    "sector": "AI",
+    "address": "123 Melbourne St, South Brisbane QLD 4101",
+    "blurb": "AI voice and character performance tools for games and media.",
+    "logoUrl": "https://logo.clearbit.com/replicastudios.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Freplicastudios.com?w=1200"
+    ]
   },
   {
     "id": "edexia",
     "name": "Edexia",
     "city": "brisbane",
-    "lat": -27.4657,
-    "lng": 153.0134,
-    "sector": "AI"
+    "lat": -27.465,
+    "lng": 153.01670000000001,
+    "sector": "AI",
+    "address": "Brisbane CBD QLD (approximate HQ area)",
+    "blurb": "Edexia is a ai company in Australia’s startup ecosystem."
   },
   {
     "id": "neuphoria",
     "name": "Neuphoria",
     "city": "brisbane",
-    "lat": -27.4605,
-    "lng": 153.0295,
-    "sector": "AI"
+    "lat": -27.477,
+    "lng": 153.0293,
+    "sector": "AI",
+    "address": "Brisbane CBD QLD (approximate HQ area)",
+    "blurb": "Neuphoria is a ai company in Australia’s startup ecosystem."
   },
   {
     "id": "vault-cloud",
     "name": "Vault Cloud",
     "city": "brisbane",
-    "lat": -27.4676,
-    "lng": 153.0118,
+    "lat": -27.4672183,
+    "lng": 153.0278704,
     "website": "https://vaultcloud.com.au",
-    "sector": "Cloud"
+    "sector": "Cloud",
+    "address": "300 Queen St, Brisbane City QLD 4000",
+    "blurb": "Sovereign cloud hosting for governments and regulated industries.",
+    "logoUrl": "https://logo.clearbit.com/vaultcloud.com.au",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fvaultcloud.com.au?w=1200"
+    ]
   },
   {
     "id": "wotif-group",
     "name": "Wotif Group",
     "city": "brisbane",
-    "lat": -27.4679,
-    "lng": 153.0241,
-    "sector": "Travel"
+    "lat": -27.4602,
+    "lng": 153.0321,
+    "sector": "Travel",
+    "address": "Brisbane CBD QLD (approximate HQ area)",
+    "blurb": "Wotif Group is a travel company in Australia’s startup ecosystem."
   },
   {
     "id": "flight-centre",
     "name": "Flight Centre Travel Group",
     "city": "brisbane",
-    "lat": -27.4714,
-    "lng": 153.0214,
+    "lat": -27.4718431,
+    "lng": 153.0168412,
     "website": "https://www.flightcentre.com.au",
-    "sector": "Travel"
+    "sector": "Travel",
+    "address": "275 Grey St, South Brisbane QLD 4101",
+    "blurb": "Global travel retailer and corporate travel group founded in Brisbane.",
+    "logoUrl": "https://logo.clearbit.com/flightcentre.com.au",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.flightcentre.com.au?w=1200"
+    ]
   },
   {
     "id": "clearsky-genomics",
     "name": "ClearSKY Genomics",
     "city": "brisbane",
-    "lat": -27.4472,
-    "lng": 153.0287,
-    "sector": "BioTech"
+    "lat": -27.4686,
+    "lng": 153.02370000000002,
+    "sector": "BioTech",
+    "address": "Brisbane CBD QLD (approximate HQ area)",
+    "blurb": "ClearSKY Genomics is a biotech company in Australia’s startup ecosystem."
   },
   {
     "id": "augmented-bionics",
     "name": "Augmented Bionics",
     "city": "brisbane",
-    "lat": -27.4988,
-    "lng": 153.0138,
-    "sector": "MedTech"
+    "lat": -27.4698,
+    "lng": 153.01670000000001,
+    "sector": "MedTech",
+    "address": "Brisbane CBD QLD (approximate HQ area)",
+    "blurb": "Augmented Bionics is a medtech company in Australia’s startup ecosystem."
   },
   {
     "id": "autopricer",
     "name": "AutoPricer",
     "city": "brisbane",
-    "lat": -27.4622,
-    "lng": 153.0411,
-    "sector": "SaaS"
+    "lat": -27.461399999999998,
+    "lng": 153.0265,
+    "sector": "SaaS",
+    "address": "Brisbane CBD QLD (approximate HQ area)",
+    "blurb": "AutoPricer is a saas company in Australia’s startup ecosystem."
   },
   {
     "id": "chatloop",
     "name": "Chatloop",
     "city": "brisbane",
-    "lat": -27.4699,
-    "lng": 153.0302,
-    "sector": "SaaS"
+    "lat": -27.4698,
+    "lng": 153.01670000000001,
+    "sector": "SaaS",
+    "address": "Brisbane CBD QLD (approximate HQ area)",
+    "blurb": "Chatloop is a saas company in Australia’s startup ecosystem."
   },
   {
     "id": "chatstat",
     "name": "Chatstat",
     "city": "brisbane",
-    "lat": -27.4694,
-    "lng": 153.0267,
-    "sector": "SaaS"
+    "lat": -27.467399999999998,
+    "lng": 153.01950000000002,
+    "sector": "SaaS",
+    "address": "Brisbane CBD QLD (approximate HQ area)",
+    "blurb": "Chatstat is a saas company in Australia’s startup ecosystem."
   },
   {
     "id": "envirometrics-io",
     "name": "envirometrics.io",
     "city": "brisbane",
-    "lat": -27.4594,
-    "lng": 153.0395,
-    "sector": "Climate"
+    "lat": -27.4638,
+    "lng": 153.01950000000002,
+    "sector": "Climate",
+    "address": "Brisbane CBD QLD (approximate HQ area)",
+    "blurb": "envirometrics.io is a climate company in Australia’s startup ecosystem."
   },
   {
     "id": "go-locum",
     "name": "Go Locum",
     "city": "brisbane",
     "lat": -27.4746,
-    "lng": 153.014,
-    "sector": "Health"
+    "lng": 153.0307,
+    "sector": "Health",
+    "address": "Brisbane CBD QLD (approximate HQ area)",
+    "blurb": "Go Locum is a health company in Australia’s startup ecosystem."
   },
   {
     "id": "farm-hero",
     "name": "Farm Hero",
     "city": "brisbane",
-    "lat": -27.4564,
-    "lng": 153.0284,
-    "sector": "AgTech"
+    "lat": -27.4638,
+    "lng": 153.01670000000001,
+    "sector": "AgTech",
+    "address": "Brisbane CBD QLD (approximate HQ area)",
+    "blurb": "Farm Hero is a agtech company in Australia’s startup ecosystem."
   },
   {
     "id": "homecube",
     "name": "Homecube",
     "city": "brisbane",
-    "lat": -27.4633,
-    "lng": 153.0109,
-    "sector": "PropTech"
+    "lat": -27.471,
+    "lng": 153.02790000000002,
+    "sector": "PropTech",
+    "address": "Brisbane CBD QLD (approximate HQ area)",
+    "blurb": "Homecube is a proptech company in Australia’s startup ecosystem."
   },
   {
     "id": "hyra-iq",
     "name": "Hyra iQ",
     "city": "brisbane",
-    "lat": -27.4489,
-    "lng": 153.0438,
-    "sector": "SaaS"
+    "lat": -27.477,
+    "lng": 153.0307,
+    "sector": "SaaS",
+    "address": "Brisbane CBD QLD (approximate HQ area)",
+    "blurb": "Hyra iQ is a saas company in Australia’s startup ecosystem."
   },
   {
     "id": "inovotech",
     "name": "iNovoTech",
     "city": "brisbane",
-    "lat": -27.5003,
-    "lng": 153.0127,
-    "sector": "BioTech"
+    "lat": -27.4722,
+    "lng": 153.01670000000001,
+    "sector": "BioTech",
+    "address": "Brisbane CBD QLD (approximate HQ area)",
+    "blurb": "iNovoTech is a biotech company in Australia’s startup ecosystem."
   },
   {
     "id": "inventico",
     "name": "Inventico",
     "city": "brisbane",
-    "lat": -27.4703,
-    "lng": 153.0136,
-    "sector": "R&D"
+    "lat": -27.4722,
+    "lng": 153.01670000000001,
+    "sector": "R&D",
+    "address": "Brisbane CBD QLD (approximate HQ area)",
+    "blurb": "Inventico is a r&d company in Australia’s startup ecosystem."
   },
   {
     "id": "knowa",
     "name": "Knowa",
     "city": "brisbane",
-    "lat": -27.4688,
-    "lng": 153.0331,
-    "sector": "SaaS"
+    "lat": -27.4794,
+    "lng": 153.0321,
+    "sector": "SaaS",
+    "address": "Brisbane CBD QLD (approximate HQ area)",
+    "blurb": "Knowa is a saas company in Australia’s startup ecosystem."
   },
   {
     "id": "ag-intellisense",
     "name": "Ag Intellisense",
     "city": "brisbane",
-    "lat": -27.4981,
-    "lng": 153.0146,
-    "sector": "AgTech"
+    "lat": -27.467399999999998,
+    "lng": 153.0251,
+    "sector": "AgTech",
+    "address": "Brisbane CBD QLD (approximate HQ area)",
+    "blurb": "Ag Intellisense is a agtech company in Australia’s startup ecosystem."
   },
   {
     "id": "australian-urban-growers",
     "name": "Australian Urban Growers",
     "city": "brisbane",
-    "lat": -27.4681,
-    "lng": 153.0161,
-    "sector": "AgTech"
+    "lat": -27.4626,
+    "lng": 153.0293,
+    "sector": "AgTech",
+    "address": "Brisbane CBD QLD (approximate HQ area)",
+    "blurb": "Australian Urban Growers is a agtech company in Australia’s startup ecosystem."
   },
   {
     "id": "defence-nutrition-australia",
     "name": "Defence Nutrition Australia",
     "city": "brisbane",
-    "lat": -27.4707,
-    "lng": 153.0091,
-    "sector": "Health"
+    "lat": -27.4758,
+    "lng": 153.02370000000002,
+    "sector": "Health",
+    "address": "Brisbane CBD QLD (approximate HQ area)",
+    "blurb": "Defence Nutrition Australia is a health company in Australia’s startup ecosystem."
   },
   {
     "id": "eclipse",
     "name": "Eclipse",
     "city": "brisbane",
-    "lat": -27.4479,
-    "lng": 153.0244,
-    "sector": "Technology"
+    "lat": -27.3710581,
+    "lng": 152.9854016,
+    "sector": "Technology",
+    "address": "Eclipse, Brisbane CBD QLD",
+    "blurb": "Eclipse is a technology company in Australia’s startup ecosystem."
   },
   {
     "id": "jetson-industries",
     "name": "Jetson Industries",
     "city": "brisbane",
-    "lat": -27.4664,
-    "lng": 153.0379,
-    "sector": "Industry"
+    "lat": -27.4794,
+    "lng": 153.02790000000002,
+    "sector": "Industry",
+    "address": "Brisbane CBD QLD (approximate HQ area)",
+    "blurb": "Jetson Industries is a industry company in Australia’s startup ecosystem."
   },
   {
     "id": "inkquiry",
     "name": "Inkquiry",
     "city": "brisbane",
-    "lat": -27.4502,
-    "lng": 153.0407,
-    "sector": "Education"
+    "lat": -27.4698,
+    "lng": 153.02790000000002,
+    "sector": "Education",
+    "address": "Brisbane CBD QLD (approximate HQ area)",
+    "blurb": "Inkquiry is a education company in Australia’s startup ecosystem."
   },
   {
     "id": "deep-connection",
     "name": "Deep Connection",
     "city": "brisbane",
-    "lat": -27.4741,
-    "lng": 153.0079,
-    "sector": "SaaS"
+    "lat": -27.4782,
+    "lng": 153.0307,
+    "sector": "SaaS",
+    "address": "Brisbane CBD QLD (approximate HQ area)",
+    "blurb": "Deep Connection is a saas company in Australia’s startup ecosystem."
   },
   {
     "id": "expera",
     "name": "Expera",
     "city": "brisbane",
-    "lat": -27.4552,
-    "lng": 153.0321,
-    "sector": "Technology"
+    "lat": -27.4602,
+    "lng": 153.02790000000002,
+    "sector": "Technology",
+    "address": "Brisbane CBD QLD (approximate HQ area)",
+    "blurb": "Expera is a technology company in Australia’s startup ecosystem."
   },
   {
     "id": "fantribe",
     "name": "FanTribe",
     "city": "brisbane",
-    "lat": -27.4569,
-    "lng": 153.0372,
-    "sector": "Community"
+    "lat": -27.467399999999998,
+    "lng": 153.0321,
+    "sector": "Community",
+    "address": "Brisbane CBD QLD (approximate HQ area)",
+    "blurb": "FanTribe is a community company in Australia’s startup ecosystem."
   },
   {
     "id": "fortus",
     "name": "Fortus",
     "city": "brisbane",
-    "lat": -27.4729,
-    "lng": 153.024,
-    "sector": "Technology"
+    "lat": -27.3857243,
+    "lng": 153.0304209,
+    "sector": "Technology",
+    "address": "Fortus, Brisbane CBD QLD",
+    "blurb": "Fortus is a technology company in Australia’s startup ecosystem."
   },
   {
     "id": "extrasjar",
     "name": "ExtrasJar",
     "city": "brisbane",
-    "lat": -27.4618,
-    "lng": 153.0246,
-    "sector": "FinTech"
+    "lat": -27.4662,
+    "lng": 153.02370000000002,
+    "sector": "FinTech",
+    "address": "Brisbane CBD QLD (approximate HQ area)",
+    "blurb": "ExtrasJar is a fintech company in Australia’s startup ecosystem."
   },
   {
     "id": "brandtools",
     "name": "Brandtools",
     "city": "brisbane",
-    "lat": -27.4571,
-    "lng": 153.033,
-    "sector": "Marketing"
+    "lat": -27.4686,
+    "lng": 153.0181,
+    "sector": "Marketing",
+    "address": "Brisbane CBD QLD (approximate HQ area)",
+    "blurb": "Brandtools is a marketing company in Australia’s startup ecosystem."
   }
 ]

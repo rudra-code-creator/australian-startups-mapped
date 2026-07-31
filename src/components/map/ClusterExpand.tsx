@@ -3,7 +3,7 @@
 import * as React from "react";
 import { useMap, useMapEvents } from "react-leaflet";
 import type { Startup } from "@/lib/types";
-import { InitialsAvatar } from "./InitialsAvatar";
+import { LogoImage } from "./LogoImage";
 
 function clamp(value: number, min: number, max: number) {
   return Math.max(min, Math.min(max, value));
@@ -16,7 +16,6 @@ function LogoTile({
   startup: Startup;
   onSelect: (startup: Startup) => void;
 }) {
-  const [imgOk, setImgOk] = React.useState(true);
   const size = 42;
 
   return (
@@ -34,29 +33,7 @@ function LogoTile({
       aria-label={startup.name}
       title={startup.name}
     >
-      {startup.logoUrl && imgOk ? (
-        // eslint-disable-next-line @next/next/no-img-element
-        <img
-          src={startup.logoUrl}
-          alt=""
-          width={size}
-          height={size}
-          style={{
-            width: size,
-            height: size,
-            objectFit: "cover",
-            borderRadius: 9999,
-            display: "block",
-          }}
-          onError={() => setImgOk(false)}
-        />
-      ) : (
-        <InitialsAvatar
-          name={startup.name}
-          size={size}
-          className="border-2 border-white"
-        />
-      )}
+      <LogoImage startup={startup} size={size} />
     </button>
   );
 }

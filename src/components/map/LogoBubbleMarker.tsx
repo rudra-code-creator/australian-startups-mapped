@@ -3,6 +3,7 @@
 import * as React from "react";
 import L from "leaflet";
 import { Marker } from "react-leaflet";
+import { logoCandidates } from "@/lib/branding";
 import type { Startup } from "@/lib/types";
 
 const SIZE = 56;
@@ -17,10 +18,7 @@ function escapeHtml(value: string) {
 }
 
 function initialsFromName(name: string) {
-  const parts = name
-    .trim()
-    .split(/\s+/)
-    .filter(Boolean);
+  const parts = name.trim().split(/\s+/).filter(Boolean);
   const first = parts[0]?.[0] ?? "?";
   const second = parts.length > 1 ? parts[1]?.[0] : parts[0]?.[1];
   return (first + (second ?? "")).toUpperCase();
@@ -28,11 +26,11 @@ function initialsFromName(name: string) {
 
 function buildLogoHtml({
   name,
-  logoUrl,
+  candidates,
   isActive,
 }: {
   name: string;
-  logoUrl?: string;
+  candidates: string[];
   isActive?: boolean;
 }) {
   const initials = escapeHtml(initialsFromName(name));
@@ -43,18 +41,22 @@ function buildLogoHtml({
     `box-shadow:var(--map-shadow);overflow:hidden;` +
     `background:white;border:${border};display:grid;place-items:center;`;
 
-  if (!logoUrl) {
-    return `<div title="${title}" style="${shell}"><div data-init style="width:${SIZE}px;height:${SIZE}px;display:grid;place-items:center;background:var(--teal);color:white;font-weight:700;letter-spacing:0.06em;">${initials}</div></div>`;
+  const initDiv =
+    `<div data-init style="width:${SIZE}px;height:${SIZE}px;display:${candidates.length ? "none" : "grid"};place-items:center;background:var(--teal);color:white;font-weight:700;letter-spacing:0.06em;">${initials}</div>`;
+
+  if (!candidates.length) {
+    return `<div title="${title}" style="${shell}">${initDiv}</div>`;
   }
 
-  const safeUrl = escapeHtml(logoUrl);
+  const encoded = candidates.map((u) => escapeHtml(u));
+  const chain = JSON.stringify(encoded).replaceAll("'", "\\'");
   const onError =
-    "this.style.display='none';var el=this.parentElement&&this.parentElement.querySelector('[data-init]');if(el){el.style.display='grid';}";
+    "var list=JSON.parse(this.dataset.fallbacks||'[]');var i=Number(this.dataset.i||0)+1;if(i<list.length){this.dataset.i=String(i);this.src=list[i];}else{this.style.display='none';var el=this.parentElement&&this.parentElement.querySelector('[data-init]');if(el){el.style.display='grid';}}";
 
   return (
     `<div title="${title}" style="${shell}">` +
-    `<img alt="" src="${safeUrl}" style="width:${SIZE}px;height:${SIZE}px;object-fit:cover;border-radius:9999px;" onerror="${onError}"/>` +
-    `<div data-init style="width:${SIZE}px;height:${SIZE}px;display:none;place-items:center;background:var(--teal);color:white;font-weight:700;letter-spacing:0.06em;">${initials}</div>` +
+    `<img alt="" data-i="0" data-fallbacks='${chain}' src="${encoded[0]}" style="width:${SIZE}px;height:${SIZE}px;object-fit:contain;padding:6px;box-sizing:border-box;border-radius:9999px;background:white;" onerror="${onError}"/>` +
+    initDiv +
     `</div>`
   );
 }
@@ -71,7 +73,7 @@ export function LogoBubbleMarker({
   const icon = React.useMemo(() => {
     const html = buildLogoHtml({
       name: startup.name,
-      logoUrl: startup.logoUrl,
+      candidates: logoCandidates(startup),
       isActive,
     });
     return L.divIcon({
@@ -80,7 +82,7 @@ export function LogoBubbleMarker({
       iconAnchor: [SIZE / 2, SIZE / 2],
       className: "",
     });
-  }, [startup.name, startup.logoUrl, isActive]);
+  }, [startup, isActive]);
 
   return (
     <Marker
@@ -90,4 +92,3 @@ export function LogoBubbleMarker({
     />
   );
 }
-

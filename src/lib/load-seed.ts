@@ -1,4 +1,5 @@
 import type { Building, CitySlug, Startup } from "./types";
+import { enrichStartupPresentation } from "./branding";
 import buildings from "@/data/buildings.json";
 import brisbane from "@/data/startups/brisbane.json";
 import sydney from "@/data/startups/sydney.json";
@@ -19,6 +20,6 @@ export function loadBuildings(): Building[] {
 }
 
 export function loadSeedStartups(city: CitySlug): Startup[] {
-  return SEED[city] ?? [];
+  return (SEED[city] ?? []).map(enrichStartupPresentation);
 }
 

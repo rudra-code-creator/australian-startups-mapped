@@ -9,6 +9,8 @@ export type Startup = {
   logoUrl?: string;
   website?: string;
   blurb?: string;
+  address?: string;
+  imageUrls?: string[];
   buildingId?: string;
   buildingName?: string;
   sector?: string;
