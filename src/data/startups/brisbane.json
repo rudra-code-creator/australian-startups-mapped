@@ -1,0 +1,439 @@
+[
+  {
+    "id": "go1",
+    "name": "Go1",
+    "city": "brisbane",
+    "lat": -27.4697,
+    "lng": 153.025,
+    "website": "https://go1.com",
+    "sector": "EdTech"
+  },
+  {
+    "id": "tritium",
+    "name": "Tritium",
+    "city": "brisbane",
+    "lat": -27.4742,
+    "lng": 153.0175,
+    "website": "https://tritiumcharging.com",
+    "sector": "Energy"
+  },
+  {
+    "id": "technologyone",
+    "name": "TechnologyOne",
+    "city": "brisbane",
+    "lat": -27.4659,
+    "lng": 153.0247,
+    "website": "https://technology1.com",
+    "sector": "SaaS"
+  },
+  {
+    "id": "redeye-apps",
+    "name": "RedEye Apps",
+    "city": "brisbane",
+    "lat": -27.4578,
+    "lng": 153.0318,
+    "website": "https://redeye.co",
+    "sector": "Enterprise"
+  },
+  {
+    "id": "skedulo",
+    "name": "Skedulo",
+    "city": "brisbane",
+    "lat": -27.4708,
+    "lng": 153.0222,
+    "website": "https://skedulo.com",
+    "sector": "SaaS"
+  },
+  {
+    "id": "tanda",
+    "name": "Tanda",
+    "city": "brisbane",
+    "lat": -27.4689,
+    "lng": 153.0256,
+    "website": "https://tanda.com.au",
+    "sector": "HR"
+  },
+  {
+    "id": "halfbrick-studios",
+    "name": "Halfbrick Studios",
+    "city": "brisbane",
+    "lat": -27.4599,
+    "lng": 153.0351,
+    "website": "https://halfbrick.com",
+    "sector": "Gaming"
+  },
+  {
+    "id": "askable",
+    "name": "Askable",
+    "city": "brisbane",
+    "lat": -27.467,
+    "lng": 153.028,
+    "website": "https://askable.com",
+    "sector": "Research",
+    "buildingId": "brisbane-the-precinct",
+    "buildingName": "The Precinct"
+  },
+  {
+    "id": "wemoney",
+    "name": "WeMoney",
+    "city": "brisbane",
+    "lat": -27.467,
+    "lng": 153.028,
+    "website": "https://wemoney.com.au",
+    "sector": "FinTech",
+    "buildingId": "brisbane-the-precinct",
+    "buildingName": "The Precinct"
+  },
+  {
+    "id": "oneqode",
+    "name": "OneQode",
+    "city": "brisbane",
+    "lat": -27.467,
+    "lng": 153.028,
+    "sector": "Infrastructure",
+    "buildingId": "brisbane-the-precinct",
+    "buildingName": "The Precinct"
+  },
+  {
+    "id": "fleetyr",
+    "name": "Fleetyr",
+    "city": "brisbane",
+    "lat": -27.467,
+    "lng": 153.028,
+    "website": "https://fleetyr.com",
+    "sector": "Logistics",
+    "buildingId": "brisbane-the-precinct",
+    "buildingName": "The Precinct"
+  },
+  {
+    "id": "octopus-deploy",
+    "name": "Octopus Deploy",
+    "city": "brisbane",
+    "lat": -27.4682,
+    "lng": 153.0239,
+    "website": "https://octopus.com",
+    "sector": "DevTools"
+  },
+  {
+    "id": "clipchamp",
+    "name": "Clipchamp",
+    "city": "brisbane",
+    "lat": -27.4627,
+    "lng": 153.0337,
+    "website": "https://clipchamp.com",
+    "sector": "Creator"
+  },
+  {
+    "id": "five-good-friends",
+    "name": "Five Good Friends",
+    "city": "brisbane",
+    "lat": -27.4691,
+    "lng": 153.0192,
+    "website": "https://fivegoodfriends.com.au",
+    "sector": "Health"
+  },
+  {
+    "id": "data3",
+    "name": "Data#3",
+    "city": "brisbane",
+    "lat": -27.4686,
+    "lng": 153.0312,
+    "website": "https://data3.com",
+    "sector": "IT"
+  },
+  {
+    "id": "vaxxas",
+    "name": "Vaxxas",
+    "city": "brisbane",
+    "lat": -27.4448,
+    "lng": 153.0298,
+    "website": "https://vaxxas.com",
+    "sector": "BioTech"
+  },
+  {
+    "id": "audeara",
+    "name": "Audeara",
+    "city": "brisbane",
+    "lat": -27.4652,
+    "lng": 153.0343,
+    "website": "https://audeara.com",
+    "sector": "Health"
+  },
+  {
+    "id": "resapp-health",
+    "name": "ResApp Health",
+    "city": "brisbane",
+    "lat": -27.4986,
+    "lng": 153.0135,
+    "sector": "Health"
+  },
+  {
+    "id": "procurepro",
+    "name": "ProcurePro",
+    "city": "brisbane",
+    "lat": -27.4559,
+    "lng": 153.0357,
+    "website": "https://procurepro.co",
+    "sector": "Construction"
+  },
+  {
+    "id": "endua",
+    "name": "Endua",
+    "city": "brisbane",
+    "lat": -27.4542,
+    "lng": 153.0432,
+    "website": "https://endua.com",
+    "sector": "Energy"
+  },
+  {
+    "id": "replica-studios",
+    "name": "Replica Studios",
+    "city": "brisbane",
+    "lat": -27.4506,
+    "lng": 153.0449,
+    "website": "https://replicastudios.com",
+    "sector": "AI"
+  },
+  {
+    "id": "edexia",
+    "name": "Edexia",
+    "city": "brisbane",
+    "lat": -27.4657,
+    "lng": 153.0134,
+    "sector": "AI"
+  },
+  {
+    "id": "neuphoria",
+    "name": "Neuphoria",
+    "city": "brisbane",
+    "lat": -27.4605,
+    "lng": 153.0295,
+    "sector": "AI"
+  },
+  {
+    "id": "vault-cloud",
+    "name": "Vault Cloud",
+    "city": "brisbane",
+    "lat": -27.4676,
+    "lng": 153.0118,
+    "website": "https://vaultcloud.com.au",
+    "sector": "Cloud"
+  },
+  {
+    "id": "wotif-group",
+    "name": "Wotif Group",
+    "city": "brisbane",
+    "lat": -27.4679,
+    "lng": 153.0241,
+    "sector": "Travel"
+  },
+  {
+    "id": "flight-centre",
+    "name": "Flight Centre Travel Group",
+    "city": "brisbane",
+    "lat": -27.4714,
+    "lng": 153.0214,
+    "website": "https://www.flightcentre.com.au",
+    "sector": "Travel"
+  },
+  {
+    "id": "clearsky-genomics",
+    "name": "ClearSKY Genomics",
+    "city": "brisbane",
+    "lat": -27.4472,
+    "lng": 153.0287,
+    "sector": "BioTech"
+  },
+  {
+    "id": "augmented-bionics",
+    "name": "Augmented Bionics",
+    "city": "brisbane",
+    "lat": -27.4988,
+    "lng": 153.0138,
+    "sector": "MedTech"
+  },
+  {
+    "id": "autopricer",
+    "name": "AutoPricer",
+    "city": "brisbane",
+    "lat": -27.4622,
+    "lng": 153.0411,
+    "sector": "SaaS"
+  },
+  {
+    "id": "chatloop",
+    "name": "Chatloop",
+    "city": "brisbane",
+    "lat": -27.4699,
+    "lng": 153.0302,
+    "sector": "SaaS"
+  },
+  {
+    "id": "chatstat",
+    "name": "Chatstat",
+    "city": "brisbane",
+    "lat": -27.4694,
+    "lng": 153.0267,
+    "sector": "SaaS"
+  },
+  {
+    "id": "envirometrics-io",
+    "name": "envirometrics.io",
+    "city": "brisbane",
+    "lat": -27.4594,
+    "lng": 153.0395,
+    "sector": "Climate"
+  },
+  {
+    "id": "go-locum",
+    "name": "Go Locum",
+    "city": "brisbane",
+    "lat": -27.4746,
+    "lng": 153.014,
+    "sector": "Health"
+  },
+  {
+    "id": "farm-hero",
+    "name": "Farm Hero",
+    "city": "brisbane",
+    "lat": -27.4564,
+    "lng": 153.0284,
+    "sector": "AgTech"
+  },
+  {
+    "id": "homecube",
+    "name": "Homecube",
+    "city": "brisbane",
+    "lat": -27.4633,
+    "lng": 153.0109,
+    "sector": "PropTech"
+  },
+  {
+    "id": "hyra-iq",
+    "name": "Hyra iQ",
+    "city": "brisbane",
+    "lat": -27.4489,
+    "lng": 153.0438,
+    "sector": "SaaS"
+  },
+  {
+    "id": "inovotech",
+    "name": "iNovoTech",
+    "city": "brisbane",
+    "lat": -27.5003,
+    "lng": 153.0127,
+    "sector": "BioTech"
+  },
+  {
+    "id": "inventico",
+    "name": "Inventico",
+    "city": "brisbane",
+    "lat": -27.4703,
+    "lng": 153.0136,
+    "sector": "R&D"
+  },
+  {
+    "id": "knowa",
+    "name": "Knowa",
+    "city": "brisbane",
+    "lat": -27.4688,
+    "lng": 153.0331,
+    "sector": "SaaS"
+  },
+  {
+    "id": "ag-intellisense",
+    "name": "Ag Intellisense",
+    "city": "brisbane",
+    "lat": -27.4981,
+    "lng": 153.0146,
+    "sector": "AgTech"
+  },
+  {
+    "id": "australian-urban-growers",
+    "name": "Australian Urban Growers",
+    "city": "brisbane",
+    "lat": -27.4681,
+    "lng": 153.0161,
+    "sector": "AgTech"
+  },
+  {
+    "id": "defence-nutrition-australia",
+    "name": "Defence Nutrition Australia",
+    "city": "brisbane",
+    "lat": -27.4707,
+    "lng": 153.0091,
+    "sector": "Health"
+  },
+  {
+    "id": "eclipse",
+    "name": "Eclipse",
+    "city": "brisbane",
+    "lat": -27.4479,
+    "lng": 153.0244,
+    "sector": "Technology"
+  },
+  {
+    "id": "jetson-industries",
+    "name": "Jetson Industries",
+    "city": "brisbane",
+    "lat": -27.4664,
+    "lng": 153.0379,
+    "sector": "Industry"
+  },
+  {
+    "id": "inkquiry",
+    "name": "Inkquiry",
+    "city": "brisbane",
+    "lat": -27.4502,
+    "lng": 153.0407,
+    "sector": "Education"
+  },
+  {
+    "id": "deep-connection",
+    "name": "Deep Connection",
+    "city": "brisbane",
+    "lat": -27.4741,
+    "lng": 153.0079,
+    "sector": "SaaS"
+  },
+  {
+    "id": "expera",
+    "name": "Expera",
+    "city": "brisbane",
+    "lat": -27.4552,
+    "lng": 153.0321,
+    "sector": "Technology"
+  },
+  {
+    "id": "fantribe",
+    "name": "FanTribe",
+    "city": "brisbane",
+    "lat": -27.4569,
+    "lng": 153.0372,
+    "sector": "Community"
+  },
+  {
+    "id": "fortus",
+    "name": "Fortus",
+    "city": "brisbane",
+    "lat": -27.4729,
+    "lng": 153.024,
+    "sector": "Technology"
+  },
+  {
+    "id": "extrasjar",
+    "name": "ExtrasJar",
+    "city": "brisbane",
+    "lat": -27.4618,
+    "lng": 153.0246,
+    "sector": "FinTech"
+  },
+  {
+    "id": "brandtools",
+    "name": "Brandtools",
+    "city": "brisbane",
+    "lat": -27.4571,
+    "lng": 153.033,
+    "sector": "Marketing"
+  }
+]
