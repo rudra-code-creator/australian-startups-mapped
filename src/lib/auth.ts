@@ -27,7 +27,8 @@ function sessionOptions(): SessionOptions {
 }
 
 export async function getSession() {
-  return getIronSession<AdminSessionData>(cookies(), sessionOptions());
+  const cookieStore = await cookies();
+  return getIronSession<AdminSessionData>(cookieStore, sessionOptions());
 }
 
 export async function requireAdmin() {

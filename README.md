@@ -4,7 +4,7 @@ An Australian startup office map covering Brisbane, Sydney, Melbourne, Adelaide,
 
 ### Overview
 
-- **Tech stack**: Next.js App Router, TypeScript, React, Leaflet, Tailwind CSS, Prisma + SQLite.
+- **Tech stack**: Next.js 16 App Router, TypeScript, React 19, Leaflet, Tailwind CSS, Prisma + SQLite (LibSQL adapter).
 - **Main surfaces**: `/` (home), `/maps/[city]`, `/suggest` (public suggest form), `/admin` (password‑protected approval queue).
 - **Data model**: Curated seed JSON in the repo plus a small SQLite database for suggestions and approval state.
 
@@ -30,7 +30,7 @@ The map ships with five Australian city maps:
 
 ### Prerequisites
 
-- **Node.js**: 18.x or newer (matching Next.js 14 requirements).
+- **Node.js**: **20.9+** (Next.js 16 requirement). Use one Node version consistently for install and `npm run dev` (fnm/nvm recommended).
 - **Package manager**: npm (uses `package-lock.json`).
 
 ### Environment variables
