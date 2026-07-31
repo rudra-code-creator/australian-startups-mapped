@@ -1,4 +1,4 @@
-import { timingSafeEqual } from "crypto";
+import { createHash, timingSafeEqual } from "crypto";
 import { cookies } from "next/headers";
 import { getIronSession, type SessionOptions } from "iron-session";
 
@@ -42,9 +42,9 @@ export function loginWithPassword(password: string): boolean {
   const expected = process.env.ADMIN_PASSWORD;
   if (!expected) return false;
 
-  const a = Buffer.from(password);
-  const b = Buffer.from(expected);
-  if (a.length !== b.length) return false;
-  return timingSafeEqual(a, b);
+  const hashPassword = createHash("sha256").update(password).digest();
+  const hashExpected = createHash("sha256").update(expected).digest();
+
+  return timingSafeEqual(hashPassword, hashExpected);
 }
 

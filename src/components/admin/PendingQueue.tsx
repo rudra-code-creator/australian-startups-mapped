@@ -229,7 +229,7 @@ export function PendingQueue() {
           </div>
         ))}
 
-        {authed !== false && !loading && rows.length === 0 ? (
+        {authed === true && !loading && rows.length === 0 ? (
           <div className="rounded-xl border border-black/10 bg-white p-8 text-center text-sm text-[color:var(--muted)]">
             No pending suggestions.
           </div>
