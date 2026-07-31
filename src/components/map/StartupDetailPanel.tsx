@@ -27,7 +27,9 @@ export function StartupDetailPanel({
         bottom: 16,
         width: "min(420px, calc(100vw - 32px))",
         transform: open ? "translateX(0)" : "translateX(calc(100% + 24px))",
-        transition: "transform 220ms ease",
+        transition:
+          "transform 240ms cubic-bezier(0.2, 0.9, 0.2, 1), opacity 200ms ease-out",
+        opacity: open ? 1 : 0,
         borderRadius: 22,
         background: "rgba(255,255,255,0.92)",
         backdropFilter: "blur(10px)",

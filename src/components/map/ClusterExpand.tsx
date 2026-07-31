@@ -114,6 +114,7 @@ export function ClusterExpand({
         padding: 12,
         zIndex: 1000,
       }}
+      className="cluster-expand-panel"
       role="dialog"
       aria-label={`${buildingName} hub`}
     >
