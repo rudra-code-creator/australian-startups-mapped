@@ -104,19 +104,29 @@ export function SuggestForm() {
         return;
       }
 
-      setValues({
-        name: "",
-        city: "",
-        addressOrBuilding: "",
-        website: "",
-        logoUrl: "",
-        email: "",
-      });
+      // Only show success UI when the server explicitly reports the suggestion
+      // as pending. Keep `pending` local state only for disabling the form.
+      const isPending =
+        data &&
+        typeof data === "object" &&
+        (data as any).status === "pending";
+
       setFieldErrors({});
       setErrorMessage(null);
-      setSuccessMessage(
-        "Thanks — we'll review before it appears on the map."
-      );
+
+      if (isPending) {
+        setValues({
+          name: "",
+          city: "",
+          addressOrBuilding: "",
+          website: "",
+          logoUrl: "",
+          email: "",
+        });
+        setSuccessMessage("Thanks — we'll review before it appears on the map.");
+      } else {
+        setErrorMessage("Something went wrong. Please try again.");
+      }
     } catch {
       setErrorMessage("Something went wrong. Please try again.");
     } finally {
