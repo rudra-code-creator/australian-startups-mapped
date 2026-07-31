@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --ink: #0c1b24;
+  --teal: #0f6b6b;
+  --teal-deep: #0a4f4f;
+  --paper: #f3f5f4;
+  --muted: #5c6b73;
+  --map-shadow: 0 6px 18px rgba(12, 27, 36, 0.18);
+  --map-land: #d7dde1;
+  --font-display: "Fraunces", Georgia, serif;
+  --font-ui: "DM Sans", "Segoe UI", sans-serif;
+}
+
+html,
+body {
+  margin: 0;
+  min-height: 100%;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-ui);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}

@@ -11,6 +11,7 @@ dist/
 # OS / editor
 .DS_Store
 Thumbs.db
+*.db
 *.log
 
 # Local Cursor hook state (regenerated)
