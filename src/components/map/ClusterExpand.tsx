@@ -77,11 +77,11 @@ export function ClusterExpand({
   onClose: () => void;
 }) {
   const map = useMap();
-  const [, bump] = React.useState(0);
+  const [bump, setBump] = React.useState(0);
 
   useMapEvents({
-    move: () => bump((x) => x + 1),
-    zoom: () => bump((x) => x + 1),
+    move: () => setBump((x) => x + 1),
+    zoom: () => setBump((x) => x + 1),
   });
 
   const { left, top } = React.useMemo(() => {
@@ -98,7 +98,7 @@ export function ClusterExpand({
       left: clamp(rawLeft, pad, Math.max(pad, size.x - panelW - pad)),
       top: clamp(rawTop, pad, Math.max(pad, size.y - panelH - pad)),
     };
-  }, [map, lat, lng]);
+  }, [map, lat, lng, bump]);
 
   return (
     <div
