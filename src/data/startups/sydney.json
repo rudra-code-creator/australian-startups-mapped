@@ -608,5 +608,35 @@
     "sector": "Security",
     "address": "Sydney CBD NSW (approximate HQ area)",
     "blurb": "CyberCX (Sydney office) is a security company in Australia’s startup ecosystem."
+  },
+  {
+    "id": "syd-lyra",
+    "name": "Lyra Technologies",
+    "city": "sydney",
+    "lat": -33.8576401,
+    "lng": 151.2041914,
+    "website": "https://lyratechnologies.com.au",
+    "sector": "Product Engineering",
+    "address": "7/20 Windmill St, Millers Point NSW 2000",
+    "blurb": "Founding engineering and design studio partnering with Silicon Valley startups to design, build, and ship products.",
+    "logoUrl": "https://logo.clearbit.com/lyratechnologies.com.au",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Flyratechnologies.com.au?w=1200"
+    ]
+  },
+  {
+    "id": "syd-kinso",
+    "name": "Kinso",
+    "city": "sydney",
+    "lat": -33.8773931,
+    "lng": 151.2123847,
+    "website": "https://kinso.ai",
+    "sector": "AI / Productivity",
+    "address": "1 Oxford St, Surry Hills NSW 2010",
+    "blurb": "Unified AI inbox that brings email, messages, and contacts into one workspace and drafts replies in your voice.",
+    "logoUrl": "https://logo.clearbit.com/kinso.ai",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fkinso.ai?w=1200"
+    ]
   }
 ]

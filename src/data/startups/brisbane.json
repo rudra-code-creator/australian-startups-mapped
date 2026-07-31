@@ -416,11 +416,18 @@
     "id": "chatstat",
     "name": "Chatstat",
     "city": "brisbane",
-    "lat": -27.467399999999998,
-    "lng": 153.01950000000002,
-    "sector": "SaaS",
-    "address": "Brisbane CBD QLD (approximate HQ area)",
-    "blurb": "Chatstat is a saas company in Australia’s startup ecosystem."
+    "lat": -27.4575,
+    "lng": 153.03385,
+    "sector": "Safety",
+    "address": "100 Brunswick St, Fortitude Valley QLD 4006",
+    "blurb": "Digital wellbeing and safety platform for schools, families, and workplaces — monitoring communication signals that matter.",
+    "buildingId": "brisbane-the-precinct",
+    "buildingName": "The Precinct",
+    "website": "https://chatstat.com",
+    "logoUrl": "https://logo.clearbit.com/chatstat.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fchatstat.com?w=1200"
+    ]
   },
   {
     "id": "envirometrics-io",
@@ -621,5 +628,20 @@
     "sector": "Marketing",
     "address": "Brisbane CBD QLD (approximate HQ area)",
     "blurb": "Brandtools is a marketing company in Australia’s startup ecosystem."
+  },
+  {
+    "id": "autorfp",
+    "name": "AutoRFP.ai",
+    "city": "brisbane",
+    "lat": -27.4675,
+    "lng": 153.0205,
+    "website": "https://autorfp.ai",
+    "sector": "AI / Sales",
+    "address": "Brisbane City QLD 4000",
+    "blurb": "AI-first RFP and security questionnaire platform that drafts trusted, cited responses so teams win more deals faster.",
+    "logoUrl": "https://logo.clearbit.com/autorfp.ai",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fautorfp.ai?w=1200"
+    ]
   }
 ]

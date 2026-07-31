@@ -543,5 +543,20 @@
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Farchistar.ai?w=1200"
     ]
+  },
+  {
+    "id": "mel-lyra",
+    "name": "Lyra Technologies",
+    "city": "melbourne",
+    "lat": -37.8137562,
+    "lng": 144.9722943,
+    "website": "https://lyratechnologies.com.au",
+    "sector": "Product Engineering",
+    "address": "7/440 Collins St, Melbourne VIC 3000",
+    "blurb": "Melbourne studio of Lyra Technologies — embedded engineering and design for high-growth startups.",
+    "logoUrl": "https://logo.clearbit.com/lyratechnologies.com.au",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Flyratechnologies.com.au?w=1200"
+    ]
   }
 ]

@@ -146,7 +146,7 @@ export function StartupMap({
             buildingName={expandedHub.buildingName}
             startups={expandedHub.startups}
             onSelect={(s) => {
-              setExpandedHubId(null);
+              // Keep the hub open so users can browse logos; detail panel opens beside it.
               setSelectedStartupId(s.id);
             }}
             onClose={() => setExpandedHubId(null)}
