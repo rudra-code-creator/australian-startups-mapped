@@ -1,0 +1,29 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+}
+
+model Suggestion {
+  id               String   @id @default(cuid())
+  name             String
+  city             String
+  addressOrBuilding String
+  website          String?
+  logoUrl          String?
+  blurb            String?
+  sector           String?
+  submitterEmail   String?
+  lat              Float?
+  lng              Float?
+  buildingId       String?
+  buildingName     String?
+  status           String   @default("pending")
+  createdAt        DateTime @default(now())
+  updatedAt        DateTime @updatedAt
+
+  @@index([status])
+  @@index([city])
+}

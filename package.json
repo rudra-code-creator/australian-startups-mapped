@@ -8,10 +8,13 @@
     "start": "next start",
     "lint": "next lint",
     "test": "vitest run",
-    "test:watch": "vitest"
+    "test:watch": "vitest",
+    "db:push": "prisma db push",
+    "db:studio": "prisma studio"
   },
   "dependencies": {
     "@prisma/client": "^7.9.1",
+    "dotenv": "^16.4.5",
     "iron-session": "^8.0.4",
     "leaflet": "^1.9.4",
     "next": "^14.2.3",
