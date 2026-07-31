@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { SuggestForm } from "@/components/suggest/SuggestForm";
 
 export default function SuggestPage() {
   return (
@@ -11,12 +12,16 @@ export default function SuggestPage() {
           className="mt-4 text-3xl sm:text-4xl tracking-tight text-[color:var(--ink)]"
           style={{ fontFamily: "var(--font-display)" }}
         >
-          Coming next.
+          Put your startup on the map.
         </h1>
         <p className="mt-5 text-base text-[color:var(--muted)]">
-          The public suggestion form is being wired up. For now, head to a city
-          map to explore the curated seed set.
+          Share a startup or hub you think belongs on the Australian Startup
+          Map. Suggestions are reviewed before they appear publicly.
         </p>
+
+        <div className="mt-10">
+          <SuggestForm />
+        </div>
 
         <div className="mt-8">
           <Link
