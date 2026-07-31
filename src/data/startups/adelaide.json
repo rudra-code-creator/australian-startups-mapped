@@ -1,1 +1,351 @@
-[]
+[
+  {
+    "id": "adl-fleet-space",
+    "name": "Fleet Space Technologies",
+    "city": "adelaide",
+    "lat": -34.9221,
+    "lng": 138.5999,
+    "website": "https://fleetspace.com",
+    "sector": "Space",
+    "buildingId": "adelaide-lot-fourteen",
+    "buildingName": "Lot Fourteen"
+  },
+  {
+    "id": "adl-myriota",
+    "name": "Myriota",
+    "city": "adelaide",
+    "lat": -34.9221,
+    "lng": 138.5999,
+    "website": "https://myriota.com",
+    "sector": "IoT",
+    "buildingId": "adelaide-lot-fourteen",
+    "buildingName": "Lot Fourteen"
+  },
+  {
+    "id": "adl-fivecast",
+    "name": "Fivecast",
+    "city": "adelaide",
+    "lat": -34.9221,
+    "lng": 138.5999,
+    "website": "https://fivecast.com",
+    "sector": "AI",
+    "buildingId": "adelaide-lot-fourteen",
+    "buildingName": "Lot Fourteen"
+  },
+  {
+    "id": "adl-luminary-ai",
+    "name": "Luminary AI (illustrative)",
+    "city": "adelaide",
+    "lat": -34.9221,
+    "lng": 138.5999,
+    "sector": "AI",
+    "buildingId": "adelaide-lot-fourteen",
+    "buildingName": "Lot Fourteen"
+  },
+  {
+    "id": "adl-aurizn",
+    "name": "Aurizn",
+    "city": "adelaide",
+    "lat": -34.9221,
+    "lng": 138.5999,
+    "website": "https://aurizn.co",
+    "sector": "Defence",
+    "buildingId": "adelaide-lot-fourteen",
+    "buildingName": "Lot Fourteen"
+  },
+  {
+    "id": "adl-neoen-ops",
+    "name": "Neoen (SA operations)",
+    "city": "adelaide",
+    "lat": -34.9221,
+    "lng": 138.5999,
+    "sector": "Energy",
+    "buildingId": "adelaide-lot-fourteen",
+    "buildingName": "Lot Fourteen"
+  },
+  {
+    "id": "adl-space-machine-company",
+    "name": "Space Machine Company",
+    "city": "adelaide",
+    "lat": -34.9221,
+    "lng": 138.5999,
+    "sector": "Space",
+    "buildingId": "adelaide-lot-fourteen",
+    "buildingName": "Lot Fourteen"
+  },
+  {
+    "id": "adl-robotics-vision-lab",
+    "name": "Robotics Vision Lab (illustrative)",
+    "city": "adelaide",
+    "lat": -34.9221,
+    "lng": 138.5999,
+    "sector": "Robotics",
+    "buildingId": "adelaide-lot-fourteen",
+    "buildingName": "Lot Fourteen"
+  },
+  {
+    "id": "adl-lbt-innovations",
+    "name": "LBT Innovations",
+    "city": "adelaide",
+    "lat": -34.9313,
+    "lng": 138.5996,
+    "website": "https://www.lbtinnovations.com",
+    "sector": "BioTech"
+  },
+  {
+    "id": "adl-simpatico",
+    "name": "Simpatico",
+    "city": "adelaide",
+    "lat": -34.9281,
+    "lng": 138.6063,
+    "sector": "SaaS"
+  },
+  {
+    "id": "adl-hydroflow",
+    "name": "HydroFlow (illustrative)",
+    "city": "adelaide",
+    "lat": -34.9274,
+    "lng": 138.5965,
+    "sector": "Climate"
+  },
+  {
+    "id": "adl-beach-energy-digital",
+    "name": "Beach Energy (Digital)",
+    "city": "adelaide",
+    "lat": -34.9279,
+    "lng": 138.5942,
+    "sector": "Energy"
+  },
+  {
+    "id": "adl-santafe-medtech",
+    "name": "Santa Fe MedTech (illustrative)",
+    "city": "adelaide",
+    "lat": -34.9308,
+    "lng": 138.6074,
+    "sector": "MedTech"
+  },
+  {
+    "id": "adl-agriwebb-adl",
+    "name": "AgriWebb (Adelaide office)",
+    "city": "adelaide",
+    "lat": -34.9341,
+    "lng": 138.6038,
+    "sector": "AgTech"
+  },
+  {
+    "id": "adl-swipejobs-sa",
+    "name": "Swipejobs (SA)",
+    "city": "adelaide",
+    "lat": -34.9288,
+    "lng": 138.5924,
+    "sector": "HR"
+  },
+  {
+    "id": "adl-edtech-coach",
+    "name": "CoachEd (illustrative)",
+    "city": "adelaide",
+    "lat": -34.9229,
+    "lng": 138.6031,
+    "sector": "EdTech"
+  },
+  {
+    "id": "adl-logistics-lab",
+    "name": "Port Optimiser (illustrative)",
+    "city": "adelaide",
+    "lat": -34.9273,
+    "lng": 138.6112,
+    "sector": "Logistics"
+  },
+  {
+    "id": "adl-cyber-south",
+    "name": "Cyber South (illustrative)",
+    "city": "adelaide",
+    "lat": -34.9261,
+    "lng": 138.5978,
+    "sector": "Security"
+  },
+  {
+    "id": "adl-healthcare-marketplace",
+    "name": "CareConnect SA (illustrative)",
+    "city": "adelaide",
+    "lat": -34.9296,
+    "lng": 138.6032,
+    "sector": "Marketplace"
+  },
+  {
+    "id": "adl-proptech-sa",
+    "name": "PlanGrid AU (SA office)",
+    "city": "adelaide",
+    "lat": -34.9343,
+    "lng": 138.5957,
+    "sector": "PropTech"
+  },
+  {
+    "id": "adl-construction-saas",
+    "name": "SiteReady (illustrative)",
+    "city": "adelaide",
+    "lat": -34.9327,
+    "lng": 138.5917,
+    "sector": "Construction"
+  },
+  {
+    "id": "adl-creator-tools",
+    "name": "StudioStack (illustrative)",
+    "city": "adelaide",
+    "lat": -34.9238,
+    "lng": 138.5938,
+    "sector": "Creator"
+  },
+  {
+    "id": "adl-fintech-sa",
+    "name": "PayDock (SA office)",
+    "city": "adelaide",
+    "lat": -34.9291,
+    "lng": 138.6094,
+    "sector": "FinTech"
+  },
+  {
+    "id": "adl-insurtech",
+    "name": "Cover Genius (Adelaide office)",
+    "city": "adelaide",
+    "lat": -34.9247,
+    "lng": 138.606,
+    "sector": "InsurTech"
+  },
+  {
+    "id": "adl-tourism-tech",
+    "name": "TourismLab (illustrative)",
+    "city": "adelaide",
+    "lat": -34.9271,
+    "lng": 138.6002,
+    "sector": "Travel"
+  },
+  {
+    "id": "adl-retail-ops",
+    "name": "RetailOps SA (illustrative)",
+    "city": "adelaide",
+    "lat": -34.932,
+    "lng": 138.6058,
+    "sector": "Retail"
+  },
+  {
+    "id": "adl-devtools",
+    "name": "PipelineHQ (illustrative)",
+    "city": "adelaide",
+    "lat": -34.9286,
+    "lng": 138.5989,
+    "sector": "DevTools"
+  },
+  {
+    "id": "adl-cloud-services",
+    "name": "Vault Cloud (Adelaide office)",
+    "city": "adelaide",
+    "lat": -34.9253,
+    "lng": 138.5928,
+    "sector": "Cloud"
+  },
+  {
+    "id": "adl-rd-lab",
+    "name": "R&D Foundry (illustrative)",
+    "city": "adelaide",
+    "lat": -34.935,
+    "lng": 138.6089,
+    "sector": "R&D"
+  },
+  {
+    "id": "adl-battery-tech",
+    "name": "BatteryWorks (illustrative)",
+    "city": "adelaide",
+    "lat": -34.9266,
+    "lng": 138.6052,
+    "sector": "Energy"
+  },
+  {
+    "id": "adl-climate-saas",
+    "name": "CarbonLedger SA (illustrative)",
+    "city": "adelaide",
+    "lat": -34.9314,
+    "lng": 138.598,
+    "sector": "Climate"
+  },
+  {
+    "id": "adl-iot-sensors",
+    "name": "SensorGrid (illustrative)",
+    "city": "adelaide",
+    "lat": -34.9298,
+    "lng": 138.5963,
+    "sector": "IoT"
+  },
+  {
+    "id": "adl-legaltech",
+    "name": "CaseFlow (illustrative)",
+    "city": "adelaide",
+    "lat": -34.9346,
+    "lng": 138.6009,
+    "sector": "Legal"
+  },
+  {
+    "id": "adl-data-platform",
+    "name": "DataHarbour (illustrative)",
+    "city": "adelaide",
+    "lat": -34.9278,
+    "lng": 138.6045,
+    "sector": "Data"
+  },
+  {
+    "id": "adl-community",
+    "name": "CommunityStack (illustrative)",
+    "city": "adelaide",
+    "lat": -34.9239,
+    "lng": 138.6091,
+    "sector": "Community"
+  },
+  {
+    "id": "adl-industry-tech",
+    "name": "IndustryOS (illustrative)",
+    "city": "adelaide",
+    "lat": -34.9304,
+    "lng": 138.5908,
+    "sector": "Industry"
+  },
+  {
+    "id": "adl-education-tools",
+    "name": "ClassroomKit (illustrative)",
+    "city": "adelaide",
+    "lat": -34.9269,
+    "lng": 138.6069,
+    "sector": "Education"
+  },
+  {
+    "id": "adl-marketing-platform",
+    "name": "MarketingLoop SA (illustrative)",
+    "city": "adelaide",
+    "lat": -34.9332,
+    "lng": 138.6024,
+    "sector": "Marketing"
+  },
+  {
+    "id": "adl-enterprise-saas",
+    "name": "EnterpriseDock (illustrative)",
+    "city": "adelaide",
+    "lat": -34.9299,
+    "lng": 138.612,
+    "sector": "Enterprise"
+  },
+  {
+    "id": "adl-mobility",
+    "name": "MobilityMap SA (illustrative)",
+    "city": "adelaide",
+    "lat": -34.9318,
+    "lng": 138.6099,
+    "sector": "Mobility"
+  },
+  {
+    "id": "adl-ecommerce-tools",
+    "name": "CartCraft (illustrative)",
+    "city": "adelaide",
+    "lat": -34.9256,
+    "lng": 138.6037,
+    "sector": "Ecommerce"
+  }
+]

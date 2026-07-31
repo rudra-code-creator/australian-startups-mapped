@@ -1,1 +1,363 @@
-[]
+[
+  {
+    "id": "per-healthengine",
+    "name": "Healthengine",
+    "city": "perth",
+    "lat": -31.9529,
+    "lng": 115.861,
+    "website": "https://healthengine.com.au",
+    "sector": "Health"
+  },
+  {
+    "id": "per-spacecubed-member-1",
+    "name": "HydraPay (illustrative)",
+    "city": "perth",
+    "lat": -31.9554,
+    "lng": 115.8602,
+    "sector": "FinTech",
+    "buildingId": "perth-spacecubed-riff",
+    "buildingName": "Spacecubed (Riff)"
+  },
+  {
+    "id": "per-spacecubed-member-2",
+    "name": "MineSense AU (illustrative)",
+    "city": "perth",
+    "lat": -31.9554,
+    "lng": 115.8602,
+    "sector": "MiningTech",
+    "buildingId": "perth-spacecubed-riff",
+    "buildingName": "Spacecubed (Riff)"
+  },
+  {
+    "id": "per-spacecubed-member-3",
+    "name": "OceanGrid (illustrative)",
+    "city": "perth",
+    "lat": -31.9554,
+    "lng": 115.8602,
+    "sector": "Climate",
+    "buildingId": "perth-spacecubed-riff",
+    "buildingName": "Spacecubed (Riff)"
+  },
+  {
+    "id": "per-spacecubed-member-4",
+    "name": "Riff Robotics (illustrative)",
+    "city": "perth",
+    "lat": -31.9554,
+    "lng": 115.8602,
+    "sector": "Robotics",
+    "buildingId": "perth-spacecubed-riff",
+    "buildingName": "Spacecubed (Riff)"
+  },
+  {
+    "id": "per-spacecubed-member-5",
+    "name": "SignalDock (illustrative)",
+    "city": "perth",
+    "lat": -31.9554,
+    "lng": 115.8602,
+    "sector": "SaaS",
+    "buildingId": "perth-spacecubed-riff",
+    "buildingName": "Spacecubed (Riff)"
+  },
+  {
+    "id": "per-spacecubed-member-6",
+    "name": "WestCyber (illustrative)",
+    "city": "perth",
+    "lat": -31.9554,
+    "lng": 115.8602,
+    "sector": "Security",
+    "buildingId": "perth-spacecubed-riff",
+    "buildingName": "Spacecubed (Riff)"
+  },
+  {
+    "id": "per-spacecubed-member-7",
+    "name": "HarbourFlow (illustrative)",
+    "city": "perth",
+    "lat": -31.9554,
+    "lng": 115.8602,
+    "sector": "Logistics",
+    "buildingId": "perth-spacecubed-riff",
+    "buildingName": "Spacecubed (Riff)"
+  },
+  {
+    "id": "per-spacecubed-member-8",
+    "name": "CreatorStack WA (illustrative)",
+    "city": "perth",
+    "lat": -31.9554,
+    "lng": 115.8602,
+    "sector": "Creator",
+    "buildingId": "perth-spacecubed-riff",
+    "buildingName": "Spacecubed (Riff)"
+  },
+  {
+    "id": "per-lynn-tech",
+    "name": "Lynas Rare Earths (Digital)",
+    "city": "perth",
+    "lat": -31.9498,
+    "lng": 115.8619,
+    "sector": "Industry"
+  },
+  {
+    "id": "per-woodside-digital",
+    "name": "Woodside (Digital)",
+    "city": "perth",
+    "lat": -31.955,
+    "lng": 115.8627,
+    "sector": "Energy"
+  },
+  {
+    "id": "per-bhp-tech",
+    "name": "BHP (Tech)",
+    "city": "perth",
+    "lat": -31.951,
+    "lng": 115.8614,
+    "sector": "MiningTech"
+  },
+  {
+    "id": "per-rio-tech",
+    "name": "Rio Tinto (Tech)",
+    "city": "perth",
+    "lat": -31.9562,
+    "lng": 115.8576,
+    "sector": "MiningTech"
+  },
+  {
+    "id": "per-fortescue-future",
+    "name": "Fortescue (Energy/Tech)",
+    "city": "perth",
+    "lat": -31.9522,
+    "lng": 115.8549,
+    "sector": "Energy"
+  },
+  {
+    "id": "per-nearmap-per",
+    "name": "Nearmap (Perth office)",
+    "city": "perth",
+    "lat": -31.9535,
+    "lng": 115.8681,
+    "sector": "GeoTech"
+  },
+  {
+    "id": "per-telethon-kids-tech",
+    "name": "Telethon Kids (Digital)",
+    "city": "perth",
+    "lat": -31.9569,
+    "lng": 115.8126,
+    "sector": "Health"
+  },
+  {
+    "id": "per-uw-ventures",
+    "name": "UWA Ventures (illustrative)",
+    "city": "perth",
+    "lat": -31.9794,
+    "lng": 115.817,
+    "sector": "R&D"
+  },
+  {
+    "id": "per-curtin-innovate",
+    "name": "Curtin Innovate (illustrative)",
+    "city": "perth",
+    "lat": -32.0067,
+    "lng": 115.8948,
+    "sector": "R&D"
+  },
+  {
+    "id": "per-edtech-wa",
+    "name": "ClassroomKit WA (illustrative)",
+    "city": "perth",
+    "lat": -31.952,
+    "lng": 115.8721,
+    "sector": "EdTech"
+  },
+  {
+    "id": "per-agtech-wa",
+    "name": "AgSense WA (illustrative)",
+    "city": "perth",
+    "lat": -31.9491,
+    "lng": 115.8588,
+    "sector": "AgTech"
+  },
+  {
+    "id": "per-proptech",
+    "name": "PropertyIQ WA (illustrative)",
+    "city": "perth",
+    "lat": -31.9573,
+    "lng": 115.8648,
+    "sector": "PropTech"
+  },
+  {
+    "id": "per-insurtech",
+    "name": "InsureWave WA (illustrative)",
+    "city": "perth",
+    "lat": -31.9489,
+    "lng": 115.8644,
+    "sector": "InsurTech"
+  },
+  {
+    "id": "per-marketplace",
+    "name": "TradieLink WA (illustrative)",
+    "city": "perth",
+    "lat": -31.9447,
+    "lng": 115.8612,
+    "sector": "Marketplace"
+  },
+  {
+    "id": "per-travel-tech",
+    "name": "Coastal Escapes (illustrative)",
+    "city": "perth",
+    "lat": -31.953,
+    "lng": 115.858,
+    "sector": "Travel"
+  },
+  {
+    "id": "per-retail-tech",
+    "name": "RetailOps WA (illustrative)",
+    "city": "perth",
+    "lat": -31.9507,
+    "lng": 115.8557,
+    "sector": "Retail"
+  },
+  {
+    "id": "per-ecommerce-tools",
+    "name": "CartCraft WA (illustrative)",
+    "city": "perth",
+    "lat": -31.9518,
+    "lng": 115.8669,
+    "sector": "Ecommerce"
+  },
+  {
+    "id": "per-devtools",
+    "name": "DeployDock WA (illustrative)",
+    "city": "perth",
+    "lat": -31.9475,
+    "lng": 115.8606,
+    "sector": "DevTools"
+  },
+  {
+    "id": "per-data-platform",
+    "name": "DataHarbour WA (illustrative)",
+    "city": "perth",
+    "lat": -31.9568,
+    "lng": 115.8695,
+    "sector": "Data"
+  },
+  {
+    "id": "per-community",
+    "name": "CommunityStack WA (illustrative)",
+    "city": "perth",
+    "lat": -31.9557,
+    "lng": 115.854,
+    "sector": "Community"
+  },
+  {
+    "id": "per-creator-tools",
+    "name": "StudioStack WA (illustrative)",
+    "city": "perth",
+    "lat": -31.957,
+    "lng": 115.8592,
+    "sector": "Creator"
+  },
+  {
+    "id": "per-security",
+    "name": "CyberCX (Perth office)",
+    "city": "perth",
+    "lat": -31.9512,
+    "lng": 115.8631,
+    "sector": "Security"
+  },
+  {
+    "id": "per-saas-wa",
+    "name": "RosterPilot (illustrative)",
+    "city": "perth",
+    "lat": -31.9482,
+    "lng": 115.8718,
+    "sector": "SaaS"
+  },
+  {
+    "id": "per-hr-tech",
+    "name": "ShiftMate WA (illustrative)",
+    "city": "perth",
+    "lat": -31.9547,
+    "lng": 115.866,
+    "sector": "HR"
+  },
+  {
+    "id": "per-construction-tech",
+    "name": "SiteReady WA (illustrative)",
+    "city": "perth",
+    "lat": -31.9469,
+    "lng": 115.8676,
+    "sector": "Construction"
+  },
+  {
+    "id": "per-mobility",
+    "name": "MobilityMap WA (illustrative)",
+    "city": "perth",
+    "lat": -31.9559,
+    "lng": 115.8712,
+    "sector": "Mobility"
+  },
+  {
+    "id": "per-legaltech",
+    "name": "CaseFlow WA (illustrative)",
+    "city": "perth",
+    "lat": -31.9524,
+    "lng": 115.8561,
+    "sector": "Legal"
+  },
+  {
+    "id": "per-marketing-platform",
+    "name": "MarketingLoop WA (illustrative)",
+    "city": "perth",
+    "lat": -31.949,
+    "lng": 115.869,
+    "sector": "Marketing"
+  },
+  {
+    "id": "per-enterprise-saas",
+    "name": "EnterpriseDock WA (illustrative)",
+    "city": "perth",
+    "lat": -31.956,
+    "lng": 115.864,
+    "sector": "Enterprise"
+  },
+  {
+    "id": "per-climate-saas",
+    "name": "CarbonLedger WA (illustrative)",
+    "city": "perth",
+    "lat": -31.9501,
+    "lng": 115.8622,
+    "sector": "Climate"
+  },
+  {
+    "id": "per-iot-sensors",
+    "name": "SensorGrid WA (illustrative)",
+    "city": "perth",
+    "lat": -31.9538,
+    "lng": 115.8553,
+    "sector": "IoT"
+  },
+  {
+    "id": "per-ocean-tech",
+    "name": "BlueCurrent (illustrative)",
+    "city": "perth",
+    "lat": -31.9582,
+    "lng": 115.8629,
+    "sector": "OceanTech"
+  },
+  {
+    "id": "per-space-wa",
+    "name": "SpaceOps WA (illustrative)",
+    "city": "perth",
+    "lat": -31.9497,
+    "lng": 115.8572,
+    "sector": "Space"
+  },
+  {
+    "id": "per-foodtech",
+    "name": "SeaHarvest (illustrative)",
+    "city": "perth",
+    "lat": -31.9508,
+    "lng": 115.8598,
+    "sector": "FoodTech"
+  }
+]

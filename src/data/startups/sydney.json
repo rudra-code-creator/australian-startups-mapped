@@ -1,1 +1,408 @@
-[]
+[
+  {
+    "id": "syd-canva",
+    "name": "Canva",
+    "city": "sydney",
+    "lat": -33.8706,
+    "lng": 151.2079,
+    "website": "https://www.canva.com",
+    "sector": "Design"
+  },
+  {
+    "id": "syd-atlassian",
+    "name": "Atlassian",
+    "city": "sydney",
+    "lat": -33.8662,
+    "lng": 151.2057,
+    "website": "https://www.atlassian.com",
+    "sector": "DevTools"
+  },
+  {
+    "id": "syd-safetyculture",
+    "name": "SafetyCulture",
+    "city": "sydney",
+    "lat": -33.8742,
+    "lng": 151.2069,
+    "website": "https://safetyculture.com",
+    "sector": "SaaS"
+  },
+  {
+    "id": "syd-airtasker",
+    "name": "Airtasker",
+    "city": "sydney",
+    "lat": -33.8731,
+    "lng": 151.2088,
+    "website": "https://www.airtasker.com",
+    "sector": "Marketplace"
+  },
+  {
+    "id": "syd-freelancer",
+    "name": "Freelancer.com",
+    "city": "sydney",
+    "lat": -33.8696,
+    "lng": 151.2061,
+    "website": "https://www.freelancer.com",
+    "sector": "Marketplace"
+  },
+  {
+    "id": "syd-campaign-monitor",
+    "name": "Campaign Monitor",
+    "city": "sydney",
+    "lat": -33.8718,
+    "lng": 151.2133,
+    "website": "https://www.campaignmonitor.com",
+    "sector": "Marketing"
+  },
+  {
+    "id": "syd-finder",
+    "name": "Finder",
+    "city": "sydney",
+    "lat": -33.8667,
+    "lng": 151.2073,
+    "website": "https://www.finder.com.au",
+    "sector": "FinTech",
+    "buildingId": "sydney-stone-and-chalk",
+    "buildingName": "Stone & Chalk"
+  },
+  {
+    "id": "syd-tyro-payments",
+    "name": "Tyro Payments",
+    "city": "sydney",
+    "lat": -33.8667,
+    "lng": 151.2073,
+    "website": "https://tyro.com",
+    "sector": "FinTech",
+    "buildingId": "sydney-stone-and-chalk",
+    "buildingName": "Stone & Chalk"
+  },
+  {
+    "id": "syd-brighte",
+    "name": "Brighte",
+    "city": "sydney",
+    "lat": -33.8667,
+    "lng": 151.2073,
+    "website": "https://brighte.com.au",
+    "sector": "FinTech",
+    "buildingId": "sydney-stone-and-chalk",
+    "buildingName": "Stone & Chalk"
+  },
+  {
+    "id": "syd-indebted",
+    "name": "InDebted",
+    "city": "sydney",
+    "lat": -33.8667,
+    "lng": 151.2073,
+    "website": "https://www.indebted.co",
+    "sector": "FinTech",
+    "buildingId": "sydney-stone-and-chalk",
+    "buildingName": "Stone & Chalk"
+  },
+  {
+    "id": "syd-lumi",
+    "name": "Lumi",
+    "city": "sydney",
+    "lat": -33.8667,
+    "lng": 151.2073,
+    "website": "https://www.lumi.com.au",
+    "sector": "FinTech",
+    "buildingId": "sydney-stone-and-chalk",
+    "buildingName": "Stone & Chalk"
+  },
+  {
+    "id": "syd-zip",
+    "name": "Zip",
+    "city": "sydney",
+    "lat": -33.8679,
+    "lng": 151.2107,
+    "website": "https://zip.co",
+    "sector": "FinTech"
+  },
+  {
+    "id": "syd-afterpay",
+    "name": "Afterpay",
+    "city": "sydney",
+    "lat": -33.8692,
+    "lng": 151.2148,
+    "website": "https://www.afterpay.com",
+    "sector": "FinTech"
+  },
+  {
+    "id": "syd-klarna-au",
+    "name": "Klarna (AU office)",
+    "city": "sydney",
+    "lat": -33.8671,
+    "lng": 151.2162,
+    "sector": "FinTech"
+  },
+  {
+    "id": "syd-shippit",
+    "name": "Shippit",
+    "city": "sydney",
+    "lat": -33.8738,
+    "lng": 151.216,
+    "website": "https://www.shippit.com",
+    "sector": "Logistics"
+  },
+  {
+    "id": "syd-immutable",
+    "name": "Immutable",
+    "city": "sydney",
+    "lat": -33.8712,
+    "lng": 151.207,
+    "website": "https://www.immutable.com",
+    "sector": "Web3"
+  },
+  {
+    "id": "syd-kasada",
+    "name": "Kasada",
+    "city": "sydney",
+    "lat": -33.8739,
+    "lng": 151.2056,
+    "website": "https://www.kasada.io",
+    "sector": "Security"
+  },
+  {
+    "id": "syd-eucalyptus",
+    "name": "Eucalyptus",
+    "city": "sydney",
+    "lat": -33.8723,
+    "lng": 151.2126,
+    "website": "https://eucalyptus.vc",
+    "sector": "Health"
+  },
+  {
+    "id": "syd-vow",
+    "name": "Vow",
+    "city": "sydney",
+    "lat": -33.8801,
+    "lng": 151.2017,
+    "website": "https://vowfood.com",
+    "sector": "FoodTech"
+  },
+  {
+    "id": "syd-unlockd",
+    "name": "Unlockd",
+    "city": "sydney",
+    "lat": -33.8762,
+    "lng": 151.2078,
+    "sector": "AdTech"
+  },
+  {
+    "id": "syd-harrison-ai",
+    "name": "Harrison.ai",
+    "city": "sydney",
+    "lat": -33.8654,
+    "lng": 151.2129,
+    "website": "https://www.harrison.ai",
+    "sector": "AI"
+  },
+  {
+    "id": "syd-prospa",
+    "name": "Prospa",
+    "city": "sydney",
+    "lat": -33.8649,
+    "lng": 151.2087,
+    "website": "https://www.prospa.com",
+    "sector": "FinTech"
+  },
+  {
+    "id": "syd-tyro-health",
+    "name": "HealthMatch",
+    "city": "sydney",
+    "lat": -33.8699,
+    "lng": 151.2016,
+    "sector": "Health"
+  },
+  {
+    "id": "syd-luxury-escapes",
+    "name": "Luxury Escapes",
+    "city": "sydney",
+    "lat": -33.871,
+    "lng": 151.2028,
+    "website": "https://luxuryescapes.com",
+    "sector": "Travel"
+  },
+  {
+    "id": "syd-zero-co",
+    "name": "Zero Co",
+    "city": "sydney",
+    "lat": -33.8793,
+    "lng": 151.2141,
+    "website": "https://zero.co",
+    "sector": "Climate"
+  },
+  {
+    "id": "syd-nabtech",
+    "name": "NAB (Tech hub)",
+    "city": "sydney",
+    "lat": -33.8674,
+    "lng": 151.2099,
+    "sector": "FinTech"
+  },
+  {
+    "id": "syd-tyro-labs",
+    "name": "Reejig",
+    "city": "sydney",
+    "lat": -33.8617,
+    "lng": 151.211,
+    "sector": "HR"
+  },
+  {
+    "id": "syd-protecht",
+    "name": "Talon.One (AU office)",
+    "city": "sydney",
+    "lat": -33.872,
+    "lng": 151.219,
+    "sector": "Marketing"
+  },
+  {
+    "id": "syd-zeroconnect",
+    "name": "Deputy",
+    "city": "sydney",
+    "lat": -33.8619,
+    "lng": 151.209,
+    "website": "https://www.deputy.com",
+    "sector": "HR"
+  },
+  {
+    "id": "syd-mrt-yieldify",
+    "name": "Yieldify (AU office)",
+    "city": "sydney",
+    "lat": -33.8589,
+    "lng": 151.2082,
+    "sector": "Marketing"
+  },
+  {
+    "id": "syd-hipages",
+    "name": "hipages",
+    "city": "sydney",
+    "lat": -33.8871,
+    "lng": 151.1999,
+    "website": "https://hipages.com.au",
+    "sector": "Marketplace"
+  },
+  {
+    "id": "syd-zenobe",
+    "name": "HiSmile (Sydney office)",
+    "city": "sydney",
+    "lat": -33.8799,
+    "lng": 151.205,
+    "sector": "Ecommerce"
+  },
+  {
+    "id": "syd-assembly-payments",
+    "name": "Assembly Payments",
+    "city": "sydney",
+    "lat": -33.8728,
+    "lng": 151.2098,
+    "website": "https://assemblypayments.com",
+    "sector": "FinTech"
+  },
+  {
+    "id": "syd-paymentwall-au",
+    "name": "Chargefox (Sydney office)",
+    "city": "sydney",
+    "lat": -33.8659,
+    "lng": 151.2187,
+    "sector": "Energy"
+  },
+  {
+    "id": "syd-vet-chat",
+    "name": "Vets Central",
+    "city": "sydney",
+    "lat": -33.8812,
+    "lng": 151.2103,
+    "sector": "Health"
+  },
+  {
+    "id": "syd-lovewell",
+    "name": "HealthEngine (Sydney office)",
+    "city": "sydney",
+    "lat": -33.8628,
+    "lng": 151.2155,
+    "sector": "Health"
+  },
+  {
+    "id": "syd-archistar",
+    "name": "Archistar (Sydney office)",
+    "city": "sydney",
+    "lat": -33.8684,
+    "lng": 151.2222,
+    "sector": "PropTech"
+  },
+  {
+    "id": "syd-quantium",
+    "name": "Quantium",
+    "city": "sydney",
+    "lat": -33.8655,
+    "lng": 151.2066,
+    "website": "https://www.quantium.com",
+    "sector": "Data"
+  },
+  {
+    "id": "syd-tyro-ml",
+    "name": "Nutmeg (AU office)",
+    "city": "sydney",
+    "lat": -33.8722,
+    "lng": 151.2033,
+    "sector": "FinTech"
+  },
+  {
+    "id": "syd-halon",
+    "name": "Buildkite",
+    "city": "sydney",
+    "lat": -33.8625,
+    "lng": 151.2078,
+    "website": "https://buildkite.com",
+    "sector": "DevTools"
+  },
+  {
+    "id": "syd-tyro-insure",
+    "name": "Cover Genius",
+    "city": "sydney",
+    "lat": -33.8714,
+    "lng": 151.2198,
+    "website": "https://covergenius.com",
+    "sector": "InsurTech"
+  },
+  {
+    "id": "syd-redbubble-syd",
+    "name": "Redbubble (Sydney office)",
+    "city": "sydney",
+    "lat": -33.8726,
+    "lng": 151.215,
+    "sector": "Ecommerce"
+  },
+  {
+    "id": "syd-better-caring",
+    "name": "Mable (Sydney office)",
+    "city": "sydney",
+    "lat": -33.865,
+    "lng": 151.2145,
+    "sector": "Marketplace"
+  },
+  {
+    "id": "syd-wisetech-syd",
+    "name": "WiseTech Global (Sydney office)",
+    "city": "sydney",
+    "lat": -33.8582,
+    "lng": 151.2105,
+    "sector": "Logistics"
+  },
+  {
+    "id": "syd-tyro-data",
+    "name": "DataStax (AU office)",
+    "city": "sydney",
+    "lat": -33.8612,
+    "lng": 151.2178,
+    "sector": "Data"
+  },
+  {
+    "id": "syd-tyro-cyber",
+    "name": "CyberCX (Sydney office)",
+    "city": "sydney",
+    "lat": -33.8691,
+    "lng": 151.2039,
+    "sector": "Security"
+  }
+]
