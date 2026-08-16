@@ -16,7 +16,10 @@ export async function POST(req: Request) {
   );
   if (meters < MIN_CORRECTION_METERS) {
     return NextResponse.json(
-      { error: `Move at least ${MIN_CORRECTION_METERS} meters` },
+      {
+        error: `Move at least ${MIN_CORRECTION_METERS} meters`,
+        code: "TINY_MOVE",
+      },
       { status: 400 },
     );
   }

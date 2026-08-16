@@ -449,44 +449,58 @@ export function StartupMap({
 
   const [isSubmittingCorrection, setIsSubmittingCorrection] = React.useState(false);
 
-  const handlePublicSubmit = React.useCallback(async (note: string) => {
-    if (!publicCorrection || isSubmittingCorrection) return;
+  const handlePublicSubmit = React.useCallback(
+    async (note: string) => {
+      if (!publicCorrection || isSubmittingCorrection) return;
 
-    setIsSubmittingCorrection(true);
-    try {
-      const response = await fetch('/api/location-corrections', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
+      setIsSubmittingCorrection(true);
+      try {
+        const payload = {
           targetKind: publicCorrection.targetKind,
           targetId: publicCorrection.targetId,
+          city,
+          name: publicCorrection.name,
           fromLat: publicCorrection.fromLat,
           fromLng: publicCorrection.fromLng,
           toLat: publicCorrection.toLat,
           toLng: publicCorrection.toLng,
-          note: note.trim(),
-        }),
-      });
+          clearBuildingId: publicCorrection.clearBuildingId ?? false,
+          submitterNote: note.trim() || undefined,
+        };
 
-      if (!response.ok) {
-        const error = await response.json();
-        if (response.status === 400 && error.code === 'TINY_MOVE') {
-          alert('Please drag the marker further from its current position.');
-          return;
+        const response = await fetch("/api/location-corrections", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(payload),
+        });
+
+        if (!response.ok) {
+          const error = await response.json().catch(() => ({}));
+          if (response.status === 400 && (error as any).code === "TINY_MOVE") {
+            alert("Please drag the marker further from its current position.");
+            return;
+          }
+          throw new Error(
+            (error as any).error || "Submission failed",
+          );
         }
-        throw new Error(error.error || 'Submission failed');
-      }
 
-      // Success - show confirmation and clear session
-      alert('Location correction submitted for review. Thank you!');
-      setPublicCorrection(null);
-    } catch (error) {
-      console.error('Submit correction failed:', error);
-      alert(`Submission failed: ${error instanceof Error ? error.message : 'Unknown error'}`);
-    } finally {
-      setIsSubmittingCorrection(false);
-    }
-  }, [publicCorrection, isSubmittingCorrection]);
+        // Success - show confirmation and clear session
+        alert("Location correction submitted for review. Thank you!");
+        setPublicCorrection(null);
+      } catch (error) {
+        console.error("Submit correction failed:", error);
+        alert(
+          `Submission failed: ${
+            error instanceof Error ? error.message : "Unknown error"
+          }`,
+        );
+      } finally {
+        setIsSubmittingCorrection(false);
+      }
+    },
+    [city, publicCorrection, isSubmittingCorrection],
+  );
 
   const { center, zoom } = CITIES[city];
 
