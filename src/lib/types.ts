@@ -37,3 +37,20 @@ export type MapMarker =
 
 export type SuggestionStatus = "pending" | "approved" | "rejected";
 
+export type LocationTargetKind = "startup" | "building";
+
+export type LocationCorrectionStatus = "pending" | "approved" | "rejected";
+
+export type LocationCorrectionInput = {
+  targetKind: LocationTargetKind;
+  targetId: string;
+  city: CitySlug;
+  name: string;
+  fromLat: number;
+  fromLng: number;
+  toLat: number;
+  toLng: number;
+  clearBuildingId?: boolean;
+  submitterNote?: string;
+};
+

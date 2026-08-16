@@ -27,3 +27,24 @@ model Suggestion {
   @@index([status])
   @@index([city])
 }
+
+model LocationCorrection {
+  id               String   @id @default(cuid())
+  targetKind       String
+  targetId         String
+  city             String
+  name             String
+  fromLat          Float
+  fromLng          Float
+  toLat            Float
+  toLng            Float
+  clearBuildingId  Boolean  @default(false)
+  submitterNote    String?
+  status           String   @default("pending")
+  createdAt        DateTime @default(now())
+  updatedAt        DateTime @updatedAt
+
+  @@index([status])
+  @@index([city])
+  @@index([targetKind, targetId, status])
+}
