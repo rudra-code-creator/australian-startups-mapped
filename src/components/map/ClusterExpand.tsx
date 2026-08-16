@@ -52,7 +52,13 @@ function LogoTile({
 
     // Only trigger drag if moved significant distance
     if (dragDistance > 10) {
-      const latlng = map.containerPointToLatLng([event.clientX, event.clientY]);
+      // Convert clientX/clientY to map container coordinates by subtracting
+      // the map container's bounding rect before converting to lat/lng.
+      const container = map.getContainer();
+      const rect = container.getBoundingClientRect();
+      const containerX = event.clientX - rect.left;
+      const containerY = event.clientY - rect.top;
+      const latlng = map.containerPointToLatLng([containerX, containerY]);
       onDragEnd(startup, { lat: latlng.lat, lng: latlng.lng });
     }
 
@@ -63,12 +69,28 @@ function LogoTile({
   React.useEffect(() => {
     if (!isDragging) return;
 
+    // Prevent text selection/scroll during drag on most devices.
+    const originalUserSelect = document.body.style.userSelect;
+    const originalTouchAction = (document.body.style as any).touchAction || "";
+    document.body.style.userSelect = "none";
+    try {
+      (document.body.style as any).touchAction = "none";
+    } catch (e) {
+      // ignore if not supported
+    }
+
     document.addEventListener('mousemove', handleMouseMove);
     document.addEventListener('mouseup', handleMouseUp);
 
     return () => {
       document.removeEventListener('mousemove', handleMouseMove);
       document.removeEventListener('mouseup', handleMouseUp);
+      document.body.style.userSelect = originalUserSelect;
+      try {
+        (document.body.style as any).touchAction = originalTouchAction;
+      } catch (e) {
+        // ignore
+      }
     };
   }, [isDragging, handleMouseMove, handleMouseUp]);
 
