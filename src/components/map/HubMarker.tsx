@@ -44,6 +44,8 @@ export function HubMarker({
   count,
   isActive,
   onClick,
+  draggable,
+  onDragEnd,
 }: {
   lat: number;
   lng: number;
@@ -51,7 +53,11 @@ export function HubMarker({
   count: number;
   isActive?: boolean;
   onClick: () => void;
+  draggable?: boolean;
+  onDragEnd?: (latlng: { lat: number; lng: number }) => void;
 }) {
+  const draggedRef = React.useRef(false);
+  
   const icon = React.useMemo(() => {
     const html = buildHubHtml({ label: buildingName, count, isActive });
     return L.divIcon({
@@ -62,11 +68,40 @@ export function HubMarker({
     });
   }, [buildingName, count, isActive]);
 
+  const eventHandlers = React.useMemo(() => {
+    const handlers: any = {};
+    
+    if (draggable) {
+      handlers.dragstart = () => {
+        draggedRef.current = true;
+      };
+      
+      handlers.dragend = (e: any) => {
+        const ll = e.target.getLatLng();
+        onDragEnd?.({ lat: ll.lat, lng: ll.lng });
+        // Reset drag flag after a brief delay to prevent click firing
+        setTimeout(() => {
+          draggedRef.current = false;
+        }, 100);
+      };
+    }
+    
+    handlers.click = () => {
+      // Only fire click if we didn't just drag
+      if (!draggedRef.current) {
+        onClick();
+      }
+    };
+    
+    return handlers;
+  }, [draggable, onDragEnd, onClick]);
+
   return (
     <Marker
       position={[lat, lng]}
       icon={icon}
-      eventHandlers={{ click: () => onClick() }}
+      draggable={Boolean(draggable)}
+      eventHandlers={eventHandlers}
     />
   );
 }

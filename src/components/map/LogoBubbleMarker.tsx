@@ -65,11 +65,17 @@ export function LogoBubbleMarker({
   startup,
   isActive,
   onClick,
+  draggable,
+  onDragEnd,
 }: {
   startup: Startup;
   isActive?: boolean;
   onClick: (startup: Startup) => void;
+  draggable?: boolean;
+  onDragEnd?: (latlng: { lat: number; lng: number }) => void;
 }) {
+  const draggedRef = React.useRef(false);
+  
   const icon = React.useMemo(() => {
     const html = buildLogoHtml({
       name: startup.name,
@@ -84,11 +90,40 @@ export function LogoBubbleMarker({
     });
   }, [startup, isActive]);
 
+  const eventHandlers = React.useMemo(() => {
+    const handlers: any = {};
+    
+    if (draggable) {
+      handlers.dragstart = () => {
+        draggedRef.current = true;
+      };
+      
+      handlers.dragend = (e: any) => {
+        const ll = e.target.getLatLng();
+        onDragEnd?.({ lat: ll.lat, lng: ll.lng });
+        // Reset drag flag after a brief delay to prevent click firing
+        setTimeout(() => {
+          draggedRef.current = false;
+        }, 100);
+      };
+    }
+    
+    handlers.click = () => {
+      // Only fire click if we didn't just drag
+      if (!draggedRef.current) {
+        onClick(startup);
+      }
+    };
+    
+    return handlers;
+  }, [draggable, onDragEnd, onClick, startup]);
+
   return (
     <Marker
       position={[startup.lat, startup.lng]}
       icon={icon}
-      eventHandlers={{ click: () => onClick(startup) }}
+      draggable={Boolean(draggable)}
+      eventHandlers={eventHandlers}
     />
   );
 }

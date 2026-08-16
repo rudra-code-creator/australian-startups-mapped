@@ -1,7 +1,7 @@
 "use client";
 
 import dynamic from "next/dynamic";
-import type { CitySlug, MapMarker, Startup } from "@/lib/types";
+import type { Building, CitySlug, MapMarker, Startup } from "@/lib/types";
 
 const StartupMap = dynamic(
   () => import("@/components/map/StartupMap").then((m) => m.StartupMap),
@@ -19,10 +19,25 @@ export function CityMapClient({
   city,
   startups,
   markers,
+  buildings,
+  isAdmin,
+  canWriteSeed,
 }: {
   city: CitySlug;
   startups: Startup[];
   markers: MapMarker[];
+  buildings: Building[];
+  isAdmin: boolean;
+  canWriteSeed: boolean;
 }) {
-  return <StartupMap city={city} startups={startups} markers={markers} />;
+  return (
+    <StartupMap
+      city={city}
+      startups={startups}
+      markers={markers}
+      buildings={buildings}
+      isAdmin={isAdmin}
+      canWriteSeed={canWriteSeed}
+    />
+  );
 }

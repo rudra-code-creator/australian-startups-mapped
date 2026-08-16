@@ -3,12 +3,18 @@
 import * as React from "react";
 import { MapContainer, TileLayer, useMap, useMapEvents } from "react-leaflet";
 import { CITIES } from "@/lib/cities";
-import type { CitySlug, MapMarker, Startup } from "@/lib/types";
+import type { Building, CitySlug, MapMarker, Startup } from "@/lib/types";
 import { CityChrome } from "./CityChrome";
 import { ClusterExpand } from "./ClusterExpand";
 import { HubMarker } from "./HubMarker";
 import { LogoBubbleMarker } from "./LogoBubbleMarker";
 import { StartupDetailPanel } from "./StartupDetailPanel";
+import { LocationEditBanner } from "./LocationEditBanner";
+
+type LayoutDraft = {
+  startups: Record<string, { lat: number; lng: number; clearBuildingId?: boolean }>;
+  buildings: Record<string, { lat: number; lng: number }>;
+};
 
 function matchesSearch(startup: Startup, q: string) {
   if (!q) return true;
@@ -40,22 +46,64 @@ export function StartupMap({
   city,
   markers,
   startups,
+  buildings,
+  isAdmin,
+  canWriteSeed,
 }: {
   city: CitySlug;
   markers: MapMarker[];
   startups: Startup[];
+  buildings: Building[];
+  isAdmin: boolean;
+  canWriteSeed: boolean;
 }) {
   const [search, setSearch] = React.useState("");
   const [expandedHubId, setExpandedHubId] = React.useState<string | null>(null);
   const [selectedStartupId, setSelectedStartupId] = React.useState<string | null>(
     null,
   );
+  const [fixLocations, setFixLocations] = React.useState(false);
+  const [layoutDraft, setLayoutDraft] = React.useState<LayoutDraft>({
+    startups: {},
+    buildings: {},
+  });
 
   const q = search.trim().toLowerCase();
 
+  // Apply draft overrides to get display positions
+  const displayMarkers = React.useMemo(() => {
+    return markers.map((m) => {
+      if (m.kind === "single") {
+        const draft = layoutDraft.startups[m.startup.id];
+        if (draft) {
+          return {
+            ...m,
+            startup: {
+              ...m.startup,
+              lat: draft.lat,
+              lng: draft.lng,
+            },
+          };
+        }
+        return m;
+      } else {
+        // Hub marker - check if building position is overridden
+        const draft = layoutDraft.buildings[m.buildingId];
+        if (draft) {
+          return {
+            ...m,
+            lat: draft.lat,
+            lng: draft.lng,
+          };
+        }
+        return m;
+      }
+    });
+  }, [markers, layoutDraft]);
+
   const visibleMarkers = React.useMemo(() => {
-    if (!q) return markers;
-    return markers
+    if (!q) return displayMarkers;
+    return displayMarkers
       .map((m) => {
         if (m.kind === "single") {
           return matchesSearch(m.startup, q) ? m : null;
@@ -66,7 +114,7 @@ export function StartupMap({
           : null;
       })
       .filter(Boolean) as MapMarker[];
-  }, [markers, q]);
+  }, [displayMarkers, q]);
 
   const visibleCount = React.useMemo(() => {
     if (!q) return startups.length;
@@ -91,16 +139,131 @@ export function StartupMap({
     setSelectedStartupId(null);
   }, []);
 
+  const handleStartupDrag = React.useCallback((startupId: string, latlng: { lat: number; lng: number }) => {
+    setLayoutDraft(prev => ({
+      ...prev,
+      startups: {
+        ...prev.startups,
+        [startupId]: latlng,
+      },
+    }));
+  }, []);
+
+  const handleBuildingDrag = React.useCallback((buildingId: string, latlng: { lat: number; lng: number }) => {
+    setLayoutDraft(prev => ({
+      ...prev,
+      buildings: {
+        ...prev.buildings,
+        [buildingId]: latlng,
+      },
+    }));
+  }, []);
+
+  const unsavedCount = React.useMemo(() => {
+    return Object.keys(layoutDraft.startups).length + Object.keys(layoutDraft.buildings).length;
+  }, [layoutDraft]);
+
+  const downloadDraft = React.useCallback(() => {
+    // Apply draft overrides to startups and buildings for export
+    const draftStartups = startups.map(startup => {
+      const draft = layoutDraft.startups[startup.id];
+      return draft ? { ...startup, lat: draft.lat, lng: draft.lng } : startup;
+    });
+    
+    const draftBuildings = buildings.map(building => {
+      const draft = layoutDraft.buildings[building.id];
+      return draft ? { ...building, lat: draft.lat, lng: draft.lng } : building;
+    });
+
+    const data = {
+      startups: draftStartups,
+      buildings: draftBuildings,
+      exported: new Date().toISOString(),
+    };
+
+    const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `${city}-layout-draft.json`;
+    a.click();
+    URL.revokeObjectURL(url);
+  }, [startups, buildings, layoutDraft, city]);
+
   const { center, zoom } = CITIES[city];
+
+  const fixMode: "off" | "curator" | "public" = fixLocations && isAdmin ? "curator" : "off";
+  const bannerHeight = fixMode !== "off" ? 48 : 0;
 
   return (
     <div style={{ position: "relative", height: "100vh", width: "100%" }}>
-      <MapContainer
-        center={center}
-        zoom={zoom}
-        style={{ height: "100%", width: "100%" }}
-        zoomControl={false}
+      <LocationEditBanner
+        mode={fixMode}
+        unsavedCount={unsavedCount}
       >
+        {fixMode === "curator" && (
+          <>
+            <button
+              onClick={downloadDraft}
+              style={{
+                padding: "6px 12px",
+                backgroundColor: "rgba(255,255,255,0.2)",
+                border: "1px solid rgba(255,255,255,0.3)",
+                borderRadius: "4px",
+                color: "white",
+                fontSize: "12px",
+                cursor: "pointer",
+              }}
+            >
+              Download JSON
+            </button>
+            {canWriteSeed && (
+              <button
+                onClick={() => {
+                  // TODO: Implement seed write in Task 7
+                  alert("Seed write not yet implemented");
+                }}
+                style={{
+                  padding: "6px 12px",
+                  backgroundColor: "rgba(255,255,255,0.2)",
+                  border: "1px solid rgba(255,255,255,0.3)",
+                  borderRadius: "4px",
+                  color: "white",
+                  fontSize: "12px",
+                  cursor: "pointer",
+                }}
+              >
+                Write Seed
+              </button>
+            )}
+            <button
+              onClick={() => {
+                setFixLocations(false);
+                setLayoutDraft({ startups: {}, buildings: {} });
+              }}
+              style={{
+                padding: "6px 12px",
+                backgroundColor: "rgba(255,255,255,0.2)",
+                border: "1px solid rgba(255,255,255,0.3)",
+                borderRadius: "4px",
+                color: "white",
+                fontSize: "12px",
+                cursor: "pointer",
+              }}
+            >
+              Cancel
+            </button>
+          </>
+        )}
+      </LocationEditBanner>
+      
+      <div style={{ marginTop: `${bannerHeight}px`, height: `calc(100% - ${bannerHeight}px)` }}>
+        <MapContainer
+          center={center}
+          zoom={zoom}
+          style={{ height: "100%", width: "100%" }}
+          zoomControl={false}
+        >
         <TileLayer
           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
           url="https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png"
@@ -120,6 +283,8 @@ export function StartupMap({
                   setExpandedHubId(null);
                   setSelectedStartupId(s.id);
                 }}
+                draggable={fixLocations && isAdmin}
+                onDragEnd={(latlng) => handleStartupDrag(m.startup.id, latlng)}
               />
             );
           }
@@ -135,6 +300,8 @@ export function StartupMap({
                 setSelectedStartupId(null);
                 setExpandedHubId((prev) => (prev === m.buildingId ? null : m.buildingId));
               }}
+              draggable={fixLocations && isAdmin}
+              onDragEnd={(latlng) => handleBuildingDrag(m.buildingId, latlng)}
             />
           );
         })}
@@ -152,7 +319,8 @@ export function StartupMap({
             onClose={() => setExpandedHubId(null)}
           />
         ) : null}
-      </MapContainer>
+        </MapContainer>
+      </div>
 
       <CityChrome
         city={city}
@@ -160,6 +328,9 @@ export function StartupMap({
         visibleCount={visibleCount}
         search={search}
         onSearchChange={(v) => setSearch(v)}
+        isAdmin={isAdmin}
+        fixLocations={fixLocations}
+        onToggleFixLocations={() => setFixLocations(prev => !prev)}
       />
 
       <StartupDetailPanel

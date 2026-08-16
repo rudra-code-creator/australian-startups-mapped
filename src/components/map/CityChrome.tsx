@@ -11,12 +11,18 @@ export function CityChrome({
   visibleCount,
   search,
   onSearchChange,
+  isAdmin,
+  fixLocations,
+  onToggleFixLocations,
 }: {
   city: CitySlug;
   totalCount: number;
   visibleCount: number;
   search: string;
   onSearchChange: (value: string) => void;
+  isAdmin?: boolean;
+  fixLocations?: boolean;
+  onToggleFixLocations?: () => void;
 }) {
   return (
     <div
@@ -82,6 +88,26 @@ export function CityChrome({
         </div>
 
         <div className="flex items-center gap-3">
+          {isAdmin && (
+            <button
+              onClick={onToggleFixLocations}
+              style={{
+                padding: "6px 12px",
+                backgroundColor: fixLocations ? "var(--teal)" : "rgba(255,255,255,0.8)",
+                border: "1px solid",
+                borderColor: fixLocations ? "var(--teal)" : "rgba(148, 163, 184, 0.35)",
+                borderRadius: "16px",
+                color: fixLocations ? "white" : "var(--ink)",
+                fontSize: "12px",
+                fontWeight: "600",
+                cursor: "pointer",
+                transition: "all 0.2s",
+              }}
+            >
+              {fixLocations ? "Exit Fix Mode" : "Fix Locations"}
+            </button>
+          )}
+          
           <div className="hidden md:block text-xs text-[color:var(--muted)]">
             {visibleCount} / {totalCount}
           </div>
