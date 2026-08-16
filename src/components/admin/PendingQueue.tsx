@@ -23,7 +23,7 @@ function toFiniteNumber(input: string): number | null {
   return Number.isFinite(n) ? n : null;
 }
 
-export function PendingQueue() {
+export function PendingQueue({ skipAuthGate = false }: { skipAuthGate?: boolean } = {}) {
   const [authed, setAuthed] = useState<boolean | null>(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
@@ -122,7 +122,7 @@ export function PendingQueue() {
     setRows((prev) => prev.filter((r) => r.id !== id));
   }
 
-  if (authed === false) {
+  if (authed === false && !skipAuthGate) {
     return <LoginForm onSuccess={refresh} />;
   }
 

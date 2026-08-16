@@ -1,4 +1,4 @@
-import { PendingQueue } from "@/components/admin/PendingQueue";
+import { AdminTabs } from "@/components/admin/AdminTabs";
 
 export default function AdminPage() {
   return (
@@ -8,13 +8,13 @@ export default function AdminPage() {
           <div>
             <h1 className="text-2xl font-semibold tracking-tight">Admin</h1>
             <p className="mt-1 text-sm text-[color:var(--muted)]">
-              Review suggestions. Approvals require valid lat/lng.
+              Review new startups and location fixes. Nothing goes live until approved.
             </p>
           </div>
         </div>
 
         <div className="mt-8">
-          <PendingQueue />
+          <AdminTabs />
         </div>
       </div>
     </main>
