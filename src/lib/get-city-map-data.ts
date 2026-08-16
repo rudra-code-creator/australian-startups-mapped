@@ -4,6 +4,7 @@ import { loadBuildings, loadSeedStartups } from "./load-seed";
 import { mergeStartups } from "./merge-startups";
 import { groupMarkers } from "./group-markers";
 import { prisma } from "./db";
+import { applyLocationCorrections } from "./apply-location-corrections";
 import type { Building, CitySlug, MapMarker, Startup } from "./types";
 
 export type CityMapData = {
@@ -46,8 +47,18 @@ export async function getCityMapData(
       }),
     );
 
-  const startups = mergeStartups(loadSeedStartups(city), approved);
-  const buildings = loadBuildings().filter((b) => b.city === city);
+  const approvedCorrections = await prisma.locationCorrection.findMany({
+    where: { status: "approved", city },
+  });
+
+  const seedStartups = loadSeedStartups(city);
+  const seedBuildings = loadBuildings().filter((b) => b.city === city);
+  const { startups: positioned, buildings } = applyLocationCorrections(
+    seedStartups,
+    seedBuildings,
+    approvedCorrections,
+  );
+  const startups = mergeStartups(positioned, approved);
   const markers = groupMarkers(startups, buildings);
 
   return {
