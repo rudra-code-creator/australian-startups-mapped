@@ -32,10 +32,17 @@ export async function POST(
 
   const { action } = parsed.data;
 
-  await prisma.locationCorrection.update({
-    where: { id },
-    data: { status: action === "approve" ? "approved" : "rejected" },
-  });
+  try {
+    await prisma.locationCorrection.update({
+      where: { id },
+      data: { status: action === "approve" ? "approved" : "rejected" },
+    });
+  } catch (error: any) {
+    if (error?.code === 'P2025') {
+      return NextResponse.json({ error: "Location correction not found" }, { status: 404 });
+    }
+    throw error;
+  }
 
   return NextResponse.json({ ok: true, status: action === "approve" ? "approved" : "rejected" });
 }

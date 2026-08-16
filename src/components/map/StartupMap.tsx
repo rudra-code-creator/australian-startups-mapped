@@ -111,21 +111,34 @@ function PublicCorrectionModal({
 
   if (!showForm) {
     return (
-      <div
-        style={{
-          position: "fixed",
-          top: "50%",
-          left: "50%",
-          transform: "translate(-50%, -50%)",
-          background: "white",
-          borderRadius: 18,
-          border: "1px solid rgba(15, 107, 107, 0.14)",
-          boxShadow: "var(--map-shadow)",
-          padding: 24,
-          zIndex: 1300,
-          maxWidth: "min(420px, calc(100vw - 32px))",
-        }}
-      >
+      <>
+        <div
+          style={{
+            position: "fixed",
+            top: 0,
+            left: 0,
+            right: 0,
+            bottom: 0,
+            backgroundColor: "rgba(0, 0, 0, 0.4)",
+            zIndex: 1299,
+          }}
+          onClick={onCancel}
+        />
+        <div
+          style={{
+            position: "fixed",
+            top: "50%",
+            left: "50%",
+            transform: "translate(-50%, -50%)",
+            background: "white",
+            borderRadius: 18,
+            border: "1px solid rgba(15, 107, 107, 0.14)",
+            boxShadow: "var(--map-shadow)",
+            padding: 24,
+            zIndex: 1300,
+            maxWidth: "min(420px, calc(100vw - 32px))",
+          }}
+        >
         <div className="text-lg font-semibold text-[color:var(--ink)] mb-2">
           Submit location correction?
         </div>
@@ -148,25 +161,39 @@ function PublicCorrectionModal({
           </button>
         </div>
       </div>
+      </>
     );
   }
 
   return (
-    <div
-      style={{
-        position: "fixed",
-        top: "50%",
-        left: "50%",
-        transform: "translate(-50%, -50%)",
-        background: "white",
-        borderRadius: 18,
-        border: "1px solid rgba(15, 107, 107, 0.14)",
-        boxShadow: "var(--map-shadow)",
-        padding: 24,
-        zIndex: 1300,
-        maxWidth: "min(420px, calc(100vw - 32px))",
-      }}
-    >
+    <>
+      <div
+        style={{
+          position: "fixed",
+          top: 0,
+          left: 0,
+          right: 0,
+          bottom: 0,
+          backgroundColor: "rgba(0, 0, 0, 0.4)",
+          zIndex: 1299,
+        }}
+        onClick={onCancel}
+      />
+      <div
+        style={{
+          position: "fixed",
+          top: "50%",
+          left: "50%",
+          transform: "translate(-50%, -50%)",
+          background: "white",
+          borderRadius: 18,
+          border: "1px solid rgba(15, 107, 107, 0.14)",
+          boxShadow: "var(--map-shadow)",
+          padding: 24,
+          zIndex: 1300,
+          maxWidth: "min(420px, calc(100vw - 32px))",
+        }}
+      >
       <div className="text-lg font-semibold text-[color:var(--ink)] mb-2">
         Add a note (optional)
       </div>
@@ -199,6 +226,7 @@ function PublicCorrectionModal({
         </button>
       </div>
     </div>
+    </>
   );
 }
 
@@ -299,31 +327,35 @@ export function StartupMap({
   const handleMemberDragEnd = React.useCallback((startup: Startup, latlng: { lat: number; lng: number }) => {
     if (!startup.buildingId) return;
     
-    // Find the hub center (with draft applied if exists)
-    const building = buildings.find(b => b.id === startup.buildingId);
-    const buildingDraft = layoutDraft.buildings[startup.buildingId];
-    const hubCenter = {
-      lat: buildingDraft?.lat ?? building?.lat ?? startup.lat,
-      lng: buildingDraft?.lng ?? building?.lng ?? startup.lng,
-    };
+    setLayoutDraft(prev => {
+      // Find the hub center (with draft applied if exists)
+      const building = buildings.find(b => b.id === startup.buildingId);
+      const buildingDraft = prev.buildings[startup.buildingId];
+      const hubCenter = {
+        lat: buildingDraft?.lat ?? building?.lat ?? startup.lat,
+        lng: buildingDraft?.lng ?? building?.lng ?? startup.lng,
+      };
 
-    const distance = metersBetween(hubCenter, latlng);
-    
-    // If dragged more than MIN_CORRECTION_METERS from hub, split the member out
-    if (distance > MIN_CORRECTION_METERS) {
-      setLayoutDraft(prev => ({
-        ...prev,
-        startups: {
-          ...prev.startups,
-          [startup.id]: {
-            lat: latlng.lat,
-            lng: latlng.lng,
-            clearBuildingId: true,
+      const distance = metersBetween(hubCenter, latlng);
+      
+      // If dragged more than MIN_CORRECTION_METERS from hub, split the member out
+      if (distance > MIN_CORRECTION_METERS) {
+        return {
+          ...prev,
+          startups: {
+            ...prev.startups,
+            [startup.id]: {
+              lat: latlng.lat,
+              lng: latlng.lng,
+              clearBuildingId: true,
+            },
           },
-        },
-      }));
-    }
-  }, [buildings, layoutDraft.buildings]);
+        };
+      }
+      
+      return prev;
+    });
+  }, [buildings]);
 
   const unsavedCount = React.useMemo(() => {
     return Object.keys(layoutDraft.startups).length + Object.keys(layoutDraft.buildings).length;
@@ -681,7 +713,7 @@ export function StartupMap({
         onSearchChange={(v) => setSearch(v)}
         isAdmin={isAdmin}
         fixLocations={fixLocations}
-        onToggleFixLocations={() => setFixLocations(prev => !prev)}
+        onToggleFixLocations={fixLocations ? handleToggleOffConfirm : () => setFixLocations(true)}
       />
 
       <StartupDetailPanel

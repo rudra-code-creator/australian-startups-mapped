@@ -117,7 +117,9 @@ function LogoTile({
         boxShadow: "var(--map-shadow)",
         background: "white",
         overflow: "hidden",
-        cursor: draggable ? "grab" : "pointer",
+        cursor: draggable ? (isDragging ? "grabbing" : "grab") : "pointer",
+        opacity: isDragging ? 0.7 : 1,
+        transition: isDragging ? "none" : "opacity 0.2s",
       }}
       aria-label={`Open ${startup.name}`}
       title={startup.name}
