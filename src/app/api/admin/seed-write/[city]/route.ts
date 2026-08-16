@@ -88,11 +88,14 @@ export async function PUT(
   const startupsPath = path.join(startupsDir, `${cityParam}.json`);
 
   await fs.mkdir(startupsDir, { recursive: true });
+  // Atomic write: write to a temp file then rename into place
+  const tmpStartupsPath = `${startupsPath}.tmp`;
   await fs.writeFile(
-    startupsPath,
+    tmpStartupsPath,
     JSON.stringify(startups, null, 2) + "\n",
     "utf8",
   );
+  await fs.rename(tmpStartupsPath, startupsPath);
 
   if (buildings && buildings.length > 0) {
     const buildingsPath = path.join(
@@ -114,14 +117,28 @@ export async function PUT(
     const others = existingArray.filter(
       (b: { city?: string }) => b.city !== cityParam,
     );
+    // Merge other cities' buildings with the new/updated buildings for this city.
+    // Dedupe by `id` so accidental duplicates aren't written. Newer entries override older ones.
     const merged = [...others, ...buildings];
+    const byId = new Map<string, unknown>();
+    for (const b of merged) {
+      // assume each building has an `id` string per schema
+      // last-wins behavior: later entries overwrite earlier ones
+      // (so the provided `buildings` will replace any existing same-id entry)
+      // @ts-ignore - dynamic object shape
+      byId.set((b as any).id, b);
+    }
+    const deduped = Array.from(byId.values());
 
     await fs.mkdir(path.dirname(buildingsPath), { recursive: true });
+    // Atomic write for buildings as well
+    const tmpBuildingsPath = `${buildingsPath}.tmp`;
     await fs.writeFile(
-      buildingsPath,
-      JSON.stringify(merged, null, 2) + "\n",
+      tmpBuildingsPath,
+      JSON.stringify(deduped, null, 2) + "\n",
       "utf8",
     );
+    await fs.rename(tmpBuildingsPath, buildingsPath);
   }
 
   return NextResponse.json({ ok: true });
