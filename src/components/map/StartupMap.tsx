@@ -458,47 +458,46 @@ export function StartupMap({
     return Object.keys(layoutDraft.startups).length + Object.keys(layoutDraft.buildings).length;
   }, [layoutDraft]);
 
-  const downloadDraft = React.useCallback(() => {
+  const downloadDraft = React.useCallback(async () => {
     const draftStartups = applyDraftToStartups(startups, layoutDraft.startups);
     const draftBuildings = applyDraftToBuildings(buildings, layoutDraft.buildings);
-    const buildingsChanged = Object.keys(layoutDraft.buildings).length > 0;
+    const stamp = new Date()
+      .toISOString()
+      .replaceAll(":", "-")
+      .replaceAll(".", "-");
 
-    const triggerDownload = (filename: string, payload: unknown) => {
-      const blob = new Blob([JSON.stringify(payload, null, 2) + "\n"], {
-        type: "application/json",
-      });
-      const url = URL.createObjectURL(blob);
-      const link = document.createElement("a");
-      link.href = url;
-      link.download = filename;
-      link.rel = "noopener";
-      link.style.display = "none";
-      document.body.appendChild(link);
-      link.click();
-      // Revoke after the browser has a chance to start the download
-      window.setTimeout(() => {
-        link.remove();
-        URL.revokeObjectURL(url);
-      }, 1500);
-    };
-
-    // Always download the city startups array (matches seed file shape)
-    triggerDownload(`${city}.json`, draftStartups);
-
-    // Also download a combined export, and buildings when hubs moved
-    triggerDownload(`${city}-merged-seed.json`, {
+    // One uniquely named file per export — browsers often block/ignore
+    // repeat downloads that reuse the same filename in one session.
+    const payload = {
       startups: draftStartups,
       buildings: draftBuildings,
+      city,
       exportedAt: new Date().toISOString(),
-    });
+      changeCount:
+        Object.keys(layoutDraft.startups).length +
+        Object.keys(layoutDraft.buildings).length,
+    };
 
-    if (buildingsChanged) {
-      triggerDownload(`buildings-${city}.json`, draftBuildings);
-    }
+    const blob = new Blob([`${JSON.stringify(payload, null, 2)}\n`], {
+      type: "application/json",
+    });
+    const url = URL.createObjectURL(blob);
+    const link = document.createElement("a");
+    link.href = url;
+    link.download = `${city}-layout-${stamp}.json`;
+    link.rel = "noopener";
+    link.style.display = "none";
+    document.body.appendChild(link);
+    link.click();
+
+    await new Promise((resolve) => window.setTimeout(resolve, 250));
+    link.remove();
+    URL.revokeObjectURL(url);
   }, [startups, buildings, layoutDraft, city]);
 
   const [isWriting, setIsWriting] = React.useState(false);
   const [showExitDialog, setShowExitDialog] = React.useState(false);
+  const [isDownloading, setIsDownloading] = React.useState(false);
 
   const exitFixMode = React.useCallback(() => {
     setFixLocations(false);
@@ -549,22 +548,34 @@ export function StartupMap({
   }, [unsavedCount, exitFixMode]);
 
   const handleSaveAndExit = React.useCallback(async () => {
-    // Always download JSON so the user keeps a copy even when filesystem write is off.
-    downloadDraft();
+    if (isDownloading || isWriting) return;
+    setIsDownloading(true);
+    try {
+      // Always download a uniquely named JSON snapshot first.
+      await downloadDraft();
 
-    if (canWriteSeed) {
-      const ok = await writeSeed();
-      if (!ok) {
-        // Download already happened; keep dialog open so they can discard or keep editing.
-        alert(
-          "JSON downloaded. Seed write failed — you can keep editing or discard.",
-        );
-        return;
+      if (canWriteSeed) {
+        const ok = await writeSeed();
+        if (!ok) {
+          alert(
+            "JSON downloaded. Seed write failed — you can keep editing or discard.",
+          );
+          return;
+        }
       }
-    }
 
-    exitFixMode();
-  }, [canWriteSeed, writeSeed, downloadDraft, exitFixMode]);
+      exitFixMode();
+    } finally {
+      setIsDownloading(false);
+    }
+  }, [
+    canWriteSeed,
+    writeSeed,
+    downloadDraft,
+    exitFixMode,
+    isDownloading,
+    isWriting,
+  ]);
 
   const handleDiscardAndExit = React.useCallback(() => {
     exitFixMode();
@@ -692,18 +703,30 @@ export function StartupMap({
         {fixMode === "curator" && (
           <>
             <button
-              onClick={downloadDraft}
+              onClick={() => {
+                if (isDownloading) return;
+                setIsDownloading(true);
+                void downloadDraft().finally(() => setIsDownloading(false));
+              }}
+              disabled={isDownloading || unsavedCount === 0}
               style={{
                 padding: "6px 12px",
-                backgroundColor: "rgba(255,255,255,0.2)",
+                backgroundColor:
+                  isDownloading || unsavedCount === 0
+                    ? "rgba(255,255,255,0.1)"
+                    : "rgba(255,255,255,0.2)",
                 border: "1px solid rgba(255,255,255,0.3)",
                 borderRadius: "4px",
                 color: "white",
                 fontSize: "12px",
-                cursor: "pointer",
+                cursor:
+                  isDownloading || unsavedCount === 0
+                    ? "not-allowed"
+                    : "pointer",
+                opacity: isDownloading || unsavedCount === 0 ? 0.6 : 1,
               }}
             >
-              Download JSON
+              {isDownloading ? "Downloading…" : "Download JSON"}
             </button>
             {canWriteSeed ? (
               <button
@@ -880,7 +903,7 @@ export function StartupMap({
         <ExitFixModeModal
           unsavedCount={unsavedCount}
           canWriteSeed={canWriteSeed}
-          isSaving={isWriting}
+          isSaving={isWriting || isDownloading}
           onSaveAndExit={() => {
             void handleSaveAndExit();
           }}
