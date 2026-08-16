@@ -230,6 +230,101 @@ function PublicCorrectionModal({
   );
 }
 
+function ExitFixModeModal({
+  unsavedCount,
+  canWriteSeed,
+  isSaving,
+  onSaveAndExit,
+  onDiscardAndExit,
+  onKeepEditing,
+}: {
+  unsavedCount: number;
+  canWriteSeed: boolean;
+  isSaving: boolean;
+  onSaveAndExit: () => void;
+  onDiscardAndExit: () => void;
+  onKeepEditing: () => void;
+}) {
+  return (
+    <>
+      <div
+        style={{
+          position: "fixed",
+          top: 0,
+          left: 0,
+          right: 0,
+          bottom: 0,
+          backgroundColor: "rgba(0, 0, 0, 0.4)",
+          zIndex: 1299,
+        }}
+        onClick={isSaving ? undefined : onKeepEditing}
+      />
+      <div
+        role="dialog"
+        aria-modal="true"
+        aria-labelledby="exit-fix-mode-title"
+        style={{
+          position: "fixed",
+          top: "50%",
+          left: "50%",
+          transform: "translate(-50%, -50%)",
+          background: "white",
+          borderRadius: 18,
+          border: "1px solid rgba(15, 107, 107, 0.14)",
+          boxShadow: "var(--map-shadow)",
+          padding: 24,
+          zIndex: 1300,
+          maxWidth: "min(440px, calc(100vw - 32px))",
+          width: "100%",
+        }}
+      >
+        <div
+          id="exit-fix-mode-title"
+          className="text-lg font-semibold text-[color:var(--ink)] mb-2"
+        >
+          Save layout changes?
+        </div>
+        <div className="text-sm text-[color:var(--muted)] mb-4">
+          You have {unsavedCount} unsaved marker change
+          {unsavedCount === 1 ? "" : "s"}. Save before exiting Fix mode, or
+          discard them.
+        </div>
+        <div className="flex flex-col gap-2 sm:flex-row sm:justify-end">
+          <button
+            type="button"
+            onClick={onKeepEditing}
+            disabled={isSaving}
+            className="px-4 py-2 text-sm border border-slate-200 rounded-lg hover:bg-slate-50 disabled:opacity-50"
+          >
+            Keep editing
+          </button>
+          <button
+            type="button"
+            onClick={onDiscardAndExit}
+            disabled={isSaving}
+            className="px-4 py-2 text-sm border border-red-200 text-red-700 rounded-lg hover:bg-red-50 disabled:opacity-50"
+          >
+            Discard & exit
+          </button>
+          <button
+            type="button"
+            onClick={onSaveAndExit}
+            disabled={isSaving}
+            className="px-4 py-2 text-sm text-white rounded-lg disabled:opacity-50"
+            style={{ backgroundColor: "var(--teal)" }}
+          >
+            {isSaving
+              ? "Saving…"
+              : canWriteSeed
+                ? "Save & exit"
+                : "Download & exit"}
+          </button>
+        </div>
+      </div>
+    </>
+  );
+}
+
 export function StartupMap({
   city,
   markers,
@@ -325,12 +420,13 @@ export function StartupMap({
   }, []);
 
   const handleMemberDragEnd = React.useCallback((startup: Startup, latlng: { lat: number; lng: number }) => {
-    if (!startup.buildingId) return;
-    
+    const buildingId = startup.buildingId;
+    if (!buildingId) return;
+
     setLayoutDraft(prev => {
       // Find the hub center (with draft applied if exists)
-      const building = buildings.find(b => b.id === startup.buildingId);
-      const buildingDraft = prev.buildings[startup.buildingId];
+      const building = buildings.find(b => b.id === buildingId);
+      const buildingDraft = prev.buildings[buildingId];
       const hubCenter = {
         lat: buildingDraft?.lat ?? building?.lat ?? startup.lat,
         lng: buildingDraft?.lng ?? building?.lng ?? startup.lng,
@@ -392,10 +488,17 @@ export function StartupMap({
   }, [startups, buildings, layoutDraft, city]);
 
   const [isWriting, setIsWriting] = React.useState(false);
+  const [showExitDialog, setShowExitDialog] = React.useState(false);
 
-  const writeSeed = React.useCallback(async () => {
-    if (isWriting) return;
-    
+  const exitFixMode = React.useCallback(() => {
+    setFixLocations(false);
+    setLayoutDraft({ startups: {}, buildings: {} });
+    setShowExitDialog(false);
+  }, []);
+
+  const writeSeed = React.useCallback(async (): Promise<boolean> => {
+    if (isWriting) return false;
+
     setIsWriting(true);
     try {
       const draftStartups = applyDraftToStartups(startups, layoutDraft.startups);
@@ -407,22 +510,22 @@ export function StartupMap({
       };
 
       const response = await fetch(`/api/admin/seed-write/${city}`, {
-        method: 'PUT',
-        headers: { 'Content-Type': 'application/json' },
+        method: "PUT",
+        headers: { "Content-Type": "application/json" },
         body: JSON.stringify(payload),
       });
 
       if (!response.ok) {
-        const error = await response.json();
-        throw new Error(error.error || 'Write failed');
+        const error = await response.json().catch(() => ({}));
+        throw new Error((error as { error?: string }).error || "Write failed");
       }
 
-      // Success - clear the draft and show success
       setLayoutDraft({ startups: {}, buildings: {} });
-      alert('Seed data written successfully!');
+      return true;
     } catch (error) {
-      console.error('Write seed failed:', error);
-      alert(`Write failed: ${error instanceof Error ? error.message : 'Unknown error'}`);
+      console.error("Write seed failed:", error);
+      alert(`Write failed: ${error instanceof Error ? error.message : "Unknown error"}`);
+      return false;
     } finally {
       setIsWriting(false);
     }
@@ -430,12 +533,31 @@ export function StartupMap({
 
   const handleToggleOffConfirm = React.useCallback(() => {
     if (unsavedCount > 0) {
-      const confirmed = window.confirm('Discard unsaved layout edits?');
-      if (!confirmed) return;
+      setShowExitDialog(true);
+      return;
     }
-    setFixLocations(false);
-    setLayoutDraft({ startups: {}, buildings: {} });
-  }, [unsavedCount]);
+    exitFixMode();
+  }, [unsavedCount, exitFixMode]);
+
+  const handleSaveAndExit = React.useCallback(async () => {
+    if (canWriteSeed) {
+      const ok = await writeSeed();
+      if (!ok) return;
+      setFixLocations(false);
+      setShowExitDialog(false);
+      return;
+    }
+    downloadDraft();
+    exitFixMode();
+  }, [canWriteSeed, writeSeed, downloadDraft, exitFixMode]);
+
+  const handleDiscardAndExit = React.useCallback(() => {
+    exitFixMode();
+  }, [exitFixMode]);
+
+  const handleKeepEditing = React.useCallback(() => {
+    setShowExitDialog(false);
+  }, []);
 
   const handleReportLocation = React.useCallback((startup: Startup) => {
     setPublicCorrection({
@@ -568,24 +690,32 @@ export function StartupMap({
             >
               Download JSON
             </button>
-            {canWriteSeed && (
+            {canWriteSeed ? (
               <button
-                onClick={writeSeed}
-                disabled={isWriting}
+                onClick={() => {
+                  void writeSeed().then((ok) => {
+                    if (ok) alert("Seed data written successfully!");
+                  });
+                }}
+                disabled={isWriting || unsavedCount === 0}
                 style={{
                   padding: "6px 12px",
-                  backgroundColor: isWriting ? "rgba(255,255,255,0.1)" : "rgba(255,255,255,0.2)",
+                  backgroundColor:
+                    isWriting || unsavedCount === 0
+                      ? "rgba(255,255,255,0.1)"
+                      : "rgba(255,255,255,0.2)",
                   border: "1px solid rgba(255,255,255,0.3)",
                   borderRadius: "4px",
                   color: "white",
                   fontSize: "12px",
-                  cursor: isWriting ? "not-allowed" : "pointer",
-                  opacity: isWriting ? 0.6 : 1,
+                  cursor:
+                    isWriting || unsavedCount === 0 ? "not-allowed" : "pointer",
+                  opacity: isWriting || unsavedCount === 0 ? 0.6 : 1,
                 }}
               >
                 {isWriting ? "Writing..." : "Write Seed"}
               </button>
-            )}
+            ) : null}
             <button
               onClick={handleToggleOffConfirm}
               style={{
@@ -728,6 +858,19 @@ export function StartupMap({
           onSubmit={handlePublicSubmit}
           onCancel={handlePublicCancel}
           isSubmitting={isSubmittingCorrection}
+        />
+      )}
+
+      {showExitDialog && (
+        <ExitFixModeModal
+          unsavedCount={unsavedCount}
+          canWriteSeed={canWriteSeed}
+          isSaving={isWriting}
+          onSaveAndExit={() => {
+            void handleSaveAndExit();
+          }}
+          onDiscardAndExit={handleDiscardAndExit}
+          onKeepEditing={handleKeepEditing}
         />
       )}
     </div>
