@@ -18,16 +18,15 @@ export function AdminTabs() {
     setError(null);
     try {
       const res = await fetch("/api/admin/me", { method: "GET" });
-      if (res.status === 401) {
-        setAuthed(false);
-        return;
-      }
       if (!res.ok) {
         setAuthed(false);
-        setError("Failed to verify admin session");
+        if (res.status !== 401) {
+          setError("Failed to verify admin session");
+        }
         return;
       }
-      setAuthed(true);
+      const json = (await res.json()) as { authenticated?: boolean };
+      setAuthed(json.authenticated === true);
     } catch {
       setAuthed(false);
       setError("Failed to verify admin session");

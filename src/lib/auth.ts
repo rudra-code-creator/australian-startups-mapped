@@ -39,13 +39,31 @@ export async function requireAdmin() {
   return { ok: true as const, session };
 }
 
+function safeEqualString(a: string, b: string): boolean {
+  const hashA = createHash("sha256").update(a).digest();
+  const hashB = createHash("sha256").update(b).digest();
+  return timingSafeEqual(hashA, hashB);
+}
+
+/** Default local username when ADMIN_USERNAME is unset. */
+export const DEFAULT_ADMIN_USERNAME = "ADMIN";
+
+export function loginWithCredentials(
+  username: string,
+  password: string,
+): boolean {
+  const expectedUser =
+    process.env.ADMIN_USERNAME?.trim() || DEFAULT_ADMIN_USERNAME;
+  const expectedPassword = process.env.ADMIN_PASSWORD;
+  if (!expectedPassword) return false;
+
+  const userOk = safeEqualString(username.trim(), expectedUser);
+  const passOk = safeEqualString(password, expectedPassword);
+  return userOk && passOk;
+}
+
+/** @deprecated Prefer loginWithCredentials */
 export function loginWithPassword(password: string): boolean {
-  const expected = process.env.ADMIN_PASSWORD;
-  if (!expected) return false;
-
-  const hashPassword = createHash("sha256").update(password).digest();
-  const hashExpected = createHash("sha256").update(expected).digest();
-
-  return timingSafeEqual(hashPassword, hashExpected);
+  return loginWithCredentials(DEFAULT_ADMIN_USERNAME, password);
 }
 

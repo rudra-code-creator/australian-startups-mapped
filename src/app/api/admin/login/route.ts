@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import { getSession, loginWithPassword } from "@/lib/auth";
+import { getSession, loginWithCredentials } from "@/lib/auth";
 
 export async function POST(req: Request) {
   let body: unknown;
@@ -9,13 +9,19 @@ export async function POST(req: Request) {
     return NextResponse.json({ error: "Invalid JSON" }, { status: 400 });
   }
 
-  const password = (body as { password?: unknown } | null)?.password;
+  const record = body as { username?: unknown; password?: unknown } | null;
+  const username = record?.username;
+  const password = record?.password;
+
+  if (typeof username !== "string" || username.trim().length === 0) {
+    return NextResponse.json({ error: "username is required" }, { status: 400 });
+  }
   if (typeof password !== "string") {
     return NextResponse.json({ error: "password is required" }, { status: 400 });
   }
 
-  if (!loginWithPassword(password)) {
-    return NextResponse.json({ error: "Invalid password" }, { status: 401 });
+  if (!loginWithCredentials(username, password)) {
+    return NextResponse.json({ error: "Invalid username or password" }, { status: 401 });
   }
 
   const session = await getSession();
@@ -24,4 +30,3 @@ export async function POST(req: Request) {
 
   return NextResponse.json({ ok: true });
 }
-

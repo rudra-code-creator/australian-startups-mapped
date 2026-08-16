@@ -3,6 +3,8 @@ import { requireAdmin } from "@/lib/auth";
 
 export async function GET() {
   const auth = await requireAdmin();
-  return NextResponse.json({ authenticated: auth.ok });
+  if (!auth.ok) {
+    return NextResponse.json({ authenticated: false }, { status: 401 });
+  }
+  return NextResponse.json({ authenticated: true });
 }
-
