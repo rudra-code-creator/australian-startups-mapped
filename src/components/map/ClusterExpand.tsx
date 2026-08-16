@@ -131,20 +131,24 @@ export function ClusterExpand({
   lat,
   lng,
   buildingName,
+  buildingId,
   startups,
   onSelect,
   onClose,
   draggable,
   onMemberDragEnd,
+  onReportHubLocation,
 }: {
   lat: number;
   lng: number;
   buildingName: string;
+  buildingId: string;
   startups: Startup[];
   onSelect: (startup: Startup) => void;
   onClose: () => void;
   draggable?: boolean;
   onMemberDragEnd?: (startup: Startup, latlng: { lat: number; lng: number }) => void;
+  onReportHubLocation?: (building: { id: string; name: string; lat: number; lng: number }) => void;
 }) {
   const map = useMap();
   const panelRef = React.useRef<HTMLDivElement | null>(null);
@@ -244,6 +248,17 @@ export function ClusterExpand({
       {startups.length > 25 ? (
         <div className="mt-3 text-[11px] text-[color:var(--muted)]">
           Showing first 25.
+        </div>
+      ) : null}
+
+      {onReportHubLocation ? (
+        <div className="mt-3 pt-2 border-t border-slate-200">
+          <button
+            onClick={() => onReportHubLocation({ id: buildingId, name: buildingName, lat, lng })}
+            className="text-xs font-semibold text-[color:var(--muted)] hover:text-[color:var(--ink)] transition-colors"
+          >
+            Hub location looks wrong
+          </button>
         </div>
       ) : null}
     </div>

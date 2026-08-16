@@ -7,9 +7,11 @@ import { LogoImage } from "./LogoImage";
 export function StartupDetailPanel({
   startup,
   onClose,
+  onReportLocation,
 }: {
   startup: Startup | null;
   onClose: () => void;
+  onReportLocation?: (startup: Startup) => void;
 }) {
   const open = Boolean(startup);
   const [failedImages, setFailedImages] = React.useState<Record<string, true>>(
@@ -152,6 +154,14 @@ export function StartupDetailPanel({
               >
                 Open in Google Maps
               </a>
+            ) : null}
+            {startup && onReportLocation ? (
+              <button
+                onClick={() => onReportLocation(startup)}
+                className="inline-flex items-center rounded-full px-3 py-1.5 text-xs font-semibold border border-slate-200 hover:bg-slate-50"
+              >
+                Location looks wrong
+              </button>
             ) : null}
           </div>
         </div>
