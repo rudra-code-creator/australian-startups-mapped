@@ -1,5 +1,6 @@
 import { z } from "zod";
 import { isCitySlug } from "@/lib/cities";
+import type { LocationCorrectionInput } from "./types";
 
 export type SuggestionInput = {
   name: string;
@@ -31,6 +32,19 @@ const approveSchema = z.object({
   blurb: z.string().optional(),
 });
 
+const locationCorrectionSchema = z.object({
+  targetKind: z.enum(["startup", "building"]),
+  targetId: z.string().min(1, "targetId is required"),
+  city: z.string().refine((v) => isCitySlug(v), "invalid city"),
+  name: z.string().min(1, "name is required"),
+  fromLat: z.number().refine((n) => Number.isFinite(n), "fromLat must be finite"),
+  fromLng: z.number().refine((n) => Number.isFinite(n), "fromLng must be finite"),
+  toLat: z.number().refine((n) => Number.isFinite(n), "toLat must be finite"),
+  toLng: z.number().refine((n) => Number.isFinite(n), "toLng must be finite"),
+  clearBuildingId: z.boolean().optional(),
+  submitterNote: z.string().max(500, "submitterNote too long").optional(),
+});
+
 export function parseSuggestionInput(
   body: unknown
 ): { ok: true; data: SuggestionInput } | { ok: false; error: string } {
@@ -46,4 +60,15 @@ export function parseApproveInput(
   if (!res.success) return { ok: false, error: res.error.message };
   return { ok: true, data: res.data };
 }
+
+export function parseLocationCorrectionInput(
+  body: unknown
+):
+  | { ok: true; data: LocationCorrectionInput }
+  | { ok: false; error: string } {
+  const res = locationCorrectionSchema.safeParse(body);
+  if (!res.success) return { ok: false, error: res.error.message };
+  return { ok: true, data: res.data as LocationCorrectionInput };
+}
+
 
