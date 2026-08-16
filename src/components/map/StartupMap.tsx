@@ -286,8 +286,9 @@ function ExitFixModeModal({
         </div>
         <div className="text-sm text-[color:var(--muted)] mb-4">
           You have {unsavedCount} unsaved marker change
-          {unsavedCount === 1 ? "" : "s"}. Save before exiting Fix mode, or
-          discard them.
+          {unsavedCount === 1 ? "" : "s"}. This will download updated JSON
+          {canWriteSeed ? " and write seed files locally" : ""} before exiting
+          Fix mode.
         </div>
         <div className="flex flex-col gap-2 sm:flex-row sm:justify-end">
           <button
@@ -316,8 +317,8 @@ function ExitFixModeModal({
             {isSaving
               ? "Saving…"
               : canWriteSeed
-                ? "Save & exit"
-                : "Download & exit"}
+                ? "Save & download"
+                : "Download JSON & exit"}
           </button>
         </div>
       </div>
@@ -458,32 +459,41 @@ export function StartupMap({
   }, [layoutDraft]);
 
   const downloadDraft = React.useCallback(() => {
-    // Apply draft overrides to startups and buildings for export
     const draftStartups = applyDraftToStartups(startups, layoutDraft.startups);
     const draftBuildings = applyDraftToBuildings(buildings, layoutDraft.buildings);
+    const buildingsChanged = Object.keys(layoutDraft.buildings).length > 0;
 
-    // Download startups
-    const startupsData = {
-      startups: draftStartups,
-      exported: new Date().toISOString(),
+    const triggerDownload = (filename: string, payload: unknown) => {
+      const blob = new Blob([JSON.stringify(payload, null, 2) + "\n"], {
+        type: "application/json",
+      });
+      const url = URL.createObjectURL(blob);
+      const link = document.createElement("a");
+      link.href = url;
+      link.download = filename;
+      link.rel = "noopener";
+      link.style.display = "none";
+      document.body.appendChild(link);
+      link.click();
+      // Revoke after the browser has a chance to start the download
+      window.setTimeout(() => {
+        link.remove();
+        URL.revokeObjectURL(url);
+      }, 1500);
     };
-    const startupsBlob = new Blob([JSON.stringify(draftStartups, null, 2)], { type: 'application/json' });
-    const startupsUrl = URL.createObjectURL(startupsBlob);
-    const startupsLink = document.createElement('a');
-    startupsLink.href = startupsUrl;
-    startupsLink.download = `${city}.json`;
-    startupsLink.click();
-    URL.revokeObjectURL(startupsUrl);
 
-    // If buildings changed, also download buildings
-    if (Object.keys(layoutDraft.buildings).length > 0) {
-      const buildingsBlob = new Blob([JSON.stringify(draftBuildings, null, 2)], { type: 'application/json' });
-      const buildingsUrl = URL.createObjectURL(buildingsBlob);
-      const buildingsLink = document.createElement('a');
-      buildingsLink.href = buildingsUrl;
-      buildingsLink.download = `buildings-${city}.json`;
-      buildingsLink.click();
-      URL.revokeObjectURL(buildingsUrl);
+    // Always download the city startups array (matches seed file shape)
+    triggerDownload(`${city}.json`, draftStartups);
+
+    // Also download a combined export, and buildings when hubs moved
+    triggerDownload(`${city}-merged-seed.json`, {
+      startups: draftStartups,
+      buildings: draftBuildings,
+      exportedAt: new Date().toISOString(),
+    });
+
+    if (buildingsChanged) {
+      triggerDownload(`buildings-${city}.json`, draftBuildings);
     }
   }, [startups, buildings, layoutDraft, city]);
 
@@ -520,7 +530,6 @@ export function StartupMap({
         throw new Error((error as { error?: string }).error || "Write failed");
       }
 
-      setLayoutDraft({ startups: {}, buildings: {} });
       return true;
     } catch (error) {
       console.error("Write seed failed:", error);
@@ -540,14 +549,20 @@ export function StartupMap({
   }, [unsavedCount, exitFixMode]);
 
   const handleSaveAndExit = React.useCallback(async () => {
+    // Always download JSON so the user keeps a copy even when filesystem write is off.
+    downloadDraft();
+
     if (canWriteSeed) {
       const ok = await writeSeed();
-      if (!ok) return;
-      setFixLocations(false);
-      setShowExitDialog(false);
-      return;
+      if (!ok) {
+        // Download already happened; keep dialog open so they can discard or keep editing.
+        alert(
+          "JSON downloaded. Seed write failed — you can keep editing or discard.",
+        );
+        return;
+      }
     }
-    downloadDraft();
+
     exitFixMode();
   }, [canWriteSeed, writeSeed, downloadDraft, exitFixMode]);
 
