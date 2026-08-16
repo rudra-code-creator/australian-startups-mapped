@@ -13,23 +13,78 @@ function clamp(value: number, min: number, max: number) {
 function LogoTile({
   startup,
   onSelect,
+  draggable,
+  onDragEnd,
 }: {
   startup: Startup;
   onSelect: (startup: Startup) => void;
+  draggable?: boolean;
+  onDragEnd?: (startup: Startup, latlng: { lat: number; lng: number }) => void;
 }) {
   const size = 42;
+  const [isDragging, setIsDragging] = React.useState(false);
+  const [dragStart, setDragStart] = React.useState<{ x: number; y: number } | null>(null);
+  const map = useMap();
+
+  const handleMouseDown = React.useCallback((event: React.MouseEvent) => {
+    if (!draggable) return;
+    event.preventDefault();
+    event.stopPropagation();
+    setIsDragging(true);
+    setDragStart({ x: event.clientX, y: event.clientY });
+  }, [draggable]);
+
+  const handleMouseMove = React.useCallback((event: MouseEvent) => {
+    if (!isDragging || !dragStart) return;
+    // Visual feedback could be added here
+  }, [isDragging, dragStart]);
+
+  const handleMouseUp = React.useCallback((event: MouseEvent) => {
+    if (!isDragging || !dragStart || !onDragEnd) {
+      setIsDragging(false);
+      setDragStart(null);
+      return;
+    }
+
+    const dragDistance = Math.sqrt(
+      Math.pow(event.clientX - dragStart.x, 2) + Math.pow(event.clientY - dragStart.y, 2)
+    );
+
+    // Only trigger drag if moved significant distance
+    if (dragDistance > 10) {
+      const latlng = map.containerPointToLatLng([event.clientX, event.clientY]);
+      onDragEnd(startup, { lat: latlng.lat, lng: latlng.lng });
+    }
+
+    setIsDragging(false);
+    setDragStart(null);
+  }, [isDragging, dragStart, onDragEnd, startup, map]);
+
+  React.useEffect(() => {
+    if (!isDragging) return;
+
+    document.addEventListener('mousemove', handleMouseMove);
+    document.addEventListener('mouseup', handleMouseUp);
+
+    return () => {
+      document.removeEventListener('mousemove', handleMouseMove);
+      document.removeEventListener('mouseup', handleMouseUp);
+    };
+  }, [isDragging, handleMouseMove, handleMouseUp]);
+
+  const handleClick = React.useCallback((event: React.MouseEvent) => {
+    if (!dragStart) {
+      event.preventDefault();
+      event.stopPropagation();
+      onSelect(startup);
+    }
+  }, [dragStart, onSelect, startup]);
 
   return (
     <button
       type="button"
-      onClick={(event) => {
-        event.preventDefault();
-        event.stopPropagation();
-        onSelect(startup);
-      }}
-      onMouseDown={(event) => {
-        event.stopPropagation();
-      }}
+      onClick={handleClick}
+      onMouseDown={handleMouseDown}
       onDoubleClick={(event) => {
         event.stopPropagation();
       }}
@@ -40,7 +95,7 @@ function LogoTile({
         boxShadow: "var(--map-shadow)",
         background: "white",
         overflow: "hidden",
-        cursor: "pointer",
+        cursor: draggable ? "grab" : "pointer",
       }}
       aria-label={`Open ${startup.name}`}
       title={startup.name}
@@ -57,6 +112,8 @@ export function ClusterExpand({
   startups,
   onSelect,
   onClose,
+  draggable,
+  onMemberDragEnd,
 }: {
   lat: number;
   lng: number;
@@ -64,6 +121,8 @@ export function ClusterExpand({
   startups: Startup[];
   onSelect: (startup: Startup) => void;
   onClose: () => void;
+  draggable?: boolean;
+  onMemberDragEnd?: (startup: Startup, latlng: { lat: number; lng: number }) => void;
 }) {
   const map = useMap();
   const panelRef = React.useRef<HTMLDivElement | null>(null);
@@ -150,7 +209,13 @@ export function ClusterExpand({
         }}
       >
         {startups.slice(0, 25).map((s) => (
-          <LogoTile key={s.id} startup={s} onSelect={onSelect} />
+          <LogoTile 
+            key={s.id} 
+            startup={s} 
+            onSelect={onSelect}
+            draggable={draggable}
+            onDragEnd={onMemberDragEnd}
+          />
         ))}
       </div>
 

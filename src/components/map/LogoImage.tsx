@@ -10,7 +10,7 @@ export function LogoImage({
   size,
   className,
 }: {
-  startup: Pick<Startup, "name" | "logoUrl" | "website">;
+  startup: Pick<Startup, "id" | "name" | "logoUrl" | "website">;
   size: number;
   className?: string;
 }) {
