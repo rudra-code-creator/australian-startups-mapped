@@ -94,3 +94,17 @@ body {
   background-size: 56px 56px;
   mask-image: radial-gradient(circle at 30% 20%, #000 0%, transparent 72%);
 }
+
+.home-product-shots {
+  animation-delay: 140ms;
+}
+
+.home-product-shot {
+  max-height: min(38vh, 360px);
+}
+
+@media (min-width: 1024px) {
+  .home-product-shot {
+    max-height: min(42vh, 420px);
+  }
+}

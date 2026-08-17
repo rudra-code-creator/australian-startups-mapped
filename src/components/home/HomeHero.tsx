@@ -1,13 +1,27 @@
+import Image from "next/image";
 import Link from "next/link";
 import { CITY_SLUGS } from "@/lib/cities";
 import { CityEntry } from "./CityEntry";
+
+const PRODUCT_SHOTS = [
+  {
+    src: "/home/brisbane-map.png",
+    alt: "Brisbane startup map with logo markers across the CBD and Fortitude Valley",
+    label: "Brisbane",
+  },
+  {
+    src: "/home/sydney-map.png",
+    alt: "Sydney startup map with logo markers across the CBD and inner suburbs",
+    label: "Sydney",
+  },
+] as const;
 
 export function HomeHero() {
   return (
     <main className="min-h-screen">
       <section className="home-atmosphere relative overflow-hidden">
-        <div className="mx-auto w-full max-w-6xl px-6 py-20 sm:py-24">
-          <div className="max-w-2xl animate-fade-up">
+        <div className="mx-auto grid w-full max-w-7xl gap-10 px-6 py-16 lg:grid-cols-[minmax(0,0.95fr)_minmax(0,1.05fr)] lg:items-start lg:gap-12 lg:py-20 xl:gap-16">
+          <div className="animate-fade-up lg:max-w-xl lg:pt-4">
             <p className="text-xs font-semibold tracking-[0.3em] uppercase text-[color:var(--muted)]">
               Australian Startup Map
             </p>
@@ -33,30 +47,48 @@ export function HomeHero() {
                 Curated / illustrative — not a complete census.
               </span>
             </div>
+
+            <div className="mt-12">
+              <div className="flex items-end justify-between gap-6">
+                <h2
+                  className="text-xl sm:text-2xl text-[color:var(--ink)]"
+                  style={{ fontFamily: "var(--font-display)" }}
+                >
+                  Choose a city
+                </h2>
+                <p className="text-sm text-[color:var(--muted)]">
+                  Five maps. One interaction model.
+                </p>
+              </div>
+
+              <div className="mt-4 animate-rise-links">
+                {CITY_SLUGS.map((slug, i) => (
+                  <CityEntry key={slug} city={slug} index={i} />
+                ))}
+              </div>
+            </div>
           </div>
 
-          <div className="mt-14 max-w-3xl">
-            <div className="flex items-end justify-between gap-6">
-              <h2
-                className="text-xl sm:text-2xl text-[color:var(--ink)]"
-                style={{ fontFamily: "var(--font-display)" }}
-              >
-                Choose a city
-              </h2>
-              <p className="text-sm text-[color:var(--muted)]">
-                Five maps. One interaction model.
-              </p>
-            </div>
-
-            <div className="mt-4 animate-rise-links">
-              {CITY_SLUGS.map((slug, i) => (
-                <CityEntry key={slug} city={slug} index={i} />
-              ))}
-            </div>
+          <div className="home-product-shots animate-fade-up flex flex-col gap-4 lg:sticky lg:top-8">
+            {PRODUCT_SHOTS.map((shot) => (
+              <figure key={shot.src} className="m-0 overflow-hidden">
+                <Image
+                  src={shot.src}
+                  alt={shot.alt}
+                  width={1600}
+                  height={1000}
+                  className="home-product-shot block h-auto w-full object-cover object-center"
+                  sizes="(min-width: 1024px) 48vw, 100vw"
+                  priority
+                />
+                <figcaption className="pt-2 text-xs font-semibold tracking-[0.22em] uppercase text-[color:var(--muted)]">
+                  {shot.label}
+                </figcaption>
+              </figure>
+            ))}
           </div>
         </div>
       </section>
     </main>
   );
 }
-
