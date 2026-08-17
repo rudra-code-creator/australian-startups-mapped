@@ -2,6 +2,9 @@
   "name": "australian-startup-map",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": ">=20.9.0"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -11,7 +14,8 @@
     "test:watch": "vitest",
     "db:push": "prisma db push",
     "db:studio": "prisma studio",
-    "enrich:seeds": "node scripts/enrich-seeds.mjs"
+    "enrich:seeds": "node scripts/enrich-seeds.mjs",
+    "postinstall": "prisma generate"
   },
   "dependencies": {
     "@libsql/client": "^0.15.15",

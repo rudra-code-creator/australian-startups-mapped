@@ -24,9 +24,21 @@ export async function getCityMapData(
 
   const city: CitySlug = cityParam;
 
-  const approvedRows = await prisma.suggestion.findMany({
-    where: { status: "approved", city },
-  });
+  let approvedRows: Awaited<ReturnType<typeof prisma.suggestion.findMany>> = [];
+  let approvedCorrections: Awaited<
+    ReturnType<typeof prisma.locationCorrection.findMany>
+  > = [];
+
+  try {
+    approvedRows = await prisma.suggestion.findMany({
+      where: { status: "approved", city },
+    });
+    approvedCorrections = await prisma.locationCorrection.findMany({
+      where: { status: "approved", city },
+    });
+  } catch {
+    // Seed-only when SQLite is missing or unmigrated (typical on Netlify).
+  }
 
   const approved: Startup[] = approvedRows
     .filter((r) => r.lat != null && r.lng != null)
@@ -46,10 +58,6 @@ export async function getCityMapData(
         sector: r.sector ?? undefined,
       }),
     );
-
-  const approvedCorrections = await prisma.locationCorrection.findMany({
-    where: { status: "approved", city },
-  });
 
   const seedStartups = loadSeedStartups(city);
   const seedBuildings = loadBuildings().filter((b) => b.city === city);

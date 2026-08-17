@@ -16,6 +16,7 @@ Thumbs.db
 
 # Local Cursor hook state (regenerated)
 .cursor/hooks/state/
+tsconfig.tsbuildinfo
 
 .worktrees/
 .superpowers/

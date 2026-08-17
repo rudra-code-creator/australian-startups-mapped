@@ -40,6 +40,7 @@ Create a `.env` file in the project root (or copy from `.env.example`) and set:
 - **`DATABASE_URL`**: SQLite connection string, e.g. `file:./dev.db`.
   - Defaults to `file:./dev.db` in development if not set.
   - Controls where Prisma stores suggestions and approval state.
+- **`ADMIN_USERNAME`**: Username for `/admin` (defaults to `ADMIN` if unset).
 - **`ADMIN_PASSWORD`**: Password for the `/admin` approval UI.
   - Required to log in and approve / reject suggestions.
 - **`SESSION_SECRET`**: A **32+ character** random string used to encrypt admin sessions.
@@ -96,4 +97,20 @@ cp .env.example .env
 - **Broken logos**
   - Startup logo URLs are rendered where available.
   - If a logo fails to load, the UI falls back to an initials avatar so the map stays visually stable.
+
+### Deploy on Netlify
+
+This repo is a Next.js App Router app. Connect [Netlify](https://www.netlify.com/) to `rudra-code-creator/australian-startups-mapped` and use:
+
+- **Build command:** `npx prisma generate && npm run build` (also set in `netlify.toml`)
+- **Node:** 20+
+
+Set these site environment variables (Site settings → Environment variables):
+
+- `ADMIN_USERNAME` — e.g. `ADMIN`
+- `ADMIN_PASSWORD` — a strong password (do not use the local example in production)
+- `SESSION_SECRET` — 32+ random characters
+- `DATABASE_URL` — e.g. `file:/tmp/dev.db` for an ephemeral SQLite file on the serverless runtime
+
+The public maps load from curated JSON in the repo, so city maps work without a persistent database. Suggestions, location-correction reports, and admin approvals need a writable database; Netlify’s filesystem is not durable, so use a hosted SQLite/LibSQL (e.g. Turso) if you want those queues to persist.
 

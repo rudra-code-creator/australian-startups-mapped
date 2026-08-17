@@ -3,6 +3,8 @@ import { CityMapClient } from "@/components/map/CityMapClient";
 import { getCityMapData } from "@/lib/get-city-map-data";
 import { getSession } from "@/lib/auth";
 
+export const dynamic = "force-dynamic";
+
 export default async function CityMapPage({
   params,
 }: {
@@ -13,8 +15,13 @@ export default async function CityMapPage({
 
   if (!data) notFound();
 
-  const session = await getSession();
-  const isAdmin = session.authenticated === true;
+  let isAdmin = false;
+  try {
+    const session = await getSession();
+    isAdmin = session.authenticated === true;
+  } catch {
+    isAdmin = false;
+  }
   const canWriteSeed = process.env.NODE_ENV !== "production";
 
   return (
