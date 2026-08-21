@@ -1,0 +1,696 @@
+[
+  {
+    "id": "wlg-xero",
+    "name": "Xero",
+    "city": "wellington",
+    "lat": -41.2961,
+    "lng": 174.7745,
+    "website": "https://www.xero.com",
+    "sector": "SaaS",
+    "address": "19 Walter St, Te Aro, Wellington",
+    "blurb": "Xero’s founding home; major product and engineering campus in Wellington.",
+    "logoUrl": "https://logo.clearbit.com/xero.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.xero.com?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "wlg-sharesies",
+    "name": "Sharesies",
+    "city": "wellington",
+    "lat": -41.29265,
+    "lng": 174.7771,
+    "website": "https://www.sharesies.nz",
+    "sector": "FinTech",
+    "address": "7 Dixon St, Te Aro, Wellington",
+    "blurb": "Investment platform that started in Wellington and opened investing to first-timers.",
+    "buildingId": "wellington-creative-hq",
+    "buildingName": "Creative HQ",
+    "logoUrl": "https://logo.clearbit.com/sharesies.nz",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.sharesies.nz?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "wlg-trademe",
+    "name": "Trade Me",
+    "city": "wellington",
+    "lat": -41.2848,
+    "lng": 174.7769,
+    "website": "https://www.trademe.co.nz",
+    "sector": "Marketplace",
+    "address": "2 Queen St, Wellington CBD",
+    "blurb": "New Zealand’s largest online marketplace, headquartered on Wellington’s waterfront.",
+    "logoUrl": "https://logo.clearbit.com/trademe.co.nz",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.trademe.co.nz?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "wlg-vista",
+    "name": "Vista Group",
+    "city": "wellington",
+    "lat": -41.2912,
+    "lng": 174.7784,
+    "website": "https://vistagroup.co.nz",
+    "sector": "SaaS",
+    "address": "50 Manners St, Wellington",
+    "blurb": "Cinema software group spanning ticketing, advertising, and moviegoer data.",
+    "logoUrl": "https://logo.clearbit.com/vistagroup.co.nz",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fvistagroup.co.nz?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "wlg-sterling",
+    "name": "Sterling",
+    "city": "wellington",
+    "lat": -41.2926,
+    "lng": 174.7771,
+    "website": "https://www.sterling.ai",
+    "sector": "FinTech",
+    "address": "7 Dixon St, Te Aro, Wellington",
+    "blurb": "AI accounting automation startup founded in Wellington.",
+    "buildingId": "wellington-creative-hq",
+    "buildingName": "Creative HQ",
+    "logoUrl": "https://logo.clearbit.com/sterling.ai",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.sterling.ai?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "wlg-litmaps",
+    "name": "Litmaps",
+    "city": "wellington",
+    "lat": -41.29255,
+    "lng": 174.7771,
+    "website": "https://www.litmaps.com",
+    "sector": "Research",
+    "address": "7 Dixon St, Te Aro, Wellington",
+    "blurb": "Literature-discovery software for researchers, built in Wellington.",
+    "buildingId": "wellington-creative-hq",
+    "buildingName": "Creative HQ",
+    "logoUrl": "https://logo.clearbit.com/litmaps.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.litmaps.com?w=1200"
+    ],
+    "fundingStage": "Series D+"
+  },
+  {
+    "id": "wlg-asknicely",
+    "name": "AskNicely",
+    "city": "wellington",
+    "lat": -41.2925,
+    "lng": 174.7771,
+    "website": "https://www.asknicely.com",
+    "sector": "SaaS",
+    "address": "7 Dixon St, Te Aro, Wellington",
+    "blurb": "Customer experience platform with Wellington roots.",
+    "buildingId": "wellington-creative-hq",
+    "buildingName": "Creative HQ",
+    "logoUrl": "https://logo.clearbit.com/asknicely.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.asknicely.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "wlg-creative-hq",
+    "name": "Creative HQ",
+    "city": "wellington",
+    "lat": -41.2927,
+    "lng": 174.77715,
+    "website": "https://creativehq.co.nz",
+    "sector": "Hub",
+    "address": "7 Dixon St, Te Aro, Wellington",
+    "blurb": "Wellington incubator and accelerator behind many of NZ’s best-known startups.",
+    "buildingId": "wellington-creative-hq",
+    "buildingName": "Creative HQ",
+    "logoUrl": "https://logo.clearbit.com/creativehq.co.nz",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fcreativehq.co.nz?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "wlg-hnry",
+    "name": "Hnry",
+    "city": "wellington",
+    "lat": -41.2839,
+    "lng": 174.7791,
+    "website": "https://hnry.com",
+    "sector": "FinTech",
+    "address": "Level 4/111 Customhouse Quay, Wellington",
+    "blurb": "Contractor tax and admin platform with a strong Wellington team.",
+    "logoUrl": "https://logo.clearbit.com/hnry.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fhnry.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "wlg-hatch",
+    "name": "Hatch",
+    "city": "wellington",
+    "lat": -41.2839,
+    "lng": 174.7791,
+    "website": "https://www.hatchinvest.nz",
+    "sector": "FinTech",
+    "address": "111 Customhouse Quay, Wellington",
+    "blurb": "Investing app for NZX, ASX, and US shares, based in Wellington.",
+    "logoUrl": "https://logo.clearbit.com/hatchinvest.nz",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.hatchinvest.nz?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "wlg-melon-health",
+    "name": "Melon Health",
+    "city": "wellington",
+    "lat": -41.29265,
+    "lng": 174.77715,
+    "website": "https://www.melonhealth.com",
+    "sector": "Health",
+    "address": "7 Dixon St, Te Aro, Wellington",
+    "blurb": "Digital therapeutics and chronic-condition coaching platform.",
+    "buildingId": "wellington-creative-hq",
+    "buildingName": "Creative HQ",
+    "logoUrl": "https://logo.clearbit.com/melonhealth.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.melonhealth.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "wlg-pikpok",
+    "name": "PikPok",
+    "city": "wellington",
+    "lat": -41.2974,
+    "lng": 174.7806,
+    "website": "https://www.pikpok.com",
+    "sector": "Games",
+    "address": "115 Tory St, Te Aro, Wellington",
+    "blurb": "Mobile game studio behind Into the Dead and other titles.",
+    "logoUrl": "https://logo.clearbit.com/pikpok.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.pikpok.com?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "wlg-weta-digital",
+    "name": "Wētā FX",
+    "city": "wellington",
+    "lat": -41.3108,
+    "lng": 174.8216,
+    "website": "https://www.wetafx.co.nz",
+    "sector": "Media",
+    "address": "9–15 Manuka St, Miramar, Wellington",
+    "blurb": "Visual effects studio anchoring Wellington’s Miramar screen cluster.",
+    "logoUrl": "https://logo.clearbit.com/wetafx.co.nz",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.wetafx.co.nz?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "wlg-weta-workshop",
+    "name": "Wētā Workshop",
+    "city": "wellington",
+    "lat": -41.3122,
+    "lng": 174.8148,
+    "website": "https://www.wetaworkshop.com",
+    "sector": "Media",
+    "address": "1 Weka St, Miramar, Wellington",
+    "blurb": "Design and physical effects studio in Miramar.",
+    "logoUrl": "https://logo.clearbit.com/wetaworkshop.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.wetaworkshop.com?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "wlg-park-road",
+    "name": "Park Road Post",
+    "city": "wellington",
+    "lat": -41.3096,
+    "lng": 174.8195,
+    "website": "https://www.parkroad.co.nz",
+    "sector": "Media",
+    "address": "4 Park Rd, Miramar, Wellington",
+    "blurb": "Post-production and sound facility serving global screen productions.",
+    "logoUrl": "https://logo.clearbit.com/parkroad.co.nz",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.parkroad.co.nz?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "wlg-datacom-wlg",
+    "name": "Datacom",
+    "city": "wellington",
+    "lat": -41.2798,
+    "lng": 174.7786,
+    "website": "https://datacom.com",
+    "sector": "Enterprise",
+    "address": "55 Featherston St, Wellington",
+    "blurb": "NZ-owned technology services firm with a large Wellington campus.",
+    "logoUrl": "https://logo.clearbit.com/datacom.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fdatacom.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "wlg-delivereasy",
+    "name": "Delivereasy",
+    "city": "wellington",
+    "lat": -41.2926,
+    "lng": 174.77715,
+    "website": "https://www.delivereasy.co.nz",
+    "sector": "Logistics",
+    "address": "7 Dixon St, Te Aro, Wellington",
+    "blurb": "Local restaurant delivery network founded in Wellington.",
+    "buildingId": "wellington-creative-hq",
+    "buildingName": "Creative HQ",
+    "logoUrl": "https://logo.clearbit.com/delivereasy.co.nz",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.delivereasy.co.nz?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "wlg-marloo",
+    "name": "Marloo",
+    "city": "wellington",
+    "lat": -41.29255,
+    "lng": 174.77715,
+    "website": "https://www.marloo.ai",
+    "sector": "FinTech",
+    "address": "7 Dixon St, Te Aro, Wellington",
+    "blurb": "AI assistant for financial advisers, built in Wellington.",
+    "buildingId": "wellington-creative-hq",
+    "buildingName": "Creative HQ",
+    "logoUrl": "https://logo.clearbit.com/marloo.ai",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.marloo.ai?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "wlg-spotlight",
+    "name": "Spotlight Reporting",
+    "city": "wellington",
+    "lat": -41.2836,
+    "lng": 174.7778,
+    "website": "https://www.spotlightreporting.com",
+    "sector": "SaaS",
+    "address": "50 Customhouse Quay, Wellington",
+    "blurb": "Reporting and advisory software for accountants.",
+    "logoUrl": "https://logo.clearbit.com/spotlightreporting.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.spotlightreporting.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "wlg-bizdojo-wlg",
+    "name": "BizDojo Wellington",
+    "city": "wellington",
+    "lat": -41.2918,
+    "lng": 174.7789,
+    "website": "https://www.bizdojo.com",
+    "sector": "Hub",
+    "address": "2 Taranaki St, Te Aro, Wellington",
+    "blurb": "Waterfront coworking hub used by product and services startups.",
+    "logoUrl": "https://logo.clearbit.com/bizdojo.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.bizdojo.com?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "wlg-homely",
+    "name": "Homely",
+    "city": "wellington",
+    "lat": -41.2925,
+    "lng": 174.77715,
+    "website": "https://homely.co.nz",
+    "sector": "FinTech",
+    "address": "7 Dixon St, Te Aro, Wellington",
+    "blurb": "Home-loan platform coming out of Creative HQ’s fintech programmes.",
+    "buildingId": "wellington-creative-hq",
+    "buildingName": "Creative HQ",
+    "logoUrl": "https://logo.clearbit.com/homely.co.nz",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fhomely.co.nz?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "wlg-tradewindow",
+    "name": "TradeWindow",
+    "city": "wellington",
+    "lat": -41.2927,
+    "lng": 174.7772,
+    "website": "https://www.tradewindow.io",
+    "sector": "TradeTech",
+    "address": "7 Dixon St, Te Aro, Wellington",
+    "blurb": "Digital trade documents and supply-chain platform.",
+    "buildingId": "wellington-creative-hq",
+    "buildingName": "Creative HQ",
+    "logoUrl": "https://logo.clearbit.com/tradewindow.io",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.tradewindow.io?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "por-whitireia-innovation",
+    "name": "Whitireia & WelTec Innovation",
+    "city": "wellington",
+    "lat": -41.1378,
+    "lng": 174.8392,
+    "website": "https://www.whitireiaweltec.ac.nz",
+    "sector": "EdTech",
+    "address": "3 Wi Neera Dr, Porirua",
+    "blurb": "Porirua campus supporting applied tech, design, and founder programmes.",
+    "logoUrl": "https://logo.clearbit.com/whitireiaweltec.ac.nz",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.whitireiaweltec.ac.nz?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "por-ngati-toa",
+    "name": "Te Āhuru Mōwai digital",
+    "city": "wellington",
+    "lat": -41.1039,
+    "lng": 174.8416,
+    "website": "https://www.ngatitoa.iwi.nz",
+    "sector": "CivicTech",
+    "address": "26 Ngatitoa St, Takapūwāhia, Porirua",
+    "blurb": "iwi-led digital and enterprise activity on the Porirua harbour.",
+    "logoUrl": "https://logo.clearbit.com/ngatitoa.iwi.nz",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ngatitoa.iwi.nz?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "por-porirua-business",
+    "name": "Porirua Business Hub",
+    "city": "wellington",
+    "lat": -41.1348,
+    "lng": 174.8399,
+    "website": "https://poriruachamber.org.nz",
+    "sector": "Hub",
+    "address": "17 Parumoana St, Porirua",
+    "blurb": "City business hub on the Porirua CBD waterfront for local operators and startups.",
+    "logoUrl": "https://logo.clearbit.com/poriruachamber.org.nz",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fporiruachamber.org.nz?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "por-caniwi",
+    "name": "Caniwi Capital",
+    "city": "wellington",
+    "lat": -41.1356,
+    "lng": 174.8408,
+    "website": "https://www.caniwicapital.com",
+    "sector": "Venture",
+    "address": "1 Walton Leigh Ave, Porirua",
+    "blurb": "Investment office with a Porirua presence supporting growth companies.",
+    "logoUrl": "https://logo.clearbit.com/caniwicapital.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.caniwicapital.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "hutt-callaghan",
+    "name": "Callaghan Innovation",
+    "city": "wellington",
+    "lat": -41.2338,
+    "lng": 174.9166,
+    "website": "https://www.callaghaninnovation.govt.nz",
+    "sector": "DeepTech",
+    "address": "69 Gracefield Rd, Lower Hutt",
+    "blurb": "National innovation agency labs at Gracefield, Lower Hutt.",
+    "logoUrl": "https://logo.clearbit.com/callaghaninnovation.govt.nz",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.callaghaninnovation.govt.nz?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "hutt-robinson",
+    "name": "Robinson Research Institute",
+    "city": "wellington",
+    "lat": -41.2342,
+    "lng": 174.9172,
+    "website": "https://www.wgtn.ac.nz/robinson",
+    "sector": "DeepTech",
+    "address": "69 Gracefield Rd, Lower Hutt",
+    "blurb": "Superconductivity and cryogenics research commercialisation in Gracefield.",
+    "logoUrl": "https://logo.clearbit.com/wgtn.ac.nz",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.wgtn.ac.nz%2Frobinson?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "hutt-gns",
+    "name": "GNS Science",
+    "city": "wellington",
+    "lat": -41.1986,
+    "lng": 174.9418,
+    "website": "https://www.gns.cri.nz",
+    "sector": "DeepTech",
+    "address": "1 Fairway Dr, Avalon, Lower Hutt",
+    "blurb": "Geoscience and isotope science campus in Avalon, Lower Hutt.",
+    "logoUrl": "https://logo.clearbit.com/gns.cri.nz",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.gns.cri.nz?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "hutt-petone-workshop",
+    "name": "Jackson Street Workshop",
+    "city": "wellington",
+    "lat": -41.2264,
+    "lng": 174.8708,
+    "website": "https://www.hutt.city",
+    "sector": "Hub",
+    "address": "200 Jackson St, Petone, Lower Hutt",
+    "blurb": "Petone high-street cluster of product, design, and small software firms.",
+    "logoUrl": "https://logo.clearbit.com/hutt.city",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.hutt.city?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "hutt-dynamic-controls",
+    "name": "Dynamic Controls",
+    "city": "wellington",
+    "lat": -41.2445,
+    "lng": 174.9078,
+    "website": "https://dynamiccontrols.com",
+    "sector": "Health",
+    "address": "17 Print Pl, Seaview, Lower Hutt",
+    "blurb": "Powered-wheelchair and mobility electronics designed in Lower Hutt.",
+    "logoUrl": "https://logo.clearbit.com/dynamiccontrols.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fdynamiccontrols.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "uh-upper-hutt-hub",
+    "name": "Upper Hutt Business Hub",
+    "city": "wellington",
+    "lat": -41.1245,
+    "lng": 175.0706,
+    "website": "https://upperhutt.nz",
+    "sector": "Hub",
+    "address": "836 Fergusson Dr, Upper Hutt",
+    "blurb": "Upper Hutt city-centre workspace for local software and professional firms.",
+    "logoUrl": "https://logo.clearbit.com/upperhutt.nz",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fupperhutt.nz?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "uh-expressions-digital",
+    "name": "Whirinaki digital studio",
+    "city": "wellington",
+    "lat": -41.1242,
+    "lng": 175.0712,
+    "website": "https://www.expressions.org.nz",
+    "sector": "Media",
+    "address": "836 Fergusson Dr, Upper Hutt",
+    "blurb": "Civic creative venue supporting digital production in Upper Hutt.",
+    "logoUrl": "https://logo.clearbit.com/expressions.org.nz",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.expressions.org.nz?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "uh-silverstream",
+    "name": "Silverstream Tech",
+    "city": "wellington",
+    "lat": -41.1468,
+    "lng": 175.0104,
+    "website": "https://www.upperhuttcity.com",
+    "sector": "SaaS",
+    "address": "3 Whakatiki St, Silverstream, Upper Hutt",
+    "blurb": "Suburban software and services cluster between Lower and Upper Hutt.",
+    "logoUrl": "https://logo.clearbit.com/upperhuttcity.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.upperhuttcity.com?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "wlg-niwa",
+    "name": "NIWA",
+    "city": "wellington",
+    "lat": -41.3055,
+    "lng": 174.8068,
+    "website": "https://www.niwa.co.nz",
+    "sector": "DeepTech",
+    "address": "301 Evans Bay Parade, Greta Point, Wellington",
+    "blurb": "Ocean and climate science with commercial forecasting tools, Greta Point.",
+    "logoUrl": "https://logo.clearbit.com/niwa.co.nz",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.niwa.co.nz?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "wlg-loyalty",
+    "name": "Loyalty NZ",
+    "city": "wellington",
+    "lat": -41.2806,
+    "lng": 174.7774,
+    "website": "https://www.loyalty.co.nz",
+    "sector": "SaaS",
+    "address": "109 Featherston St, Wellington",
+    "blurb": "Flybuys operator and loyalty-tech platform based in Wellington.",
+    "logoUrl": "https://logo.clearbit.com/loyalty.co.nz",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.loyalty.co.nz?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "wlg-bnz",
+    "name": "BNZ Partners digital",
+    "city": "wellington",
+    "lat": -41.2876,
+    "lng": 174.7748,
+    "website": "https://www.bnz.co.nz",
+    "sector": "FinTech",
+    "address": "80 Willis St, Wellington",
+    "blurb": "Bank digital product teams serving Wellington’s public and private sector.",
+    "logoUrl": "https://logo.clearbit.com/bnz.co.nz",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.bnz.co.nz?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "wlg-ackama",
+    "name": "Ackama",
+    "city": "wellington",
+    "lat": -41.29265,
+    "lng": 174.7772,
+    "website": "https://www.ackama.com",
+    "sector": "SaaS",
+    "address": "7 Dixon St, Te Aro, Wellington",
+    "blurb": "Product consultancy and venture studio building public-sector and startup software.",
+    "buildingId": "wellington-creative-hq",
+    "buildingName": "Creative HQ",
+    "logoUrl": "https://logo.clearbit.com/ackama.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ackama.com?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "wlg-boost",
+    "name": "Boost",
+    "city": "wellington",
+    "lat": -41.2849,
+    "lng": 174.7752,
+    "website": "https://www.boost.co.nz",
+    "sector": "SaaS",
+    "address": "Level 6/111 The Terrace, Wellington",
+    "blurb": "Agile product team building government and commercial digital services.",
+    "logoUrl": "https://logo.clearbit.com/boost.co.nz",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.boost.co.nz?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "wlg-catalyst",
+    "name": "Catalyst",
+    "city": "wellington",
+    "lat": -41.2904,
+    "lng": 174.7746,
+    "website": "https://www.catalyst.net.nz",
+    "sector": "OpenSource",
+    "address": "150 Willis St, Wellington",
+    "blurb": "Open-source software company with a long Wellington presence.",
+    "logoUrl": "https://logo.clearbit.com/catalyst.net.nz",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.catalyst.net.nz?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "wlg-fuseworks",
+    "name": "Fuseworks",
+    "city": "wellington",
+    "lat": -41.2988,
+    "lng": 174.7736,
+    "website": "https://www.fuseworks.co.nz",
+    "sector": "Media",
+    "address": "15 College St, Te Aro, Wellington",
+    "blurb": "Publishing technology and content platform operator.",
+    "logoUrl": "https://logo.clearbit.com/fuseworks.co.nz",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.fuseworks.co.nz?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "wlg-powershop",
+    "name": "Meridian / Powershop",
+    "city": "wellington",
+    "lat": -41.2832,
+    "lng": 174.7784,
+    "website": "https://www.powershop.co.nz",
+    "sector": "Energy",
+    "address": "33 Customhouse Quay, Wellington",
+    "blurb": "Digital electricity retailer that pioneered app-based power shopping.",
+    "logoUrl": "https://logo.clearbit.com/powershop.co.nz",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.powershop.co.nz?w=1200"
+    ],
+    "fundingStage": "Growth"
+  }
+]

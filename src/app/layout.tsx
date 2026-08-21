@@ -15,9 +15,9 @@ const dmSans = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Australian Startup Map",
+  title: "Startup Map",
   description:
-    "A curated map of Australian startup offices and hubs across Brisbane, Sydney, Melbourne, Adelaide, and Perth."
+    "A curated map of startup offices and hubs across Australia, New Zealand, the Pacific, Indonesia, Malaysia, Singapore, India, and the Greater Bay Area."
 };
 
 export default function RootLayout({

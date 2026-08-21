@@ -12,7 +12,8 @@
     "logoUrl": "/logos/go1.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fgo1.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Series D+"
   },
   {
     "id": "tritium",
@@ -27,7 +28,8 @@
     "logoUrl": "/logos/tritium.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Ftritiumcharging.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Growth"
   },
   {
     "id": "technologyone",
@@ -42,7 +44,8 @@
     "logoUrl": "/logos/technologyone.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Ftechnology1.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Series C"
   },
   {
     "id": "redeye-apps",
@@ -57,7 +60,8 @@
     "logoUrl": "/logos/redeye-apps.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fredeye.co?w=1200"
-    ]
+    ],
+    "fundingStage": "Series A"
   },
   {
     "id": "skedulo",
@@ -72,7 +76,8 @@
     "logoUrl": "/logos/skedulo.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fskedulo.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Bootstrapped"
   },
   {
     "id": "tanda",
@@ -87,7 +92,8 @@
     "logoUrl": "/logos/tanda.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Ftanda.com.au?w=1200"
-    ]
+    ],
+    "fundingStage": "Public"
   },
   {
     "id": "halfbrick-studios",
@@ -102,7 +108,8 @@
     "logoUrl": "/logos/halfbrick-studios.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fhalfbrick.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Series C"
   },
   {
     "id": "askable",
@@ -119,7 +126,8 @@
     "logoUrl": "/logos/askable.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Faskable.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Series D+"
   },
   {
     "id": "wemoney",
@@ -136,7 +144,8 @@
     "logoUrl": "/logos/wemoney.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwemoney.com.au?w=1200"
-    ]
+    ],
+    "fundingStage": "Series C"
   },
   {
     "id": "oneqode",
@@ -150,7 +159,8 @@
     "address": "100 Brunswick St, Fortitude Valley QLD 4006",
     "blurb": "Edge networking and content delivery infrastructure for real-time applications.",
     "website": "https://oneqode.com",
-    "logoUrl": "/logos/oneqode.png"
+    "logoUrl": "/logos/oneqode.png",
+    "fundingStage": "Seed"
   },
   {
     "id": "fleetyr",
@@ -167,7 +177,8 @@
     "logoUrl": "/logos/fleetyr.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Ffleetyr.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Series D+"
   },
   {
     "id": "octopus-deploy",
@@ -182,7 +193,8 @@
     "logoUrl": "/logos/octopus-deploy.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Foctopus.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Series B"
   },
   {
     "id": "clipchamp",
@@ -197,7 +209,8 @@
     "logoUrl": "/logos/clipchamp.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fclipchamp.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Series A"
   },
   {
     "id": "five-good-friends",
@@ -212,7 +225,8 @@
     "logoUrl": "/logos/five-good-friends.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Ffivegoodfriends.com.au?w=1200"
-    ]
+    ],
+    "fundingStage": "Seed"
   },
   {
     "id": "data3",
@@ -227,7 +241,8 @@
     "logoUrl": "/logos/data3.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fdata3.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Series B"
   },
   {
     "id": "vaxxas",
@@ -242,7 +257,8 @@
     "logoUrl": "/logos/vaxxas.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fvaxxas.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Seed"
   },
   {
     "id": "audeara",
@@ -257,7 +273,8 @@
     "logoUrl": "/logos/audeara.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Faudeara.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Series D+"
   },
   {
     "id": "resapp-health",
@@ -269,7 +286,8 @@
     "address": "Brisbane CBD QLD (approximate HQ area)",
     "blurb": "ResApp Health is a health company in Australia’s startup ecosystem.",
     "website": "https://www.resapphealth.com.au",
-    "logoUrl": "/logos/resapp-health.png"
+    "logoUrl": "/logos/resapp-health.png",
+    "fundingStage": "Growth"
   },
   {
     "id": "procurepro",
@@ -284,7 +302,8 @@
     "logoUrl": "/logos/procurepro.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fprocurepro.co?w=1200"
-    ]
+    ],
+    "fundingStage": "Series A"
   },
   {
     "id": "endua",
@@ -299,7 +318,8 @@
     "logoUrl": "/logos/endua.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fendua.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Series A"
   },
   {
     "id": "replica-studios",
@@ -314,7 +334,8 @@
     "logoUrl": "/logos/replica-studios.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Freplicastudios.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Growth"
   },
   {
     "id": "edexia",
@@ -326,7 +347,8 @@
     "address": "Brisbane CBD QLD (approximate HQ area)",
     "blurb": "Edexia is a ai company in Australia’s startup ecosystem.",
     "website": "https://edexia.com",
-    "logoUrl": "/logos/edexia.png"
+    "logoUrl": "/logos/edexia.png",
+    "fundingStage": "Series C"
   },
   {
     "id": "neuphoria",
@@ -338,7 +360,8 @@
     "address": "Brisbane CBD QLD (approximate HQ area)",
     "blurb": "Neuphoria is a ai company in Australia’s startup ecosystem.",
     "website": "https://neuphoria.com",
-    "logoUrl": "/logos/neuphoria.png"
+    "logoUrl": "/logos/neuphoria.png",
+    "fundingStage": "Series B"
   },
   {
     "id": "vault-cloud",
@@ -353,7 +376,8 @@
     "logoUrl": "/logos/vault-cloud.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fvaultcloud.com.au?w=1200"
-    ]
+    ],
+    "fundingStage": "Series A"
   },
   {
     "id": "wotif-group",
@@ -365,7 +389,8 @@
     "address": "Brisbane CBD QLD (approximate HQ area)",
     "blurb": "Wotif Group is a travel company in Australia’s startup ecosystem.",
     "website": "https://www.wotif.com",
-    "logoUrl": "/logos/wotif-group.png"
+    "logoUrl": "/logos/wotif-group.png",
+    "fundingStage": "Series D+"
   },
   {
     "id": "flight-centre",
@@ -380,7 +405,8 @@
     "logoUrl": "/logos/flight-centre.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.flightcentre.com.au?w=1200"
-    ]
+    ],
+    "fundingStage": "Seed"
   },
   {
     "id": "clearsky-genomics",
@@ -392,7 +418,8 @@
     "address": "Brisbane CBD QLD (approximate HQ area)",
     "blurb": "ClearSKY Genomics is a biotech company in Australia’s startup ecosystem.",
     "website": "https://www.clearskymedical.com",
-    "logoUrl": "/logos/clearsky-genomics.png"
+    "logoUrl": "/logos/clearsky-genomics.png",
+    "fundingStage": "Seed"
   },
   {
     "id": "augmented-bionics",
@@ -404,7 +431,8 @@
     "address": "Brisbane CBD QLD (approximate HQ area)",
     "blurb": "Drone surveying and earthworks analytics platform.",
     "website": "https://www.propelleraero.com",
-    "logoUrl": "/logos/augmented-bionics.png"
+    "logoUrl": "/logos/augmented-bionics.png",
+    "fundingStage": "Series C"
   },
   {
     "id": "autopricer",
@@ -416,7 +444,8 @@
     "address": "Brisbane CBD QLD (approximate HQ area)",
     "blurb": "Local business marketing and directory platform.",
     "website": "https://www.localsearch.com.au",
-    "logoUrl": "/logos/autopricer.png"
+    "logoUrl": "/logos/autopricer.png",
+    "fundingStage": "Series B"
   },
   {
     "id": "chatloop",
@@ -428,7 +457,8 @@
     "address": "Brisbane CBD QLD (approximate HQ area)",
     "blurb": "App review analytics for product teams.",
     "website": "https://appbot.co",
-    "logoUrl": "/logos/chatloop.png"
+    "logoUrl": "/logos/chatloop.png",
+    "fundingStage": "Series B"
   },
   {
     "id": "chatstat",
@@ -445,7 +475,8 @@
     "logoUrl": "/logos/chatstat.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fchatstat.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Seed"
   },
   {
     "id": "envirometrics-io",
@@ -457,7 +488,8 @@
     "address": "Brisbane CBD QLD (approximate HQ area)",
     "blurb": "HR and payroll software for Australian workplaces.",
     "website": "https://flarehr.com",
-    "logoUrl": "/logos/envirometrics-io.png"
+    "logoUrl": "/logos/envirometrics-io.png",
+    "fundingStage": "Series B"
   },
   {
     "id": "go-locum",
@@ -469,7 +501,8 @@
     "address": "Brisbane CBD QLD (approximate HQ area)",
     "blurb": "Go Locum is a health company in Australia’s startup ecosystem.",
     "website": "https://golocum.com.au",
-    "logoUrl": "/logos/go-locum.png"
+    "logoUrl": "/logos/go-locum.png",
+    "fundingStage": "Series A"
   },
   {
     "id": "farm-hero",
@@ -481,7 +514,8 @@
     "address": "Brisbane CBD QLD (approximate HQ area)",
     "blurb": "Livestock management software for producers.",
     "website": "https://www.agriwebb.com",
-    "logoUrl": "/logos/farm-hero.png"
+    "logoUrl": "/logos/farm-hero.png",
+    "fundingStage": "Seed"
   },
   {
     "id": "homecube",
@@ -493,7 +527,8 @@
     "address": "Brisbane CBD QLD (approximate HQ area)",
     "blurb": "Property operations platform for short stays.",
     "website": "https://www.hometime.io",
-    "logoUrl": "/logos/homecube.png"
+    "logoUrl": "/logos/homecube.png",
+    "fundingStage": "Series B"
   },
   {
     "id": "hyra-iq",
@@ -505,7 +540,8 @@
     "address": "Brisbane CBD QLD (approximate HQ area)",
     "blurb": "HR, payroll and benefits for growing teams.",
     "website": "https://employmenthero.com",
-    "logoUrl": "/logos/hyra-iq.png"
+    "logoUrl": "/logos/hyra-iq.png",
+    "fundingStage": "Series B"
   },
   {
     "id": "inovotech",
@@ -517,7 +553,8 @@
     "address": "Brisbane CBD QLD (approximate HQ area)",
     "blurb": "Employee scheduling and timesheet software.",
     "website": "https://www.deputy.com",
-    "logoUrl": "/logos/inovotech.png"
+    "logoUrl": "/logos/inovotech.png",
+    "fundingStage": "Bootstrapped"
   },
   {
     "id": "inventico",
@@ -529,7 +566,8 @@
     "address": "Brisbane CBD QLD (approximate HQ area)",
     "blurb": "Hotel commerce platform (AU roots / presence).",
     "website": "https://www.siteminder.com",
-    "logoUrl": "/logos/inventico.png"
+    "logoUrl": "/logos/inventico.png",
+    "fundingStage": "Pre-seed"
   },
   {
     "id": "knowa",
@@ -541,7 +579,8 @@
     "address": "Brisbane CBD QLD (approximate HQ area)",
     "blurb": "Knowa is a saas company in Australia’s startup ecosystem.",
     "website": "https://knowa.co",
-    "logoUrl": "/logos/knowa.png"
+    "logoUrl": "/logos/knowa.png",
+    "fundingStage": "Public"
   },
   {
     "id": "ag-intellisense",
@@ -553,7 +592,8 @@
     "address": "Brisbane CBD QLD (approximate HQ area)",
     "blurb": "Agtech sensing and crop intelligence.",
     "website": "https://www.theyield.com",
-    "logoUrl": "/logos/ag-intellisense.png"
+    "logoUrl": "/logos/ag-intellisense.png",
+    "fundingStage": "Public"
   },
   {
     "id": "australian-urban-growers",
@@ -565,7 +605,8 @@
     "address": "Brisbane CBD QLD (approximate HQ area)",
     "blurb": "Foodservice marketplace and ordering.",
     "website": "https://www.foodbomb.com.au",
-    "logoUrl": "/logos/australian-urban-growers.png"
+    "logoUrl": "/logos/australian-urban-growers.png",
+    "fundingStage": "Series B"
   },
   {
     "id": "defence-nutrition-australia",
@@ -577,7 +618,8 @@
     "address": "Brisbane CBD QLD (approximate HQ area)",
     "blurb": "Advanced manufacturing and mobility ventures.",
     "website": "https://www.inmotiongroup.com.au",
-    "logoUrl": "/logos/defence-nutrition-australia.png"
+    "logoUrl": "/logos/defence-nutrition-australia.png",
+    "fundingStage": "Public"
   },
   {
     "id": "eclipse",
@@ -589,7 +631,8 @@
     "address": "Eclipse, Brisbane CBD QLD",
     "blurb": "Creative technology studio.",
     "website": "https://www.noisybeast.com",
-    "logoUrl": "/logos/eclipse.png"
+    "logoUrl": "/logos/eclipse.png",
+    "fundingStage": "Series A"
   },
   {
     "id": "jetson-industries",
@@ -601,7 +644,8 @@
     "address": "Brisbane CBD QLD (approximate HQ area)",
     "blurb": "Australian launch vehicles and space systems.",
     "website": "https://www.gspace.com",
-    "logoUrl": "/logos/jetson-industries.png"
+    "logoUrl": "/logos/jetson-industries.png",
+    "fundingStage": "Series B"
   },
   {
     "id": "inkquiry",
@@ -613,7 +657,8 @@
     "address": "Brisbane CBD QLD (approximate HQ area)",
     "blurb": "AI writing tools for marketers.",
     "website": "https://typehuman.com",
-    "logoUrl": "/logos/inkquiry.png"
+    "logoUrl": "/logos/inkquiry.png",
+    "fundingStage": "Public"
   },
   {
     "id": "deep-connection",
@@ -625,7 +670,8 @@
     "address": "Brisbane CBD QLD (approximate HQ area)",
     "blurb": "Engineering document management for industry.",
     "website": "https://www.redeye.co",
-    "logoUrl": "/logos/deep-connection.png"
+    "logoUrl": "/logos/deep-connection.png",
+    "fundingStage": "Series D+"
   },
   {
     "id": "expera",
@@ -637,7 +683,8 @@
     "address": "Brisbane CBD QLD (approximate HQ area)",
     "blurb": "Credit and data services (AU operations).",
     "website": "https://www.experian.com.au",
-    "logoUrl": "/logos/expera.png"
+    "logoUrl": "/logos/expera.png",
+    "fundingStage": "Series A"
   },
   {
     "id": "fantribe",
@@ -649,7 +696,8 @@
     "address": "Brisbane / AU (approximate)",
     "blurb": "Not-for-profit event ticketing platform.",
     "website": "https://humanitix.com",
-    "logoUrl": "/logos/fantribe.png"
+    "logoUrl": "/logos/fantribe.png",
+    "fundingStage": "Series D+"
   },
   {
     "id": "fortus",
@@ -661,7 +709,8 @@
     "address": "Fortus, Brisbane CBD QLD",
     "blurb": "Investment management technology.",
     "website": "https://fortlake.com.au",
-    "logoUrl": "/logos/fortus.png"
+    "logoUrl": "/logos/fortus.png",
+    "fundingStage": "Bootstrapped"
   },
   {
     "id": "extrasjar",
@@ -673,7 +722,8 @@
     "address": "Brisbane CBD QLD (approximate HQ area)",
     "blurb": "ExtrasJar is a fintech company in Australia’s startup ecosystem.",
     "website": "https://extrasjar.com",
-    "logoUrl": "/logos/extrasjar.png"
+    "logoUrl": "/logos/extrasjar.png",
+    "fundingStage": "Seed"
   },
   {
     "id": "brandtools",
@@ -685,7 +735,8 @@
     "address": "Brisbane CBD QLD (approximate HQ area)",
     "blurb": "Consumer intelligence and social listening.",
     "website": "https://www.brandwatch.com",
-    "logoUrl": "/logos/brandtools.png"
+    "logoUrl": "/logos/brandtools.png",
+    "fundingStage": "Growth"
   },
   {
     "id": "autorfp",
@@ -700,6 +751,7 @@
     "logoUrl": "/logos/autorfp.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fautorfp.ai?w=1200"
-    ]
+    ],
+    "fundingStage": "Series B"
   }
 ]

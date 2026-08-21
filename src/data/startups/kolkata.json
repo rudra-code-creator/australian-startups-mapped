@@ -1,0 +1,242 @@
+[
+  {
+    "id": "kol-indow",
+    "name": "iNDOW / local SaaS",
+    "city": "kolkata",
+    "lat": 22.57,
+    "lng": 88.36,
+    "website": "https://www.freshworks.com",
+    "sector": "SaaS",
+    "address": "Kolkata",
+    "blurb": "Product engineering and SaaS talent cluster.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/freshworks.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.freshworks.com?w=1200"
+    ]
+  },
+  {
+    "id": "kol-extramarks",
+    "name": "Extramarks",
+    "city": "kolkata",
+    "lat": 22.57,
+    "lng": 88.36,
+    "website": "https://www.extramarks.com",
+    "sector": "EdTech",
+    "address": "Kolkata / Noida",
+    "blurb": "K-12 digital learning with East India presence.",
+    "fundingStage": "Series C",
+    "logoUrl": "https://logo.clearbit.com/extramarks.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.extramarks.com?w=1200"
+    ]
+  },
+  {
+    "id": "kol-swiggy",
+    "name": "Swiggy Kolkata",
+    "city": "kolkata",
+    "lat": 22.57,
+    "lng": 88.35,
+    "website": "https://www.swiggy.com",
+    "sector": "Logistics",
+    "address": "Kolkata",
+    "blurb": "Food delivery city ops.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/swiggy.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.swiggy.com?w=1200"
+    ]
+  },
+  {
+    "id": "kol-zomato",
+    "name": "Zomato Kolkata",
+    "city": "kolkata",
+    "lat": 22.56,
+    "lng": 88.36,
+    "website": "https://www.zomato.com",
+    "sector": "Logistics",
+    "address": "Kolkata",
+    "blurb": "Food delivery city ops.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/zomato.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.zomato.com?w=1200"
+    ]
+  },
+  {
+    "id": "kol-flipkart",
+    "name": "Flipkart Kolkata",
+    "city": "kolkata",
+    "lat": 22.58,
+    "lng": 88.4,
+    "website": "https://www.flipkart.com",
+    "sector": "Marketplace",
+    "address": "Kolkata",
+    "blurb": "E-commerce fulfilment for East India.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/flipkart.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.flipkart.com?w=1200"
+    ]
+  },
+  {
+    "id": "kol-amazon",
+    "name": "Amazon Kolkata",
+    "city": "kolkata",
+    "lat": 22.58,
+    "lng": 88.41,
+    "website": "https://www.amazon.in",
+    "sector": "Marketplace",
+    "address": "Kolkata",
+    "blurb": "Retail and logistics presence.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/amazon.in",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.amazon.in?w=1200"
+    ]
+  },
+  {
+    "id": "kol-tcs",
+    "name": "TCS Kolkata",
+    "city": "kolkata",
+    "lat": 22.58,
+    "lng": 88.46,
+    "website": "https://www.tcs.com",
+    "sector": "Enterprise",
+    "address": "Salt Lake / New Town, Kolkata",
+    "blurb": "TCS delivery campus.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/tcs.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.tcs.com?w=1200"
+    ]
+  },
+  {
+    "id": "kol-wipro",
+    "name": "Wipro Kolkata",
+    "city": "kolkata",
+    "lat": 22.57,
+    "lng": 88.45,
+    "website": "https://www.wipro.com",
+    "sector": "Enterprise",
+    "address": "Kolkata",
+    "blurb": "IT services campus.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/wipro.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.wipro.com?w=1200"
+    ]
+  },
+  {
+    "id": "kol-cognizant",
+    "name": "Cognizant Kolkata",
+    "city": "kolkata",
+    "lat": 22.58,
+    "lng": 88.45,
+    "website": "https://www.cognizant.com",
+    "sector": "Enterprise",
+    "address": "Kolkata",
+    "blurb": "Digital engineering campus.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/cognizant.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.cognizant.com?w=1200"
+    ]
+  },
+  {
+    "id": "kol-techmahindra",
+    "name": "Tech Mahindra Kolkata",
+    "city": "kolkata",
+    "lat": 22.57,
+    "lng": 88.44,
+    "website": "https://www.techmahindra.com",
+    "sector": "Enterprise",
+    "address": "Kolkata",
+    "blurb": "IT services presence.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/techmahindra.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.techmahindra.com?w=1200"
+    ]
+  },
+  {
+    "id": "kol-delhivery",
+    "name": "Delhivery Kolkata",
+    "city": "kolkata",
+    "lat": 22.6,
+    "lng": 88.42,
+    "website": "https://www.delhivery.com",
+    "sector": "Logistics",
+    "address": "Kolkata",
+    "blurb": "Logistics gateway for East India.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/delhivery.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.delhivery.com?w=1200"
+    ]
+  },
+  {
+    "id": "kol-shadowfax",
+    "name": "Shadowfax Kolkata",
+    "city": "kolkata",
+    "lat": 22.57,
+    "lng": 88.37,
+    "website": "https://www.shadowfax.in",
+    "sector": "Logistics",
+    "address": "Kolkata",
+    "blurb": "Last-mile logistics.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/shadowfax.in",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.shadowfax.in?w=1200"
+    ]
+  },
+  {
+    "id": "kol-pharmeasy",
+    "name": "PharmEasy Kolkata",
+    "city": "kolkata",
+    "lat": 22.55,
+    "lng": 88.35,
+    "website": "https://pharmeasy.in",
+    "sector": "Health",
+    "address": "Kolkata",
+    "blurb": "Online pharmacy city presence.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/pharmeasy.in",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fpharmeasy.in?w=1200"
+    ]
+  },
+  {
+    "id": "kol-1mg",
+    "name": "1mg Kolkata",
+    "city": "kolkata",
+    "lat": 22.56,
+    "lng": 88.36,
+    "website": "https://www.1mg.com",
+    "sector": "Health",
+    "address": "Kolkata",
+    "blurb": "Online pharmacy and diagnostics.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/1mg.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.1mg.com?w=1200"
+    ]
+  },
+  {
+    "id": "kol-magicbricks",
+    "name": "Magicbricks Kolkata",
+    "city": "kolkata",
+    "lat": 22.55,
+    "lng": 88.35,
+    "website": "https://www.magicbricks.com",
+    "sector": "PropTech",
+    "address": "Kolkata",
+    "blurb": "Property classifieds.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/magicbricks.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.magicbricks.com?w=1200"
+    ]
+  }
+]

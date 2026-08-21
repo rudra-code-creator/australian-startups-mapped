@@ -1,0 +1,336 @@
+[
+  {
+    "id": "pun-persistent",
+    "name": "Persistent Systems",
+    "city": "pune",
+    "lat": 18.52,
+    "lng": 73.86,
+    "website": "https://www.persistent.com",
+    "sector": "Enterprise",
+    "address": "Pune",
+    "blurb": "Listed digital engineering company based in Pune.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/persistent.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.persistent.com?w=1200"
+    ]
+  },
+  {
+    "id": "pun-kpit",
+    "name": "KPIT",
+    "city": "pune",
+    "lat": 18.59115,
+    "lng": 73.7388,
+    "website": "https://www.kpit.com",
+    "sector": "Enterprise",
+    "address": "Hinjewadi Phase 1, Pune",
+    "blurb": "Automotive software and EV tech.",
+    "fundingStage": "Public",
+    "buildingId": "pun-hinjewadi",
+    "buildingName": "Hinjewadi",
+    "logoUrl": "https://logo.clearbit.com/kpit.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.kpit.com?w=1200"
+    ]
+  },
+  {
+    "id": "pun-quickheal",
+    "name": "Quick Heal",
+    "city": "pune",
+    "lat": 18.55,
+    "lng": 73.82,
+    "website": "https://www.quickheal.com",
+    "sector": "SaaS",
+    "address": "Pune",
+    "blurb": "Cybersecurity products company.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/quickheal.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.quickheal.com?w=1200"
+    ]
+  },
+  {
+    "id": "pun-birlasoft",
+    "name": "Birlasoft",
+    "city": "pune",
+    "lat": 18.53,
+    "lng": 73.85,
+    "website": "https://www.birlasoft.com",
+    "sector": "Enterprise",
+    "address": "Pune",
+    "blurb": "Enterprise digital transformation.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/birlasoft.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.birlasoft.com?w=1200"
+    ]
+  },
+  {
+    "id": "pun-techmahindra",
+    "name": "Tech Mahindra",
+    "city": "pune",
+    "lat": 18.5912,
+    "lng": 73.7388,
+    "website": "https://www.techmahindra.com",
+    "sector": "Enterprise",
+    "address": "Hinjewadi Phase 1, Pune",
+    "blurb": "IT services with a large Pune campus.",
+    "fundingStage": "Public",
+    "buildingId": "pun-hinjewadi",
+    "buildingName": "Hinjewadi",
+    "logoUrl": "https://logo.clearbit.com/techmahindra.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.techmahindra.com?w=1200"
+    ]
+  },
+  {
+    "id": "pun-infosys-pune",
+    "name": "Infosys Pune",
+    "city": "pune",
+    "lat": 18.591250000000002,
+    "lng": 73.7388,
+    "website": "https://www.infosys.com",
+    "sector": "Enterprise",
+    "address": "Hinjewadi Phase 1, Pune",
+    "blurb": "Major Infosys delivery centre.",
+    "fundingStage": "Public",
+    "buildingId": "pun-hinjewadi",
+    "buildingName": "Hinjewadi",
+    "logoUrl": "https://logo.clearbit.com/infosys.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.infosys.com?w=1200"
+    ]
+  },
+  {
+    "id": "pun-wipro-pune",
+    "name": "Wipro Pune",
+    "city": "pune",
+    "lat": 18.5913,
+    "lng": 73.7388,
+    "website": "https://www.wipro.com",
+    "sector": "Enterprise",
+    "address": "Hinjewadi Phase 1, Pune",
+    "blurb": "IT services campus.",
+    "fundingStage": "Public",
+    "buildingId": "pun-hinjewadi",
+    "buildingName": "Hinjewadi",
+    "logoUrl": "https://logo.clearbit.com/wipro.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.wipro.com?w=1200"
+    ]
+  },
+  {
+    "id": "pun-cognizant-pune",
+    "name": "Cognizant Pune",
+    "city": "pune",
+    "lat": 18.5911,
+    "lng": 73.73885,
+    "website": "https://www.cognizant.com",
+    "sector": "Enterprise",
+    "address": "Hinjewadi Phase 1, Pune",
+    "blurb": "Digital engineering campus.",
+    "fundingStage": "Public",
+    "buildingId": "pun-hinjewadi",
+    "buildingName": "Hinjewadi",
+    "logoUrl": "https://logo.clearbit.com/cognizant.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.cognizant.com?w=1200"
+    ]
+  },
+  {
+    "id": "pun-mindtickle",
+    "name": "Mindtickle",
+    "city": "pune",
+    "lat": 18.52,
+    "lng": 73.86,
+    "website": "https://www.mindtickle.com",
+    "sector": "SaaS",
+    "address": "Pune / US",
+    "blurb": "Sales readiness SaaS founded with Pune roots.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/mindtickle.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.mindtickle.com?w=1200"
+    ]
+  },
+  {
+    "id": "pun-breatheres",
+    "name": "BreathEasy / local healthtech",
+    "city": "pune",
+    "lat": 18.52,
+    "lng": 73.85,
+    "website": "https://www.healthifyme.com",
+    "sector": "Health",
+    "address": "Pune",
+    "blurb": "Health and wellness product teams in Pune.",
+    "fundingStage": "Series C",
+    "logoUrl": "https://logo.clearbit.com/healthifyme.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.healthifyme.com?w=1200"
+    ]
+  },
+  {
+    "id": "pun-firstcry",
+    "name": "FirstCry",
+    "city": "pune",
+    "lat": 18.56,
+    "lng": 73.81,
+    "website": "https://www.firstcry.com",
+    "sector": "Marketplace",
+    "address": "Pune",
+    "blurb": "Parenting and kids commerce unicorn.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/firstcry.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.firstcry.com?w=1200"
+    ]
+  },
+  {
+    "id": "pun-elasticrun",
+    "name": "ElasticRun",
+    "city": "pune",
+    "lat": 18.55,
+    "lng": 73.8,
+    "website": "https://elasticrun.com",
+    "sector": "Logistics",
+    "address": "Pune",
+    "blurb": "Rural commerce and logistics network.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/elasticrun.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Felasticrun.com?w=1200"
+    ]
+  },
+  {
+    "id": "pun-budli",
+    "name": "Budli",
+    "city": "pune",
+    "lat": 18.52,
+    "lng": 73.85,
+    "website": "https://www.budli.in",
+    "sector": "Marketplace",
+    "address": "Pune",
+    "blurb": "Used electronics marketplace.",
+    "fundingStage": "Series A",
+    "logoUrl": "https://logo.clearbit.com/budli.in",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.budli.in?w=1200"
+    ]
+  },
+  {
+    "id": "pun-mhcv",
+    "name": "Ola Electric Pune",
+    "city": "pune",
+    "lat": 18.55,
+    "lng": 73.9,
+    "website": "https://olaelectric.com",
+    "sector": "Climate",
+    "address": "Pune",
+    "blurb": "EV supply-chain and engineering presence.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/olaelectric.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Folaelectric.com?w=1200"
+    ]
+  },
+  {
+    "id": "pun-pubmatic",
+    "name": "PubMatic",
+    "city": "pune",
+    "lat": 18.52,
+    "lng": 73.86,
+    "website": "https://pubmatic.com",
+    "sector": "MarTech",
+    "address": "Pune / US",
+    "blurb": "Adtech SSP with a large Pune engineering base.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/pubmatic.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fpubmatic.com?w=1200"
+    ]
+  },
+  {
+    "id": "pun-gs-lab",
+    "name": "GS Lab",
+    "city": "pune",
+    "lat": 18.53,
+    "lng": 73.84,
+    "website": "https://www.gslab.com",
+    "sector": "SaaS",
+    "address": "Pune",
+    "blurb": "Product engineering studio.",
+    "fundingStage": "Bootstrapped",
+    "logoUrl": "https://logo.clearbit.com/gslab.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.gslab.com?w=1200"
+    ]
+  },
+  {
+    "id": "pun-josh",
+    "name": "Josh Software",
+    "city": "pune",
+    "lat": 18.52,
+    "lng": 73.85,
+    "website": "https://joshsoftware.com",
+    "sector": "SaaS",
+    "address": "Pune",
+    "blurb": "Ruby and product engineering firm.",
+    "fundingStage": "Bootstrapped",
+    "logoUrl": "https://logo.clearbit.com/joshsoftware.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fjoshsoftware.com?w=1200"
+    ]
+  },
+  {
+    "id": "pun-winzo-pune",
+    "name": "WinZO Pune",
+    "city": "pune",
+    "lat": 18.52,
+    "lng": 73.86,
+    "website": "https://www.winzogames.com",
+    "sector": "Media",
+    "address": "Pune",
+    "blurb": "Gaming product engineering presence.",
+    "fundingStage": "Series C",
+    "logoUrl": "https://logo.clearbit.com/winzogames.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.winzogames.com?w=1200"
+    ]
+  },
+  {
+    "id": "pun-capgemini",
+    "name": "Capgemini Pune",
+    "city": "pune",
+    "lat": 18.59115,
+    "lng": 73.73885,
+    "website": "https://www.capgemini.com",
+    "sector": "Enterprise",
+    "address": "Hinjewadi Phase 1, Pune",
+    "blurb": "Digital services campus.",
+    "fundingStage": "Public",
+    "buildingId": "pun-hinjewadi",
+    "buildingName": "Hinjewadi",
+    "logoUrl": "https://logo.clearbit.com/capgemini.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.capgemini.com?w=1200"
+    ]
+  },
+  {
+    "id": "pun-accenture",
+    "name": "Accenture Pune",
+    "city": "pune",
+    "lat": 18.5912,
+    "lng": 73.73885,
+    "website": "https://www.accenture.com",
+    "sector": "Enterprise",
+    "address": "Hinjewadi Phase 1, Pune",
+    "blurb": "Technology consulting campus.",
+    "fundingStage": "Public",
+    "buildingId": "pun-hinjewadi",
+    "buildingName": "Hinjewadi",
+    "logoUrl": "https://logo.clearbit.com/accenture.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.accenture.com?w=1200"
+    ]
+  }
+]

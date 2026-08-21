@@ -1,0 +1,194 @@
+[
+  {
+    "id": "dg-oppo",
+    "name": "OPPO Dongguan",
+    "city": "dongguan",
+    "lat": 22.8,
+    "lng": 113.8,
+    "website": "https://www.oppo.com",
+    "sector": "Hardware",
+    "address": "Chang’an, Dongguan",
+    "blurb": "OPPO manufacturing and R&D heartland.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/oppo.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.oppo.com?w=1200"
+    ]
+  },
+  {
+    "id": "dg-vivo",
+    "name": "vivo Dongguan",
+    "city": "dongguan",
+    "lat": 22.85,
+    "lng": 113.75,
+    "website": "https://www.vivo.com",
+    "sector": "Hardware",
+    "address": "Dongguan",
+    "blurb": "vivo manufacturing base.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/vivo.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.vivo.com?w=1200"
+    ]
+  },
+  {
+    "id": "dg-huawei-dg",
+    "name": "Huawei Dongguan",
+    "city": "dongguan",
+    "lat": 22.92,
+    "lng": 113.88,
+    "website": "https://www.huawei.com",
+    "sector": "Hardware",
+    "address": "Songshan Lake, Dongguan",
+    "blurb": "Huawei Songshan Lake campus.",
+    "fundingStage": "Bootstrapped",
+    "logoUrl": "https://logo.clearbit.com/huawei.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.huawei.com?w=1200"
+    ]
+  },
+  {
+    "id": "dg-byd-dg",
+    "name": "BYD Dongguan",
+    "city": "dongguan",
+    "lat": 22.95,
+    "lng": 113.8,
+    "website": "https://www.byd.com",
+    "sector": "Climate",
+    "address": "Dongguan",
+    "blurb": "EV and electronics manufacturing.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/byd.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.byd.com?w=1200"
+    ]
+  },
+  {
+    "id": "dg-luxshare",
+    "name": "Luxshare",
+    "city": "dongguan",
+    "lat": 22.9,
+    "lng": 113.85,
+    "website": "https://www.luxshare-ict.com",
+    "sector": "Hardware",
+    "address": "Dongguan",
+    "blurb": "Electronics manufacturing services.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/luxshare-ict.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.luxshare-ict.com?w=1200"
+    ]
+  },
+  {
+    "id": "dg-aac",
+    "name": "AAC Technologies",
+    "city": "dongguan",
+    "lat": 22.9,
+    "lng": 113.85,
+    "website": "https://www.aactechnologies.com",
+    "sector": "Hardware",
+    "address": "Dongguan / Shenzhen",
+    "blurb": "Precision components for phones.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/aactechnologies.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.aactechnologies.com?w=1200"
+    ]
+  },
+  {
+    "id": "dg-desay",
+    "name": "Desay SV",
+    "city": "dongguan",
+    "lat": 23,
+    "lng": 114,
+    "website": "https://www.desaysv.com",
+    "sector": "Hardware",
+    "address": "Huizhou / Dongguan corridor",
+    "blurb": "Automotive electronics.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/desaysv.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.desaysv.com?w=1200"
+    ]
+  },
+  {
+    "id": "dg-songshan",
+    "name": "Songshan Lake Sci Park",
+    "city": "dongguan",
+    "lat": 22.92,
+    "lng": 113.88,
+    "website": "https://www.ssl.gov.cn",
+    "sector": "Hub",
+    "address": "Songshan Lake, Dongguan",
+    "blurb": "Science park for hardware and biotech.",
+    "fundingStage": "Bootstrapped",
+    "logoUrl": "https://logo.clearbit.com/ssl.gov.cn",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ssl.gov.cn?w=1200"
+    ]
+  },
+  {
+    "id": "dg-sf",
+    "name": "SF Express Dongguan",
+    "city": "dongguan",
+    "lat": 23.02,
+    "lng": 113.75,
+    "website": "https://www.sf-express.com",
+    "sector": "Logistics",
+    "address": "Dongguan",
+    "blurb": "Express logistics hub.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/sf-express.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.sf-express.com?w=1200"
+    ]
+  },
+  {
+    "id": "dg-cainiao",
+    "name": "Cainiao Dongguan",
+    "city": "dongguan",
+    "lat": 23,
+    "lng": 113.78,
+    "website": "https://www.cainiao.com",
+    "sector": "Logistics",
+    "address": "Dongguan",
+    "blurb": "E-commerce logistics node.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/cainiao.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.cainiao.com?w=1200"
+    ]
+  },
+  {
+    "id": "dg-shein-dg",
+    "name": "SHEIN supply",
+    "city": "dongguan",
+    "lat": 23.02,
+    "lng": 113.75,
+    "website": "https://www.shein.com",
+    "sector": "Marketplace",
+    "address": "Dongguan",
+    "blurb": "Apparel supply-chain density.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/shein.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.shein.com?w=1200"
+    ]
+  },
+  {
+    "id": "dg-anker-dg",
+    "name": "Anker supply",
+    "city": "dongguan",
+    "lat": 22.95,
+    "lng": 113.8,
+    "website": "https://www.anker.com",
+    "sector": "Hardware",
+    "address": "Dongguan",
+    "blurb": "Consumer electronics manufacturing.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/anker.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.anker.com?w=1200"
+    ]
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "id": "dps-hubud",
+    "name": "Hubud",
+    "city": "denpasar",
+    "lat": -8.5192,
+    "lng": 115.2598,
+    "website": "https://hubud.org",
+    "sector": "Hub",
+    "address": "Jalan Monkey Forest, Ubud, Bali",
+    "blurb": "Long-running Ubud coworking community for product teams.",
+    "logoUrl": "https://logo.clearbit.com/hubud.org",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fhubud.org?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "dps-dojo",
+    "name": "Dojo Bali",
+    "city": "denpasar",
+    "lat": -8.6476,
+    "lng": 115.1386,
+    "website": "https://www.dojobali.org",
+    "sector": "Hub",
+    "address": "Batu Bolong, Canggu, Bali",
+    "blurb": "Canggu coworking campus used by SaaS and marketplace teams.",
+    "logoUrl": "https://logo.clearbit.com/dojobali.org",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.dojobali.org?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "dps-outpost",
+    "name": "Outpost",
+    "city": "denpasar",
+    "lat": -8.6488,
+    "lng": 115.1372,
+    "website": "https://outpost.asia",
+    "sector": "Hub",
+    "address": "Batu Bolong, Canggu, Bali",
+    "blurb": "Coliving and coworking network with a flagship Canggu site.",
+    "logoUrl": "https://logo.clearbit.com/outpost.asia",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Foutpost.asia?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "dps-gowork",
+    "name": "GoWork Bali",
+    "city": "denpasar",
+    "lat": -8.7234,
+    "lng": 115.1842,
+    "website": "https://gowork.id",
+    "sector": "Hub",
+    "address": "Kuta / Denpasar, Bali",
+    "blurb": "Flexible workspace for Indonesian and regional startups.",
+    "logoUrl": "https://logo.clearbit.com/gowork.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fgowork.id?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "dps-gojek",
+    "name": "Gojek Bali",
+    "city": "denpasar",
+    "lat": -8.6708,
+    "lng": 115.2124,
+    "website": "https://www.gojek.com",
+    "sector": "Superapp",
+    "address": "Jl. Teuku Umar, Denpasar",
+    "blurb": "Island operations for mobility and GoFood.",
+    "logoUrl": "https://logo.clearbit.com/gojek.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.gojek.com?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "dps-grab",
+    "name": "Grab Bali",
+    "city": "denpasar",
+    "lat": -8.6786,
+    "lng": 115.2048,
+    "website": "https://www.grab.com",
+    "sector": "Superapp",
+    "address": "Jl. Imam Bonjol, Denpasar",
+    "blurb": "Grab Bali city office.",
+    "logoUrl": "https://logo.clearbit.com/grab.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.grab.com?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "dps-traveloka",
+    "name": "Traveloka Bali",
+    "city": "denpasar",
+    "lat": -8.7284,
+    "lng": 115.1846,
+    "website": "https://www.traveloka.com",
+    "sector": "Travel",
+    "address": "Jl. By Pass Ngurah Rai, Denpasar",
+    "blurb": "Destination and experiences team for Bali inventory.",
+    "logoUrl": "https://logo.clearbit.com/traveloka.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.traveloka.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "dps-tiket",
+    "name": "tiket.com Bali",
+    "city": "denpasar",
+    "lat": -8.6712,
+    "lng": 115.2118,
+    "website": "https://www.tiket.com",
+    "sector": "Travel",
+    "address": "Jl. Teuku Umar, Denpasar",
+    "blurb": "Hotels and attractions operations.",
+    "logoUrl": "https://logo.clearbit.com/tiket.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.tiket.com?w=1200"
+    ],
+    "fundingStage": "Series D+"
+  },
+  {
+    "id": "dps-pegipegi",
+    "name": "Pegipegi Bali",
+    "city": "denpasar",
+    "lat": -8.6702,
+    "lng": 115.2166,
+    "website": "https://www.pegipegi.com",
+    "sector": "Travel",
+    "address": "Jl. Diponegoro, Denpasar",
+    "blurb": "Hotel marketplace island team.",
+    "logoUrl": "https://logo.clearbit.com/pegipegi.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.pegipegi.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "dps-tokopedia",
+    "name": "Tokopedia Bali",
+    "city": "denpasar",
+    "lat": -8.6706,
+    "lng": 115.2128,
+    "website": "https://www.tokopedia.com",
+    "sector": "Marketplace",
+    "address": "Jl. Teuku Umar, Denpasar",
+    "blurb": "Seller community for Bali crafts and F&B.",
+    "logoUrl": "https://logo.clearbit.com/tokopedia.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.tokopedia.com?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "dps-shopee",
+    "name": "Shopee Bali",
+    "city": "denpasar",
+    "lat": -8.6368,
+    "lng": 115.2294,
+    "website": "https://shopee.co.id",
+    "sector": "Marketplace",
+    "address": "Jl. Gatot Subroto, Denpasar",
+    "blurb": "E-commerce ops and last mile.",
+    "logoUrl": "https://logo.clearbit.com/shopee.co.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fshopee.co.id?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "dps-bukalapak",
+    "name": "Bukalapak Bali",
+    "city": "denpasar",
+    "lat": -8.6568,
+    "lng": 115.2158,
+    "website": "https://www.bukalapak.com",
+    "sector": "Marketplace",
+    "address": "Jl. Gajah Mada, Denpasar",
+    "blurb": "Mitra network across Bali.",
+    "logoUrl": "https://logo.clearbit.com/bukalapak.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.bukalapak.com?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "dps-ruangguru",
+    "name": "Ruangguru Bali",
+    "city": "denpasar",
+    "lat": -8.6724,
+    "lng": 115.2268,
+    "website": "https://www.ruangguru.com",
+    "sector": "EdTech",
+    "address": "Jl. Hayam Wuruk, Denpasar",
+    "blurb": "School partnerships in Denpasar.",
+    "logoUrl": "https://logo.clearbit.com/ruangguru.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ruangguru.com?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "dps-halodoc",
+    "name": "Halodoc Bali",
+    "city": "denpasar",
+    "lat": -8.6698,
+    "lng": 115.2172,
+    "website": "https://www.halodoc.com",
+    "sector": "Health",
+    "address": "Jl. Diponegoro, Denpasar",
+    "blurb": "Clinic and hospital network for Bali.",
+    "logoUrl": "https://logo.clearbit.com/halodoc.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.halodoc.com?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "dps-ovo",
+    "name": "OVO Bali",
+    "city": "denpasar",
+    "lat": -8.7196,
+    "lng": 115.1698,
+    "website": "https://www.ovo.id",
+    "sector": "FinTech",
+    "address": "Beachwalk, Kuta",
+    "blurb": "Merchant acquiring for tourism retail.",
+    "logoUrl": "https://logo.clearbit.com/ovo.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ovo.id?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "dps-dana",
+    "name": "DANA Bali",
+    "city": "denpasar",
+    "lat": -8.671,
+    "lng": 115.2122,
+    "website": "https://www.dana.id",
+    "sector": "FinTech",
+    "address": "Jl. Teuku Umar, Denpasar",
+    "blurb": "Wallet city operations.",
+    "logoUrl": "https://logo.clearbit.com/dana.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.dana.id?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "dps-xendit",
+    "name": "Xendit Bali",
+    "city": "denpasar",
+    "lat": -8.6478,
+    "lng": 115.1388,
+    "website": "https://www.xendit.co",
+    "sector": "FinTech",
+    "address": "Canggu, Bali",
+    "blurb": "Payments team with a Bali engineering presence.",
+    "logoUrl": "https://logo.clearbit.com/xendit.co",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.xendit.co?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "dps-mekari",
+    "name": "Mekari Bali",
+    "city": "denpasar",
+    "lat": -8.6714,
+    "lng": 115.2116,
+    "website": "https://mekari.com",
+    "sector": "SaaS",
+    "address": "Jl. Teuku Umar, Denpasar",
+    "blurb": "SaaS for Bali hospitality SMEs.",
+    "logoUrl": "https://logo.clearbit.com/mekari.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fmekari.com?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "dps-majoo",
+    "name": "majoo Bali",
+    "city": "denpasar",
+    "lat": -8.7148,
+    "lng": 115.1726,
+    "website": "https://majoo.id",
+    "sector": "SaaS",
+    "address": "Jl. Legian, Kuta",
+    "blurb": "Cloud POS widely used by Bali F&B.",
+    "logoUrl": "https://logo.clearbit.com/majoo.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fmajoo.id?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "dps-qasir",
+    "name": "Qasir Bali",
+    "city": "denpasar",
+    "lat": -8.6564,
+    "lng": 115.2152,
+    "website": "https://www.qasir.id",
+    "sector": "SaaS",
+    "address": "Pasar Badung, Denpasar",
+    "blurb": "Warung POS across Denpasar markets.",
+    "logoUrl": "https://logo.clearbit.com/qasir.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.qasir.id?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "dps-shipper",
+    "name": "Shipper Bali",
+    "city": "denpasar",
+    "lat": -8.7268,
+    "lng": 115.1862,
+    "website": "https://shipper.id",
+    "sector": "Logistics",
+    "address": "Jl. Bypass Ngurah Rai, Denpasar",
+    "blurb": "Fulfilment for island sellers.",
+    "logoUrl": "https://logo.clearbit.com/shipper.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fshipper.id?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "dps-anteraja",
+    "name": "Anteraja Bali",
+    "city": "denpasar",
+    "lat": -8.7274,
+    "lng": 115.1854,
+    "website": "https://anteraja.id",
+    "sector": "Logistics",
+    "address": "Jl. Bypass Ngurah Rai, Denpasar",
+    "blurb": "Parcel hub for Bali.",
+    "logoUrl": "https://logo.clearbit.com/anteraja.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fanteraja.id?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "dps-idn",
+    "name": "IDN Bali",
+    "city": "denpasar",
+    "lat": -8.6492,
+    "lng": 115.1378,
+    "website": "https://www.idn.media",
+    "sector": "Media",
+    "address": "Canggu, Bali",
+    "blurb": "Youth media production on the island.",
+    "logoUrl": "https://logo.clearbit.com/idn.media",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.idn.media?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "dps-kopikenangan",
+    "name": "Kopi Kenangan Bali",
+    "city": "denpasar",
+    "lat": -8.6704,
+    "lng": 115.2126,
+    "website": "https://kopikenangan.com",
+    "sector": "Consumer",
+    "address": "Jl. Teuku Umar, Denpasar",
+    "blurb": "Tech-enabled coffee chain with dense Bali stores.",
+    "logoUrl": "https://logo.clearbit.com/kopikenangan.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fkopikenangan.com?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "dps-sociolla",
+    "name": "Sociolla Bali",
+    "city": "denpasar",
+    "lat": -8.7198,
+    "lng": 115.1696,
+    "website": "https://www.sociolla.com",
+    "sector": "Marketplace",
+    "address": "Beachwalk, Kuta",
+    "blurb": "Beauty retail presence.",
+    "logoUrl": "https://logo.clearbit.com/sociolla.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.sociolla.com?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "dps-efishery",
+    "name": "eFishery Bali",
+    "city": "denpasar",
+    "lat": -8.5408,
+    "lng": 115.3254,
+    "website": "https://efishery.com",
+    "sector": "AgriTech",
+    "address": "Kabupaten Gianyar / Denpasar office",
+    "blurb": "Aquaculture coverage for Bali ponds.",
+    "logoUrl": "https://logo.clearbit.com/efishery.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fefishery.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "dps-klook",
+    "name": "Klook Bali",
+    "city": "denpasar",
+    "lat": -8.7292,
+    "lng": 115.1842,
+    "website": "https://www.klook.com",
+    "sector": "Travel",
+    "address": "Jl. Bypass Ngurah Rai, Denpasar",
+    "blurb": "Experiences marketplace destination team.",
+    "logoUrl": "https://logo.clearbit.com/klook.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.klook.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "dps-kargo",
+    "name": "Kargo Bali",
+    "city": "denpasar",
+    "lat": -8.6372,
+    "lng": 115.2298,
+    "website": "https://kargo.tech",
+    "sector": "Logistics",
+    "address": "Jl. Gatot Subroto, Denpasar",
+    "blurb": "Island freight for hospitality supply chains.",
+    "logoUrl": "https://logo.clearbit.com/kargo.tech",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fkargo.tech?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "dps-privy",
+    "name": "Privy Bali",
+    "city": "denpasar",
+    "lat": -8.6716,
+    "lng": 115.2114,
+    "website": "https://privy.id",
+    "sector": "SaaS",
+    "address": "Jl. Teuku Umar, Denpasar",
+    "blurb": "Digital signature onboarding for tourism groups.",
+    "logoUrl": "https://logo.clearbit.com/privy.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fprivy.id?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "dps-startup-bali",
+    "name": "Startup Bali",
+    "city": "denpasar",
+    "lat": -8.6705,
+    "lng": 115.2126,
+    "website": "https://startupbali.org",
+    "sector": "Hub",
+    "address": "Denpasar, Bali",
+    "blurb": "Island founder community and events.",
+    "logoUrl": "https://logo.clearbit.com/startupbali.org",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fstartupbali.org?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  }
+]

@@ -1,0 +1,330 @@
+[
+  {
+    "id": "btm-nongsa",
+    "name": "Nongsa Digital Park",
+    "city": "batam",
+    "lat": 1.18545,
+    "lng": 104.0944,
+    "website": "https://nongsadigitalpark.com",
+    "sector": "Hub",
+    "address": "Nongsa Digital Park, Batam",
+    "blurb": "Batam’s flagship digital campus facing Singapore.",
+    "buildingId": "batam-nongsa",
+    "buildingName": "Nongsa Digital Park",
+    "logoUrl": "https://logo.clearbit.com/nongsadigitalpark.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fnongsadigitalpark.com?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "btm-block71",
+    "name": "BLOCK71 Batam",
+    "city": "batam",
+    "lat": 1.1855,
+    "lng": 104.0944,
+    "website": "https://block71.co",
+    "sector": "Hub",
+    "address": "Nongsa Digital Park, Batam",
+    "blurb": "NUS Enterprise’s Batam extension of the BLOCK71 network.",
+    "buildingId": "batam-nongsa",
+    "buildingName": "Nongsa Digital Park",
+    "logoUrl": "https://logo.clearbit.com/block71.co",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fblock71.co?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "btm-infinite",
+    "name": "Infinite Studios",
+    "city": "batam",
+    "lat": 1.18555,
+    "lng": 104.0944,
+    "website": "https://infinitestudios.sg",
+    "sector": "Media",
+    "address": "Nongsa Digital Park, Batam",
+    "blurb": "Sound stages and digital production campus in Nongsa.",
+    "buildingId": "batam-nongsa",
+    "buildingName": "Nongsa Digital Park",
+    "logoUrl": "https://logo.clearbit.com/infinitestudios.sg",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Finfinitestudios.sg?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "btm-bp-batam",
+    "name": "BP Batam digital",
+    "city": "batam",
+    "lat": 1.1296,
+    "lng": 104.0534,
+    "website": "https://bpbatam.go.id",
+    "sector": "CivicTech",
+    "address": "Batam Centre, Batam",
+    "blurb": "Free-trade-zone authority digital services.",
+    "logoUrl": "https://logo.clearbit.com/bpbatam.go.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fbpbatam.go.id?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "btm-gojek",
+    "name": "Gojek Batam",
+    "city": "batam",
+    "lat": 1.1456,
+    "lng": 104.0148,
+    "website": "https://www.gojek.com",
+    "sector": "Superapp",
+    "address": "Nagoya, Batam",
+    "blurb": "City operations for Batam mobility and food.",
+    "logoUrl": "https://logo.clearbit.com/gojek.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.gojek.com?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "btm-grab",
+    "name": "Grab Batam",
+    "city": "batam",
+    "lat": 1.1288,
+    "lng": 104.0528,
+    "website": "https://www.grab.com",
+    "sector": "Superapp",
+    "address": "Batam Centre",
+    "blurb": "Grab office serving the Singapore–Batam corridor.",
+    "logoUrl": "https://logo.clearbit.com/grab.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.grab.com?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "btm-shopee",
+    "name": "Shopee Batam",
+    "city": "batam",
+    "lat": 1.1292,
+    "lng": 104.0532,
+    "website": "https://shopee.co.id",
+    "sector": "Marketplace",
+    "address": "Batam Centre",
+    "blurb": "Cross-border e-commerce ops.",
+    "logoUrl": "https://logo.clearbit.com/shopee.co.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fshopee.co.id?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "btm-tokopedia",
+    "name": "Tokopedia Batam",
+    "city": "batam",
+    "lat": 1.1452,
+    "lng": 104.0152,
+    "website": "https://www.tokopedia.com",
+    "sector": "Marketplace",
+    "address": "Nagoya, Batam",
+    "blurb": "Seller community for Batam trade.",
+    "logoUrl": "https://logo.clearbit.com/tokopedia.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.tokopedia.com?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "btm-traveloka",
+    "name": "Traveloka Batam",
+    "city": "batam",
+    "lat": 1.1304,
+    "lng": 104.0522,
+    "website": "https://www.traveloka.com",
+    "sector": "Travel",
+    "address": "Batam Centre ferry terminal precinct",
+    "blurb": "Ferry, flight, and hotel inventory for the island.",
+    "logoUrl": "https://logo.clearbit.com/traveloka.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.traveloka.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "btm-xendit",
+    "name": "Xendit Batam",
+    "city": "batam",
+    "lat": 1.1856,
+    "lng": 104.0944,
+    "website": "https://www.xendit.co",
+    "sector": "FinTech",
+    "address": "Nongsa Digital Park, Batam",
+    "blurb": "Payments engineering near the Singapore talent pool.",
+    "buildingId": "batam-nongsa",
+    "buildingName": "Nongsa Digital Park",
+    "logoUrl": "https://logo.clearbit.com/xendit.co",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.xendit.co?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "btm-mekari",
+    "name": "Mekari Batam",
+    "city": "batam",
+    "lat": 1.1458,
+    "lng": 104.0146,
+    "website": "https://mekari.com",
+    "sector": "SaaS",
+    "address": "Nagoya, Batam",
+    "blurb": "SaaS for Batam manufacturers and traders.",
+    "logoUrl": "https://logo.clearbit.com/mekari.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fmekari.com?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "btm-ovo",
+    "name": "OVO Batam",
+    "city": "batam",
+    "lat": 1.1462,
+    "lng": 104.0138,
+    "website": "https://www.ovo.id",
+    "sector": "FinTech",
+    "address": "Nagoya Hill, Batam",
+    "blurb": "Merchant acquiring.",
+    "logoUrl": "https://logo.clearbit.com/ovo.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ovo.id?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "btm-dana",
+    "name": "DANA Batam",
+    "city": "batam",
+    "lat": 1.1294,
+    "lng": 104.053,
+    "website": "https://www.dana.id",
+    "sector": "FinTech",
+    "address": "Batam Centre",
+    "blurb": "Wallet city operations.",
+    "logoUrl": "https://logo.clearbit.com/dana.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.dana.id?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "btm-halodoc",
+    "name": "Halodoc Batam",
+    "city": "batam",
+    "lat": 1.1474,
+    "lng": 104.0166,
+    "website": "https://www.halodoc.com",
+    "sector": "Health",
+    "address": "Awal Bros / Nagoya, Batam",
+    "blurb": "Clinic partnerships.",
+    "logoUrl": "https://logo.clearbit.com/halodoc.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.halodoc.com?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "btm-anteraja",
+    "name": "Anteraja Batam",
+    "city": "batam",
+    "lat": 1.1638,
+    "lng": 104.0024,
+    "website": "https://anteraja.id",
+    "sector": "Logistics",
+    "address": "Batu Ampar, Batam",
+    "blurb": "Parcel hub next to the port.",
+    "logoUrl": "https://logo.clearbit.com/anteraja.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fanteraja.id?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "btm-shipper",
+    "name": "Shipper Batam",
+    "city": "batam",
+    "lat": 1.1642,
+    "lng": 104.002,
+    "website": "https://shipper.id",
+    "sector": "Logistics",
+    "address": "Batu Ampar, Batam",
+    "blurb": "Cross-border fulfilment.",
+    "logoUrl": "https://logo.clearbit.com/shipper.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fshipper.id?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "btm-telkomsel",
+    "name": "Telkomsel Batam",
+    "city": "batam",
+    "lat": 1.1286,
+    "lng": 104.0536,
+    "website": "https://www.telkomsel.com",
+    "sector": "Telecom",
+    "address": "Batam Centre",
+    "blurb": "Telco digital services for the FTZ.",
+    "logoUrl": "https://logo.clearbit.com/telkomsel.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.telkomsel.com?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "btm-indosat",
+    "name": "Indosat Batam",
+    "city": "batam",
+    "lat": 1.1454,
+    "lng": 104.015,
+    "website": "https://indosatooredoo.com",
+    "sector": "Telecom",
+    "address": "Nagoya, Batam",
+    "blurb": "Network office.",
+    "logoUrl": "https://logo.clearbit.com/indosatooredoo.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Findosatooredoo.com?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "btm-nongsa-point",
+    "name": "Nongsa Point Marina digital",
+    "city": "batam",
+    "lat": 1.1708,
+    "lng": 104.1072,
+    "website": "https://nongsapointmarina.com",
+    "sector": "Hub",
+    "address": "Nongsa Point, Batam",
+    "blurb": "Marina precinct used by visiting Singapore product teams.",
+    "logoUrl": "https://logo.clearbit.com/nongsapointmarina.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fnongsapointmarina.com?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "btm-kargo",
+    "name": "Kargo Batam",
+    "city": "batam",
+    "lat": 1.1646,
+    "lng": 104.0016,
+    "website": "https://kargo.tech",
+    "sector": "Logistics",
+    "address": "Batu Ampar, Batam",
+    "blurb": "Digital freight for industrial Batam.",
+    "logoUrl": "https://logo.clearbit.com/kargo.tech",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fkargo.tech?w=1200"
+    ],
+    "fundingStage": "Series C"
+  }
+]

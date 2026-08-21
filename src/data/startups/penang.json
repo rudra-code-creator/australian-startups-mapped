@@ -1,0 +1,488 @@
+[
+  {
+    "id": "png-vitrox",
+    "name": "ViTrox",
+    "city": "penang",
+    "lat": 5.2948,
+    "lng": 100.2764,
+    "website": "https://www.vitrox.com",
+    "sector": "Hardware",
+    "address": "Bayan Lepas, Penang",
+    "blurb": "Machine-vision and inspection equipment company based in Penang.",
+    "logoUrl": "https://logo.clearbit.com/vitrox.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.vitrox.com?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "png-pentamaster",
+    "name": "Pentamaster",
+    "city": "penang",
+    "lat": 5.3012,
+    "lng": 100.2718,
+    "website": "https://www.pentamaster.com.my",
+    "sector": "Hardware",
+    "address": "Bayan Lepas, Penang",
+    "blurb": "Automation and test-equipment group.",
+    "logoUrl": "https://logo.clearbit.com/pentamaster.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.pentamaster.com.my?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "png-inari",
+    "name": "Inari Amertron",
+    "city": "penang",
+    "lat": 5.2876,
+    "lng": 100.2684,
+    "website": "https://www.inari-amertron.com",
+    "sector": "Hardware",
+    "address": "Bayan Lepas, Penang",
+    "blurb": "OSAT semiconductor group headquartered in Penang.",
+    "logoUrl": "https://logo.clearbit.com/inari-amertron.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.inari-amertron.com?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "png-greatech",
+    "name": "Greatech",
+    "city": "penang",
+    "lat": 5.3056,
+    "lng": 100.2692,
+    "website": "https://www.greatech-group.com",
+    "sector": "Hardware",
+    "address": "Bayan Lepas, Penang",
+    "blurb": "Factory automation equipment maker.",
+    "logoUrl": "https://logo.clearbit.com/greatech-group.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.greatech-group.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "png-uwc",
+    "name": "UWC",
+    "city": "penang",
+    "lat": 5.2988,
+    "lng": 100.2746,
+    "website": "https://www.uwcberhad.com.my",
+    "sector": "Hardware",
+    "address": "Bayan Lepas, Penang",
+    "blurb": "Precision engineering for semiconductor and life-science equipment.",
+    "logoUrl": "https://logo.clearbit.com/uwcberhad.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.uwcberhad.com.my?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "png-aemulus",
+    "name": "Aemulus",
+    "city": "penang",
+    "lat": 5.3024,
+    "lng": 100.2788,
+    "website": "https://www.aemulus.com",
+    "sector": "Hardware",
+    "address": "Bayan Lepas, Penang",
+    "blurb": "Semiconductor test-system company.",
+    "logoUrl": "https://logo.clearbit.com/aemulus.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.aemulus.com?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "png-crest",
+    "name": "CREST",
+    "city": "penang",
+    "lat": 5.32775,
+    "lng": 100.2875,
+    "website": "https://www.crest.my",
+    "sector": "Hub",
+    "address": "Bayan Lepas, Penang",
+    "blurb": "Collaborative electronics R&D consortium.",
+    "buildingId": "penang-cat",
+    "buildingName": "@CAT Penang",
+    "logoUrl": "https://logo.clearbit.com/crest.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.crest.my?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "png-cat",
+    "name": "@CAT Penang",
+    "city": "penang",
+    "lat": 5.3278,
+    "lng": 100.2875,
+    "website": "https://www.investpenang.gov.my",
+    "sector": "Hub",
+    "address": "Bayan Lepas, Penang",
+    "blurb": "Penang’s centre for advanced technology and startups.",
+    "buildingId": "penang-cat",
+    "buildingName": "@CAT Penang",
+    "logoUrl": "https://logo.clearbit.com/investpenang.gov.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.investpenang.gov.my?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "png-investpenang",
+    "name": "InvestPenang",
+    "city": "penang",
+    "lat": 5.4145,
+    "lng": 100.3292,
+    "website": "https://www.investpenang.gov.my",
+    "sector": "Hub",
+    "address": "Komtar, George Town, Penang",
+    "blurb": "State investment agency for the electronics and digital cluster.",
+    "logoUrl": "https://logo.clearbit.com/investpenang.gov.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.investpenang.gov.my?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "png-exabytes",
+    "name": "Exabytes",
+    "city": "penang",
+    "lat": 5.4198,
+    "lng": 100.3298,
+    "website": "https://www.exabytes.com",
+    "sector": "Cloud",
+    "address": "George Town, Penang",
+    "blurb": "Web hosting and cloud company founded in Penang.",
+    "logoUrl": "https://logo.clearbit.com/exabytes.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.exabytes.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "png-delivereat",
+    "name": "DeliverEat",
+    "city": "penang",
+    "lat": 5.4162,
+    "lng": 100.3284,
+    "website": "https://www.delivereat.my",
+    "sector": "Logistics",
+    "address": "George Town, Penang",
+    "blurb": "Food delivery startup that began in Penang.",
+    "logoUrl": "https://logo.clearbit.com/delivereat.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.delivereat.my?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "png-usm",
+    "name": "USM Innovation",
+    "city": "penang",
+    "lat": 5.3558,
+    "lng": 100.3016,
+    "website": "https://www.usm.my",
+    "sector": "Hub",
+    "address": "Universiti Sains Malaysia, Penang",
+    "blurb": "University commercialisation and deep-tech spinouts.",
+    "logoUrl": "https://logo.clearbit.com/usm.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.usm.my?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "png-grab",
+    "name": "Grab Penang",
+    "city": "penang",
+    "lat": 5.4141,
+    "lng": 100.3288,
+    "website": "https://www.grab.com",
+    "sector": "Superapp",
+    "address": "George Town, Penang",
+    "blurb": "Island and Seberang Perai operations.",
+    "logoUrl": "https://logo.clearbit.com/grab.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.grab.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "png-shopee",
+    "name": "Shopee Penang",
+    "city": "penang",
+    "lat": 5.32785,
+    "lng": 100.2875,
+    "website": "https://shopee.com.my",
+    "sector": "Marketplace",
+    "address": "Bayan Lepas, Penang",
+    "blurb": "E-commerce ops for the northern region.",
+    "buildingId": "penang-cat",
+    "buildingName": "@CAT Penang",
+    "logoUrl": "https://logo.clearbit.com/shopee.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fshopee.com.my?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "png-foodpanda",
+    "name": "foodpanda Penang",
+    "city": "penang",
+    "lat": 5.4156,
+    "lng": 100.3312,
+    "website": "https://www.foodpanda.my",
+    "sector": "Logistics",
+    "address": "George Town, Penang",
+    "blurb": "Delivery network across the island.",
+    "logoUrl": "https://logo.clearbit.com/foodpanda.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.foodpanda.my?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "png-carsome",
+    "name": "Carsome Penang",
+    "city": "penang",
+    "lat": 5.3984,
+    "lng": 100.3986,
+    "website": "https://www.carsome.my",
+    "sector": "Marketplace",
+    "address": "Seberang Jaya, Penang",
+    "blurb": "Used-car centre on the mainland.",
+    "logoUrl": "https://logo.clearbit.com/carsome.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.carsome.my?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "png-storehub",
+    "name": "StoreHub Penang",
+    "city": "penang",
+    "lat": 5.4184,
+    "lng": 100.3412,
+    "website": "https://www.storehub.com",
+    "sector": "SaaS",
+    "address": "George Town, Penang",
+    "blurb": "Cloud POS for island F&B.",
+    "logoUrl": "https://logo.clearbit.com/storehub.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.storehub.com?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "png-tng",
+    "name": "Touch 'n Go Penang",
+    "city": "penang",
+    "lat": 5.4128,
+    "lng": 100.3276,
+    "website": "https://www.touchngo.com.my",
+    "sector": "FinTech",
+    "address": "George Town, Penang",
+    "blurb": "Transit and merchant wallet presence.",
+    "logoUrl": "https://logo.clearbit.com/touchngo.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.touchngo.com.my?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "png-boost",
+    "name": "Boost Penang",
+    "city": "penang",
+    "lat": 5.4368,
+    "lng": 100.3102,
+    "website": "https://www.myboost.com.my",
+    "sector": "FinTech",
+    "address": "Gurney, Penang",
+    "blurb": "e-wallet acquiring.",
+    "logoUrl": "https://logo.clearbit.com/myboost.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.myboost.com.my?w=1200"
+    ],
+    "fundingStage": "Series D+"
+  },
+  {
+    "id": "png-ghl",
+    "name": "GHL Penang",
+    "city": "penang",
+    "lat": 5.4168,
+    "lng": 100.3304,
+    "website": "https://www.ghl.com",
+    "sector": "FinTech",
+    "address": "George Town, Penang",
+    "blurb": "Merchant acquiring.",
+    "logoUrl": "https://logo.clearbit.com/ghl.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ghl.com?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "png-ipay88",
+    "name": "iPay88 Penang",
+    "city": "penang",
+    "lat": 5.4172,
+    "lng": 100.3282,
+    "website": "https://www.ipay88.com",
+    "sector": "FinTech",
+    "address": "George Town, Penang",
+    "blurb": "Payment gateway onboarding.",
+    "logoUrl": "https://logo.clearbit.com/ipay88.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ipay88.com?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "png-ninjavan",
+    "name": "Ninja Van Penang",
+    "city": "penang",
+    "lat": 5.3846,
+    "lng": 100.4012,
+    "website": "https://www.ninjavan.co",
+    "sector": "Logistics",
+    "address": "Perai, Penang",
+    "blurb": "Last-mile hub for the mainland industrial belt.",
+    "logoUrl": "https://logo.clearbit.com/ninjavan.co",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ninjavan.co?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "png-lalamove",
+    "name": "Lalamove Penang",
+    "city": "penang",
+    "lat": 5.4112,
+    "lng": 100.3324,
+    "website": "https://www.lalamove.com",
+    "sector": "Logistics",
+    "address": "George Town, Penang",
+    "blurb": "On-demand delivery.",
+    "logoUrl": "https://logo.clearbit.com/lalamove.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.lalamove.com?w=1200"
+    ],
+    "fundingStage": "Series D+"
+  },
+  {
+    "id": "png-easyparcel",
+    "name": "EasyParcel Penang",
+    "city": "penang",
+    "lat": 5.4152,
+    "lng": 100.3272,
+    "website": "https://www.easyparcel.com",
+    "sector": "Logistics",
+    "address": "George Town, Penang",
+    "blurb": "Shipping aggregator.",
+    "logoUrl": "https://logo.clearbit.com/easyparcel.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.easyparcel.com?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "png-science-park",
+    "name": "Penang Science Park",
+    "city": "penang",
+    "lat": 5.2872,
+    "lng": 100.2628,
+    "website": "https://psh.com.my",
+    "sector": "Hub",
+    "address": "Bayan Lepas, Penang",
+    "blurb": "Electronics industrial park next to the airport.",
+    "logoUrl": "https://logo.clearbit.com/psh.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fpsh.com.my?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "png-plexus",
+    "name": "Plexus Penang",
+    "city": "penang",
+    "lat": 5.2914,
+    "lng": 100.2702,
+    "website": "https://www.plexus.com",
+    "sector": "Hardware",
+    "address": "Bayan Lepas, Penang",
+    "blurb": "Electronics manufacturing services campus.",
+    "logoUrl": "https://logo.clearbit.com/plexus.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.plexus.com?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "png-naluri",
+    "name": "Naluri Penang",
+    "city": "penang",
+    "lat": 5.4192,
+    "lng": 100.3328,
+    "website": "https://www.naluri.com",
+    "sector": "Health",
+    "address": "George Town, Penang",
+    "blurb": "Digital health presence serving northern clinics.",
+    "logoUrl": "https://logo.clearbit.com/naluri.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.naluri.com?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "png-revenuemonster",
+    "name": "Revenue Monster Penang",
+    "city": "penang",
+    "lat": 5.4164,
+    "lng": 100.3296,
+    "website": "https://www.revenuemonster.my",
+    "sector": "FinTech",
+    "address": "George Town, Penang",
+    "blurb": "Omnichannel payments for island merchants.",
+    "logoUrl": "https://logo.clearbit.com/revenuemonster.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.revenuemonster.my?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "png-fave",
+    "name": "Fave Penang",
+    "city": "penang",
+    "lat": 5.4372,
+    "lng": 100.3096,
+    "website": "https://www.fave.com",
+    "sector": "FinTech",
+    "address": "Gurney, Penang",
+    "blurb": "Deals and FavePay network.",
+    "logoUrl": "https://logo.clearbit.com/fave.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.fave.com?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "png-propertyguru",
+    "name": "iProperty Penang",
+    "city": "penang",
+    "lat": 5.4204,
+    "lng": 100.3306,
+    "website": "https://www.iproperty.com.my",
+    "sector": "PropTech",
+    "address": "George Town, Penang",
+    "blurb": "Property portal city team.",
+    "logoUrl": "https://logo.clearbit.com/iproperty.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.iproperty.com.my?w=1200"
+    ],
+    "fundingStage": "Series C"
+  }
+]

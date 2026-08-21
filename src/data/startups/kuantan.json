@@ -1,0 +1,194 @@
+[
+  {
+    "id": "ktn-ump",
+    "name": "UMPSA",
+    "city": "kuantan",
+    "lat": 3.7186,
+    "lng": 103.1208,
+    "website": "https://www.umpsa.edu.my",
+    "sector": "Hub",
+    "address": "Gambang, Kuantan, Pahang",
+    "blurb": "Universiti Malaysia Pahang-Pekan/Gambang engineering commercialisation.",
+    "logoUrl": "https://logo.clearbit.com/umpsa.edu.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.umpsa.edu.my?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "ktn-gebeng",
+    "name": "Gebeng industrial digital",
+    "city": "kuantan",
+    "lat": 3.9688,
+    "lng": 103.3736,
+    "website": "https://www.pahang.gov.my",
+    "sector": "Hub",
+    "address": "Gebeng, Kuantan, Pahang",
+    "blurb": "Petrochemical and industrial-tech cluster north of Kuantan.",
+    "logoUrl": "https://logo.clearbit.com/pahang.gov.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.pahang.gov.my?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "ktn-kuantan-port",
+    "name": "Kuantan Port digital",
+    "city": "kuantan",
+    "lat": 3.9754,
+    "lng": 103.4292,
+    "website": "https://www.kuantanport.com.my",
+    "sector": "Logistics",
+    "address": "Tanjung Gelang, Kuantan",
+    "blurb": "East-coast deepwater port systems.",
+    "logoUrl": "https://logo.clearbit.com/kuantanport.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.kuantanport.com.my?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "ktn-grab",
+    "name": "Grab Kuantan",
+    "city": "kuantan",
+    "lat": 3.8077,
+    "lng": 103.326,
+    "website": "https://www.grab.com",
+    "sector": "Superapp",
+    "address": "Kuantan, Pahang",
+    "blurb": "City operations for the east coast.",
+    "logoUrl": "https://logo.clearbit.com/grab.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.grab.com?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "ktn-shopee",
+    "name": "Shopee Kuantan",
+    "city": "kuantan",
+    "lat": 3.8124,
+    "lng": 103.3236,
+    "website": "https://shopee.com.my",
+    "sector": "Marketplace",
+    "address": "Kuantan, Pahang",
+    "blurb": "E-commerce ops for Pahang.",
+    "logoUrl": "https://logo.clearbit.com/shopee.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fshopee.com.my?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "ktn-foodpanda",
+    "name": "foodpanda Kuantan",
+    "city": "kuantan",
+    "lat": 3.8052,
+    "lng": 103.3284,
+    "website": "https://www.foodpanda.my",
+    "sector": "Logistics",
+    "address": "Kuantan, Pahang",
+    "blurb": "Delivery network.",
+    "logoUrl": "https://logo.clearbit.com/foodpanda.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.foodpanda.my?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "ktn-tng",
+    "name": "Touch 'n Go Kuantan",
+    "city": "kuantan",
+    "lat": 3.8088,
+    "lng": 103.3252,
+    "website": "https://www.touchngo.com.my",
+    "sector": "FinTech",
+    "address": "Kuantan, Pahang",
+    "blurb": "Transit and merchant wallet presence.",
+    "logoUrl": "https://logo.clearbit.com/touchngo.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.touchngo.com.my?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "ktn-storehub",
+    "name": "StoreHub Kuantan",
+    "city": "kuantan",
+    "lat": 3.8064,
+    "lng": 103.3272,
+    "website": "https://www.storehub.com",
+    "sector": "SaaS",
+    "address": "Kuantan, Pahang",
+    "blurb": "Cloud POS for east-coast F&B.",
+    "logoUrl": "https://logo.clearbit.com/storehub.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.storehub.com?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "ktn-ninjavan",
+    "name": "Ninja Van Kuantan",
+    "city": "kuantan",
+    "lat": 3.8196,
+    "lng": 103.3188,
+    "website": "https://www.ninjavan.co",
+    "sector": "Logistics",
+    "address": "Kuantan, Pahang",
+    "blurb": "Last-mile hub.",
+    "logoUrl": "https://logo.clearbit.com/ninjavan.co",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ninjavan.co?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "ktn-easyparcel",
+    "name": "EasyParcel Kuantan",
+    "city": "kuantan",
+    "lat": 3.8092,
+    "lng": 103.3244,
+    "website": "https://www.easyparcel.com",
+    "sector": "Logistics",
+    "address": "Kuantan, Pahang",
+    "blurb": "Parcel aggregator.",
+    "logoUrl": "https://logo.clearbit.com/easyparcel.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.easyparcel.com?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "ktn-boost",
+    "name": "Boost Kuantan",
+    "city": "kuantan",
+    "lat": 3.8072,
+    "lng": 103.3268,
+    "website": "https://www.myboost.com.my",
+    "sector": "FinTech",
+    "address": "Kuantan, Pahang",
+    "blurb": "e-wallet acquiring.",
+    "logoUrl": "https://logo.clearbit.com/myboost.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.myboost.com.my?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "ktn-carsome",
+    "name": "Carsome Kuantan",
+    "city": "kuantan",
+    "lat": 3.8014,
+    "lng": 103.3216,
+    "website": "https://www.carsome.my",
+    "sector": "Marketplace",
+    "address": "Kuantan, Pahang",
+    "blurb": "Used-car inspection centre.",
+    "logoUrl": "https://logo.clearbit.com/carsome.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.carsome.my?w=1200"
+    ],
+    "fundingStage": "Growth"
+  }
+]

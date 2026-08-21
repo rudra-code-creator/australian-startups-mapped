@@ -1,0 +1,402 @@
+[
+  {
+    "id": "mdn-gojek",
+    "name": "Gojek Medan",
+    "city": "medan",
+    "lat": 3.5912,
+    "lng": 98.6694,
+    "website": "https://www.gojek.com",
+    "sector": "Superapp",
+    "address": "Jl. Gatot Subroto, Medan",
+    "blurb": "North Sumatra operations for Gojek.",
+    "logoUrl": "https://logo.clearbit.com/gojek.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.gojek.com?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "mdn-grab",
+    "name": "Grab Medan",
+    "city": "medan",
+    "lat": 3.5876,
+    "lng": 98.6782,
+    "website": "https://www.grab.com",
+    "sector": "Superapp",
+    "address": "Jl. Imam Bonjol, Medan",
+    "blurb": "Grab city office for Medan.",
+    "logoUrl": "https://logo.clearbit.com/grab.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.grab.com?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "mdn-shopee",
+    "name": "Shopee Medan",
+    "city": "medan",
+    "lat": 3.5908,
+    "lng": 98.6688,
+    "website": "https://shopee.co.id",
+    "sector": "Marketplace",
+    "address": "Jl. Gatot Subroto, Medan",
+    "blurb": "E-commerce hub for North Sumatra.",
+    "logoUrl": "https://logo.clearbit.com/shopee.co.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fshopee.co.id?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "mdn-tokopedia",
+    "name": "Tokopedia Medan",
+    "city": "medan",
+    "lat": 3.5894,
+    "lng": 98.6756,
+    "website": "https://www.tokopedia.com",
+    "sector": "Marketplace",
+    "address": "Centre Point, Medan",
+    "blurb": "Seller community office.",
+    "logoUrl": "https://logo.clearbit.com/tokopedia.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.tokopedia.com?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "mdn-bukalapak",
+    "name": "Bukalapak Medan",
+    "city": "medan",
+    "lat": 3.5898,
+    "lng": 98.6724,
+    "website": "https://www.bukalapak.com",
+    "sector": "Marketplace",
+    "address": "Jl. Gajah Mada, Medan",
+    "blurb": "Mitra network.",
+    "logoUrl": "https://logo.clearbit.com/bukalapak.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.bukalapak.com?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "mdn-traveloka",
+    "name": "Traveloka Medan",
+    "city": "medan",
+    "lat": 3.5952,
+    "lng": 98.6722,
+    "website": "https://www.traveloka.com",
+    "sector": "Travel",
+    "address": "Kualanamu / Medan city office",
+    "blurb": "Flights and hotels inventory for Sumatra.",
+    "logoUrl": "https://logo.clearbit.com/traveloka.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.traveloka.com?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "mdn-ruangguru",
+    "name": "Ruangguru Medan",
+    "city": "medan",
+    "lat": 3.5846,
+    "lng": 98.6788,
+    "website": "https://www.ruangguru.com",
+    "sector": "EdTech",
+    "address": "Jl. Diponegoro, Medan",
+    "blurb": "School partnerships in Medan.",
+    "logoUrl": "https://logo.clearbit.com/ruangguru.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ruangguru.com?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "mdn-mekari",
+    "name": "Mekari Medan",
+    "city": "medan",
+    "lat": 3.5958,
+    "lng": 98.6784,
+    "website": "https://mekari.com",
+    "sector": "SaaS",
+    "address": "Jl. Putri Hijau, Medan",
+    "blurb": "Cloud software for Medan SMEs.",
+    "logoUrl": "https://logo.clearbit.com/mekari.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fmekari.com?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "mdn-qasir",
+    "name": "Qasir Medan",
+    "city": "medan",
+    "lat": 3.5954,
+    "lng": 98.6702,
+    "website": "https://www.qasir.id",
+    "sector": "SaaS",
+    "address": "Pasar Petisah, Medan",
+    "blurb": "Warung POS across Medan markets.",
+    "logoUrl": "https://logo.clearbit.com/qasir.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.qasir.id?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "mdn-majoo",
+    "name": "majoo Medan",
+    "city": "medan",
+    "lat": 3.5628,
+    "lng": 98.6564,
+    "website": "https://majoo.id",
+    "sector": "SaaS",
+    "address": "Jl. Ring Road, Medan",
+    "blurb": "Cloud POS for F&B.",
+    "logoUrl": "https://logo.clearbit.com/majoo.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fmajoo.id?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "mdn-ovo",
+    "name": "OVO Medan",
+    "city": "medan",
+    "lat": 3.5892,
+    "lng": 98.6786,
+    "website": "https://www.ovo.id",
+    "sector": "FinTech",
+    "address": "Sun Plaza, Medan",
+    "blurb": "Merchant acquiring.",
+    "logoUrl": "https://logo.clearbit.com/ovo.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ovo.id?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "mdn-dana",
+    "name": "DANA Medan",
+    "city": "medan",
+    "lat": 3.5896,
+    "lng": 98.6758,
+    "website": "https://www.dana.id",
+    "sector": "FinTech",
+    "address": "Centre Point, Medan",
+    "blurb": "Wallet city operations.",
+    "logoUrl": "https://logo.clearbit.com/dana.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.dana.id?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "mdn-halodoc",
+    "name": "Halodoc Medan",
+    "city": "medan",
+    "lat": 3.5848,
+    "lng": 98.6792,
+    "website": "https://www.halodoc.com",
+    "sector": "Health",
+    "address": "Jl. Diponegoro, Medan",
+    "blurb": "Clinic network for Medan.",
+    "logoUrl": "https://logo.clearbit.com/halodoc.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.halodoc.com?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "mdn-xendit",
+    "name": "Xendit Medan",
+    "city": "medan",
+    "lat": 3.596,
+    "lng": 98.6786,
+    "website": "https://www.xendit.co",
+    "sector": "FinTech",
+    "address": "Jl. Putri Hijau, Medan",
+    "blurb": "Payments onboarding for Sumatran merchants.",
+    "logoUrl": "https://logo.clearbit.com/xendit.co",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.xendit.co?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "mdn-anteraja",
+    "name": "Anteraja Medan",
+    "city": "medan",
+    "lat": 3.5916,
+    "lng": 98.669,
+    "website": "https://anteraja.id",
+    "sector": "Logistics",
+    "address": "Jl. Gatot Subroto, Medan",
+    "blurb": "Parcel hub.",
+    "logoUrl": "https://logo.clearbit.com/anteraja.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fanteraja.id?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "mdn-shipper",
+    "name": "Shipper Medan",
+    "city": "medan",
+    "lat": 3.5918,
+    "lng": 98.6686,
+    "website": "https://shipper.id",
+    "sector": "Logistics",
+    "address": "Jl. Gatot Subroto, Medan",
+    "blurb": "Fulfilment for Medan sellers.",
+    "logoUrl": "https://logo.clearbit.com/shipper.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fshipper.id?w=1200"
+    ],
+    "fundingStage": "Series D+"
+  },
+  {
+    "id": "mdn-telkomsel",
+    "name": "Telkomsel Medan",
+    "city": "medan",
+    "lat": 3.5878,
+    "lng": 98.6778,
+    "website": "https://www.telkomsel.com",
+    "sector": "Telecom",
+    "address": "Jl. Imam Bonjol, Medan",
+    "blurb": "Telco digital services.",
+    "logoUrl": "https://logo.clearbit.com/telkomsel.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.telkomsel.com?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "mdn-indosat",
+    "name": "Indosat Medan",
+    "city": "medan",
+    "lat": 3.5904,
+    "lng": 98.6698,
+    "website": "https://indosatooredoo.com",
+    "sector": "Telecom",
+    "address": "Jl. Gatot Subroto, Medan",
+    "blurb": "Network and digital lifestyle office.",
+    "logoUrl": "https://logo.clearbit.com/indosatooredoo.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Findosatooredoo.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "mdn-bank-sumut",
+    "name": "Bank Sumut Digital",
+    "city": "medan",
+    "lat": 3.5882,
+    "lng": 98.6772,
+    "website": "https://www.banksumut.co.id",
+    "sector": "FinTech",
+    "address": "Jl. Imam Bonjol, Medan",
+    "blurb": "Regional bank digital channels.",
+    "logoUrl": "https://logo.clearbit.com/banksumut.co.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.banksumut.co.id?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "mdn-usu",
+    "name": "USU Innovation",
+    "city": "medan",
+    "lat": 3.5618,
+    "lng": 98.6544,
+    "website": "https://www.usu.ac.id",
+    "sector": "Hub",
+    "address": "Universitas Sumatera Utara, Medan",
+    "blurb": "Campus commercialisation and student startups.",
+    "logoUrl": "https://logo.clearbit.com/usu.ac.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.usu.ac.id?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "mdn-del",
+    "name": "Institut Del alumni hub",
+    "city": "medan",
+    "lat": 3.5952,
+    "lng": 98.6722,
+    "website": "https://www.del.ac.id",
+    "sector": "Hub",
+    "address": "Medan talent office",
+    "blurb": "North Sumatra software-engineering talent pipeline with a Medan presence.",
+    "logoUrl": "https://logo.clearbit.com/del.ac.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.del.ac.id?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "mdn-blibli",
+    "name": "Blibli Medan",
+    "city": "medan",
+    "lat": 3.589,
+    "lng": 98.6784,
+    "website": "https://www.blibli.com",
+    "sector": "Marketplace",
+    "address": "Sun Plaza, Medan",
+    "blurb": "Omnichannel retail presence.",
+    "logoUrl": "https://logo.clearbit.com/blibli.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.blibli.com?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "mdn-tiket",
+    "name": "tiket.com Medan",
+    "city": "medan",
+    "lat": 3.6322,
+    "lng": 98.8736,
+    "website": "https://www.tiket.com",
+    "sector": "Travel",
+    "address": "Kualanamu corridor, Medan",
+    "blurb": "Airport-city travel operations.",
+    "logoUrl": "https://logo.clearbit.com/tiket.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.tiket.com?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "mdn-privy",
+    "name": "Privy Medan",
+    "city": "medan",
+    "lat": 3.5956,
+    "lng": 98.6788,
+    "website": "https://privy.id",
+    "sector": "SaaS",
+    "address": "Jl. Putri Hijau, Medan",
+    "blurb": "e-signature onboarding.",
+    "logoUrl": "https://logo.clearbit.com/privy.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fprivy.id?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "mdn-kargo",
+    "name": "Kargo Medan",
+    "city": "medan",
+    "lat": 3.7724,
+    "lng": 98.6832,
+    "website": "https://kargo.tech",
+    "sector": "Logistics",
+    "address": "Belawan / Medan industrial",
+    "blurb": "Digital freight for Belawan port traffic.",
+    "logoUrl": "https://logo.clearbit.com/kargo.tech",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fkargo.tech?w=1200"
+    ],
+    "fundingStage": "Series A"
+  }
+]

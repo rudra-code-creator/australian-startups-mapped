@@ -1,0 +1,406 @@
+[
+  {
+    "id": "hk-airwallex",
+    "name": "Airwallex",
+    "city": "hong-kong",
+    "lat": 22.28,
+    "lng": 114.16,
+    "website": "https://www.airwallex.com",
+    "sector": "FinTech",
+    "address": "Hong Kong / global",
+    "blurb": "Cross-border payments unicorn with a strong HK presence.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/airwallex.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.airwallex.com?w=1200"
+    ]
+  },
+  {
+    "id": "hk-animoca",
+    "name": "Animoca Brands",
+    "city": "hong-kong",
+    "lat": 22.28,
+    "lng": 114.16,
+    "website": "https://www.animocabrands.com",
+    "sector": "Media",
+    "address": "Hong Kong",
+    "blurb": "Web3 and gaming investment group based in Hong Kong.",
+    "fundingStage": "Series C",
+    "logoUrl": "https://logo.clearbit.com/animocabrands.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.animocabrands.com?w=1200"
+    ]
+  },
+  {
+    "id": "hk-lalamove",
+    "name": "Lalamove",
+    "city": "hong-kong",
+    "lat": 22.3,
+    "lng": 114.17,
+    "website": "https://www.lalamove.com",
+    "sector": "Logistics",
+    "address": "Hong Kong",
+    "blurb": "On-demand delivery founded in Hong Kong.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/lalamove.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.lalamove.com?w=1200"
+    ]
+  },
+  {
+    "id": "hk-gogox",
+    "name": "GOGOX",
+    "city": "hong-kong",
+    "lat": 22.3,
+    "lng": 114.17,
+    "website": "https://www.gogox.com",
+    "sector": "Logistics",
+    "address": "Hong Kong",
+    "blurb": "Logistics marketplace (formerly GoGoVan).",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/gogox.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.gogox.com?w=1200"
+    ]
+  },
+  {
+    "id": "hk-wewa",
+    "name": "WeLab",
+    "city": "hong-kong",
+    "lat": 22.28,
+    "lng": 114.16,
+    "website": "https://www.welab.co",
+    "sector": "FinTech",
+    "address": "Hong Kong",
+    "blurb": "Digital banking and consumer credit.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/welab.co",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.welab.co?w=1200"
+    ]
+  },
+  {
+    "id": "hk-za",
+    "name": "ZA Bank",
+    "city": "hong-kong",
+    "lat": 22.29,
+    "lng": 114.17,
+    "website": "https://bank.za.group",
+    "sector": "FinTech",
+    "address": "Hong Kong",
+    "blurb": "Virtual bank in Hong Kong.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/bank.za.group",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fbank.za.group?w=1200"
+    ]
+  },
+  {
+    "id": "hk-mox",
+    "name": "Mox Bank",
+    "city": "hong-kong",
+    "lat": 22.29,
+    "lng": 114.16,
+    "website": "https://mox.com",
+    "sector": "FinTech",
+    "address": "Hong Kong",
+    "blurb": "Virtual bank backed by Standard Chartered.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/mox.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fmox.com?w=1200"
+    ]
+  },
+  {
+    "id": "hk-fusinc",
+    "name": "Fusinc / local fintech",
+    "city": "hong-kong",
+    "lat": 22.260949999999998,
+    "lng": 114.12989999999999,
+    "website": "https://www.airwallex.com",
+    "sector": "FinTech",
+    "address": "Cyberport, Hong Kong",
+    "blurb": "Fintech builders at Cyberport.",
+    "fundingStage": "Series B",
+    "buildingId": "hk-cyberport",
+    "buildingName": "Cyberport",
+    "logoUrl": "https://logo.clearbit.com/airwallex.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.airwallex.com?w=1200"
+    ]
+  },
+  {
+    "id": "hk-tng",
+    "name": "TNG FinTech",
+    "city": "hong-kong",
+    "lat": 22.28,
+    "lng": 114.17,
+    "website": "https://www.tngfintech.com",
+    "sector": "FinTech",
+    "address": "Hong Kong",
+    "blurb": "Digital remittance and wallet services.",
+    "fundingStage": "Series C",
+    "logoUrl": "https://logo.clearbit.com/tngfintech.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.tngfintech.com?w=1200"
+    ]
+  },
+  {
+    "id": "hk-bottoms-up",
+    "name": "Bottoms Up",
+    "city": "hong-kong",
+    "lat": 22.28,
+    "lng": 114.16,
+    "website": "https://www.bottomsup.hk",
+    "sector": "Consumer",
+    "address": "Hong Kong",
+    "blurb": "F&B discovery and deals.",
+    "fundingStage": "Series A",
+    "logoUrl": "https://logo.clearbit.com/bottomsup.hk",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.bottomsup.hk?w=1200"
+    ]
+  },
+  {
+    "id": "hk-klook",
+    "name": "Klook",
+    "city": "hong-kong",
+    "lat": 22.3,
+    "lng": 114.17,
+    "website": "https://www.klook.com",
+    "sector": "Travel",
+    "address": "Hong Kong",
+    "blurb": "Experiences marketplace founded in Hong Kong.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/klook.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.klook.com?w=1200"
+    ]
+  },
+  {
+    "id": "hk-trip",
+    "name": "Trip.com HK",
+    "city": "hong-kong",
+    "lat": 22.29,
+    "lng": 114.17,
+    "website": "https://www.trip.com",
+    "sector": "Travel",
+    "address": "Hong Kong",
+    "blurb": "Travel superapp regional presence.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/trip.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.trip.com?w=1200"
+    ]
+  },
+  {
+    "id": "hk-sense",
+    "name": "SenseTime HK",
+    "city": "hong-kong",
+    "lat": 22.3,
+    "lng": 114.18,
+    "website": "https://www.sensetime.com",
+    "sector": "AI",
+    "address": "Hong Kong",
+    "blurb": "AI company with HK listing and R&D.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/sensetime.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.sensetime.com?w=1200"
+    ]
+  },
+  {
+    "id": "hk-dj",
+    "name": "DJI HK",
+    "city": "hong-kong",
+    "lat": 22.3,
+    "lng": 114.18,
+    "website": "https://www.dji.com",
+    "sector": "Hardware",
+    "address": "Hong Kong",
+    "blurb": "Drone maker commercial and regional office.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/dji.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.dji.com?w=1200"
+    ]
+  },
+  {
+    "id": "hk-taptap",
+    "name": "TapTap Send / remittance",
+    "city": "hong-kong",
+    "lat": 22.28,
+    "lng": 114.16,
+    "website": "https://www.taptapsend.com",
+    "sector": "FinTech",
+    "address": "Hong Kong",
+    "blurb": "Cross-border remittance corridor products.",
+    "fundingStage": "Series C",
+    "logoUrl": "https://logo.clearbit.com/taptapsend.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.taptapsend.com?w=1200"
+    ]
+  },
+  {
+    "id": "hk-bitmex",
+    "name": "BitMEX",
+    "city": "hong-kong",
+    "lat": 22.28,
+    "lng": 114.16,
+    "website": "https://www.bitmex.com",
+    "sector": "FinTech",
+    "address": "Hong Kong",
+    "blurb": "Crypto derivatives exchange with HK roots.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/bitmex.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.bitmex.com?w=1200"
+    ]
+  },
+  {
+    "id": "hk-osl",
+    "name": "OSL",
+    "city": "hong-kong",
+    "lat": 22.28,
+    "lng": 114.17,
+    "website": "https://www.osl.com",
+    "sector": "FinTech",
+    "address": "Hong Kong",
+    "blurb": "Licensed digital-asset platform.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/osl.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.osl.com?w=1200"
+    ]
+  },
+  {
+    "id": "hk-hashkey",
+    "name": "HashKey",
+    "city": "hong-kong",
+    "lat": 22.28,
+    "lng": 114.16,
+    "website": "https://www.hashkey.com",
+    "sector": "FinTech",
+    "address": "Hong Kong",
+    "blurb": "Digital asset exchange and group.",
+    "fundingStage": "Series C",
+    "logoUrl": "https://logo.clearbit.com/hashkey.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.hashkey.com?w=1200"
+    ]
+  },
+  {
+    "id": "hk-cyberport",
+    "name": "Cyberport",
+    "city": "hong-kong",
+    "lat": 22.261,
+    "lng": 114.12989999999999,
+    "website": "https://www.cyberport.hk",
+    "sector": "Hub",
+    "address": "Cyberport, Hong Kong",
+    "blurb": "Hong Kong’s digital tech park.",
+    "fundingStage": "Bootstrapped",
+    "buildingId": "hk-cyberport",
+    "buildingName": "Cyberport",
+    "logoUrl": "https://logo.clearbit.com/cyberport.hk",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.cyberport.hk?w=1200"
+    ]
+  },
+  {
+    "id": "hk-sciencepark",
+    "name": "Hong Kong Science Park",
+    "city": "hong-kong",
+    "lat": 22.43,
+    "lng": 114.21,
+    "website": "https://www.hkstp.org",
+    "sector": "Hub",
+    "address": "Sha Tin, Hong Kong",
+    "blurb": "Science and deep-tech campus.",
+    "fundingStage": "Bootstrapped",
+    "logoUrl": "https://logo.clearbit.com/hkstp.org",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.hkstp.org?w=1200"
+    ]
+  },
+  {
+    "id": "hk-hktv",
+    "name": "HKTV Mall",
+    "city": "hong-kong",
+    "lat": 22.35,
+    "lng": 114.12,
+    "website": "https://www.hktvmall.com",
+    "sector": "Marketplace",
+    "address": "Hong Kong",
+    "blurb": "Online shopping platform.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/hktvmall.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.hktvmall.com?w=1200"
+    ]
+  },
+  {
+    "id": "hk-foodpanda",
+    "name": "foodpanda HK",
+    "city": "hong-kong",
+    "lat": 22.3,
+    "lng": 114.17,
+    "website": "https://www.foodpanda.hk",
+    "sector": "Logistics",
+    "address": "Hong Kong",
+    "blurb": "Food delivery network.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/foodpanda.hk",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.foodpanda.hk?w=1200"
+    ]
+  },
+  {
+    "id": "hk-deliveroo",
+    "name": "Deliveroo HK",
+    "city": "hong-kong",
+    "lat": 22.29,
+    "lng": 114.16,
+    "website": "https://deliveroo.com.hk",
+    "sector": "Logistics",
+    "address": "Hong Kong",
+    "blurb": "Food delivery.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/deliveroo.com.hk",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fdeliveroo.com.hk?w=1200"
+    ]
+  },
+  {
+    "id": "hk-grab-hk",
+    "name": "Grab HK",
+    "city": "hong-kong",
+    "lat": 22.29,
+    "lng": 114.17,
+    "website": "https://www.grab.com",
+    "sector": "Superapp",
+    "address": "Hong Kong",
+    "blurb": "Regional mobility / finance presence.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/grab.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.grab.com?w=1200"
+    ]
+  },
+  {
+    "id": "hk-alibaba-hk",
+    "name": "Alibaba HK",
+    "city": "hong-kong",
+    "lat": 22.28,
+    "lng": 114.16,
+    "website": "https://www.alibabagroup.com",
+    "sector": "Marketplace",
+    "address": "Hong Kong",
+    "blurb": "Alibaba Group Hong Kong hub.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/alibabagroup.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.alibabagroup.com?w=1200"
+    ]
+  }
+]

@@ -1,0 +1,414 @@
+[
+  {
+    "id": "jb-easyparcel",
+    "name": "EasyParcel",
+    "city": "johor-bahru",
+    "lat": 1.4927,
+    "lng": 103.7414,
+    "website": "https://www.easyparcel.com",
+    "sector": "Logistics",
+    "address": "Johor Bahru, Johor",
+    "blurb": "Shipping aggregator founded in Johor Bahru for SMEs sending across ASEAN.",
+    "logoUrl": "https://logo.clearbit.com/easyparcel.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.easyparcel.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "jb-utm-technovation",
+    "name": "UTM Technovation Park",
+    "city": "johor-bahru",
+    "lat": 1.5593499999999998,
+    "lng": 103.6379,
+    "website": "https://www.utm.my",
+    "sector": "Hub",
+    "address": "UTM Skudai, Johor Bahru",
+    "blurb": "University tech park and spinout campus in Skudai.",
+    "buildingId": "jb-utm-technovation",
+    "buildingName": "UTM Technovation Park",
+    "logoUrl": "https://logo.clearbit.com/utm.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.utm.my?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "jb-medini",
+    "name": "Medini Iskandar",
+    "city": "johor-bahru",
+    "lat": 1.4178,
+    "lng": 103.6263,
+    "website": "https://www.medini.com.my",
+    "sector": "Hub",
+    "address": "Medini, Iskandar Puteri, Johor",
+    "blurb": "Iskandar Puteri precinct used by regional product and services teams.",
+    "buildingId": "jb-medini",
+    "buildingName": "Medini Iskandar",
+    "logoUrl": "https://logo.clearbit.com/medini.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.medini.com.my?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "jb-irda",
+    "name": "Iskandar Regional Development Authority",
+    "city": "johor-bahru",
+    "lat": 1.41785,
+    "lng": 103.6263,
+    "website": "https://www.irda.com.my",
+    "sector": "Hub",
+    "address": "Medini, Iskandar Puteri, Johor",
+    "blurb": "Development authority backing the Iskandar Malaysia economic corridor.",
+    "buildingId": "jb-medini",
+    "buildingName": "Medini Iskandar",
+    "logoUrl": "https://logo.clearbit.com/irda.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.irda.com.my?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "jb-pinewood",
+    "name": "Iskandar Malaysia Studios",
+    "city": "johor-bahru",
+    "lat": 1.4072,
+    "lng": 103.6376,
+    "website": "https://www.iskandarstudios.com",
+    "sector": "Media",
+    "address": "Iskandar Puteri, Johor",
+    "blurb": "Sound stages and digital production campus in Iskandar.",
+    "logoUrl": "https://logo.clearbit.com/iskandarstudios.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.iskandarstudios.com?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "jb-southampton",
+    "name": "University of Southampton Malaysia",
+    "city": "johor-bahru",
+    "lat": 1.4179,
+    "lng": 103.6263,
+    "website": "https://www.southampton.ac.uk/my",
+    "sector": "EdTech",
+    "address": "Medini, Iskandar Puteri, Johor",
+    "blurb": "Educity campus feeding engineering talent into the JB–Singapore corridor.",
+    "buildingId": "jb-medini",
+    "buildingName": "Medini Iskandar",
+    "logoUrl": "https://logo.clearbit.com/southampton.ac.uk",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.southampton.ac.uk%2Fmy?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "jb-ncl",
+    "name": "Newcastle University Medicine Malaysia",
+    "city": "johor-bahru",
+    "lat": 1.4177,
+    "lng": 103.62635,
+    "website": "https://www.ncl.ac.uk/numed",
+    "sector": "Health",
+    "address": "Medini, Iskandar Puteri, Johor",
+    "blurb": "Medical campus in Educity, Iskandar.",
+    "buildingId": "jb-medini",
+    "buildingName": "Medini Iskandar",
+    "logoUrl": "https://logo.clearbit.com/ncl.ac.uk",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ncl.ac.uk%2Fnumed?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "jb-raffles-u",
+    "name": "Raffles University",
+    "city": "johor-bahru",
+    "lat": 1.4177499999999998,
+    "lng": 103.62635,
+    "website": "https://www.raffles-university.edu.my",
+    "sector": "EdTech",
+    "address": "Medini, Iskandar Puteri, Johor",
+    "blurb": "Private university in Medini with digital and business programmes.",
+    "buildingId": "jb-medini",
+    "buildingName": "Medini Iskandar",
+    "logoUrl": "https://logo.clearbit.com/raffles-university.edu.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.raffles-university.edu.my?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "jb-jcorp",
+    "name": "Johor Corporation",
+    "city": "johor-bahru",
+    "lat": 1.4612,
+    "lng": 103.7618,
+    "website": "https://www.jcorp.com.my",
+    "sector": "Venture",
+    "address": "Kotaraya, Johor Bahru",
+    "blurb": "State investment group backing Johor industrial and digital ventures.",
+    "logoUrl": "https://logo.clearbit.com/jcorp.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.jcorp.com.my?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "jb-grab",
+    "name": "Grab Johor Bahru",
+    "city": "johor-bahru",
+    "lat": 1.4654,
+    "lng": 103.7578,
+    "website": "https://www.grab.com",
+    "sector": "Superapp",
+    "address": "City Centre, Johor Bahru",
+    "blurb": "Grab city operations for the JB–Singapore commute market.",
+    "logoUrl": "https://logo.clearbit.com/grab.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.grab.com?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "jb-shopee",
+    "name": "Shopee Johor Bahru",
+    "city": "johor-bahru",
+    "lat": 1.4922,
+    "lng": 103.7586,
+    "website": "https://shopee.com.my",
+    "sector": "Marketplace",
+    "address": "Tebrau, Johor Bahru",
+    "blurb": "E-commerce ops and last-mile serving southern Johor.",
+    "logoUrl": "https://logo.clearbit.com/shopee.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fshopee.com.my?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "jb-foodpanda",
+    "name": "foodpanda Johor Bahru",
+    "city": "johor-bahru",
+    "lat": 1.5328,
+    "lng": 103.7884,
+    "website": "https://www.foodpanda.my",
+    "sector": "Logistics",
+    "address": "Taman Molek, Johor Bahru",
+    "blurb": "Delivery network across JB and Iskandar Puteri.",
+    "logoUrl": "https://logo.clearbit.com/foodpanda.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.foodpanda.my?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "jb-ninjavan",
+    "name": "Ninja Van Johor",
+    "city": "johor-bahru",
+    "lat": 1.4726,
+    "lng": 103.8992,
+    "website": "https://www.ninjavan.co",
+    "sector": "Logistics",
+    "address": "Pasir Gudang / JB",
+    "blurb": "Last-mile hub for the Singapore–Johor parcel flow.",
+    "logoUrl": "https://logo.clearbit.com/ninjavan.co",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ninjavan.co?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "jb-lalamove",
+    "name": "Lalamove Johor Bahru",
+    "city": "johor-bahru",
+    "lat": 1.4856,
+    "lng": 103.7612,
+    "website": "https://www.lalamove.com",
+    "sector": "Logistics",
+    "address": "Johor Bahru",
+    "blurb": "On-demand trucking for the CIQ and PTP corridor.",
+    "logoUrl": "https://logo.clearbit.com/lalamove.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.lalamove.com?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "jb-carsome",
+    "name": "Carsome Johor Bahru",
+    "city": "johor-bahru",
+    "lat": 1.5486,
+    "lng": 103.7534,
+    "website": "https://www.carsome.my",
+    "sector": "Marketplace",
+    "address": "Tebrau, Johor Bahru",
+    "blurb": "Used-car inspection and retail centre.",
+    "logoUrl": "https://logo.clearbit.com/carsome.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.carsome.my?w=1200"
+    ],
+    "fundingStage": "Series D+"
+  },
+  {
+    "id": "jb-storehub",
+    "name": "StoreHub Johor",
+    "city": "johor-bahru",
+    "lat": 1.4788,
+    "lng": 103.7636,
+    "website": "https://www.storehub.com",
+    "sector": "SaaS",
+    "address": "Johor Bahru",
+    "blurb": "Cloud POS used widely by JB F&B near the Causeway.",
+    "logoUrl": "https://logo.clearbit.com/storehub.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.storehub.com?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "jb-tng",
+    "name": "Touch 'n Go Johor",
+    "city": "johor-bahru",
+    "lat": 1.4642,
+    "lng": 103.7694,
+    "website": "https://www.touchngo.com.my",
+    "sector": "FinTech",
+    "address": "CIQ / City Centre, Johor Bahru",
+    "blurb": "Transit and wallet presence on the JB–Singapore crossing.",
+    "logoUrl": "https://logo.clearbit.com/touchngo.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.touchngo.com.my?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "jb-boost",
+    "name": "Boost Johor Bahru",
+    "city": "johor-bahru",
+    "lat": 1.4772,
+    "lng": 103.7588,
+    "website": "https://www.myboost.com.my",
+    "sector": "FinTech",
+    "address": "Johor Bahru",
+    "blurb": "e-wallet merchant acquiring in southern Johor.",
+    "logoUrl": "https://logo.clearbit.com/myboost.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.myboost.com.my?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "jb-ghl",
+    "name": "GHL Johor",
+    "city": "johor-bahru",
+    "lat": 1.4796,
+    "lng": 103.7604,
+    "website": "https://www.ghl.com",
+    "sector": "FinTech",
+    "address": "Johor Bahru",
+    "blurb": "Payments acquiring for JB retail and F&B.",
+    "logoUrl": "https://logo.clearbit.com/ghl.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ghl.com?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "jb-ptp",
+    "name": "Port of Tanjung Pelepas digital",
+    "city": "johor-bahru",
+    "lat": 1.3628,
+    "lng": 103.5476,
+    "website": "https://www.ptp.com.my",
+    "sector": "Logistics",
+    "address": "Gelang Patah, Johor",
+    "blurb": "Container port tech serving the Singapore Straits trade.",
+    "logoUrl": "https://logo.clearbit.com/ptp.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ptp.com.my?w=1200"
+    ],
+    "fundingStage": "Series D+"
+  },
+  {
+    "id": "jb-uem",
+    "name": "UEM Sunrise Iskandar",
+    "city": "johor-bahru",
+    "lat": 1.4248,
+    "lng": 103.6372,
+    "website": "https://www.uemsunrise.com",
+    "sector": "PropTech",
+    "address": "Iskandar Puteri, Johor",
+    "blurb": "Township developer with digital precincts in Iskandar.",
+    "logoUrl": "https://logo.clearbit.com/uemsunrise.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.uemsunrise.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "jb-sunway-iskandar",
+    "name": "Sunway Iskandar",
+    "city": "johor-bahru",
+    "lat": 1.4216,
+    "lng": 103.6518,
+    "website": "https://www.sunwayiskandar.com",
+    "sector": "Hub",
+    "address": "Iskandar Puteri, Johor",
+    "blurb": "Integrated township used by regional services firms.",
+    "logoUrl": "https://logo.clearbit.com/sunwayiskandar.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.sunwayiskandar.com?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "jb-midvalley",
+    "name": "Mid Valley Southkey",
+    "city": "johor-bahru",
+    "lat": 1.4756,
+    "lng": 103.7784,
+    "website": "https://www.southkey.com.my",
+    "sector": "Hub",
+    "address": "Southkey, Johor Bahru",
+    "blurb": "Retail and office cluster on the JB waterfront.",
+    "logoUrl": "https://logo.clearbit.com/southkey.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.southkey.com.my?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "jb-paradigm",
+    "name": "Paradigm Mall JB",
+    "city": "johor-bahru",
+    "lat": 1.5288,
+    "lng": 103.6816,
+    "website": "https://www.paradigmmall.com.my",
+    "sector": "Hub",
+    "address": "Skudai, Johor Bahru",
+    "blurb": "Skudai retail campus next to the UTM talent belt.",
+    "logoUrl": "https://logo.clearbit.com/paradigmmall.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.paradigmmall.com.my?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "jb-marrybrown",
+    "name": "Marrybrown",
+    "city": "johor-bahru",
+    "lat": 1.4924,
+    "lng": 103.7412,
+    "website": "https://www.marrybrown.com",
+    "sector": "Consumer",
+    "address": "Johor Bahru, Johor",
+    "blurb": "Quick-service restaurant brand founded in Johor Bahru, now regional.",
+    "logoUrl": "https://logo.clearbit.com/marrybrown.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.marrybrown.com?w=1200"
+    ],
+    "fundingStage": "Series C"
+  }
+]

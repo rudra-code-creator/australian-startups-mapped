@@ -1,0 +1,416 @@
+[
+  {
+    "id": "hyd-byjus-hyd",
+    "name": "BYJU'S Hyderabad",
+    "city": "hyderabad",
+    "lat": 17.44345,
+    "lng": 78.3771,
+    "website": "https://byjus.com",
+    "sector": "EdTech",
+    "address": "HITEC City, Hyderabad",
+    "blurb": "Edtech content and ops hub.",
+    "fundingStage": "Growth",
+    "buildingId": "hyd-hitech",
+    "buildingName": "HITEC City",
+    "logoUrl": "https://logo.clearbit.com/byjus.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fbyjus.com?w=1200"
+    ]
+  },
+  {
+    "id": "hyd-msci",
+    "name": "Microsoft Hyderabad",
+    "city": "hyderabad",
+    "lat": 17.44,
+    "lng": 78.35,
+    "website": "https://www.microsoft.com",
+    "sector": "Enterprise",
+    "address": "Gachibowli, Hyderabad",
+    "blurb": "One of Microsoft’s largest campuses outside the US.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/microsoft.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.microsoft.com?w=1200"
+    ]
+  },
+  {
+    "id": "hyd-google",
+    "name": "Google Hyderabad",
+    "city": "hyderabad",
+    "lat": 17.44,
+    "lng": 78.36,
+    "website": "https://www.google.com",
+    "sector": "Enterprise",
+    "address": "Gachibowli, Hyderabad",
+    "blurb": "Major Google engineering and product campus.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/google.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.google.com?w=1200"
+    ]
+  },
+  {
+    "id": "hyd-amazon",
+    "name": "Amazon Hyderabad",
+    "city": "hyderabad",
+    "lat": 17.4435,
+    "lng": 78.3771,
+    "website": "https://www.amazon.in",
+    "sector": "Marketplace",
+    "address": "HITEC City, Hyderabad",
+    "blurb": "Amazon development centre and retail ops.",
+    "fundingStage": "Public",
+    "buildingId": "hyd-hitech",
+    "buildingName": "HITEC City",
+    "logoUrl": "https://logo.clearbit.com/amazon.in",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.amazon.in?w=1200"
+    ]
+  },
+  {
+    "id": "hyd-facebook",
+    "name": "Meta Hyderabad",
+    "city": "hyderabad",
+    "lat": 17.443550000000002,
+    "lng": 78.3771,
+    "website": "https://www.meta.com",
+    "sector": "Media",
+    "address": "HITEC City, Hyderabad",
+    "blurb": "Meta engineering campus.",
+    "fundingStage": "Public",
+    "buildingId": "hyd-hitech",
+    "buildingName": "HITEC City",
+    "logoUrl": "https://logo.clearbit.com/meta.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.meta.com?w=1200"
+    ]
+  },
+  {
+    "id": "hyd-flipkart-hyd",
+    "name": "Flipkart Hyderabad",
+    "city": "hyderabad",
+    "lat": 17.4436,
+    "lng": 78.3771,
+    "website": "https://www.flipkart.com",
+    "sector": "Marketplace",
+    "address": "HITEC City, Hyderabad",
+    "blurb": "E-commerce engineering and category teams.",
+    "fundingStage": "Public",
+    "buildingId": "hyd-hitech",
+    "buildingName": "HITEC City",
+    "logoUrl": "https://logo.clearbit.com/flipkart.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.flipkart.com?w=1200"
+    ]
+  },
+  {
+    "id": "hyd-swiggy-hyd",
+    "name": "Swiggy Hyderabad",
+    "city": "hyderabad",
+    "lat": 17.42,
+    "lng": 78.45,
+    "website": "https://www.swiggy.com",
+    "sector": "Logistics",
+    "address": "Hyderabad",
+    "blurb": "Food and Instamart city density.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/swiggy.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.swiggy.com?w=1200"
+    ]
+  },
+  {
+    "id": "hyd-zomato-hyd",
+    "name": "Zomato Hyderabad",
+    "city": "hyderabad",
+    "lat": 17.41,
+    "lng": 78.46,
+    "website": "https://www.zomato.com",
+    "sector": "Logistics",
+    "address": "Hyderabad",
+    "blurb": "Food delivery city ops.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/zomato.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.zomato.com?w=1200"
+    ]
+  },
+  {
+    "id": "hyd-phenom",
+    "name": "Phenom",
+    "city": "hyderabad",
+    "lat": 17.4434,
+    "lng": 78.37715,
+    "website": "https://www.phenom.com",
+    "sector": "SaaS",
+    "address": "HITEC City, Hyderabad",
+    "blurb": "Talent experience SaaS with Hyderabad roots.",
+    "fundingStage": "Series D+",
+    "buildingId": "hyd-hitech",
+    "buildingName": "HITEC City",
+    "logoUrl": "https://logo.clearbit.com/phenom.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.phenom.com?w=1200"
+    ]
+  },
+  {
+    "id": "hyd-valuefy",
+    "name": "Valuefy",
+    "city": "hyderabad",
+    "lat": 17.44,
+    "lng": 78.37,
+    "website": "https://www.valuefy.com",
+    "sector": "FinTech",
+    "address": "Hyderabad / Mumbai",
+    "blurb": "Wealthtech platform.",
+    "fundingStage": "Series B",
+    "logoUrl": "https://logo.clearbit.com/valuefy.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.valuefy.com?w=1200"
+    ]
+  },
+  {
+    "id": "hyd-darwinbox",
+    "name": "Darwinbox",
+    "city": "hyderabad",
+    "lat": 17.44345,
+    "lng": 78.37715,
+    "website": "https://darwinbox.com",
+    "sector": "SaaS",
+    "address": "HITEC City, Hyderabad",
+    "blurb": "HR tech unicorn founded in Hyderabad.",
+    "fundingStage": "Series D+",
+    "buildingId": "hyd-hitech",
+    "buildingName": "HITEC City",
+    "logoUrl": "https://logo.clearbit.com/darwinbox.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fdarwinbox.com?w=1200"
+    ]
+  },
+  {
+    "id": "hyd-transunion",
+    "name": "TransUnion CIBIL / analytics",
+    "city": "hyderabad",
+    "lat": 17.44,
+    "lng": 78.38,
+    "website": "https://www.transunioncibil.com",
+    "sector": "FinTech",
+    "address": "Hyderabad",
+    "blurb": "Credit infrastructure and analytics presence.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/transunioncibil.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.transunioncibil.com?w=1200"
+    ]
+  },
+  {
+    "id": "hyd-tcs",
+    "name": "TCS Hyderabad",
+    "city": "hyderabad",
+    "lat": 17.44,
+    "lng": 78.35,
+    "website": "https://www.tcs.com",
+    "sector": "Enterprise",
+    "address": "Gachibowli, Hyderabad",
+    "blurb": "Large TCS delivery campus.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/tcs.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.tcs.com?w=1200"
+    ]
+  },
+  {
+    "id": "hyd-infosys",
+    "name": "Infosys Hyderabad",
+    "city": "hyderabad",
+    "lat": 17.44,
+    "lng": 78.34,
+    "website": "https://www.infosys.com",
+    "sector": "Enterprise",
+    "address": "Gachibowli, Hyderabad",
+    "blurb": "Infosys SEZ campus.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/infosys.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.infosys.com?w=1200"
+    ]
+  },
+  {
+    "id": "hyd-wipro",
+    "name": "Wipro Hyderabad",
+    "city": "hyderabad",
+    "lat": 17.43,
+    "lng": 78.38,
+    "website": "https://www.wipro.com",
+    "sector": "Enterprise",
+    "address": "Hyderabad",
+    "blurb": "IT services campus.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/wipro.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.wipro.com?w=1200"
+    ]
+  },
+  {
+    "id": "hyd-cognizant",
+    "name": "Cognizant Hyderabad",
+    "city": "hyderabad",
+    "lat": 17.44,
+    "lng": 78.37,
+    "website": "https://www.cognizant.com",
+    "sector": "Enterprise",
+    "address": "Hyderabad",
+    "blurb": "Digital engineering campus.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/cognizant.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.cognizant.com?w=1200"
+    ]
+  },
+  {
+    "id": "hyd-novartis",
+    "name": "Novartis Hyderabad",
+    "city": "hyderabad",
+    "lat": 17.45,
+    "lng": 78.37,
+    "website": "https://www.novartis.com",
+    "sector": "Health",
+    "address": "Hyderabad",
+    "blurb": "Global capability centre.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/novartis.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.novartis.com?w=1200"
+    ]
+  },
+  {
+    "id": "hyd-optum",
+    "name": "Optum Hyderabad",
+    "city": "hyderabad",
+    "lat": 17.44,
+    "lng": 78.38,
+    "website": "https://www.optum.com",
+    "sector": "Health",
+    "address": "Hyderabad",
+    "blurb": "Health-tech capability centre.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/optum.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.optum.com?w=1200"
+    ]
+  },
+  {
+    "id": "hyd-scripbox",
+    "name": "Scripbox",
+    "city": "hyderabad",
+    "lat": 17.44,
+    "lng": 78.38,
+    "website": "https://scripbox.com",
+    "sector": "FinTech",
+    "address": "Hyderabad / Bengaluru",
+    "blurb": "Digital wealth management.",
+    "fundingStage": "Series C",
+    "logoUrl": "https://logo.clearbit.com/scripbox.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fscripbox.com?w=1200"
+    ]
+  },
+  {
+    "id": "hyd-cashfree-hyd",
+    "name": "Cashfree Hyderabad",
+    "city": "hyderabad",
+    "lat": 17.4435,
+    "lng": 78.37715,
+    "website": "https://www.cashfree.com",
+    "sector": "FinTech",
+    "address": "HITEC City, Hyderabad",
+    "blurb": "Payments engineering hub.",
+    "fundingStage": "Series C",
+    "buildingId": "hyd-hitech",
+    "buildingName": "HITEC City",
+    "logoUrl": "https://logo.clearbit.com/cashfree.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.cashfree.com?w=1200"
+    ]
+  },
+  {
+    "id": "hyd-delhivery-hyd",
+    "name": "Delhivery Hyderabad",
+    "city": "hyderabad",
+    "lat": 17.4,
+    "lng": 78.5,
+    "website": "https://www.delhivery.com",
+    "sector": "Logistics",
+    "address": "Hyderabad",
+    "blurb": "Logistics gateway for South India.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/delhivery.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.delhivery.com?w=1200"
+    ]
+  },
+  {
+    "id": "hyd-rapido",
+    "name": "Rapido",
+    "city": "hyderabad",
+    "lat": 17.42,
+    "lng": 78.45,
+    "website": "https://rapido.bike",
+    "sector": "Mobility",
+    "address": "Hyderabad",
+    "blurb": "Bike-taxi network with Hyderabad roots.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/rapido.bike",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Frapido.bike?w=1200"
+    ]
+  },
+  {
+    "id": "hyd-droom-hyd",
+    "name": "Droom Hyderabad",
+    "city": "hyderabad",
+    "lat": 17.43,
+    "lng": 78.4,
+    "website": "https://droom.in",
+    "sector": "Marketplace",
+    "address": "Hyderabad",
+    "blurb": "Auto marketplace presence.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/droom.in",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fdroom.in?w=1200"
+    ]
+  },
+  {
+    "id": "hyd-orangehealth",
+    "name": "Orange Health",
+    "city": "hyderabad",
+    "lat": 17.43,
+    "lng": 78.4,
+    "website": "https://www.orangehealth.in",
+    "sector": "Health",
+    "address": "Hyderabad / Bengaluru",
+    "blurb": "At-home diagnostics.",
+    "fundingStage": "Series B",
+    "logoUrl": "https://logo.clearbit.com/orangehealth.in",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.orangehealth.in?w=1200"
+    ]
+  },
+  {
+    "id": "hyd-skyroot",
+    "name": "Skyroot Aerospace",
+    "city": "hyderabad",
+    "lat": 17.45,
+    "lng": 78.38,
+    "website": "https://skyroot.in",
+    "sector": "Aerospace",
+    "address": "Hyderabad",
+    "blurb": "Private launch-vehicle startup.",
+    "fundingStage": "Series B",
+    "logoUrl": "https://logo.clearbit.com/skyroot.in",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fskyroot.in?w=1200"
+    ]
+  }
+]

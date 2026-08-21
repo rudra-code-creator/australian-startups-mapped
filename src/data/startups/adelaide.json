@@ -14,7 +14,8 @@
     "logoUrl": "/logos/adl-fleet-space.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Ffleetspace.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Series A"
   },
   {
     "id": "adl-myriota",
@@ -31,7 +32,8 @@
     "logoUrl": "/logos/adl-myriota.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fmyriota.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Bootstrapped"
   },
   {
     "id": "adl-fivecast",
@@ -48,7 +50,8 @@
     "logoUrl": "/logos/adl-fivecast.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Ffivecast.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Series B"
   },
   {
     "id": "adl-luminary-ai",
@@ -62,7 +65,8 @@
     "address": "Frome Rd, Adelaide SA 5000",
     "blurb": "AI decisioning software for enterprise.",
     "website": "https://www.complexica.com",
-    "logoUrl": "/logos/adl-luminary-ai.png"
+    "logoUrl": "/logos/adl-luminary-ai.png",
+    "fundingStage": "Series A"
   },
   {
     "id": "adl-aurizn",
@@ -79,7 +83,8 @@
     "logoUrl": "/logos/adl-aurizn.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Faurizn.co?w=1200"
-    ]
+    ],
+    "fundingStage": "Pre-seed"
   },
   {
     "id": "adl-neoen-ops",
@@ -93,7 +98,8 @@
     "address": "Frome Rd, Adelaide SA 5000",
     "blurb": "Renewable energy developer and operator.",
     "website": "https://www.neoen.com",
-    "logoUrl": "/logos/adl-neoen-ops.png"
+    "logoUrl": "/logos/adl-neoen-ops.png",
+    "fundingStage": "Public"
   },
   {
     "id": "adl-space-machine-company",
@@ -107,7 +113,8 @@
     "address": "Frome Rd, Adelaide SA 5000",
     "blurb": "Small satellite missions and space systems.",
     "website": "https://www.inovor.com.au",
-    "logoUrl": "/logos/adl-space-machine-company.png"
+    "logoUrl": "/logos/adl-space-machine-company.png",
+    "fundingStage": "Seed"
   },
   {
     "id": "adl-robotics-vision-lab",
@@ -121,7 +128,8 @@
     "address": "Frome Rd, Adelaide SA 5000",
     "blurb": "VFX and creative technology studio.",
     "website": "https://www.rsp.com.au",
-    "logoUrl": "/logos/adl-robotics-vision-lab.png"
+    "logoUrl": "/logos/adl-robotics-vision-lab.png",
+    "fundingStage": "Series A"
   },
   {
     "id": "adl-lbt-innovations",
@@ -136,7 +144,8 @@
     "logoUrl": "/logos/adl-lbt-innovations.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.lbtinnovations.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Pre-seed"
   },
   {
     "id": "adl-simpatico",
@@ -148,7 +157,8 @@
     "address": "Adelaide CBD SA (approximate HQ area)",
     "blurb": "Orbital and suborbital launch services.",
     "website": "https://southernlaunch.space",
-    "logoUrl": "/logos/adl-simpatico.png"
+    "logoUrl": "/logos/adl-simpatico.png",
+    "fundingStage": "Series B"
   },
   {
     "id": "adl-hydroflow",
@@ -160,7 +170,8 @@
     "address": "Adelaide CBD SA (approximate HQ area)",
     "blurb": "Metal detection technology (Adelaide).",
     "website": "https://www.minelab.com",
-    "logoUrl": "/logos/adl-hydroflow.png"
+    "logoUrl": "/logos/adl-hydroflow.png",
+    "fundingStage": "Public"
   },
   {
     "id": "adl-beach-energy-digital",
@@ -172,7 +183,8 @@
     "address": "Adelaide CBD SA (approximate HQ area)",
     "blurb": "Oil and gas producer with digital operations.",
     "website": "https://www.beachenergy.com.au",
-    "logoUrl": "/logos/adl-beach-energy-digital.png"
+    "logoUrl": "/logos/adl-beach-energy-digital.png",
+    "fundingStage": "Seed"
   },
   {
     "id": "adl-santafe-medtech",
@@ -184,7 +196,8 @@
     "address": "Adelaide CBD SA (approximate HQ area)",
     "blurb": "Microbiology diagnostics automation.",
     "website": "https://www.lbtinnovations.com",
-    "logoUrl": "/logos/adl-santafe-medtech.png"
+    "logoUrl": "/logos/adl-santafe-medtech.png",
+    "fundingStage": "Seed"
   },
   {
     "id": "adl-agriwebb-adl",
@@ -196,7 +209,8 @@
     "address": "Adelaide CBD SA (approximate HQ area)",
     "blurb": "AgriWebb (Adelaide office) is a agtech company in Australia’s startup ecosystem.",
     "website": "https://www.agriwebb.com",
-    "logoUrl": "/logos/adl-agriwebb-adl.png"
+    "logoUrl": "/logos/adl-agriwebb-adl.png",
+    "fundingStage": "Pre-seed"
   },
   {
     "id": "adl-swipejobs-sa",
@@ -208,7 +222,8 @@
     "address": "Adelaide CBD SA (approximate HQ area)",
     "blurb": "On-demand staffing marketplace.",
     "website": "https://swipejobs.com",
-    "logoUrl": "/logos/adl-swipejobs-sa.png"
+    "logoUrl": "/logos/adl-swipejobs-sa.png",
+    "fundingStage": "Pre-seed"
   },
   {
     "id": "adl-edtech-coach",
@@ -220,7 +235,8 @@
     "address": "Adelaide CBD SA (approximate HQ area)",
     "blurb": "Industrial automation and robotics.",
     "website": "https://www.sageautomation.com",
-    "logoUrl": "/logos/adl-edtech-coach.png"
+    "logoUrl": "/logos/adl-edtech-coach.png",
+    "fundingStage": "Public"
   },
   {
     "id": "adl-logistics-lab",
@@ -232,7 +248,8 @@
     "address": "Adelaide CBD SA (approximate HQ area)",
     "blurb": "Communications and metal detection technology.",
     "website": "https://codan.com.au",
-    "logoUrl": "/logos/adl-logistics-lab.png"
+    "logoUrl": "/logos/adl-logistics-lab.png",
+    "fundingStage": "Series D+"
   },
   {
     "id": "adl-cyber-south",
@@ -244,7 +261,8 @@
     "address": "Adelaide CBD SA (approximate HQ area)",
     "blurb": "Open-source intelligence software.",
     "website": "https://www.fivecast.com",
-    "logoUrl": "/logos/adl-cyber-south.png"
+    "logoUrl": "/logos/adl-cyber-south.png",
+    "fundingStage": "Seed"
   },
   {
     "id": "adl-healthcare-marketplace",
@@ -256,7 +274,8 @@
     "address": "Adelaide CBD SA (approximate HQ area)",
     "blurb": "Allied health practice management software.",
     "website": "https://www.splose.com",
-    "logoUrl": "/logos/adl-healthcare-marketplace.png"
+    "logoUrl": "/logos/adl-healthcare-marketplace.png",
+    "fundingStage": "Pre-seed"
   },
   {
     "id": "adl-proptech-sa",
@@ -268,7 +287,8 @@
     "address": "Adelaide CBD SA (approximate HQ area)",
     "blurb": "Property marketplace technology (REA Group).",
     "website": "https://www.realestate.com.au",
-    "logoUrl": "/logos/adl-proptech-sa.png"
+    "logoUrl": "/logos/adl-proptech-sa.png",
+    "fundingStage": "Series C"
   },
   {
     "id": "adl-construction-saas",
@@ -280,7 +300,8 @@
     "address": "Adelaide CBD SA (approximate HQ area)",
     "blurb": "Biologics CDMO based in Adelaide.",
     "website": "https://www.biocina.com",
-    "logoUrl": "/logos/adl-construction-saas.png"
+    "logoUrl": "/logos/adl-construction-saas.png",
+    "fundingStage": "Seed"
   },
   {
     "id": "adl-creator-tools",
@@ -292,7 +313,8 @@
     "address": "Adelaide CBD SA (approximate HQ area)",
     "blurb": "Satellite IoT connectivity.",
     "website": "https://www.myriota.com",
-    "logoUrl": "/logos/adl-creator-tools.png"
+    "logoUrl": "/logos/adl-creator-tools.png",
+    "fundingStage": "Series C"
   },
   {
     "id": "adl-fintech-sa",
@@ -304,7 +326,8 @@
     "address": "Adelaide CBD SA (approximate HQ area)",
     "blurb": "Small business lending (AU).",
     "website": "https://www.prospa.com",
-    "logoUrl": "/logos/adl-fintech-sa.png"
+    "logoUrl": "/logos/adl-fintech-sa.png",
+    "fundingStage": "Series C"
   },
   {
     "id": "adl-insurtech",
@@ -316,7 +339,8 @@
     "address": "Adelaide CBD SA (approximate HQ area)",
     "blurb": "Cover Genius (Adelaide office) is a insurtech company in Australia’s startup ecosystem.",
     "website": "https://covergenius.com",
-    "logoUrl": "/logos/adl-insurtech.png"
+    "logoUrl": "/logos/adl-insurtech.png",
+    "fundingStage": "Seed"
   },
   {
     "id": "adl-tourism-tech",
@@ -328,7 +352,8 @@
     "address": "Adelaide CBD SA (approximate HQ area)",
     "blurb": "Tours and attractions marketplace.",
     "website": "https://www.experienceoz.com.au",
-    "logoUrl": "/logos/adl-tourism-tech.png"
+    "logoUrl": "/logos/adl-tourism-tech.png",
+    "fundingStage": "Growth"
   },
   {
     "id": "adl-retail-ops",
@@ -340,7 +365,8 @@
     "address": "Adelaide CBD SA (approximate HQ area)",
     "blurb": "Recycling technology operations.",
     "website": "https://www.aprplastics.com.au",
-    "logoUrl": "/logos/adl-retail-ops.png"
+    "logoUrl": "/logos/adl-retail-ops.png",
+    "fundingStage": "Series B"
   },
   {
     "id": "adl-devtools",
@@ -352,7 +378,8 @@
     "address": "Adelaide CBD SA (approximate HQ area)",
     "blurb": "Spaceflight operations software.",
     "website": "https://www.saberastro.com",
-    "logoUrl": "/logos/adl-devtools.png"
+    "logoUrl": "/logos/adl-devtools.png",
+    "fundingStage": "Public"
   },
   {
     "id": "adl-cloud-services",
@@ -364,7 +391,8 @@
     "address": "Adelaide CBD SA (approximate HQ area)",
     "blurb": "Vault Cloud (Adelaide office) is a cloud company in Australia’s startup ecosystem.",
     "website": "https://vaultcloud.com.au",
-    "logoUrl": "/logos/adl-cloud-services.png"
+    "logoUrl": "/logos/adl-cloud-services.png",
+    "fundingStage": "Series A"
   },
   {
     "id": "adl-rd-lab",
@@ -376,7 +404,8 @@
     "address": "Adelaide CBD SA (approximate HQ area)",
     "blurb": "Electric propulsion for satellites.",
     "website": "https://neumannspace.com",
-    "logoUrl": "/logos/adl-rd-lab.png"
+    "logoUrl": "/logos/adl-rd-lab.png",
+    "fundingStage": "Public"
   },
   {
     "id": "adl-battery-tech",
@@ -388,7 +417,8 @@
     "address": "Adelaide CBD SA (approximate HQ area)",
     "blurb": "Zinc-bromine flow battery technology.",
     "website": "https://redflow.com",
-    "logoUrl": "/logos/adl-battery-tech.png"
+    "logoUrl": "/logos/adl-battery-tech.png",
+    "fundingStage": "Public"
   },
   {
     "id": "adl-climate-saas",
@@ -400,7 +430,8 @@
     "address": "Adelaide CBD SA (approximate HQ area)",
     "blurb": "Carbon and climate project services.",
     "website": "https://www.carbonpositiveaustralia.org.au",
-    "logoUrl": "/logos/adl-climate-saas.png"
+    "logoUrl": "/logos/adl-climate-saas.png",
+    "fundingStage": "Seed"
   },
   {
     "id": "adl-iot-sensors",
@@ -412,7 +443,8 @@
     "address": "Adelaide CBD SA (approximate HQ area)",
     "blurb": "Direct-to-orbit IoT connectivity.",
     "website": "https://myriota.com",
-    "logoUrl": "/logos/adl-iot-sensors.png"
+    "logoUrl": "/logos/adl-iot-sensors.png",
+    "fundingStage": "Public"
   },
   {
     "id": "adl-legaltech",
@@ -424,7 +456,8 @@
     "address": "Adelaide CBD SA (approximate HQ area)",
     "blurb": "Legal matter management marketplace.",
     "website": "https://www.lawcadia.com",
-    "logoUrl": "/logos/adl-legaltech.png"
+    "logoUrl": "/logos/adl-legaltech.png",
+    "fundingStage": "Series D+"
   },
   {
     "id": "adl-data-platform",
@@ -436,7 +469,8 @@
     "address": "Adelaide CBD SA (approximate HQ area)",
     "blurb": "Business data and marketing services.",
     "website": "https://www.sensis.com.au",
-    "logoUrl": "/logos/adl-data-platform.png"
+    "logoUrl": "/logos/adl-data-platform.png",
+    "fundingStage": "Series C"
   },
   {
     "id": "adl-community",
@@ -448,7 +482,8 @@
     "address": "Adelaide CBD SA (approximate HQ area)",
     "blurb": "Innovation precinct community platform.",
     "website": "https://lotfourteen.com.au",
-    "logoUrl": "/logos/adl-community.png"
+    "logoUrl": "/logos/adl-community.png",
+    "fundingStage": "Seed"
   },
   {
     "id": "adl-industry-tech",
@@ -460,7 +495,8 @@
     "address": "Adelaide CBD SA (approximate HQ area)",
     "blurb": "Industrial minerals and materials tech.",
     "website": "https://www.andromet.com.au",
-    "logoUrl": "/logos/adl-industry-tech.png"
+    "logoUrl": "/logos/adl-industry-tech.png",
+    "fundingStage": "Public"
   },
   {
     "id": "adl-education-tools",
@@ -472,7 +508,8 @@
     "address": "Adelaide CBD SA (approximate HQ area)",
     "blurb": "Higher-ed digital learning presence.",
     "website": "https://www.cqu.edu.au",
-    "logoUrl": "/logos/adl-education-tools.png"
+    "logoUrl": "/logos/adl-education-tools.png",
+    "fundingStage": "Series A"
   },
   {
     "id": "adl-marketing-platform",
@@ -484,7 +521,8 @@
     "address": "Adelaide CBD SA (approximate HQ area)",
     "blurb": "Location intelligence for venues and brands.",
     "website": "https://www.localmeasure.com",
-    "logoUrl": "/logos/adl-marketing-platform.png"
+    "logoUrl": "/logos/adl-marketing-platform.png",
+    "fundingStage": "Public"
   },
   {
     "id": "adl-enterprise-saas",
@@ -496,7 +534,8 @@
     "address": "Adelaide CBD SA (approximate HQ area)",
     "blurb": "Enterprise SaaS (AU).",
     "website": "https://www.technologyonecorp.com",
-    "logoUrl": "/logos/adl-enterprise-saas.png"
+    "logoUrl": "/logos/adl-enterprise-saas.png",
+    "fundingStage": "Series B"
   },
   {
     "id": "adl-mobility",
@@ -508,7 +547,8 @@
     "address": "Adelaide CBD SA (approximate HQ area)",
     "blurb": "Automation systems for industry.",
     "website": "https://www.sageautomation.com",
-    "logoUrl": "/logos/adl-mobility.png"
+    "logoUrl": "/logos/adl-mobility.png",
+    "fundingStage": "Series A"
   },
   {
     "id": "adl-ecommerce-tools",
@@ -520,6 +560,7 @@
     "address": "Adelaide CBD SA (approximate HQ area)",
     "blurb": "Cloud ERP and ecommerce operations.",
     "website": "https://www.netsuite.com",
-    "logoUrl": "/logos/adl-ecommerce-tools.png"
+    "logoUrl": "/logos/adl-ecommerce-tools.png",
+    "fundingStage": "Series C"
   }
 ]

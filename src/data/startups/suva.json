@@ -1,0 +1,328 @@
+[
+  {
+    "id": "suv-fiji-innovation",
+    "name": "Fiji Innovation Hub",
+    "city": "suva",
+    "lat": -18.141650000000002,
+    "lng": 178.4418,
+    "website": "https://www.rbf.gov.fj",
+    "sector": "Hub",
+    "address": "Reserve Bank Building precinct, Suva",
+    "blurb": "Fintech and founder programmes backed by RBF, UNCDF, and Creative HQ.",
+    "buildingId": "suva-innovation-hub",
+    "buildingName": "Fiji Innovation Hub",
+    "logoUrl": "https://logo.clearbit.com/rbf.gov.fj",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.rbf.gov.fj?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "suv-itgalax",
+    "name": "ITGalax",
+    "city": "suva",
+    "lat": -18.1416,
+    "lng": 178.4418,
+    "website": "https://www.itgalax.com",
+    "sector": "FinTech",
+    "address": "Reserve Bank Building precinct, Suva",
+    "blurb": "Suva fintech recognised in Pacific FinTech Challenge programmes.",
+    "buildingId": "suva-innovation-hub",
+    "buildingName": "Fiji Innovation Hub",
+    "logoUrl": "https://logo.clearbit.com/itgalax.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.itgalax.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "suv-datec",
+    "name": "Datec Fiji",
+    "city": "suva",
+    "lat": -18.1432,
+    "lng": 178.4248,
+    "website": "https://www.datec.com.fj",
+    "sector": "Enterprise",
+    "address": "68 Gordon St, Suva",
+    "blurb": "Long-running Pacific technology integrator headquartered in Suva.",
+    "logoUrl": "https://logo.clearbit.com/datec.com.fj",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.datec.com.fj?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "suv-vodafone",
+    "name": "Vodafone Fiji",
+    "city": "suva",
+    "lat": -18.1168,
+    "lng": 178.4506,
+    "website": "https://www.vodafone.com.fj",
+    "sector": "Telecom",
+    "address": "168 Princes Rd, Tamavua, Suva",
+    "blurb": "Mobile network and M-PAiSA operator.",
+    "logoUrl": "https://logo.clearbit.com/vodafone.com.fj",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.vodafone.com.fj?w=1200"
+    ],
+    "fundingStage": "Series D+"
+  },
+  {
+    "id": "suv-digicel",
+    "name": "Digicel Fiji",
+    "city": "suva",
+    "lat": -18.1412,
+    "lng": 178.4412,
+    "website": "https://www.digicelgroup.com",
+    "sector": "Telecom",
+    "address": "Suva CBD",
+    "blurb": "Mobile and digital services across Fiji.",
+    "logoUrl": "https://logo.clearbit.com/digicelgroup.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.digicelgroup.com?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "suv-telecom-fiji",
+    "name": "Telecom Fiji",
+    "city": "suva",
+    "lat": -18.1406,
+    "lng": 178.4256,
+    "website": "https://www.tfl.com.fj",
+    "sector": "Telecom",
+    "address": "Edward St, Suva",
+    "blurb": "Fixed and broadband operator in the ATH group.",
+    "logoUrl": "https://logo.clearbit.com/tfl.com.fj",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.tfl.com.fj?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "suv-ath",
+    "name": "Amalgamated Telecom Holdings",
+    "city": "suva",
+    "lat": -18.1368,
+    "lng": 178.4242,
+    "website": "https://www.ath.com.fj",
+    "sector": "Telecom",
+    "address": "Harbour Front, Suva",
+    "blurb": "Fiji’s listed telecom holding company.",
+    "logoUrl": "https://logo.clearbit.com/ath.com.fj",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ath.com.fj?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "suv-hfc",
+    "name": "HFC Bank",
+    "city": "suva",
+    "lat": -18.1364,
+    "lng": 178.4248,
+    "website": "https://www.hfc.com.fj",
+    "sector": "FinTech",
+    "address": "371 Victoria Parade, Suva",
+    "blurb": "Local bank partnering with the Fiji Innovation Hub.",
+    "logoUrl": "https://logo.clearbit.com/hfc.com.fj",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.hfc.com.fj?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "suv-kontiki",
+    "name": "Kontiki Finance",
+    "city": "suva",
+    "lat": -18.1408,
+    "lng": 178.4252,
+    "website": "https://www.kontikifinance.com",
+    "sector": "FinTech",
+    "address": "Suva CBD",
+    "blurb": "Consumer and SME finance with digital origination.",
+    "logoUrl": "https://logo.clearbit.com/kontikifinance.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.kontikifinance.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "suv-bsp",
+    "name": "BSP Fiji",
+    "city": "suva",
+    "lat": -18.141,
+    "lng": 178.4246,
+    "website": "https://www.bsp.com.fj",
+    "sector": "FinTech",
+    "address": "Suva CBD",
+    "blurb": "Regional bank digital channels.",
+    "logoUrl": "https://logo.clearbit.com/bsp.com.fj",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.bsp.com.fj?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "suv-usp",
+    "name": "USP Innovation",
+    "city": "suva",
+    "lat": -18.1492,
+    "lng": 178.4496,
+    "website": "https://www.usp.ac.fj",
+    "sector": "Hub",
+    "address": "Laucala Campus, Suva",
+    "blurb": "University of the South Pacific ICT and entrepreneurship programmes.",
+    "logoUrl": "https://logo.clearbit.com/usp.ac.fj",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.usp.ac.fj?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "suv-fnu",
+    "name": "FNU ICT",
+    "city": "suva",
+    "lat": -18.1418,
+    "lng": 178.4508,
+    "website": "https://www.fnu.ac.fj",
+    "sector": "EdTech",
+    "address": "Derrick Campus, Samabula, Suva",
+    "blurb": "Applied ICT training and student ventures.",
+    "logoUrl": "https://logo.clearbit.com/fnu.ac.fj",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.fnu.ac.fj?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "suv-connect",
+    "name": "Connect Fiji",
+    "city": "suva",
+    "lat": -18.1424,
+    "lng": 178.4262,
+    "website": "https://www.connect.com.fj",
+    "sector": "Telecom",
+    "address": "Suva",
+    "blurb": "Internet service provider.",
+    "logoUrl": "https://logo.clearbit.com/connect.com.fj",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.connect.com.fj?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "suv-fintel",
+    "name": "FINTEL",
+    "city": "suva",
+    "lat": -18.1358,
+    "lng": 178.4238,
+    "website": "https://www.fintel.com.fj",
+    "sector": "Telecom",
+    "address": "Suva",
+    "blurb": "International connectivity operator.",
+    "logoUrl": "https://logo.clearbit.com/fintel.com.fj",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.fintel.com.fj?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "suv-merchant-finance",
+    "name": "Merchant Finance",
+    "city": "suva",
+    "lat": -18.1404,
+    "lng": 178.4258,
+    "website": "https://www.mfl.com.fj",
+    "sector": "FinTech",
+    "address": "Suva CBD",
+    "blurb": "Asset finance with digital applications.",
+    "logoUrl": "https://logo.clearbit.com/mfl.com.fj",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.mfl.com.fj?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "suv-cybase",
+    "name": "Cybase",
+    "city": "suva",
+    "lat": -18.1422,
+    "lng": 178.4254,
+    "website": "https://www.cybase.com.fj",
+    "sector": "SaaS",
+    "address": "Suva CBD",
+    "blurb": "Local software and systems integrator.",
+    "logoUrl": "https://logo.clearbit.com/cybase.com.fj",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.cybase.com.fj?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "suv-south-pacific-computers",
+    "name": "South Pacific Computers",
+    "city": "suva",
+    "lat": -18.1436,
+    "lng": 178.4268,
+    "website": "https://www.spc.com.fj",
+    "sector": "Enterprise",
+    "address": "Suva",
+    "blurb": "Hardware and enterprise IT services.",
+    "logoUrl": "https://logo.clearbit.com/spc.com.fj",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.spc.com.fj?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "suv-communications-fiji",
+    "name": "Communications Fiji",
+    "city": "suva",
+    "lat": -18.1442,
+    "lng": 178.4272,
+    "website": "https://www.cfi.com.fj",
+    "sector": "Media",
+    "address": "Suva",
+    "blurb": "Broadcast and digital media group.",
+    "logoUrl": "https://logo.clearbit.com/cfi.com.fj",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.cfi.com.fj?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "suv-fijivillage",
+    "name": "Fijivillage",
+    "city": "suva",
+    "lat": -18.1414,
+    "lng": 178.4264,
+    "website": "https://www.fijivillage.com",
+    "sector": "Media",
+    "address": "Suva",
+    "blurb": "Digital news platform.",
+    "logoUrl": "https://logo.clearbit.com/fijivillage.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.fijivillage.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "suv-un-cdf",
+    "name": "UNCDF Pacific",
+    "city": "suva",
+    "lat": -18.14155,
+    "lng": 178.4418,
+    "website": "https://www.uncdf.org",
+    "sector": "FinTech",
+    "address": "Reserve Bank Building precinct, Suva",
+    "blurb": "Pacific Digital Economy Programme team supporting local fintechs.",
+    "buildingId": "suva-innovation-hub",
+    "buildingName": "Fiji Innovation Hub",
+    "logoUrl": "https://logo.clearbit.com/uncdf.org",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.uncdf.org?w=1200"
+    ],
+    "fundingStage": "Series A"
+  }
+]

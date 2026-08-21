@@ -1,0 +1,712 @@
+[
+  {
+    "id": "jkt-gojek",
+    "name": "Gojek",
+    "city": "jakarta",
+    "lat": -6.2441,
+    "lng": 106.7996,
+    "website": "https://www.gojek.com",
+    "sector": "Superapp",
+    "address": "Pasaraya Blok M, Jakarta Selatan",
+    "blurb": "On-demand mobility, food, and payments superapp founded in Jakarta.",
+    "logoUrl": "https://logo.clearbit.com/gojek.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.gojek.com?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "jkt-goto",
+    "name": "GoTo",
+    "city": "jakarta",
+    "lat": -6.2250499999999995,
+    "lng": 106.8089,
+    "website": "https://www.gotocompany.com",
+    "sector": "Internet",
+    "address": "SCBD, Jl. Jend. Sudirman, Jakarta Selatan",
+    "blurb": "Holding company for Gojek and Tokopedia, based in Jakarta.",
+    "buildingId": "jakarta-scbd",
+    "buildingName": "SCBD Campus",
+    "logoUrl": "https://logo.clearbit.com/gotocompany.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.gotocompany.com?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "jkt-tokopedia",
+    "name": "Tokopedia",
+    "city": "jakarta",
+    "lat": -6.2244,
+    "lng": 106.8268,
+    "website": "https://www.tokopedia.com",
+    "sector": "Marketplace",
+    "address": "Ciputra World 2, Jl. Prof. Dr. Satrio, Jakarta",
+    "blurb": "Indonesia’s homegrown e-commerce marketplace.",
+    "logoUrl": "https://logo.clearbit.com/tokopedia.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.tokopedia.com?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "jkt-traveloka",
+    "name": "Traveloka",
+    "city": "jakarta",
+    "lat": -6.2214,
+    "lng": 106.8312,
+    "website": "https://www.traveloka.com",
+    "sector": "Travel",
+    "address": "Lippo Kuningan, Jl. HR Rasuna Said, Jakarta",
+    "blurb": "Travel and lifestyle superapp headquartered in Jakarta.",
+    "logoUrl": "https://logo.clearbit.com/traveloka.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.traveloka.com?w=1200"
+    ],
+    "fundingStage": "Series D+"
+  },
+  {
+    "id": "jkt-bukalapak",
+    "name": "Bukalapak",
+    "city": "jakarta",
+    "lat": -6.2088,
+    "lng": 106.821,
+    "website": "https://www.bukalapak.com",
+    "sector": "Marketplace",
+    "address": "MSIG Tower, Jl. Sudirman, Jakarta",
+    "blurb": "Public e-commerce and mitra platform.",
+    "logoUrl": "https://logo.clearbit.com/bukalapak.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.bukalapak.com?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "jkt-blibli",
+    "name": "Blibli",
+    "city": "jakarta",
+    "lat": -6.2356,
+    "lng": 106.8324,
+    "website": "https://www.blibli.com",
+    "sector": "Marketplace",
+    "address": "GKD, Jl. Gatot Subroto, Jakarta",
+    "blurb": "Omnichannel marketplace from Djarum’s tech group.",
+    "logoUrl": "https://logo.clearbit.com/blibli.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.blibli.com?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "jkt-ovo",
+    "name": "OVO",
+    "city": "jakarta",
+    "lat": -6.1886,
+    "lng": 106.8228,
+    "website": "https://www.ovo.id",
+    "sector": "FinTech",
+    "address": "Lippo Thamrin, Jakarta Pusat",
+    "blurb": "Digital payments and loyalty wallet.",
+    "logoUrl": "https://logo.clearbit.com/ovo.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ovo.id?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "jkt-dana",
+    "name": "DANA",
+    "city": "jakarta",
+    "lat": -6.225,
+    "lng": 106.8089,
+    "website": "https://www.dana.id",
+    "sector": "FinTech",
+    "address": "SCBD, Jl. Jend. Sudirman, Jakarta Selatan",
+    "blurb": "Digital wallet used across Indonesian merchants.",
+    "buildingId": "jakarta-scbd",
+    "buildingName": "SCBD Campus",
+    "logoUrl": "https://logo.clearbit.com/dana.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.dana.id?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "jkt-gopay",
+    "name": "GoPay",
+    "city": "jakarta",
+    "lat": -6.22495,
+    "lng": 106.8089,
+    "website": "https://www.gopay.co.id",
+    "sector": "FinTech",
+    "address": "SCBD, Jl. Jend. Sudirman, Jakarta Selatan",
+    "blurb": "Payments arm of the GoTo group.",
+    "buildingId": "jakarta-scbd",
+    "buildingName": "SCBD Campus",
+    "logoUrl": "https://logo.clearbit.com/gopay.co.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.gopay.co.id?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "jkt-xendit",
+    "name": "Xendit",
+    "city": "jakarta",
+    "lat": -6.2249,
+    "lng": 106.8089,
+    "website": "https://www.xendit.co",
+    "sector": "FinTech",
+    "address": "SCBD, Jl. Jend. Sudirman, Jakarta Selatan",
+    "blurb": "Payments API and invoice platform founded in Jakarta.",
+    "buildingId": "jakarta-scbd",
+    "buildingName": "SCBD Campus",
+    "logoUrl": "https://logo.clearbit.com/xendit.co",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.xendit.co?w=1200"
+    ],
+    "fundingStage": "Series D+"
+  },
+  {
+    "id": "jkt-midtrans",
+    "name": "Midtrans",
+    "city": "jakarta",
+    "lat": -6.244,
+    "lng": 106.7998,
+    "website": "https://midtrans.com",
+    "sector": "FinTech",
+    "address": "GoTo campus, Jakarta Selatan",
+    "blurb": "Payment gateway now part of GoTo.",
+    "logoUrl": "https://logo.clearbit.com/midtrans.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fmidtrans.com?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "jkt-ruangguru",
+    "name": "Ruangguru",
+    "city": "jakarta",
+    "lat": -6.2368,
+    "lng": 106.8504,
+    "website": "https://www.ruangguru.com",
+    "sector": "EdTech",
+    "address": "Jl. Tebet Barat Dalam, Jakarta Selatan",
+    "blurb": "Education technology platform for K-12 and upskilling.",
+    "logoUrl": "https://logo.clearbit.com/ruangguru.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ruangguru.com?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "jkt-halodoc",
+    "name": "Halodoc",
+    "city": "jakarta",
+    "lat": -6.225099999999999,
+    "lng": 106.80895,
+    "website": "https://www.halodoc.com",
+    "sector": "Health",
+    "address": "SCBD, Jl. Jend. Sudirman, Jakarta Selatan",
+    "blurb": "Telemedicine, pharmacy, and lab marketplace.",
+    "buildingId": "jakarta-scbd",
+    "buildingName": "SCBD Campus",
+    "logoUrl": "https://logo.clearbit.com/halodoc.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.halodoc.com?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "jkt-alodokter",
+    "name": "Alodokter",
+    "city": "jakarta",
+    "lat": -6.1868,
+    "lng": 106.8216,
+    "website": "https://www.alodokter.com",
+    "sector": "Health",
+    "address": "Jl. KH Wahid Hasyim, Jakarta Pusat",
+    "blurb": "Health content and teleconsult platform.",
+    "logoUrl": "https://logo.clearbit.com/alodokter.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.alodokter.com?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "jkt-ajaib",
+    "name": "Ajaib",
+    "city": "jakarta",
+    "lat": -6.2250499999999995,
+    "lng": 106.80895,
+    "website": "https://www.ajaib.co.id",
+    "sector": "FinTech",
+    "address": "SCBD, Jl. Jend. Sudirman, Jakarta Selatan",
+    "blurb": "Retail stock and mutual-fund brokerage app.",
+    "buildingId": "jakarta-scbd",
+    "buildingName": "SCBD Campus",
+    "logoUrl": "https://logo.clearbit.com/ajaib.co.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ajaib.co.id?w=1200"
+    ],
+    "fundingStage": "Series D+"
+  },
+  {
+    "id": "jkt-bibit",
+    "name": "Bibit",
+    "city": "jakarta",
+    "lat": -6.225,
+    "lng": 106.80895,
+    "website": "https://bibit.id",
+    "sector": "FinTech",
+    "address": "SCBD, Jl. Jend. Sudirman, Jakarta Selatan",
+    "blurb": "Robo-advisory mutual-fund platform.",
+    "buildingId": "jakarta-scbd",
+    "buildingName": "SCBD Campus",
+    "logoUrl": "https://logo.clearbit.com/bibit.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fbibit.id?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "jkt-stockbit",
+    "name": "Stockbit",
+    "city": "jakarta",
+    "lat": -6.22495,
+    "lng": 106.80895,
+    "website": "https://stockbit.com",
+    "sector": "FinTech",
+    "address": "SCBD, Jl. Jend. Sudirman, Jakarta Selatan",
+    "blurb": "Stock community and brokerage, parent of Bibit.",
+    "buildingId": "jakarta-scbd",
+    "buildingName": "SCBD Campus",
+    "logoUrl": "https://logo.clearbit.com/stockbit.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fstockbit.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "jkt-kredivo",
+    "name": "Kredivo",
+    "city": "jakarta",
+    "lat": -6.2249,
+    "lng": 106.80895,
+    "website": "https://www.kredivo.com",
+    "sector": "FinTech",
+    "address": "SCBD, Jl. Jend. Sudirman, Jakarta Selatan",
+    "blurb": "Pay-later and digital credit platform.",
+    "buildingId": "jakarta-scbd",
+    "buildingName": "SCBD Campus",
+    "logoUrl": "https://logo.clearbit.com/kredivo.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.kredivo.com?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "jkt-akulaku",
+    "name": "Akulaku",
+    "city": "jakarta",
+    "lat": -6.2294,
+    "lng": 106.8296,
+    "website": "https://www.akulaku.com",
+    "sector": "FinTech",
+    "address": "Kuningan, Jakarta Selatan",
+    "blurb": "Digital banking and consumer credit across ASEAN.",
+    "logoUrl": "https://logo.clearbit.com/akulaku.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.akulaku.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "jkt-mekari",
+    "name": "Mekari",
+    "city": "jakarta",
+    "lat": -6.2896,
+    "lng": 106.8038,
+    "website": "https://mekari.com",
+    "sector": "SaaS",
+    "address": "South Quarter, Cilandak, Jakarta",
+    "blurb": "Cloud HR, tax, and accounting suite for Indonesian companies.",
+    "logoUrl": "https://logo.clearbit.com/mekari.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fmekari.com?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "jkt-jurnal",
+    "name": "Jurnal by Mekari",
+    "city": "jakarta",
+    "lat": -6.2898,
+    "lng": 106.804,
+    "website": "https://www.jurnal.id",
+    "sector": "SaaS",
+    "address": "South Quarter, Cilandak, Jakarta",
+    "blurb": "Online accounting software widely used by SMEs.",
+    "logoUrl": "https://logo.clearbit.com/jurnal.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.jurnal.id?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "jkt-paperid",
+    "name": "Paper.id",
+    "city": "jakarta",
+    "lat": -6.225099999999999,
+    "lng": 106.809,
+    "website": "https://www.paper.id",
+    "sector": "SaaS",
+    "address": "SCBD, Jl. Jend. Sudirman, Jakarta Selatan",
+    "blurb": "Invoicing and payables software for SMEs.",
+    "buildingId": "jakarta-scbd",
+    "buildingName": "SCBD Campus",
+    "logoUrl": "https://logo.clearbit.com/paper.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.paper.id?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "jkt-privy",
+    "name": "Privy",
+    "city": "jakarta",
+    "lat": -6.2250499999999995,
+    "lng": 106.809,
+    "website": "https://privy.id",
+    "sector": "SaaS",
+    "address": "SCBD, Jl. Jend. Sudirman, Jakarta Selatan",
+    "blurb": "Digital identity and e-signature platform.",
+    "buildingId": "jakarta-scbd",
+    "buildingName": "SCBD Campus",
+    "logoUrl": "https://logo.clearbit.com/privy.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fprivy.id?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "jkt-efishery",
+    "name": "eFishery Jakarta",
+    "city": "jakarta",
+    "lat": -6.225,
+    "lng": 106.809,
+    "website": "https://efishery.com",
+    "sector": "AgriTech",
+    "address": "SCBD, Jl. Jend. Sudirman, Jakarta Selatan",
+    "blurb": "Jakarta commercial office for the Bandung-founded aquaculture platform.",
+    "buildingId": "jakarta-scbd",
+    "buildingName": "SCBD Campus",
+    "logoUrl": "https://logo.clearbit.com/efishery.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fefishery.com?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "jkt-sayurbox",
+    "name": "Sayurbox",
+    "city": "jakarta",
+    "lat": -6.3012,
+    "lng": 106.8204,
+    "website": "https://www.sayurbox.com",
+    "sector": "AgriTech",
+    "address": "Jl. TB Simatupang, Jakarta Selatan",
+    "blurb": "Farm-to-table grocery marketplace.",
+    "logoUrl": "https://logo.clearbit.com/sayurbox.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.sayurbox.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "jkt-tanihub",
+    "name": "TaniHub",
+    "city": "jakarta",
+    "lat": -6.2988,
+    "lng": 106.8236,
+    "website": "https://tanihub.com",
+    "sector": "AgriTech",
+    "address": "Jl. TB Simatupang, Jakarta Selatan",
+    "blurb": "Agri-commerce and financing for farmers and buyers.",
+    "logoUrl": "https://logo.clearbit.com/tanihub.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Ftanihub.com?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "jkt-shipper",
+    "name": "Shipper",
+    "city": "jakarta",
+    "lat": -6.22495,
+    "lng": 106.809,
+    "website": "https://shipper.id",
+    "sector": "Logistics",
+    "address": "SCBD, Jl. Jend. Sudirman, Jakarta Selatan",
+    "blurb": "Logistics aggregator and fulfilment for e-commerce.",
+    "buildingId": "jakarta-scbd",
+    "buildingName": "SCBD Campus",
+    "logoUrl": "https://logo.clearbit.com/shipper.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fshipper.id?w=1200"
+    ],
+    "fundingStage": "Series D+"
+  },
+  {
+    "id": "jkt-waresix",
+    "name": "Waresix",
+    "city": "jakarta",
+    "lat": -6.2249,
+    "lng": 106.809,
+    "website": "https://www.waresix.com",
+    "sector": "Logistics",
+    "address": "SCBD, Jl. Jend. Sudirman, Jakarta Selatan",
+    "blurb": "B2B trucking and warehouse marketplace.",
+    "buildingId": "jakarta-scbd",
+    "buildingName": "SCBD Campus",
+    "logoUrl": "https://logo.clearbit.com/waresix.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.waresix.com?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "jkt-anteraja",
+    "name": "Anteraja",
+    "city": "jakarta",
+    "lat": -6.2248,
+    "lng": 106.8456,
+    "website": "https://anteraja.id",
+    "sector": "Logistics",
+    "address": "Jl. Raya Casablanca, Jakarta Selatan",
+    "blurb": "Tech-enabled courier network.",
+    "logoUrl": "https://logo.clearbit.com/anteraja.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fanteraja.id?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "jkt-tiket",
+    "name": "tiket.com",
+    "city": "jakarta",
+    "lat": -6.2218,
+    "lng": 106.8322,
+    "website": "https://www.tiket.com",
+    "sector": "Travel",
+    "address": "Cyber 2 Tower, Kuningan, Jakarta",
+    "blurb": "Travel booking platform for flights, hotels, and events.",
+    "logoUrl": "https://logo.clearbit.com/tiket.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.tiket.com?w=1200"
+    ],
+    "fundingStage": "Series D+"
+  },
+  {
+    "id": "jkt-pegipegi",
+    "name": "Pegipegi",
+    "city": "jakarta",
+    "lat": -6.2212,
+    "lng": 106.8328,
+    "website": "https://www.pegipegi.com",
+    "sector": "Travel",
+    "address": "Jl. HR Rasuna Said, Jakarta",
+    "blurb": "Hotels and flights marketplace.",
+    "logoUrl": "https://logo.clearbit.com/pegipegi.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.pegipegi.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "jkt-kopi-kenangan",
+    "name": "Kopi Kenangan",
+    "city": "jakarta",
+    "lat": -6.225099999999999,
+    "lng": 106.80905,
+    "website": "https://kopikenangan.com",
+    "sector": "Consumer",
+    "address": "SCBD, Jl. Jend. Sudirman, Jakarta Selatan",
+    "blurb": "Grab-and-go coffee chain with a strong tech platform.",
+    "buildingId": "jakarta-scbd",
+    "buildingName": "SCBD Campus",
+    "logoUrl": "https://logo.clearbit.com/kopikenangan.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fkopikenangan.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "jkt-sociolla",
+    "name": "Sociolla",
+    "city": "jakarta",
+    "lat": -6.2448,
+    "lng": 106.7836,
+    "website": "https://www.sociolla.com",
+    "sector": "Marketplace",
+    "address": "Gandaria City, Jakarta Selatan",
+    "blurb": "Beauty commerce platform.",
+    "logoUrl": "https://logo.clearbit.com/sociolla.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.sociolla.com?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "jkt-idn",
+    "name": "IDN",
+    "city": "jakarta",
+    "lat": -6.2394,
+    "lng": 106.8322,
+    "website": "https://www.idn.media",
+    "sector": "Media",
+    "address": "Jl. Jend. Gatot Subroto, Jakarta",
+    "blurb": "Youth media and entertainment tech group.",
+    "logoUrl": "https://logo.clearbit.com/idn.media",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.idn.media?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "jkt-pinhome",
+    "name": "Pinhome",
+    "city": "jakarta",
+    "lat": -6.2250499999999995,
+    "lng": 106.80905,
+    "website": "https://www.pinhome.id",
+    "sector": "PropTech",
+    "address": "SCBD, Jl. Jend. Sudirman, Jakarta Selatan",
+    "blurb": "Property transactions and home services app.",
+    "buildingId": "jakarta-scbd",
+    "buildingName": "SCBD Campus",
+    "logoUrl": "https://logo.clearbit.com/pinhome.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.pinhome.id?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "jkt-moladin",
+    "name": "Moladin",
+    "city": "jakarta",
+    "lat": -6.225,
+    "lng": 106.80905,
+    "website": "https://www.moladin.com",
+    "sector": "Marketplace",
+    "address": "SCBD, Jl. Jend. Sudirman, Jakarta Selatan",
+    "blurb": "Used-car marketplace and dealer financing.",
+    "buildingId": "jakarta-scbd",
+    "buildingName": "SCBD Campus",
+    "logoUrl": "https://logo.clearbit.com/moladin.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.moladin.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "jkt-nodeflux",
+    "name": "Nodeflux",
+    "city": "jakarta",
+    "lat": -6.2604,
+    "lng": 106.8148,
+    "website": "https://www.nodeflux.io",
+    "sector": "AI",
+    "address": "Jl. Kemang Raya, Jakarta Selatan",
+    "blurb": "Computer-vision platform for cities and enterprises.",
+    "logoUrl": "https://logo.clearbit.com/nodeflux.io",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.nodeflux.io?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "jkt-kata",
+    "name": "Kata.ai",
+    "city": "jakarta",
+    "lat": -6.2612,
+    "lng": 106.8152,
+    "website": "https://kata.ai",
+    "sector": "AI",
+    "address": "Jl. Kemang Raya, Jakarta Selatan",
+    "blurb": "Conversational AI platform.",
+    "logoUrl": "https://logo.clearbit.com/kata.ai",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fkata.ai?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "jkt-zenius",
+    "name": "Zenius",
+    "city": "jakarta",
+    "lat": -6.2388,
+    "lng": 106.7824,
+    "website": "https://www.zenius.net",
+    "sector": "EdTech",
+    "address": "Jl. Raya Kebayoran Lama, Jakarta",
+    "blurb": "Online learning platform for Indonesian students.",
+    "logoUrl": "https://logo.clearbit.com/zenius.net",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.zenius.net?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "jkt-colearn",
+    "name": "CoLearn",
+    "city": "jakarta",
+    "lat": -6.22495,
+    "lng": 106.80905,
+    "website": "https://www.colearn.id",
+    "sector": "EdTech",
+    "address": "SCBD, Jl. Jend. Sudirman, Jakarta Selatan",
+    "blurb": "AI tutoring for STEM homework.",
+    "buildingId": "jakarta-scbd",
+    "buildingName": "SCBD Campus",
+    "logoUrl": "https://logo.clearbit.com/colearn.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.colearn.id?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "jkt-sirclo",
+    "name": "SIRCLO",
+    "city": "jakarta",
+    "lat": -6.2249,
+    "lng": 106.80905,
+    "website": "https://www.sirclo.com",
+    "sector": "SaaS",
+    "address": "SCBD, Jl. Jend. Sudirman, Jakarta Selatan",
+    "blurb": "E-commerce infrastructure for brands.",
+    "buildingId": "jakarta-scbd",
+    "buildingName": "SCBD Campus",
+    "logoUrl": "https://logo.clearbit.com/sirclo.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.sirclo.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "jkt-qasir",
+    "name": "Qasir",
+    "city": "jakarta",
+    "lat": -6.2268,
+    "lng": 106.8472,
+    "website": "https://www.qasir.id",
+    "sector": "SaaS",
+    "address": "Tebet, Jakarta Selatan",
+    "blurb": "POS app for Indonesian warungs and retailers.",
+    "logoUrl": "https://logo.clearbit.com/qasir.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.qasir.id?w=1200"
+    ],
+    "fundingStage": "Series C"
+  }
+]

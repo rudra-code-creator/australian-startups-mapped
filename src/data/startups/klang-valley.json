@@ -1,0 +1,784 @@
+[
+  {
+    "id": "kv-grab",
+    "name": "Grab Malaysia",
+    "city": "klang-valley",
+    "lat": 3.11075,
+    "lng": 101.6655,
+    "website": "https://www.grab.com",
+    "sector": "Superapp",
+    "address": "The Vertical, Bangsar South, Kuala Lumpur",
+    "blurb": "Malaysia HQ for mobility, deliveries, and financial services.",
+    "buildingId": "kv-bangsar-south",
+    "buildingName": "Bangsar South",
+    "logoUrl": "https://logo.clearbit.com/grab.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.grab.com?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "kv-carsome",
+    "name": "Carsome",
+    "city": "klang-valley",
+    "lat": 2.9212,
+    "lng": 101.6563,
+    "website": "https://www.carsome.my",
+    "sector": "Marketplace",
+    "address": "MRANTI Park, Cyberjaya, Selangor",
+    "blurb": "Used-car marketplace headquartered in the Klang Valley.",
+    "buildingId": "kv-mranti",
+    "buildingName": "MRANTI Park",
+    "logoUrl": "https://logo.clearbit.com/carsome.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.carsome.my?w=1200"
+    ],
+    "fundingStage": "Series D+"
+  },
+  {
+    "id": "kv-tng",
+    "name": "TNG Digital",
+    "city": "klang-valley",
+    "lat": 3.1072,
+    "lng": 101.6064,
+    "website": "https://www.touchngo.com.my",
+    "sector": "FinTech",
+    "address": "Petaling Jaya, Selangor",
+    "blurb": "Touch 'n Go eWallet operator, Malaysia’s largest consumer wallet.",
+    "logoUrl": "https://logo.clearbit.com/touchngo.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.touchngo.com.my?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "kv-boost",
+    "name": "Boost",
+    "city": "klang-valley",
+    "lat": 3.1108499999999997,
+    "lng": 101.6655,
+    "website": "https://www.myboost.com.my",
+    "sector": "FinTech",
+    "address": "The Vertical, Bangsar South, Kuala Lumpur",
+    "blurb": "Axiata e-wallet and merchant payments.",
+    "buildingId": "kv-bangsar-south",
+    "buildingName": "Bangsar South",
+    "logoUrl": "https://logo.clearbit.com/myboost.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.myboost.com.my?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "kv-bigpay",
+    "name": "BigPay",
+    "city": "klang-valley",
+    "lat": 2.7554,
+    "lng": 101.7048,
+    "website": "https://www.bigpayme.com",
+    "sector": "FinTech",
+    "address": "RedQ, KLIA / Kuala Lumpur",
+    "blurb": "AirAsia-group digital payments and card product.",
+    "logoUrl": "https://logo.clearbit.com/bigpayme.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.bigpayme.com?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "kv-airasia",
+    "name": "AirAsia Move",
+    "city": "klang-valley",
+    "lat": 2.7558,
+    "lng": 101.7042,
+    "website": "https://www.airasia.com",
+    "sector": "Travel",
+    "address": "RedQ, Sepang / Kuala Lumpur",
+    "blurb": "Travel superapp and airline digital products.",
+    "logoUrl": "https://logo.clearbit.com/airasia.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.airasia.com?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "kv-teleport",
+    "name": "Teleport",
+    "city": "klang-valley",
+    "lat": 2.7436,
+    "lng": 101.7018,
+    "website": "https://teleport.asia",
+    "sector": "Logistics",
+    "address": "KLIA / Kuala Lumpur",
+    "blurb": "AirAsia cargo and e-commerce logistics.",
+    "logoUrl": "https://logo.clearbit.com/teleport.asia",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fteleport.asia?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "kv-shopee",
+    "name": "Shopee Malaysia",
+    "city": "klang-valley",
+    "lat": 3.1109,
+    "lng": 101.6655,
+    "website": "https://shopee.com.my",
+    "sector": "Marketplace",
+    "address": "The Vertical, Bangsar South, Kuala Lumpur",
+    "blurb": "Regional e-commerce with a large KL product team.",
+    "buildingId": "kv-bangsar-south",
+    "buildingName": "Bangsar South",
+    "logoUrl": "https://logo.clearbit.com/shopee.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fshopee.com.my?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "kv-lazada",
+    "name": "Lazada Malaysia",
+    "city": "klang-valley",
+    "lat": 3.1048,
+    "lng": 101.6422,
+    "website": "https://www.lazada.com.my",
+    "sector": "Marketplace",
+    "address": "Petaling Jaya, Selangor",
+    "blurb": "Marketplace operations for Malaysia.",
+    "logoUrl": "https://logo.clearbit.com/lazada.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.lazada.com.my?w=1200"
+    ],
+    "fundingStage": "Series D+"
+  },
+  {
+    "id": "kv-foodpanda",
+    "name": "foodpanda Malaysia",
+    "city": "klang-valley",
+    "lat": 3.1186,
+    "lng": 101.6378,
+    "website": "https://www.foodpanda.my",
+    "sector": "Logistics",
+    "address": "Petaling Jaya, Selangor",
+    "blurb": "Food delivery network HQ for Malaysia.",
+    "logoUrl": "https://logo.clearbit.com/foodpanda.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.foodpanda.my?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "kv-lalamove",
+    "name": "Lalamove Malaysia",
+    "city": "klang-valley",
+    "lat": 3.0964,
+    "lng": 101.6446,
+    "website": "https://www.lalamove.com",
+    "sector": "Logistics",
+    "address": "Petaling Jaya, Selangor",
+    "blurb": "On-demand delivery and trucking.",
+    "logoUrl": "https://logo.clearbit.com/lalamove.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.lalamove.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "kv-ninjavan",
+    "name": "Ninja Van Malaysia",
+    "city": "klang-valley",
+    "lat": 3.0738,
+    "lng": 101.5184,
+    "website": "https://www.ninjavan.co",
+    "sector": "Logistics",
+    "address": "Shah Alam, Selangor",
+    "blurb": "Last-mile sortation in the Klang Valley industrial belt.",
+    "logoUrl": "https://logo.clearbit.com/ninjavan.co",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ninjavan.co?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "kv-gdex",
+    "name": "GDEX",
+    "city": "klang-valley",
+    "lat": 3.0836,
+    "lng": 101.6112,
+    "website": "https://www.gdexpress.com",
+    "sector": "Logistics",
+    "address": "Petaling Jaya, Selangor",
+    "blurb": "Public logistics group with a strong e-commerce network.",
+    "logoUrl": "https://logo.clearbit.com/gdexpress.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.gdexpress.com?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "kv-ipay88",
+    "name": "iPay88",
+    "city": "klang-valley",
+    "lat": 3.1568,
+    "lng": 101.7122,
+    "website": "https://www.ipay88.com",
+    "sector": "FinTech",
+    "address": "Kuala Lumpur",
+    "blurb": "Malaysian payment gateway used by SMEs and enterprises.",
+    "logoUrl": "https://logo.clearbit.com/ipay88.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ipay88.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "kv-ghl",
+    "name": "GHL Systems",
+    "city": "klang-valley",
+    "lat": 3.139,
+    "lng": 101.6869,
+    "website": "https://www.ghl.com",
+    "sector": "FinTech",
+    "address": "Kuala Lumpur",
+    "blurb": "ASEAN merchant acquiring and payment terminals.",
+    "logoUrl": "https://logo.clearbit.com/ghl.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ghl.com?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "kv-revenue-monster",
+    "name": "Revenue Monster",
+    "city": "klang-valley",
+    "lat": 3.1024,
+    "lng": 101.6288,
+    "website": "https://www.revenuemonster.my",
+    "sector": "FinTech",
+    "address": "Petaling Jaya, Selangor",
+    "blurb": "Omnichannel payments and loyalty software.",
+    "logoUrl": "https://logo.clearbit.com/revenuemonster.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.revenuemonster.my?w=1200"
+    ],
+    "fundingStage": "Series D+"
+  },
+  {
+    "id": "kv-storehub",
+    "name": "StoreHub",
+    "city": "klang-valley",
+    "lat": 3.1142,
+    "lng": 101.6324,
+    "website": "https://www.storehub.com",
+    "sector": "SaaS",
+    "address": "Petaling Jaya, Selangor",
+    "blurb": "Cloud POS and commerce OS for F&B and retail.",
+    "logoUrl": "https://logo.clearbit.com/storehub.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.storehub.com?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "kv-easystore",
+    "name": "EasyStore",
+    "city": "klang-valley",
+    "lat": 3.1194,
+    "lng": 101.6196,
+    "website": "https://easystore.co",
+    "sector": "SaaS",
+    "address": "Petaling Jaya, Selangor",
+    "blurb": "Malaysian e-commerce store builder.",
+    "logoUrl": "https://logo.clearbit.com/easystore.co",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Feasystore.co?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "kv-kakitangan",
+    "name": "Kakitangan.com",
+    "city": "klang-valley",
+    "lat": 3.1486,
+    "lng": 101.6934,
+    "website": "https://www.kakitangan.com",
+    "sector": "SaaS",
+    "address": "Kuala Lumpur",
+    "blurb": "HR and payroll software for Malaysian SMEs.",
+    "logoUrl": "https://logo.clearbit.com/kakitangan.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.kakitangan.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "kv-talenox",
+    "name": "Talenox",
+    "city": "klang-valley",
+    "lat": 3.1512,
+    "lng": 101.7098,
+    "website": "https://www.talenox.com",
+    "sector": "SaaS",
+    "address": "Kuala Lumpur",
+    "blurb": "Cloud payroll used across Malaysia and Singapore.",
+    "logoUrl": "https://logo.clearbit.com/talenox.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.talenox.com?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "kv-dropee",
+    "name": "Dropee",
+    "city": "klang-valley",
+    "lat": 3.1468,
+    "lng": 101.6956,
+    "website": "https://www.dropee.com",
+    "sector": "Marketplace",
+    "address": "Kuala Lumpur",
+    "blurb": "B2B wholesale marketplace for FMCG.",
+    "logoUrl": "https://logo.clearbit.com/dropee.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.dropee.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "kv-naluri",
+    "name": "Naluri",
+    "city": "klang-valley",
+    "lat": 3.1348,
+    "lng": 101.6862,
+    "website": "https://www.naluri.com",
+    "sector": "Health",
+    "address": "Kuala Lumpur",
+    "blurb": "Digital chronic-care and mental-health platform.",
+    "logoUrl": "https://logo.clearbit.com/naluri.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.naluri.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "kv-doctoroncall",
+    "name": "DoctorOnCall",
+    "city": "klang-valley",
+    "lat": 3.1078,
+    "lng": 101.6412,
+    "website": "https://www.doctoroncall.com.my",
+    "sector": "Health",
+    "address": "Petaling Jaya, Selangor",
+    "blurb": "Telehealth marketplace.",
+    "logoUrl": "https://logo.clearbit.com/doctoroncall.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.doctoroncall.com.my?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "kv-bookdoc",
+    "name": "BookDoc",
+    "city": "klang-valley",
+    "lat": 3.1126,
+    "lng": 101.6338,
+    "website": "https://www.bookdoc.com",
+    "sector": "Health",
+    "address": "Petaling Jaya, Selangor",
+    "blurb": "Healthcare booking and wellness app.",
+    "logoUrl": "https://logo.clearbit.com/bookdoc.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.bookdoc.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "kv-iproperty",
+    "name": "PropertyGuru / iProperty",
+    "city": "klang-valley",
+    "lat": 3.1018,
+    "lng": 101.6472,
+    "website": "https://www.iproperty.com.my",
+    "sector": "PropTech",
+    "address": "Petaling Jaya, Selangor",
+    "blurb": "Property portal for Malaysia.",
+    "logoUrl": "https://logo.clearbit.com/iproperty.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.iproperty.com.my?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "kv-mudah",
+    "name": "Mudah.my",
+    "city": "klang-valley",
+    "lat": 3.0994,
+    "lng": 101.6384,
+    "website": "https://www.mudah.my",
+    "sector": "Marketplace",
+    "address": "Petaling Jaya, Selangor",
+    "blurb": "Classifieds marketplace.",
+    "logoUrl": "https://logo.clearbit.com/mudah.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.mudah.my?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "kv-speedhome",
+    "name": "SPEEDHOME",
+    "city": "klang-valley",
+    "lat": 3.1582,
+    "lng": 101.7114,
+    "website": "https://speedhome.com",
+    "sector": "PropTech",
+    "address": "Kuala Lumpur",
+    "blurb": "Zero-deposit rental platform.",
+    "logoUrl": "https://logo.clearbit.com/speedhome.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fspeedhome.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "kv-ringgitplus",
+    "name": "RinggitPlus",
+    "city": "klang-valley",
+    "lat": 3.1574,
+    "lng": 101.7118,
+    "website": "https://www.ringgitplus.com",
+    "sector": "FinTech",
+    "address": "Kuala Lumpur",
+    "blurb": "Personal-finance comparison marketplace.",
+    "logoUrl": "https://logo.clearbit.com/ringgitplus.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ringgitplus.com?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "kv-imoney",
+    "name": "iMoney",
+    "city": "klang-valley",
+    "lat": 3.1492,
+    "lng": 101.7136,
+    "website": "https://www.imoney.my",
+    "sector": "FinTech",
+    "address": "Kuala Lumpur",
+    "blurb": "Credit card and loan comparison.",
+    "logoUrl": "https://logo.clearbit.com/imoney.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.imoney.my?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "kv-fave",
+    "name": "Fave",
+    "city": "klang-valley",
+    "lat": 3.1106999999999996,
+    "lng": 101.66555,
+    "website": "https://www.fave.com",
+    "sector": "FinTech",
+    "address": "The Vertical, Bangsar South, Kuala Lumpur",
+    "blurb": "Deals and FavePay merchant network.",
+    "buildingId": "kv-bangsar-south",
+    "buildingName": "Bangsar South",
+    "logoUrl": "https://logo.clearbit.com/fave.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.fave.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "kv-magic",
+    "name": "MaGIC",
+    "city": "klang-valley",
+    "lat": 2.92115,
+    "lng": 101.65635,
+    "website": "https://www.mymagic.my",
+    "sector": "Hub",
+    "address": "MRANTI Park, Cyberjaya, Selangor",
+    "blurb": "Malaysian Global Innovation & Creativity Centre.",
+    "buildingId": "kv-mranti",
+    "buildingName": "MRANTI Park",
+    "logoUrl": "https://logo.clearbit.com/mymagic.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.mymagic.my?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "kv-mranti",
+    "name": "MRANTI",
+    "city": "klang-valley",
+    "lat": 2.9212,
+    "lng": 101.65635,
+    "website": "https://www.mranti.my",
+    "sector": "Hub",
+    "address": "MRANTI Park, Cyberjaya, Selangor",
+    "blurb": "National applied R&D and commercialisation park.",
+    "buildingId": "kv-mranti",
+    "buildingName": "MRANTI Park",
+    "logoUrl": "https://logo.clearbit.com/mranti.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.mranti.my?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "kv-1337",
+    "name": "1337 Ventures",
+    "city": "klang-valley",
+    "lat": 3.1396,
+    "lng": 101.6868,
+    "website": "https://1337.vc",
+    "sector": "Venture",
+    "address": "Kuala Lumpur",
+    "blurb": "Early-stage Malaysian venture firm.",
+    "logoUrl": "https://logo.clearbit.com/1337.vc",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2F1337.vc?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "kv-gobi",
+    "name": "Gobi Partners",
+    "city": "klang-valley",
+    "lat": 3.1482,
+    "lng": 101.7132,
+    "website": "https://www.gobipartners.com",
+    "sector": "Venture",
+    "address": "Kuala Lumpur",
+    "blurb": "Regional VC with a Kuala Lumpur office.",
+    "logoUrl": "https://logo.clearbit.com/gobipartners.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.gobipartners.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "kv-setel",
+    "name": "Setel",
+    "city": "klang-valley",
+    "lat": 3.1579,
+    "lng": 101.7116,
+    "website": "https://www.setel.com",
+    "sector": "FinTech",
+    "address": "PETRONAS Twin Towers, Kuala Lumpur",
+    "blurb": "In-car payments and fuel-station commerce from PETRONAS.",
+    "logoUrl": "https://logo.clearbit.com/setel.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.setel.com?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "kv-plus-solar",
+    "name": "Plus Solar",
+    "city": "klang-valley",
+    "lat": 3.1088,
+    "lng": 101.6124,
+    "website": "https://www.plussolar.my",
+    "sector": "Climate",
+    "address": "Petaling Jaya, Selangor",
+    "blurb": "Distributed solar for homes and businesses.",
+    "logoUrl": "https://logo.clearbit.com/plussolar.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.plussolar.my?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "kv-solarvest",
+    "name": "Solarvest",
+    "city": "klang-valley",
+    "lat": 3.0946,
+    "lng": 101.6248,
+    "website": "https://www.solarvest.my",
+    "sector": "Climate",
+    "address": "Petaling Jaya, Selangor",
+    "blurb": "Public solar EPCC and clean-energy platform.",
+    "logoUrl": "https://logo.clearbit.com/solarvest.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.solarvest.my?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "kv-pitchin",
+    "name": "pitchIN",
+    "city": "klang-valley",
+    "lat": 3.1524,
+    "lng": 101.7046,
+    "website": "https://www.pitchin.my",
+    "sector": "FinTech",
+    "address": "Kuala Lumpur",
+    "blurb": "Equity crowdfunding platform.",
+    "logoUrl": "https://logo.clearbit.com/pitchin.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.pitchin.my?w=1200"
+    ],
+    "fundingStage": "Series D+"
+  },
+  {
+    "id": "kv-wahed",
+    "name": "Wahed",
+    "city": "klang-valley",
+    "lat": 3.1508,
+    "lng": 101.7088,
+    "website": "https://wahed.com",
+    "sector": "FinTech",
+    "address": "Kuala Lumpur",
+    "blurb": "Halal digital wealth platform with a Malaysia office.",
+    "logoUrl": "https://logo.clearbit.com/wahed.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwahed.com?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "kv-versa",
+    "name": "Versa",
+    "city": "klang-valley",
+    "lat": 3.1462,
+    "lng": 101.6952,
+    "website": "https://www.versa.com.my",
+    "sector": "FinTech",
+    "address": "Kuala Lumpur",
+    "blurb": "Cash-management and money-market app.",
+    "logoUrl": "https://logo.clearbit.com/versa.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.versa.com.my?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "kv-westports",
+    "name": "Westports digital",
+    "city": "klang-valley",
+    "lat": 3.0318,
+    "lng": 101.3614,
+    "website": "https://www.westportsholdings.com",
+    "sector": "Logistics",
+    "address": "Port Klang, Selangor",
+    "blurb": "Container terminal tech at Port Klang.",
+    "logoUrl": "https://logo.clearbit.com/westportsholdings.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.westportsholdings.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "kv-northport",
+    "name": "Northport digital",
+    "city": "klang-valley",
+    "lat": 3.0136,
+    "lng": 101.3928,
+    "website": "https://www.northport.com.my",
+    "sector": "Logistics",
+    "address": "Port Klang, Selangor",
+    "blurb": "Port operator systems on the Klang river mouth.",
+    "logoUrl": "https://logo.clearbit.com/northport.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.northport.com.my?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "kv-jnt-klang",
+    "name": "J&T Klang",
+    "city": "klang-valley",
+    "lat": 3.0449,
+    "lng": 101.4456,
+    "website": "https://www.jtexpress.my",
+    "sector": "Logistics",
+    "address": "Klang, Selangor",
+    "blurb": "Parcel sortation for the Port Klang industrial belt.",
+    "logoUrl": "https://logo.clearbit.com/jtexpress.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.jtexpress.my?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "kv-shopee-klang",
+    "name": "Shopee Klang warehouse",
+    "city": "klang-valley",
+    "lat": 3.0386,
+    "lng": 101.4522,
+    "website": "https://shopee.com.my",
+    "sector": "Logistics",
+    "address": "Klang, Selangor",
+    "blurb": "E-commerce fulfilment serving the west-coast catchment.",
+    "logoUrl": "https://logo.clearbit.com/shopee.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fshopee.com.my?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "kv-mvv",
+    "name": "Malaysia Vision Valley",
+    "city": "klang-valley",
+    "lat": 2.7258,
+    "lng": 101.9378,
+    "website": "https://www.ns.gov.my",
+    "sector": "Hub",
+    "address": "Seremban / Nilai, Negeri Sembilan",
+    "blurb": "Negeri Sembilan growth corridor linking Seremban to the Klang Valley.",
+    "logoUrl": "https://logo.clearbit.com/ns.gov.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ns.gov.my?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "kv-sendayan",
+    "name": "Sendayan TechValley",
+    "city": "klang-valley",
+    "lat": 2.6754,
+    "lng": 101.8572,
+    "website": "https://www.mbs.gov.my",
+    "sector": "Hub",
+    "address": "Bandar Sri Sendayan, Seremban",
+    "blurb": "Industrial-tech park south of Seremban.",
+    "logoUrl": "https://logo.clearbit.com/mbs.gov.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.mbs.gov.my?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "kv-inti-nilai",
+    "name": "INTI Nilai",
+    "city": "klang-valley",
+    "lat": 2.8146,
+    "lng": 101.7668,
+    "website": "https://newinti.edu.my",
+    "sector": "EdTech",
+    "address": "Putra Nilai, Negeri Sembilan",
+    "blurb": "Campus talent pipeline between KLIA and Seremban.",
+    "logoUrl": "https://logo.clearbit.com/newinti.edu.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fnewinti.edu.my?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "kv-nilai-logistics",
+    "name": "Nilai e-commerce logistics",
+    "city": "klang-valley",
+    "lat": 2.8024,
+    "lng": 101.7992,
+    "website": "https://www.pos.com.my",
+    "sector": "Logistics",
+    "address": "Nilai, Negeri Sembilan",
+    "blurb": "Warehouse belt used by national parcel and marketplace operators.",
+    "logoUrl": "https://logo.clearbit.com/pos.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.pos.com.my?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  }
+]

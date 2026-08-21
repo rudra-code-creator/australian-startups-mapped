@@ -24,6 +24,19 @@ function makeSeedWriteSchema(city: string) {
     buildingId: z.string().optional(),
     buildingName: z.string().optional(),
     sector: z.string().optional(),
+    fundingStage: z
+      .enum([
+        "Pre-seed",
+        "Seed",
+        "Series A",
+        "Series B",
+        "Series C",
+        "Series D+",
+        "Growth",
+        "Public",
+        "Bootstrapped",
+      ])
+      .optional(),
   });
 
   const buildingSchema = z.object({

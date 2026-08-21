@@ -17,7 +17,7 @@ export function Shell({ children }: { children: React.ReactNode }) {
                 href="/"
                 className="text-sm font-semibold text-[color:var(--ink)] focus:outline-none focus-visible:ring-2 focus-visible:ring-[color:var(--teal)] focus-visible:ring-offset-2 focus-visible:ring-offset-[color:var(--paper)]"
               >
-                Australian Startup Map
+                Startup Map
               </Link>
               <nav className="flex items-center gap-4">
                 <Link

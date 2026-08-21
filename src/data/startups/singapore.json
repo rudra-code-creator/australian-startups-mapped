@@ -1,0 +1,710 @@
+[
+  {
+    "id": "sg-grab",
+    "name": "Grab",
+    "city": "singapore",
+    "lat": 1.2926,
+    "lng": 103.7904,
+    "website": "https://www.grab.com",
+    "sector": "Superapp",
+    "address": "3 Media Close, Singapore 138498",
+    "blurb": "Southeast Asia superapp for mobility, deliveries, and financial services, headquartered at one-north.",
+    "logoUrl": "https://logo.clearbit.com/grab.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.grab.com?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "sg-sea",
+    "name": "Sea Limited",
+    "city": "singapore",
+    "lat": 1.2992,
+    "lng": 103.7894,
+    "website": "https://www.sea.com",
+    "sector": "Internet",
+    "address": "1 Fusionopolis Place, Singapore 138522",
+    "blurb": "Parent of Shopee, Garena, and SeaMoney, based in Singapore.",
+    "logoUrl": "https://logo.clearbit.com/sea.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.sea.com?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "sg-shopee",
+    "name": "Shopee",
+    "city": "singapore",
+    "lat": 1.2993,
+    "lng": 103.7896,
+    "website": "https://shopee.sg",
+    "sector": "Marketplace",
+    "address": "1 Fusionopolis Place, Singapore 138522",
+    "blurb": "Regional e-commerce platform with product and ops teams in Singapore.",
+    "logoUrl": "https://logo.clearbit.com/shopee.sg",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fshopee.sg?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "sg-carousell",
+    "name": "Carousell",
+    "city": "singapore",
+    "lat": 1.29945,
+    "lng": 103.78699999999999,
+    "website": "https://www.carousell.sg",
+    "sector": "Marketplace",
+    "address": "1 Fusionopolis Way, Singapore 138632",
+    "blurb": "Classifieds marketplace with HQ at LaunchPad @ one-north.",
+    "buildingId": "singapore-launchpad",
+    "buildingName": "LaunchPad @ one-north",
+    "logoUrl": "https://logo.clearbit.com/carousell.sg",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.carousell.sg?w=1200"
+    ],
+    "fundingStage": "Series D+"
+  },
+  {
+    "id": "sg-nium",
+    "name": "Nium",
+    "city": "singapore",
+    "lat": 1.2776,
+    "lng": 103.8476,
+    "website": "https://www.nium.com",
+    "sector": "FinTech",
+    "address": "168 Robinson Rd, Capital Tower, Singapore 068912",
+    "blurb": "Real-time cross-border payments, co-headquartered at Capital Tower.",
+    "logoUrl": "https://logo.clearbit.com/nium.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.nium.com?w=1200"
+    ],
+    "fundingStage": "Series D+"
+  },
+  {
+    "id": "sg-razer",
+    "name": "Razer",
+    "city": "singapore",
+    "lat": 1.2998,
+    "lng": 103.7878,
+    "website": "https://www.razer.com",
+    "sector": "Hardware",
+    "address": "1 one-north Crescent, Singapore 138522",
+    "blurb": "Gaming hardware and software group with its global HQ in Singapore.",
+    "logoUrl": "https://logo.clearbit.com/razer.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.razer.com?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "sg-ninjavan",
+    "name": "Ninja Van",
+    "city": "singapore",
+    "lat": 1.3188,
+    "lng": 103.8668,
+    "website": "https://www.ninjavan.co",
+    "sector": "Logistics",
+    "address": "30A Kallang Pl, Singapore 339213",
+    "blurb": "Last-mile logistics network founded in Singapore.",
+    "logoUrl": "https://logo.clearbit.com/ninjavan.co",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ninjavan.co?w=1200"
+    ],
+    "fundingStage": "Series D+"
+  },
+  {
+    "id": "sg-patsnap",
+    "name": "PatSnap",
+    "city": "singapore",
+    "lat": 1.2995,
+    "lng": 103.78699999999999,
+    "website": "https://www.patsnap.com",
+    "sector": "SaaS",
+    "address": "1 Fusionopolis Way, Singapore 138632",
+    "blurb": "Innovation intelligence and patent analytics platform.",
+    "buildingId": "singapore-launchpad",
+    "buildingName": "LaunchPad @ one-north",
+    "logoUrl": "https://logo.clearbit.com/patsnap.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.patsnap.com?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "sg-propertyguru",
+    "name": "PropertyGuru",
+    "city": "singapore",
+    "lat": 1.3178,
+    "lng": 103.8924,
+    "website": "https://www.propertyguru.com.sg",
+    "sector": "PropTech",
+    "address": "Paya Lebar Quarter, 1 Paya Lebar Link, Singapore",
+    "blurb": "Property portal and fintech group listed out of Singapore.",
+    "logoUrl": "https://logo.clearbit.com/propertyguru.com.sg",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.propertyguru.com.sg?w=1200"
+    ],
+    "fundingStage": "Series D+"
+  },
+  {
+    "id": "sg-shopback",
+    "name": "ShopBack",
+    "city": "singapore",
+    "lat": 1.2979500000000002,
+    "lng": 103.7875,
+    "website": "https://www.shopback.sg",
+    "sector": "FinTech",
+    "address": "71 Ayer Rajah Crescent, Singapore 139951",
+    "blurb": "Cashback and card rewards platform founded in Singapore.",
+    "buildingId": "singapore-block71",
+    "buildingName": "BLOCK71",
+    "logoUrl": "https://logo.clearbit.com/shopback.sg",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.shopback.sg?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "sg-carro",
+    "name": "Carro",
+    "city": "singapore",
+    "lat": 1.3266,
+    "lng": 103.8802,
+    "website": "https://carro.co",
+    "sector": "Marketplace",
+    "address": "18 Tannery Ln, Singapore 347780",
+    "blurb": "Used-car marketplace and auto fintech across Southeast Asia.",
+    "logoUrl": "https://logo.clearbit.com/carro.co",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fcarro.co?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "sg-trax",
+    "name": "Trax",
+    "city": "singapore",
+    "lat": 1.2772,
+    "lng": 103.8494,
+    "website": "https://traxretail.com",
+    "sector": "RetailTech",
+    "address": "5 Shenton Way, Singapore 068808",
+    "blurb": "Computer-vision retail execution platform.",
+    "logoUrl": "https://logo.clearbit.com/traxretail.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Ftraxretail.com?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "sg-advance-ai",
+    "name": "Advance.AI",
+    "city": "singapore",
+    "lat": 1.298,
+    "lng": 103.7875,
+    "website": "https://www.advance.ai",
+    "sector": "AI",
+    "address": "71 Ayer Rajah Crescent, Singapore 139951",
+    "blurb": "Identity, credit, and anti-fraud AI for emerging markets.",
+    "buildingId": "singapore-block71",
+    "buildingName": "BLOCK71",
+    "logoUrl": "https://logo.clearbit.com/advance.ai",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.advance.ai?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "sg-endowus",
+    "name": "Endowus",
+    "city": "singapore",
+    "lat": 1.2812,
+    "lng": 103.8518,
+    "website": "https://endowus.com",
+    "sector": "FinTech",
+    "address": "1 Raffles Quay, Singapore 048583",
+    "blurb": "Digital wealth platform for CPF, SRS, and cash investments.",
+    "logoUrl": "https://logo.clearbit.com/endowus.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fendowus.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "sg-stashaway",
+    "name": "StashAway",
+    "city": "singapore",
+    "lat": 1.2842,
+    "lng": 103.8511,
+    "website": "https://www.stashaway.sg",
+    "sector": "FinTech",
+    "address": "1 Raffles Place, Singapore 048616",
+    "blurb": "Robo-advisory and cash management platform.",
+    "logoUrl": "https://logo.clearbit.com/stashaway.sg",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.stashaway.sg?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "sg-syfe",
+    "name": "Syfe",
+    "city": "singapore",
+    "lat": 1.2806,
+    "lng": 103.8536,
+    "website": "https://www.syfe.com",
+    "sector": "FinTech",
+    "address": "8 Marina View, Singapore 018960",
+    "blurb": "Investment and cash management app.",
+    "logoUrl": "https://logo.clearbit.com/syfe.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.syfe.com?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "sg-funding-societies",
+    "name": "Funding Societies",
+    "city": "singapore",
+    "lat": 1.2978,
+    "lng": 103.78755,
+    "website": "https://fundingsocieties.com",
+    "sector": "FinTech",
+    "address": "71 Ayer Rajah Crescent, Singapore 139951",
+    "blurb": "SME digital lending marketplace across ASEAN.",
+    "buildingId": "singapore-block71",
+    "buildingName": "BLOCK71",
+    "logoUrl": "https://logo.clearbit.com/fundingsocieties.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Ffundingsocieties.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "sg-aspire",
+    "name": "Aspire",
+    "city": "singapore",
+    "lat": 1.2813,
+    "lng": 103.8519,
+    "website": "https://aspireapp.com",
+    "sector": "FinTech",
+    "address": "1 Raffles Quay, Singapore 048583",
+    "blurb": "All-in-one finance OS for growing businesses.",
+    "logoUrl": "https://logo.clearbit.com/aspireapp.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Faspireapp.com?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "sg-fazz",
+    "name": "Fazz",
+    "city": "singapore",
+    "lat": 1.29785,
+    "lng": 103.78755,
+    "website": "https://fazz.com",
+    "sector": "FinTech",
+    "address": "71 Ayer Rajah Crescent, Singapore 139951",
+    "blurb": "Payments and business banking infrastructure for Southeast Asia.",
+    "buildingId": "singapore-block71",
+    "buildingName": "BLOCK71",
+    "logoUrl": "https://logo.clearbit.com/fazz.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Ffazz.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "sg-igloo",
+    "name": "Igloo",
+    "city": "singapore",
+    "lat": 1.2979,
+    "lng": 103.78755,
+    "website": "https://www.iglooinsure.com",
+    "sector": "InsurTech",
+    "address": "71 Ayer Rajah Crescent, Singapore 139951",
+    "blurb": "Embedded insurance platform for digital ecosystems.",
+    "buildingId": "singapore-block71",
+    "buildingName": "BLOCK71",
+    "logoUrl": "https://logo.clearbit.com/iglooinsure.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.iglooinsure.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "sg-zenyum",
+    "name": "Zenyum",
+    "city": "singapore",
+    "lat": 1.2979500000000002,
+    "lng": 103.78755,
+    "website": "https://www.zenyum.com",
+    "sector": "Health",
+    "address": "71 Ayer Rajah Crescent, Singapore 139951",
+    "blurb": "Direct-to-consumer dental and oral-care brand.",
+    "buildingId": "singapore-block71",
+    "buildingName": "BLOCK71",
+    "logoUrl": "https://logo.clearbit.com/zenyum.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.zenyum.com?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "sg-doctor-anywhere",
+    "name": "Doctor Anywhere",
+    "city": "singapore",
+    "lat": 1.2996,
+    "lng": 103.78705,
+    "website": "https://doctoranywhere.com",
+    "sector": "Health",
+    "address": "1 Fusionopolis Way, Singapore 138632",
+    "blurb": "Telehealth and outpatient care network.",
+    "buildingId": "singapore-launchpad",
+    "buildingName": "LaunchPad @ one-north",
+    "logoUrl": "https://logo.clearbit.com/doctoranywhere.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fdoctoranywhere.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "sg-homage",
+    "name": "Homage",
+    "city": "singapore",
+    "lat": 1.2978,
+    "lng": 103.7876,
+    "website": "https://www.homage.sg",
+    "sector": "Health",
+    "address": "71 Ayer Rajah Crescent, Singapore 139951",
+    "blurb": "Home-care marketplace for nurses and caregivers.",
+    "buildingId": "singapore-block71",
+    "buildingName": "BLOCK71",
+    "logoUrl": "https://logo.clearbit.com/homage.sg",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.homage.sg?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "sg-99co",
+    "name": "99.co",
+    "city": "singapore",
+    "lat": 1.2982,
+    "lng": 103.7874,
+    "website": "https://www.99.co",
+    "sector": "PropTech",
+    "address": "73 Ayer Rajah Crescent, Singapore 139952",
+    "blurb": "Property search portal founded in Singapore.",
+    "logoUrl": "https://logo.clearbit.com/99.co",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.99.co?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "sg-circles",
+    "name": "Circles.Life",
+    "city": "singapore",
+    "lat": 1.2878,
+    "lng": 103.8216,
+    "website": "https://www.circles.life",
+    "sector": "Telecom",
+    "address": "221 Henderson Rd, Singapore 159557",
+    "blurb": "Digital telco and lifestyle subscription brand.",
+    "logoUrl": "https://logo.clearbit.com/circles.life",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.circles.life?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "sg-secretlab",
+    "name": "Secretlab",
+    "city": "singapore",
+    "lat": 1.3358,
+    "lng": 103.8856,
+    "website": "https://secretlab.co",
+    "sector": "Hardware",
+    "address": "8 Burn Rd, Singapore 369977",
+    "blurb": "Gaming-chair and furniture brand founded in Singapore.",
+    "logoUrl": "https://logo.clearbit.com/secretlab.co",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fsecretlab.co?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "sg-lazada",
+    "name": "Lazada",
+    "city": "singapore",
+    "lat": 1.2964,
+    "lng": 103.8506,
+    "website": "https://www.lazada.sg",
+    "sector": "Marketplace",
+    "address": "51 Bras Basah Rd, Lazada One, Singapore 189554",
+    "blurb": "Regional e-commerce platform with a large Singapore HQ.",
+    "logoUrl": "https://logo.clearbit.com/lazada.sg",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.lazada.sg?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "sg-tiktok",
+    "name": "TikTok",
+    "city": "singapore",
+    "lat": 1.2811,
+    "lng": 103.8517,
+    "website": "https://www.tiktok.com",
+    "sector": "Media",
+    "address": "1 Raffles Quay, South Tower, Singapore",
+    "blurb": "Product and trust-and-safety campus for TikTok in Singapore.",
+    "logoUrl": "https://logo.clearbit.com/tiktok.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.tiktok.com?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "sg-bytedance",
+    "name": "ByteDance",
+    "city": "singapore",
+    "lat": 1.281,
+    "lng": 103.8516,
+    "website": "https://www.bytedance.com",
+    "sector": "Media",
+    "address": "1 Raffles Quay, Singapore 048583",
+    "blurb": "ByteDance’s Singapore regional headquarters.",
+    "logoUrl": "https://logo.clearbit.com/bytedance.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.bytedance.com?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "sg-antler",
+    "name": "Antler",
+    "city": "singapore",
+    "lat": 1.3012,
+    "lng": 103.8514,
+    "website": "https://www.antler.co",
+    "sector": "Venture",
+    "address": "128 Prinsep St, Singapore 187655",
+    "blurb": "Global early-stage venture firm founded in Singapore.",
+    "logoUrl": "https://logo.clearbit.com/antler.co",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.antler.co?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "sg-block71",
+    "name": "BLOCK71",
+    "city": "singapore",
+    "lat": 1.29785,
+    "lng": 103.7876,
+    "website": "https://block71.co",
+    "sector": "Hub",
+    "address": "71 Ayer Rajah Crescent, Singapore 139951",
+    "blurb": "NUS Enterprise startup cluster at one-north.",
+    "buildingId": "singapore-block71",
+    "buildingName": "BLOCK71",
+    "logoUrl": "https://logo.clearbit.com/block71.co",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fblock71.co?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "sg-launchpad",
+    "name": "LaunchPad @ one-north",
+    "city": "singapore",
+    "lat": 1.2995,
+    "lng": 103.7871,
+    "website": "https://www.jtc.gov.sg",
+    "sector": "Hub",
+    "address": "1 Fusionopolis Way, Singapore 138632",
+    "blurb": "JTC startup cluster that houses many scale-ups.",
+    "buildingId": "singapore-launchpad",
+    "buildingName": "LaunchPad @ one-north",
+    "logoUrl": "https://logo.clearbit.com/jtc.gov.sg",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.jtc.gov.sg?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "sg-singsaver",
+    "name": "SingSaver",
+    "city": "singapore",
+    "lat": 1.2808,
+    "lng": 103.8488,
+    "website": "https://www.singsaver.com.sg",
+    "sector": "FinTech",
+    "address": "80 Robinson Rd, Singapore 068898",
+    "blurb": "Personal-finance comparison marketplace.",
+    "logoUrl": "https://logo.clearbit.com/singsaver.com.sg",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.singsaver.com.sg?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "sg-moneysmart",
+    "name": "MoneySmart",
+    "city": "singapore",
+    "lat": 1.2979500000000002,
+    "lng": 103.7876,
+    "website": "https://www.moneysmart.sg",
+    "sector": "FinTech",
+    "address": "71 Ayer Rajah Crescent, Singapore 139951",
+    "blurb": "Insurance and credit comparison platform.",
+    "buildingId": "singapore-block71",
+    "buildingName": "BLOCK71",
+    "logoUrl": "https://logo.clearbit.com/moneysmart.sg",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.moneysmart.sg?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "sg-oddle",
+    "name": "Oddle",
+    "city": "singapore",
+    "lat": 1.298,
+    "lng": 103.7876,
+    "website": "https://oddle.me",
+    "sector": "SaaS",
+    "address": "71 Ayer Rajah Crescent, Singapore 139951",
+    "blurb": "Restaurant e-commerce and ordering software.",
+    "buildingId": "singapore-block71",
+    "buildingName": "BLOCK71",
+    "logoUrl": "https://logo.clearbit.com/oddle.me",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Foddle.me?w=1200"
+    ],
+    "fundingStage": "Series D+"
+  },
+  {
+    "id": "sg-burpple",
+    "name": "Burpple",
+    "city": "singapore",
+    "lat": 1.2978,
+    "lng": 103.78765,
+    "website": "https://www.burpple.com",
+    "sector": "Media",
+    "address": "71 Ayer Rajah Crescent, Singapore 139951",
+    "blurb": "Food discovery and dining-deals platform.",
+    "buildingId": "singapore-block71",
+    "buildingName": "BLOCK71",
+    "logoUrl": "https://logo.clearbit.com/burpple.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.burpple.com?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "sg-biofourmis",
+    "name": "Biofourmis",
+    "city": "singapore",
+    "lat": 1.29945,
+    "lng": 103.78715,
+    "website": "https://biofourmis.com",
+    "sector": "Health",
+    "address": "1 Fusionopolis Way, Singapore 138632",
+    "blurb": "Digital therapeutics and remote-care platform.",
+    "buildingId": "singapore-launchpad",
+    "buildingName": "LaunchPad @ one-north",
+    "logoUrl": "https://logo.clearbit.com/biofourmis.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fbiofourmis.com?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "sg-mirxes",
+    "name": "MiRXES",
+    "city": "singapore",
+    "lat": 1.3272,
+    "lng": 103.6778,
+    "website": "https://www.mirxes.com",
+    "sector": "Health",
+    "address": "2 Tukang Innovation Grove, Singapore 618305",
+    "blurb": "RNA diagnostics company with HQ in Singapore.",
+    "logoUrl": "https://logo.clearbit.com/mirxes.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.mirxes.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "sg-validus",
+    "name": "Validus",
+    "city": "singapore",
+    "lat": 1.2979,
+    "lng": 103.78765,
+    "website": "https://validus.sg",
+    "sector": "FinTech",
+    "address": "71 Ayer Rajah Crescent, Singapore 139951",
+    "blurb": "Invoice financing for Southeast Asian SMEs.",
+    "buildingId": "singapore-block71",
+    "buildingName": "BLOCK71",
+    "logoUrl": "https://logo.clearbit.com/validus.sg",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fvalidus.sg?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "sg-addx",
+    "name": "ADDX",
+    "city": "singapore",
+    "lat": 1.2856,
+    "lng": 103.8519,
+    "website": "https://addx.co",
+    "sector": "FinTech",
+    "address": "6 Battery Rd, Singapore 049909",
+    "blurb": "Private-market securities exchange using digital assets.",
+    "logoUrl": "https://logo.clearbit.com/addx.co",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Faddx.co?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "sg-xendit-sg",
+    "name": "Xendit",
+    "city": "singapore",
+    "lat": 1.2979500000000002,
+    "lng": 103.78765,
+    "website": "https://www.xendit.co",
+    "sector": "FinTech",
+    "address": "71 Ayer Rajah Crescent, Singapore 139951",
+    "blurb": "Payments infrastructure with a Singapore regional office.",
+    "buildingId": "singapore-block71",
+    "buildingName": "BLOCK71",
+    "logoUrl": "https://logo.clearbit.com/xendit.co",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.xendit.co?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "sg-traveloka-sg",
+    "name": "Traveloka",
+    "city": "singapore",
+    "lat": 1.2843,
+    "lng": 103.851,
+    "website": "https://www.traveloka.com",
+    "sector": "Travel",
+    "address": "1 Raffles Place, Singapore 048616",
+    "blurb": "Travel superapp regional office in Raffles Place.",
+    "logoUrl": "https://logo.clearbit.com/traveloka.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.traveloka.com?w=1200"
+    ],
+    "fundingStage": "Series A"
+  }
+]

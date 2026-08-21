@@ -1,0 +1,242 @@
+[
+  {
+    "id": "mlk-mmu",
+    "name": "Multimedia University Melaka",
+    "city": "malacca",
+    "lat": 2.2496,
+    "lng": 102.2768,
+    "website": "https://www.mmu.edu.my",
+    "sector": "Hub",
+    "address": "Ayer Keroh, Melaka",
+    "blurb": "MMU Melaka campus — a long-running source of Malaysian digital talent.",
+    "logoUrl": "https://logo.clearbit.com/mmu.edu.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.mmu.edu.my?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "mlk-mitc",
+    "name": "MITC",
+    "city": "malacca",
+    "lat": 2.2668,
+    "lng": 102.2864,
+    "website": "https://www.mitc.org.my",
+    "sector": "Hub",
+    "address": "Ayer Keroh, Melaka",
+    "blurb": "Melaka International Trade Centre for events and tech showcases.",
+    "logoUrl": "https://logo.clearbit.com/mitc.org.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.mitc.org.my?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "mlk-grab",
+    "name": "Grab Melaka",
+    "city": "malacca",
+    "lat": 2.1964,
+    "lng": 102.2406,
+    "website": "https://www.grab.com",
+    "sector": "Superapp",
+    "address": "Melaka City",
+    "blurb": "City operations for heritage-city mobility and GrabFood.",
+    "logoUrl": "https://logo.clearbit.com/grab.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.grab.com?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "mlk-shopee",
+    "name": "Shopee Melaka",
+    "city": "malacca",
+    "lat": 2.2448,
+    "lng": 102.2742,
+    "website": "https://shopee.com.my",
+    "sector": "Marketplace",
+    "address": "Ayer Keroh, Melaka",
+    "blurb": "E-commerce ops for the historic city catchment.",
+    "logoUrl": "https://logo.clearbit.com/shopee.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fshopee.com.my?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "mlk-foodpanda",
+    "name": "foodpanda Melaka",
+    "city": "malacca",
+    "lat": 2.1948,
+    "lng": 102.2492,
+    "website": "https://www.foodpanda.my",
+    "sector": "Logistics",
+    "address": "Melaka City",
+    "blurb": "Delivery network across Bandar Hilir and Ayer Keroh.",
+    "logoUrl": "https://logo.clearbit.com/foodpanda.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.foodpanda.my?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "mlk-tng",
+    "name": "Touch 'n Go Melaka",
+    "city": "malacca",
+    "lat": 2.1912,
+    "lng": 102.2508,
+    "website": "https://www.touchngo.com.my",
+    "sector": "FinTech",
+    "address": "Melaka City",
+    "blurb": "Transit and merchant wallet presence.",
+    "logoUrl": "https://logo.clearbit.com/touchngo.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.touchngo.com.my?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "mlk-storehub",
+    "name": "StoreHub Melaka",
+    "city": "malacca",
+    "lat": 2.1956,
+    "lng": 102.2498,
+    "website": "https://www.storehub.com",
+    "sector": "SaaS",
+    "address": "Jonker Street precinct, Melaka",
+    "blurb": "Cloud POS for heritage F&B and retail.",
+    "logoUrl": "https://logo.clearbit.com/storehub.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.storehub.com?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "mlk-tourism",
+    "name": "Tourism Melaka digital",
+    "city": "malacca",
+    "lat": 2.1896,
+    "lng": 102.2501,
+    "website": "https://www.amazingmelaka.com",
+    "sector": "Travel",
+    "address": "Melaka City",
+    "blurb": "Destination platform and visitor information tech.",
+    "logoUrl": "https://logo.clearbit.com/amazingmelaka.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.amazingmelaka.com?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "mlk-easyparcel",
+    "name": "EasyParcel Melaka",
+    "city": "malacca",
+    "lat": 2.2482,
+    "lng": 102.2756,
+    "website": "https://www.easyparcel.com",
+    "sector": "Logistics",
+    "address": "Ayer Keroh, Melaka",
+    "blurb": "Parcel aggregator used by Melaka SMEs.",
+    "logoUrl": "https://logo.clearbit.com/easyparcel.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.easyparcel.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "mlk-boost",
+    "name": "Boost Melaka",
+    "city": "malacca",
+    "lat": 2.1934,
+    "lng": 102.2486,
+    "website": "https://www.myboost.com.my",
+    "sector": "FinTech",
+    "address": "Melaka City",
+    "blurb": "e-wallet merchant acquiring.",
+    "logoUrl": "https://logo.clearbit.com/myboost.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.myboost.com.my?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "mlk-ghl",
+    "name": "GHL Melaka",
+    "city": "malacca",
+    "lat": 2.1922,
+    "lng": 102.2514,
+    "website": "https://www.ghl.com",
+    "sector": "FinTech",
+    "address": "Melaka City",
+    "blurb": "Card acquiring for tourism retail.",
+    "logoUrl": "https://logo.clearbit.com/ghl.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ghl.com?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "mlk-ninjavan",
+    "name": "Ninja Van Melaka",
+    "city": "malacca",
+    "lat": 2.2512,
+    "lng": 102.2788,
+    "website": "https://www.ninjavan.co",
+    "sector": "Logistics",
+    "address": "Ayer Keroh, Melaka",
+    "blurb": "Last-mile hub.",
+    "logoUrl": "https://logo.clearbit.com/ninjavan.co",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ninjavan.co?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "mlk-ipay88",
+    "name": "iPay88 Melaka",
+    "city": "malacca",
+    "lat": 2.1908,
+    "lng": 102.2496,
+    "website": "https://www.ipay88.com",
+    "sector": "FinTech",
+    "address": "Melaka City",
+    "blurb": "Payment gateway onboarding for tourism merchants.",
+    "logoUrl": "https://logo.clearbit.com/ipay88.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ipay88.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "mlk-carsome",
+    "name": "Carsome Melaka",
+    "city": "malacca",
+    "lat": 2.2536,
+    "lng": 102.2704,
+    "website": "https://www.carsome.my",
+    "sector": "Marketplace",
+    "address": "Ayer Keroh, Melaka",
+    "blurb": "Used-car inspection centre.",
+    "logoUrl": "https://logo.clearbit.com/carsome.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.carsome.my?w=1200"
+    ],
+    "fundingStage": "Series D+"
+  },
+  {
+    "id": "mlk-ump",
+    "name": "UTeM",
+    "city": "malacca",
+    "lat": 2.3136,
+    "lng": 102.3208,
+    "website": "https://www.utem.edu.my",
+    "sector": "Hub",
+    "address": "Durian Tunggal, Melaka",
+    "blurb": "Technical university commercialising engineering spinouts.",
+    "logoUrl": "https://logo.clearbit.com/utem.edu.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.utem.edu.my?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  }
+]

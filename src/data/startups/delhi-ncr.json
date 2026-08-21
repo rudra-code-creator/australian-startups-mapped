@@ -1,0 +1,660 @@
+[
+  {
+    "id": "del-zomato",
+    "name": "Zomato",
+    "city": "delhi-ncr",
+    "lat": 28.49495,
+    "lng": 77.0889,
+    "website": "https://www.zomato.com",
+    "sector": "Logistics",
+    "address": "Cyber Hub, DLF Cyber City, Gurugram",
+    "blurb": "Food delivery and dining discovery unicorn, founded in Delhi-NCR.",
+    "fundingStage": "Public",
+    "buildingId": "del-cyberhub",
+    "buildingName": "Cyber Hub",
+    "logoUrl": "https://logo.clearbit.com/zomato.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.zomato.com?w=1200"
+    ]
+  },
+  {
+    "id": "del-paytm",
+    "name": "Paytm",
+    "city": "delhi-ncr",
+    "lat": 28.5355,
+    "lng": 77.391,
+    "website": "https://paytm.com",
+    "sector": "FinTech",
+    "address": "Noida / Gurugram",
+    "blurb": "Payments and financial services HQ corridor in NCR.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/paytm.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fpaytm.com?w=1200"
+    ]
+  },
+  {
+    "id": "del-policybazaar",
+    "name": "Policybazaar",
+    "city": "delhi-ncr",
+    "lat": 28.495,
+    "lng": 77.0889,
+    "website": "https://www.policybazaar.com",
+    "sector": "InsurTech",
+    "address": "Cyber Hub, DLF Cyber City, Gurugram",
+    "blurb": "Insurance marketplace headquartered in Gurugram.",
+    "fundingStage": "Public",
+    "buildingId": "del-cyberhub",
+    "buildingName": "Cyber Hub",
+    "logoUrl": "https://logo.clearbit.com/policybazaar.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.policybazaar.com?w=1200"
+    ]
+  },
+  {
+    "id": "del-makemytrip",
+    "name": "MakeMyTrip",
+    "city": "delhi-ncr",
+    "lat": 28.495050000000003,
+    "lng": 77.0889,
+    "website": "https://www.makemytrip.com",
+    "sector": "Travel",
+    "address": "Cyber Hub, DLF Cyber City, Gurugram",
+    "blurb": "Online travel pioneer of India.",
+    "fundingStage": "Public",
+    "buildingId": "del-cyberhub",
+    "buildingName": "Cyber Hub",
+    "logoUrl": "https://logo.clearbit.com/makemytrip.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.makemytrip.com?w=1200"
+    ]
+  },
+  {
+    "id": "del-infoedge",
+    "name": "Info Edge",
+    "city": "delhi-ncr",
+    "lat": 28.535,
+    "lng": 77.391,
+    "website": "https://www.infoedge.in",
+    "sector": "Marketplace",
+    "address": "Noida",
+    "blurb": "Parent of Naukri, 99acres, and Jeevansathi.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/infoedge.in",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.infoedge.in?w=1200"
+    ]
+  },
+  {
+    "id": "del-naukri",
+    "name": "Naukri",
+    "city": "delhi-ncr",
+    "lat": 28.535,
+    "lng": 77.391,
+    "website": "https://www.naukri.com",
+    "sector": "Marketplace",
+    "address": "Noida",
+    "blurb": "Jobs marketplace that defined Indian hiring online.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/naukri.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.naukri.com?w=1200"
+    ]
+  },
+  {
+    "id": "del-99acres",
+    "name": "99acres",
+    "city": "delhi-ncr",
+    "lat": 28.535,
+    "lng": 77.391,
+    "website": "https://www.99acres.com",
+    "sector": "PropTech",
+    "address": "Noida",
+    "blurb": "Property classifieds from Info Edge.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/99acres.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.99acres.com?w=1200"
+    ]
+  },
+  {
+    "id": "del-snapdeal",
+    "name": "Snapdeal",
+    "city": "delhi-ncr",
+    "lat": 28.45,
+    "lng": 77.05,
+    "website": "https://www.snapdeal.com",
+    "sector": "Marketplace",
+    "address": "Gurugram",
+    "blurb": "E-commerce marketplace founded in Delhi-NCR.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/snapdeal.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.snapdeal.com?w=1200"
+    ]
+  },
+  {
+    "id": "del-shopclues",
+    "name": "ShopClues",
+    "city": "delhi-ncr",
+    "lat": 28.46,
+    "lng": 77.05,
+    "website": "https://www.shopclues.com",
+    "sector": "Marketplace",
+    "address": "Gurugram",
+    "blurb": "Value e-commerce marketplace.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/shopclues.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.shopclues.com?w=1200"
+    ]
+  },
+  {
+    "id": "del-cardekho",
+    "name": "CarDekho",
+    "city": "delhi-ncr",
+    "lat": 28.4951,
+    "lng": 77.0889,
+    "website": "https://www.cardekho.com",
+    "sector": "Marketplace",
+    "address": "Cyber Hub, DLF Cyber City, Gurugram",
+    "blurb": "Auto research and transactions platform.",
+    "fundingStage": "Series D+",
+    "buildingId": "del-cyberhub",
+    "buildingName": "Cyber Hub",
+    "logoUrl": "https://logo.clearbit.com/cardekho.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.cardekho.com?w=1200"
+    ]
+  },
+  {
+    "id": "del-rategain",
+    "name": "RateGain",
+    "city": "delhi-ncr",
+    "lat": 28.54,
+    "lng": 77.39,
+    "website": "https://www.rategain.com",
+    "sector": "SaaS",
+    "address": "Noida",
+    "blurb": "Hospitality SaaS and distribution tech.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/rategain.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.rategain.com?w=1200"
+    ]
+  },
+  {
+    "id": "del-innovaccer",
+    "name": "Innovaccer",
+    "city": "delhi-ncr",
+    "lat": 28.54,
+    "lng": 77.39,
+    "website": "https://innovaccer.com",
+    "sector": "Health",
+    "address": "Noida",
+    "blurb": "Healthcare data platform unicorn.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/innovaccer.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Finnovaccer.com?w=1200"
+    ]
+  },
+  {
+    "id": "del-healthifyme",
+    "name": "HealthifyMe",
+    "city": "delhi-ncr",
+    "lat": 28.49,
+    "lng": 77.09,
+    "website": "https://www.healthifyme.com",
+    "sector": "Health",
+    "address": "Gurugram / Bengaluru",
+    "blurb": "AI nutrition and fitness coach.",
+    "fundingStage": "Series C",
+    "logoUrl": "https://logo.clearbit.com/healthifyme.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.healthifyme.com?w=1200"
+    ]
+  },
+  {
+    "id": "del-unacademy-ncr",
+    "name": "Unacademy NCR",
+    "city": "delhi-ncr",
+    "lat": 28.61,
+    "lng": 77.21,
+    "website": "https://unacademy.com",
+    "sector": "EdTech",
+    "address": "Delhi",
+    "blurb": "Exam prep and educator marketplace presence.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/unacademy.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Funacademy.com?w=1200"
+    ]
+  },
+  {
+    "id": "del-vedantu",
+    "name": "Vedantu",
+    "city": "delhi-ncr",
+    "lat": 28.49,
+    "lng": 77.08,
+    "website": "https://www.vedantu.com",
+    "sector": "EdTech",
+    "address": "Gurugram / Bengaluru",
+    "blurb": "Live online tutoring platform.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/vedantu.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.vedantu.com?w=1200"
+    ]
+  },
+  {
+    "id": "del-lenskart",
+    "name": "Lenskart",
+    "city": "delhi-ncr",
+    "lat": 28.4949,
+    "lng": 77.08895,
+    "website": "https://www.lenskart.com",
+    "sector": "Consumer",
+    "address": "Cyber Hub, DLF Cyber City, Gurugram",
+    "blurb": "Eyewear D2C with NCR retail density.",
+    "fundingStage": "Series D+",
+    "buildingId": "del-cyberhub",
+    "buildingName": "Cyber Hub",
+    "logoUrl": "https://logo.clearbit.com/lenskart.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.lenskart.com?w=1200"
+    ]
+  },
+  {
+    "id": "del-urbancompany",
+    "name": "Urban Company",
+    "city": "delhi-ncr",
+    "lat": 28.49495,
+    "lng": 77.08895,
+    "website": "https://www.urbancompany.com",
+    "sector": "Marketplace",
+    "address": "Cyber Hub, DLF Cyber City, Gurugram",
+    "blurb": "Home services marketplace founded in NCR.",
+    "fundingStage": "Series D+",
+    "buildingId": "del-cyberhub",
+    "buildingName": "Cyber Hub",
+    "logoUrl": "https://logo.clearbit.com/urbancompany.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.urbancompany.com?w=1200"
+    ]
+  },
+  {
+    "id": "del-spinny",
+    "name": "Spinny",
+    "city": "delhi-ncr",
+    "lat": 28.47,
+    "lng": 77.07,
+    "website": "https://www.spinny.com",
+    "sector": "Marketplace",
+    "address": "Gurugram",
+    "blurb": "Used-car marketplace.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/spinny.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.spinny.com?w=1200"
+    ]
+  },
+  {
+    "id": "del-cars24",
+    "name": "Cars24",
+    "city": "delhi-ncr",
+    "lat": 28.48,
+    "lng": 77.08,
+    "website": "https://www.cars24.com",
+    "sector": "Marketplace",
+    "address": "Gurugram",
+    "blurb": "Used-car buying and selling platform.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/cars24.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.cars24.com?w=1200"
+    ]
+  },
+  {
+    "id": "del-acko",
+    "name": "ACKO",
+    "city": "delhi-ncr",
+    "lat": 28.49,
+    "lng": 77.09,
+    "website": "https://www.acko.com",
+    "sector": "InsurTech",
+    "address": "Gurugram / Bengaluru",
+    "blurb": "Digital insurance.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/acko.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.acko.com?w=1200"
+    ]
+  },
+  {
+    "id": "del-ofbusiness",
+    "name": "OfBusiness",
+    "city": "delhi-ncr",
+    "lat": 28.495,
+    "lng": 77.08895,
+    "website": "https://www.ofbusiness.com",
+    "sector": "Marketplace",
+    "address": "Cyber Hub, DLF Cyber City, Gurugram",
+    "blurb": "B2B commerce and credit for SMEs.",
+    "fundingStage": "Series D+",
+    "buildingId": "del-cyberhub",
+    "buildingName": "Cyber Hub",
+    "logoUrl": "https://logo.clearbit.com/ofbusiness.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ofbusiness.com?w=1200"
+    ]
+  },
+  {
+    "id": "del-bizongo",
+    "name": "Bizongo",
+    "city": "delhi-ncr",
+    "lat": 28.49,
+    "lng": 77.08,
+    "website": "https://www.bizongo.com",
+    "sector": "Marketplace",
+    "address": "Gurugram",
+    "blurb": "Packaging and manufacturing marketplace.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/bizongo.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.bizongo.com?w=1200"
+    ]
+  },
+  {
+    "id": "del-jumbotail",
+    "name": "Jumbotail",
+    "city": "delhi-ncr",
+    "lat": 28.55,
+    "lng": 77.25,
+    "website": "https://jumbotail.com",
+    "sector": "Marketplace",
+    "address": "Delhi ops / Bengaluru",
+    "blurb": "Food and grocery B2B commerce.",
+    "fundingStage": "Series C",
+    "logoUrl": "https://logo.clearbit.com/jumbotail.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fjumbotail.com?w=1200"
+    ]
+  },
+  {
+    "id": "del-shiprocket",
+    "name": "Shiprocket",
+    "city": "delhi-ncr",
+    "lat": 28.5,
+    "lng": 77.09,
+    "website": "https://www.shiprocket.in",
+    "sector": "Logistics",
+    "address": "Delhi / Gurugram",
+    "blurb": "E-commerce shipping aggregator.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/shiprocket.in",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.shiprocket.in?w=1200"
+    ]
+  },
+  {
+    "id": "del-shadowfax",
+    "name": "Shadowfax",
+    "city": "delhi-ncr",
+    "lat": 28.49,
+    "lng": 77.08,
+    "website": "https://www.shadowfax.in",
+    "sector": "Logistics",
+    "address": "Gurugram / Bengaluru",
+    "blurb": "Last-mile logistics network.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/shadowfax.in",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.shadowfax.in?w=1200"
+    ]
+  },
+  {
+    "id": "del-blackbuck",
+    "name": "BlackBuck",
+    "city": "delhi-ncr",
+    "lat": 28.49,
+    "lng": 77.09,
+    "website": "https://www.blackbuck.com",
+    "sector": "Logistics",
+    "address": "Gurugram / Bengaluru",
+    "blurb": "Truck freight marketplace.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/blackbuck.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.blackbuck.com?w=1200"
+    ]
+  },
+  {
+    "id": "del-ninjacart",
+    "name": "Ninjacart",
+    "city": "delhi-ncr",
+    "lat": 28.55,
+    "lng": 77.2,
+    "website": "https://ninjacart.in",
+    "sector": "AgriTech",
+    "address": "Delhi ops / Bengaluru",
+    "blurb": "Fresh produce supply-chain platform.",
+    "fundingStage": "Series C",
+    "logoUrl": "https://logo.clearbit.com/ninjacart.in",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fninjacart.in?w=1200"
+    ]
+  },
+  {
+    "id": "del-dealshare",
+    "name": "DealShare",
+    "city": "delhi-ncr",
+    "lat": 28.48,
+    "lng": 77.07,
+    "website": "https://www.dealshare.in",
+    "sector": "Marketplace",
+    "address": "Gurugram / Jaipur",
+    "blurb": "Value social commerce for Bharat.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/dealshare.in",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.dealshare.in?w=1200"
+    ]
+  },
+  {
+    "id": "del-sharechat-ncr",
+    "name": "ShareChat NCR",
+    "city": "delhi-ncr",
+    "lat": 28.49,
+    "lng": 77.09,
+    "website": "https://sharechat.com",
+    "sector": "Media",
+    "address": "Gurugram",
+    "blurb": "Indian-language social product presence.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/sharechat.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fsharechat.com?w=1200"
+    ]
+  },
+  {
+    "id": "del-glance",
+    "name": "Glance",
+    "city": "delhi-ncr",
+    "lat": 28.495050000000003,
+    "lng": 77.08895,
+    "website": "https://glance.com",
+    "sector": "Media",
+    "address": "Cyber Hub, DLF Cyber City, Gurugram",
+    "blurb": "Lockscreen content platform from InMobi.",
+    "fundingStage": "Growth",
+    "buildingId": "del-cyberhub",
+    "buildingName": "Cyber Hub",
+    "logoUrl": "https://logo.clearbit.com/glance.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fglance.com?w=1200"
+    ]
+  },
+  {
+    "id": "del-hike",
+    "name": "Hike",
+    "city": "delhi-ncr",
+    "lat": 28.61,
+    "lng": 77.21,
+    "website": "https://hike.in",
+    "sector": "Media",
+    "address": "Delhi",
+    "blurb": "Messaging and Rush gaming brand.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/hike.in",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fhike.in?w=1200"
+    ]
+  },
+  {
+    "id": "del-ixigo",
+    "name": "ixigo",
+    "city": "delhi-ncr",
+    "lat": 28.49,
+    "lng": 77.08,
+    "website": "https://www.ixigo.com",
+    "sector": "Travel",
+    "address": "Gurugram",
+    "blurb": "Travel search and booking app.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/ixigo.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ixigo.com?w=1200"
+    ]
+  },
+  {
+    "id": "del-easemytrip",
+    "name": "EaseMyTrip",
+    "city": "delhi-ncr",
+    "lat": 28.63,
+    "lng": 77.22,
+    "website": "https://www.easemytrip.com",
+    "sector": "Travel",
+    "address": "Delhi",
+    "blurb": "Listed online travel agency.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/easemytrip.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.easemytrip.com?w=1200"
+    ]
+  },
+  {
+    "id": "del-yatra",
+    "name": "Yatra",
+    "city": "delhi-ncr",
+    "lat": 28.49,
+    "lng": 77.09,
+    "website": "https://www.yatra.com",
+    "sector": "Travel",
+    "address": "Gurugram",
+    "blurb": "Online travel agency.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/yatra.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.yatra.com?w=1200"
+    ]
+  },
+  {
+    "id": "del-magicpin",
+    "name": "magicpin",
+    "city": "delhi-ncr",
+    "lat": 28.49,
+    "lng": 77.08,
+    "website": "https://magicpin.in",
+    "sector": "Marketplace",
+    "address": "Gurugram",
+    "blurb": "Hyperlocal discovery and cashback.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/magicpin.in",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fmagicpin.in?w=1200"
+    ]
+  },
+  {
+    "id": "del-1mg",
+    "name": "1mg",
+    "city": "delhi-ncr",
+    "lat": 28.4951,
+    "lng": 77.08895,
+    "website": "https://www.1mg.com",
+    "sector": "Health",
+    "address": "Cyber Hub, DLF Cyber City, Gurugram",
+    "blurb": "Online pharmacy and health content.",
+    "fundingStage": "Growth",
+    "buildingId": "del-cyberhub",
+    "buildingName": "Cyber Hub",
+    "logoUrl": "https://logo.clearbit.com/1mg.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.1mg.com?w=1200"
+    ]
+  },
+  {
+    "id": "del-practo",
+    "name": "Practo",
+    "city": "delhi-ncr",
+    "lat": 28.55,
+    "lng": 77.2,
+    "website": "https://www.practo.com",
+    "sector": "Health",
+    "address": "Delhi / Bengaluru",
+    "blurb": "Doctor discovery and health records.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/practo.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.practo.com?w=1200"
+    ]
+  },
+  {
+    "id": "del-doconline",
+    "name": "DocOnline",
+    "city": "delhi-ncr",
+    "lat": 28.49,
+    "lng": 77.09,
+    "website": "https://www.doconline.com",
+    "sector": "Health",
+    "address": "Gurugram",
+    "blurb": "Telemedicine for enterprises.",
+    "fundingStage": "Series A",
+    "logoUrl": "https://logo.clearbit.com/doconline.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.doconline.com?w=1200"
+    ]
+  },
+  {
+    "id": "del-bharatpe",
+    "name": "BharatPe",
+    "city": "delhi-ncr",
+    "lat": 28.61,
+    "lng": 77.21,
+    "website": "https://bharatpe.com",
+    "sector": "FinTech",
+    "address": "Delhi",
+    "blurb": "Merchant UPI and lending for kiranas.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/bharatpe.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fbharatpe.com?w=1200"
+    ]
+  },
+  {
+    "id": "del-jupiter-ncr",
+    "name": "Jupiter NCR",
+    "city": "delhi-ncr",
+    "lat": 28.49,
+    "lng": 77.09,
+    "website": "https://jupiter.money",
+    "sector": "FinTech",
+    "address": "Gurugram",
+    "blurb": "Digital banking presence in NCR.",
+    "fundingStage": "Series C",
+    "logoUrl": "https://logo.clearbit.com/jupiter.money",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fjupiter.money?w=1200"
+    ]
+  }
+]

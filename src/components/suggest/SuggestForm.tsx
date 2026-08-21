@@ -1,7 +1,7 @@
 "use client";
 
 import * as React from "react";
-import { CITIES, CITY_SLUGS } from "@/lib/cities";
+import { CITIES, COUNTRIES } from "@/lib/cities";
 
 type FormState = {
   name: string;
@@ -171,10 +171,14 @@ export function SuggestForm() {
               required
             >
               <option value="">Choose a city</option>
-              {CITY_SLUGS.map((slug) => (
-                <option key={slug} value={slug}>
-                  {CITIES[slug].name}
-                </option>
+              {COUNTRIES.map((country) => (
+                <optgroup key={country.id} label={country.name}>
+                  {country.citySlugs.map((slug) => (
+                    <option key={slug} value={slug}>
+                      {CITIES[slug].name}
+                    </option>
+                  ))}
+                </optgroup>
               ))}
             </select>
             {fieldErrors.city ? (

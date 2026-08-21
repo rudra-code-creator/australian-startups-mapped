@@ -1,0 +1,328 @@
+[
+  {
+    "id": "chn-zoho",
+    "name": "Zoho",
+    "city": "chennai",
+    "lat": 12.82,
+    "lng": 80.03,
+    "website": "https://www.zoho.com",
+    "sector": "SaaS",
+    "address": "Estancia, Chengalpattu / Chennai",
+    "blurb": "Bootstrapped SaaS giant founded in Chennai’s orbit.",
+    "fundingStage": "Bootstrapped",
+    "logoUrl": "https://logo.clearbit.com/zoho.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.zoho.com?w=1200"
+    ]
+  },
+  {
+    "id": "chn-freshworks",
+    "name": "Freshworks",
+    "city": "chennai",
+    "lat": 13.05,
+    "lng": 80.25,
+    "website": "https://www.freshworks.com",
+    "sector": "SaaS",
+    "address": "Chennai / Bengaluru",
+    "blurb": "Customer engagement SaaS with Chennai founding roots.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/freshworks.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.freshworks.com?w=1200"
+    ]
+  },
+  {
+    "id": "chn-lattr",
+    "name": "LatentView",
+    "city": "chennai",
+    "lat": 12.98895,
+    "lng": 80.2479,
+    "website": "https://www.latentview.com",
+    "sector": "AI",
+    "address": "OMR, Chennai",
+    "blurb": "Analytics and AI services, listed.",
+    "fundingStage": "Public",
+    "buildingId": "chn-omr",
+    "buildingName": "OMR / Tidel Park",
+    "logoUrl": "https://logo.clearbit.com/latentview.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.latentview.com?w=1200"
+    ]
+  },
+  {
+    "id": "chn-caratlane",
+    "name": "CaratLane",
+    "city": "chennai",
+    "lat": 13.05,
+    "lng": 80.25,
+    "website": "https://www.caratlane.com",
+    "sector": "Consumer",
+    "address": "Chennai",
+    "blurb": "Jewellery D2C brand founded in Chennai.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/caratlane.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.caratlane.com?w=1200"
+    ]
+  },
+  {
+    "id": "chn-tvssm",
+    "name": "TVS Motor digital",
+    "city": "chennai",
+    "lat": 13,
+    "lng": 80.2,
+    "website": "https://www.tvsmotor.com",
+    "sector": "Mobility",
+    "address": "Chennai",
+    "blurb": "Two-wheeler major with EV and digital products.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/tvsmotor.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.tvsmotor.com?w=1200"
+    ]
+  },
+  {
+    "id": "chn-aspire",
+    "name": "Aspire Systems",
+    "city": "chennai",
+    "lat": 12.989,
+    "lng": 80.2479,
+    "website": "https://www.aspiresys.com",
+    "sector": "SaaS",
+    "address": "OMR, Chennai",
+    "blurb": "Product engineering firm.",
+    "fundingStage": "Bootstrapped",
+    "buildingId": "chn-omr",
+    "buildingName": "OMR / Tidel Park",
+    "logoUrl": "https://logo.clearbit.com/aspiresys.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.aspiresys.com?w=1200"
+    ]
+  },
+  {
+    "id": "chn-chargebee-chn",
+    "name": "Chargebee Chennai",
+    "city": "chennai",
+    "lat": 12.99,
+    "lng": 80.25,
+    "website": "https://www.chargebee.com",
+    "sector": "SaaS",
+    "address": "Chennai",
+    "blurb": "Subscription billing engineering presence.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/chargebee.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.chargebee.com?w=1200"
+    ]
+  },
+  {
+    "id": "chn-postman-chn",
+    "name": "Postman Chennai",
+    "city": "chennai",
+    "lat": 13,
+    "lng": 80.25,
+    "website": "https://www.postman.com",
+    "sector": "SaaS",
+    "address": "Chennai",
+    "blurb": "API platform engineering.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/postman.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.postman.com?w=1200"
+    ]
+  },
+  {
+    "id": "chn-swiggy-chn",
+    "name": "Swiggy Chennai",
+    "city": "chennai",
+    "lat": 13.04,
+    "lng": 80.23,
+    "website": "https://www.swiggy.com",
+    "sector": "Logistics",
+    "address": "Chennai",
+    "blurb": "Food delivery city ops.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/swiggy.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.swiggy.com?w=1200"
+    ]
+  },
+  {
+    "id": "chn-zomato-chn",
+    "name": "Zomato Chennai",
+    "city": "chennai",
+    "lat": 13.05,
+    "lng": 80.24,
+    "website": "https://www.zomato.com",
+    "sector": "Logistics",
+    "address": "Chennai",
+    "blurb": "Food delivery city ops.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/zomato.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.zomato.com?w=1200"
+    ]
+  },
+  {
+    "id": "chn-flipkart-chn",
+    "name": "Flipkart Chennai",
+    "city": "chennai",
+    "lat": 13,
+    "lng": 80.22,
+    "website": "https://www.flipkart.com",
+    "sector": "Marketplace",
+    "address": "Chennai",
+    "blurb": "E-commerce fulfilment and category presence.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/flipkart.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.flipkart.com?w=1200"
+    ]
+  },
+  {
+    "id": "chn-amazon-chn",
+    "name": "Amazon Chennai",
+    "city": "chennai",
+    "lat": 12.99,
+    "lng": 80.23,
+    "website": "https://www.amazon.in",
+    "sector": "Marketplace",
+    "address": "Chennai",
+    "blurb": "Amazon development and ops.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/amazon.in",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.amazon.in?w=1200"
+    ]
+  },
+  {
+    "id": "chn-tcs-chn",
+    "name": "TCS Chennai",
+    "city": "chennai",
+    "lat": 12.83,
+    "lng": 80.22,
+    "website": "https://www.tcs.com",
+    "sector": "Enterprise",
+    "address": "Siruseri, Chennai",
+    "blurb": "Large TCS campus on OMR.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/tcs.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.tcs.com?w=1200"
+    ]
+  },
+  {
+    "id": "chn-infosys-chn",
+    "name": "Infosys Chennai",
+    "city": "chennai",
+    "lat": 12.9,
+    "lng": 80.23,
+    "website": "https://www.infosys.com",
+    "sector": "Enterprise",
+    "address": "Sholinganallur, Chennai",
+    "blurb": "Infosys SEZ campus.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/infosys.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.infosys.com?w=1200"
+    ]
+  },
+  {
+    "id": "chn-cognizant-chn",
+    "name": "Cognizant Chennai",
+    "city": "chennai",
+    "lat": 12.98905,
+    "lng": 80.2479,
+    "website": "https://www.cognizant.com",
+    "sector": "Enterprise",
+    "address": "OMR, Chennai",
+    "blurb": "Major Cognizant campus.",
+    "fundingStage": "Public",
+    "buildingId": "chn-omr",
+    "buildingName": "OMR / Tidel Park",
+    "logoUrl": "https://logo.clearbit.com/cognizant.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.cognizant.com?w=1200"
+    ]
+  },
+  {
+    "id": "chn-hexaware",
+    "name": "Hexaware",
+    "city": "chennai",
+    "lat": 12.83,
+    "lng": 80.22,
+    "website": "https://hexaware.com",
+    "sector": "Enterprise",
+    "address": "Chennai / Siruseri",
+    "blurb": "IT services company.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/hexaware.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fhexaware.com?w=1200"
+    ]
+  },
+  {
+    "id": "chn-ivtl",
+    "name": "iSOFT / local health IT",
+    "city": "chennai",
+    "lat": 13.05,
+    "lng": 80.25,
+    "website": "https://www.practo.com",
+    "sector": "Health",
+    "address": "Chennai",
+    "blurb": "Health-tech product teams.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/practo.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.practo.com?w=1200"
+    ]
+  },
+  {
+    "id": "chn-bankbazaar",
+    "name": "BankBazaar",
+    "city": "chennai",
+    "lat": 13.05,
+    "lng": 80.25,
+    "website": "https://www.bankbazaar.com",
+    "sector": "FinTech",
+    "address": "Chennai",
+    "blurb": "Credit marketplace founded in Chennai.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/bankbazaar.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.bankbazaar.com?w=1200"
+    ]
+  },
+  {
+    "id": "chn-pickyourtrail",
+    "name": "PickYourTrail",
+    "city": "chennai",
+    "lat": 13.05,
+    "lng": 80.24,
+    "website": "https://www.pickyourtrail.com",
+    "sector": "Travel",
+    "address": "Chennai",
+    "blurb": "Custom holiday packaging platform.",
+    "fundingStage": "Series B",
+    "logoUrl": "https://logo.clearbit.com/pickyourtrail.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.pickyourtrail.com?w=1200"
+    ]
+  },
+  {
+    "id": "chn-shiprocket-chn",
+    "name": "Shiprocket Chennai",
+    "city": "chennai",
+    "lat": 13.04,
+    "lng": 80.23,
+    "website": "https://www.shiprocket.in",
+    "sector": "Logistics",
+    "address": "Chennai",
+    "blurb": "E-commerce logistics presence.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/shiprocket.in",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.shiprocket.in?w=1200"
+    ]
+  }
+]

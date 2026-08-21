@@ -12,7 +12,8 @@
     "logoUrl": "/logos/per-healthengine.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fhealthengine.com.au?w=1200"
-    ]
+    ],
+    "fundingStage": "Public"
   },
   {
     "id": "per-spacecubed-member-1",
@@ -26,7 +27,8 @@
     "address": "45 St Georges Terrace, Perth WA 6000",
     "blurb": "Social casino gaming technology (Perth).",
     "website": "https://www.vgw.co",
-    "logoUrl": "/logos/per-spacecubed-member-1.png"
+    "logoUrl": "/logos/per-spacecubed-member-1.png",
+    "fundingStage": "Public"
   },
   {
     "id": "per-spacecubed-member-2",
@@ -40,7 +42,8 @@
     "address": "45 St Georges Terrace, Perth WA 6000",
     "blurb": "AI video surveillance analytics.",
     "website": "https://icetana.com",
-    "logoUrl": "/logos/per-spacecubed-member-2.png"
+    "logoUrl": "/logos/per-spacecubed-member-2.png",
+    "fundingStage": "Pre-seed"
   },
   {
     "id": "per-spacecubed-member-3",
@@ -54,7 +57,8 @@
     "address": "45 St Georges Terrace, Perth WA 6000",
     "blurb": "HPC and geoscience technology.",
     "website": "https://dug.com",
-    "logoUrl": "/logos/per-spacecubed-member-3.png"
+    "logoUrl": "/logos/per-spacecubed-member-3.png",
+    "fundingStage": "Seed"
   },
   {
     "id": "per-spacecubed-member-4",
@@ -68,7 +72,8 @@
     "address": "45 St Georges Terrace, Perth WA 6000",
     "blurb": "Neuromorphic AI semiconductor company.",
     "website": "https://brainchip.com",
-    "logoUrl": "/logos/per-spacecubed-member-4.png"
+    "logoUrl": "/logos/per-spacecubed-member-4.png",
+    "fundingStage": "Seed"
   },
   {
     "id": "per-spacecubed-member-5",
@@ -82,7 +87,8 @@
     "address": "45 St Georges Terrace, Perth WA 6000",
     "blurb": "Clean hydrogen and graphite technology.",
     "website": "https://hazergroup.com.au",
-    "logoUrl": "/logos/per-spacecubed-member-5.png"
+    "logoUrl": "/logos/per-spacecubed-member-5.png",
+    "fundingStage": "Series A"
   },
   {
     "id": "per-spacecubed-member-6",
@@ -96,7 +102,8 @@
     "address": "45 St Georges Terrace, Perth WA 6000",
     "blurb": "Talent acquisition SaaS.",
     "website": "https://www.livehire.com",
-    "logoUrl": "/logos/per-spacecubed-member-6.png"
+    "logoUrl": "/logos/per-spacecubed-member-6.png",
+    "fundingStage": "Series A"
   },
   {
     "id": "per-spacecubed-member-7",
@@ -110,7 +117,8 @@
     "address": "45 St Georges Terrace, Perth WA 6000",
     "blurb": "Connectivity and broadband network.",
     "website": "https://www.superloop.com",
-    "logoUrl": "/logos/per-spacecubed-member-7.png"
+    "logoUrl": "/logos/per-spacecubed-member-7.png",
+    "fundingStage": "Series B"
   },
   {
     "id": "per-spacecubed-member-8",
@@ -124,7 +132,8 @@
     "address": "45 St Georges Terrace, Perth WA 6000",
     "blurb": "Perth innovation hub and community.",
     "website": "https://spacecubed.com",
-    "logoUrl": "/logos/per-spacecubed-member-8.png"
+    "logoUrl": "/logos/per-spacecubed-member-8.png",
+    "fundingStage": "Series B"
   },
   {
     "id": "per-lynn-tech",
@@ -136,7 +145,8 @@
     "address": "Perth CBD WA (approximate HQ area)",
     "blurb": "Banking and digital member services (WA).",
     "website": "https://www.bankwest.com.au",
-    "logoUrl": "/logos/per-lynn-tech.png"
+    "logoUrl": "/logos/per-lynn-tech.png",
+    "fundingStage": "Series A"
   },
   {
     "id": "per-woodside-digital",
@@ -148,7 +158,8 @@
     "address": "Perth CBD WA (approximate HQ area)",
     "blurb": "Woodside (Digital) is a energy company in Australia’s startup ecosystem.",
     "website": "https://www.woodside.com",
-    "logoUrl": "/logos/per-woodside-digital.png"
+    "logoUrl": "/logos/per-woodside-digital.png",
+    "fundingStage": "Series D+"
   },
   {
     "id": "per-bhp-tech",
@@ -160,7 +171,8 @@
     "address": "Perth CBD WA (approximate HQ area)",
     "blurb": "BHP (Tech) is a miningtech company in Australia’s startup ecosystem.",
     "website": "https://www.bhp.com",
-    "logoUrl": "/logos/per-bhp-tech.png"
+    "logoUrl": "/logos/per-bhp-tech.png",
+    "fundingStage": "Series B"
   },
   {
     "id": "per-rio-tech",
@@ -172,7 +184,8 @@
     "address": "Perth CBD WA (approximate HQ area)",
     "blurb": "Rio Tinto (Tech) is a miningtech company in Australia’s startup ecosystem.",
     "website": "https://www.riotinto.com",
-    "logoUrl": "/logos/per-rio-tech.png"
+    "logoUrl": "/logos/per-rio-tech.png",
+    "fundingStage": "Pre-seed"
   },
   {
     "id": "per-fortescue-future",
@@ -184,7 +197,8 @@
     "address": "Perth CBD WA (approximate HQ area)",
     "blurb": "Fortescue (Energy/Tech) is a energy company in Australia’s startup ecosystem.",
     "website": "https://www.fortescue.com",
-    "logoUrl": "/logos/per-fortescue-future.png"
+    "logoUrl": "/logos/per-fortescue-future.png",
+    "fundingStage": "Series A"
   },
   {
     "id": "per-nearmap-per",
@@ -196,7 +210,8 @@
     "address": "Perth CBD WA (approximate HQ area)",
     "blurb": "Nearmap (Perth office) is a geotech company in Australia’s startup ecosystem.",
     "website": "https://www.nearmap.com",
-    "logoUrl": "/logos/per-nearmap-per.png"
+    "logoUrl": "/logos/per-nearmap-per.png",
+    "fundingStage": "Seed"
   },
   {
     "id": "per-telethon-kids-tech",
@@ -208,7 +223,8 @@
     "address": "Perth CBD WA (approximate HQ area)",
     "blurb": "Telethon Kids (Digital) is a health company in Australia’s startup ecosystem.",
     "website": "https://www.telethonkids.org.au",
-    "logoUrl": "/logos/per-telethon-kids-tech.png"
+    "logoUrl": "/logos/per-telethon-kids-tech.png",
+    "fundingStage": "Public"
   },
   {
     "id": "per-uw-ventures",
@@ -220,7 +236,8 @@
     "address": "Perth CBD WA (approximate HQ area)",
     "blurb": "University of Western Australia innovation.",
     "website": "https://www.uwa.edu.au",
-    "logoUrl": "/logos/per-uw-ventures.png"
+    "logoUrl": "/logos/per-uw-ventures.png",
+    "fundingStage": "Pre-seed"
   },
   {
     "id": "per-curtin-innovate",
@@ -232,7 +249,8 @@
     "address": "Perth CBD WA (approximate HQ area)",
     "blurb": "Curtin research commercialisation.",
     "website": "https://www.curtin.edu.au",
-    "logoUrl": "/logos/per-curtin-innovate.png"
+    "logoUrl": "/logos/per-curtin-innovate.png",
+    "fundingStage": "Bootstrapped"
   },
   {
     "id": "per-edtech-wa",
@@ -244,7 +262,8 @@
     "address": "Perth CBD WA (approximate HQ area)",
     "blurb": "School communication app.",
     "website": "https://www.skoolbag.com.au",
-    "logoUrl": "/logos/per-edtech-wa.png"
+    "logoUrl": "/logos/per-edtech-wa.png",
+    "fundingStage": "Series A"
   },
   {
     "id": "per-agtech-wa",
@@ -256,7 +275,8 @@
     "address": "Perth CBD WA (approximate HQ area)",
     "blurb": "Farm management software.",
     "website": "https://www.agworld.com",
-    "logoUrl": "/logos/per-agtech-wa.png"
+    "logoUrl": "/logos/per-agtech-wa.png",
+    "fundingStage": "Pre-seed"
   },
   {
     "id": "per-proptech",
@@ -268,7 +288,8 @@
     "address": "Perth CBD WA (approximate HQ area)",
     "blurb": "WA property industry digital platform.",
     "website": "https://reiwa.com.au",
-    "logoUrl": "/logos/per-proptech.png"
+    "logoUrl": "/logos/per-proptech.png",
+    "fundingStage": "Bootstrapped"
   },
   {
     "id": "per-insurtech",
@@ -280,7 +301,8 @@
     "address": "Perth CBD WA (approximate HQ area)",
     "blurb": "Health insurance and digital member services.",
     "website": "https://www.hbf.com.au",
-    "logoUrl": "/logos/per-insurtech.png"
+    "logoUrl": "/logos/per-insurtech.png",
+    "fundingStage": "Series B"
   },
   {
     "id": "per-marketplace",
@@ -292,7 +314,8 @@
     "address": "Perth CBD WA (approximate HQ area)",
     "blurb": "Classifieds marketplace.",
     "website": "https://www.gumtree.com.au",
-    "logoUrl": "/logos/per-marketplace.png"
+    "logoUrl": "/logos/per-marketplace.png",
+    "fundingStage": "Pre-seed"
   },
   {
     "id": "per-travel-tech",
@@ -304,7 +327,8 @@
     "address": "Perth CBD WA (approximate HQ area)",
     "blurb": "Destination marketing technology.",
     "website": "https://www.westernaustralia.com",
-    "logoUrl": "/logos/per-travel-tech.png"
+    "logoUrl": "/logos/per-travel-tech.png",
+    "fundingStage": "Seed"
   },
   {
     "id": "per-retail-tech",
@@ -316,7 +340,8 @@
     "address": "Perth CBD WA (approximate HQ area)",
     "blurb": "Grants and funding management software.",
     "website": "https://www.openwindows.com.au",
-    "logoUrl": "/logos/per-retail-tech.png"
+    "logoUrl": "/logos/per-retail-tech.png",
+    "fundingStage": "Growth"
   },
   {
     "id": "per-ecommerce-tools",
@@ -328,7 +353,8 @@
     "address": "Perth CBD WA (approximate HQ area)",
     "blurb": "Ecommerce and marketing cloud.",
     "website": "https://www.maropost.com",
-    "logoUrl": "/logos/per-ecommerce-tools.png"
+    "logoUrl": "/logos/per-ecommerce-tools.png",
+    "fundingStage": "Series A"
   },
   {
     "id": "per-devtools",
@@ -340,7 +366,8 @@
     "address": "Perth CBD WA (approximate HQ area)",
     "blurb": "Team collaboration software.",
     "website": "https://www.atlassian.com",
-    "logoUrl": "/logos/per-devtools.png"
+    "logoUrl": "/logos/per-devtools.png",
+    "fundingStage": "Series C"
   },
   {
     "id": "per-data-platform",
@@ -352,7 +379,8 @@
     "address": "Perth CBD WA (approximate HQ area)",
     "blurb": "Aerial imagery and location data.",
     "website": "https://www.nearmap.com",
-    "logoUrl": "/logos/per-data-platform.png"
+    "logoUrl": "/logos/per-data-platform.png",
+    "fundingStage": "Series A"
   },
   {
     "id": "per-community",
@@ -364,7 +392,8 @@
     "address": "Perth CBD WA (approximate HQ area)",
     "blurb": "Startup community and coworking.",
     "website": "https://spacecubed.com",
-    "logoUrl": "/logos/per-community.png"
+    "logoUrl": "/logos/per-community.png",
+    "fundingStage": "Seed"
   },
   {
     "id": "per-creator-tools",
@@ -376,7 +405,8 @@
     "address": "Perth CBD WA (approximate HQ area)",
     "blurb": "Visual communication platform.",
     "website": "https://www.canva.com",
-    "logoUrl": "/logos/per-creator-tools.png"
+    "logoUrl": "/logos/per-creator-tools.png",
+    "fundingStage": "Series A"
   },
   {
     "id": "per-security",
@@ -388,7 +418,8 @@
     "address": "Perth CBD WA (approximate HQ area)",
     "blurb": "CyberCX (Perth office) is a security company in Australia’s startup ecosystem.",
     "website": "https://cybercx.com.au",
-    "logoUrl": "/logos/per-security.png"
+    "logoUrl": "/logos/per-security.png",
+    "fundingStage": "Growth"
   },
   {
     "id": "per-saas-wa",
@@ -400,7 +431,8 @@
     "address": "Perth CBD WA (approximate HQ area)",
     "blurb": "HR and payroll SaaS.",
     "website": "https://employmenthero.com",
-    "logoUrl": "/logos/per-saas-wa.png"
+    "logoUrl": "/logos/per-saas-wa.png",
+    "fundingStage": "Pre-seed"
   },
   {
     "id": "per-hr-tech",
@@ -412,7 +444,8 @@
     "address": "Perth CBD WA (approximate HQ area)",
     "blurb": "HR and talent management software.",
     "website": "https://elmorsoftware.com",
-    "logoUrl": "/logos/per-hr-tech.png"
+    "logoUrl": "/logos/per-hr-tech.png",
+    "fundingStage": "Series B"
   },
   {
     "id": "per-construction-tech",
@@ -424,7 +457,8 @@
     "address": "Perth CBD WA (approximate HQ area)",
     "blurb": "Construction ERP software.",
     "website": "https://www.jobpac.com.au",
-    "logoUrl": "/logos/per-construction-tech.png"
+    "logoUrl": "/logos/per-construction-tech.png",
+    "fundingStage": "Public"
   },
   {
     "id": "per-mobility",
@@ -436,7 +470,8 @@
     "address": "Perth CBD WA (approximate HQ area)",
     "blurb": "Mobility and member services technology.",
     "website": "https://rac.com.au",
-    "logoUrl": "/logos/per-mobility.png"
+    "logoUrl": "/logos/per-mobility.png",
+    "fundingStage": "Series A"
   },
   {
     "id": "per-legaltech",
@@ -448,7 +483,8 @@
     "address": "Perth CBD WA (approximate HQ area)",
     "blurb": "Legal property search technology.",
     "website": "https://www.infotrack.com.au",
-    "logoUrl": "/logos/per-legaltech.png"
+    "logoUrl": "/logos/per-legaltech.png",
+    "fundingStage": "Series D+"
   },
   {
     "id": "per-marketing-platform",
@@ -460,7 +496,8 @@
     "address": "Perth CBD WA (approximate HQ area)",
     "blurb": "Email and journey marketing.",
     "website": "https://www.campaignmonitor.com",
-    "logoUrl": "/logos/per-marketing-platform.png"
+    "logoUrl": "/logos/per-marketing-platform.png",
+    "fundingStage": "Public"
   },
   {
     "id": "per-enterprise-saas",
@@ -472,7 +509,8 @@
     "address": "Perth CBD WA (approximate HQ area)",
     "blurb": "Enterprise SaaS suites.",
     "website": "https://www.technologyonecorp.com",
-    "logoUrl": "/logos/per-enterprise-saas.png"
+    "logoUrl": "/logos/per-enterprise-saas.png",
+    "fundingStage": "Seed"
   },
   {
     "id": "per-climate-saas",
@@ -484,7 +522,8 @@
     "address": "Perth CBD WA (approximate HQ area)",
     "blurb": "Green energy and industry.",
     "website": "https://www.fortescue.com",
-    "logoUrl": "/logos/per-climate-saas.png"
+    "logoUrl": "/logos/per-climate-saas.png",
+    "fundingStage": "Series B"
   },
   {
     "id": "per-iot-sensors",
@@ -496,7 +535,8 @@
     "address": "Perth CBD WA (approximate HQ area)",
     "blurb": "Mining technology and downhole tools.",
     "website": "https://www.imdexlimited.com",
-    "logoUrl": "/logos/per-iot-sensors.png"
+    "logoUrl": "/logos/per-iot-sensors.png",
+    "fundingStage": "Public"
   },
   {
     "id": "per-ocean-tech",
@@ -508,7 +548,8 @@
     "address": "Perth CBD WA (approximate HQ area)",
     "blurb": "Wave energy technology.",
     "website": "https://www.carnegiece.com",
-    "logoUrl": "/logos/per-ocean-tech.png"
+    "logoUrl": "/logos/per-ocean-tech.png",
+    "fundingStage": "Seed"
   },
   {
     "id": "per-space-wa",
@@ -520,7 +561,8 @@
     "address": "Perth CBD WA (approximate HQ area)",
     "blurb": "Launch and space systems.",
     "website": "https://www.gspace.com",
-    "logoUrl": "/logos/per-space-wa.png"
+    "logoUrl": "/logos/per-space-wa.png",
+    "fundingStage": "Series B"
   },
   {
     "id": "per-foodtech",
@@ -532,6 +574,7 @@
     "address": "Perth CBD WA (approximate HQ area)",
     "blurb": "Food and beverage brand platform.",
     "website": "https://www.hippandco.com",
-    "logoUrl": "/logos/per-foodtech.png"
+    "logoUrl": "/logos/per-foodtech.png",
+    "fundingStage": "Seed"
   }
 ]

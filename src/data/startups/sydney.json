@@ -12,7 +12,8 @@
     "logoUrl": "/logos/syd-canva.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.canva.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Series B"
   },
   {
     "id": "syd-atlassian",
@@ -27,7 +28,8 @@
     "logoUrl": "/logos/syd-atlassian.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.atlassian.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Series D+"
   },
   {
     "id": "syd-safetyculture",
@@ -42,7 +44,8 @@
     "logoUrl": "/logos/syd-safetyculture.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fsafetyculture.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Seed"
   },
   {
     "id": "syd-airtasker",
@@ -57,7 +60,8 @@
     "logoUrl": "/logos/syd-airtasker.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.airtasker.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Seed"
   },
   {
     "id": "syd-freelancer",
@@ -72,7 +76,8 @@
     "logoUrl": "/logos/syd-freelancer.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.freelancer.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Public"
   },
   {
     "id": "syd-campaign-monitor",
@@ -87,7 +92,8 @@
     "logoUrl": "/logos/syd-campaign-monitor.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.campaignmonitor.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Series B"
   },
   {
     "id": "syd-finder",
@@ -104,7 +110,8 @@
     "logoUrl": "/logos/syd-finder.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.finder.com.au?w=1200"
-    ]
+    ],
+    "fundingStage": "Seed"
   },
   {
     "id": "syd-tyro-payments",
@@ -121,7 +128,8 @@
     "logoUrl": "/logos/syd-tyro-payments.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Ftyro.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Seed"
   },
   {
     "id": "syd-brighte",
@@ -138,7 +146,8 @@
     "logoUrl": "/logos/syd-brighte.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fbrighte.com.au?w=1200"
-    ]
+    ],
+    "fundingStage": "Seed"
   },
   {
     "id": "syd-indebted",
@@ -155,7 +164,8 @@
     "logoUrl": "/logos/syd-indebted.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.indebted.co?w=1200"
-    ]
+    ],
+    "fundingStage": "Series A"
   },
   {
     "id": "syd-lumi",
@@ -172,7 +182,8 @@
     "logoUrl": "/logos/syd-lumi.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.lumi.com.au?w=1200"
-    ]
+    ],
+    "fundingStage": "Series B"
   },
   {
     "id": "syd-zip",
@@ -187,7 +198,8 @@
     "logoUrl": "/logos/syd-zip.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fzip.co?w=1200"
-    ]
+    ],
+    "fundingStage": "Series C"
   },
   {
     "id": "syd-afterpay",
@@ -202,7 +214,8 @@
     "logoUrl": "/logos/syd-afterpay.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.afterpay.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Series A"
   },
   {
     "id": "syd-klarna-au",
@@ -214,7 +227,8 @@
     "address": "Sydney CBD NSW (approximate HQ area)",
     "blurb": "Klarna (AU office) is a fintech company in Australia’s startup ecosystem.",
     "website": "https://www.klarna.com",
-    "logoUrl": "/logos/syd-klarna-au.png"
+    "logoUrl": "/logos/syd-klarna-au.png",
+    "fundingStage": "Series B"
   },
   {
     "id": "syd-shippit",
@@ -229,7 +243,8 @@
     "logoUrl": "/logos/syd-shippit.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.shippit.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Seed"
   },
   {
     "id": "syd-immutable",
@@ -244,7 +259,8 @@
     "logoUrl": "/logos/syd-immutable.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.immutable.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Pre-seed"
   },
   {
     "id": "syd-kasada",
@@ -259,7 +275,8 @@
     "logoUrl": "/logos/syd-kasada.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.kasada.io?w=1200"
-    ]
+    ],
+    "fundingStage": "Seed"
   },
   {
     "id": "syd-eucalyptus",
@@ -274,7 +291,8 @@
     "logoUrl": "/logos/syd-eucalyptus.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Feucalyptus.vc?w=1200"
-    ]
+    ],
+    "fundingStage": "Seed"
   },
   {
     "id": "syd-vow",
@@ -289,7 +307,8 @@
     "logoUrl": "/logos/syd-vow.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fvowfood.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Series A"
   },
   {
     "id": "syd-unlockd",
@@ -301,7 +320,8 @@
     "address": "Sydney CBD NSW (approximate HQ area)",
     "blurb": "Unlockd is a adtech company in Australia’s startup ecosystem.",
     "website": "https://www.unlockd.me",
-    "logoUrl": "/logos/syd-unlockd.png"
+    "logoUrl": "/logos/syd-unlockd.png",
+    "fundingStage": "Seed"
   },
   {
     "id": "syd-harrison-ai",
@@ -316,7 +336,8 @@
     "logoUrl": "/logos/syd-harrison-ai.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.harrison.ai?w=1200"
-    ]
+    ],
+    "fundingStage": "Seed"
   },
   {
     "id": "syd-prospa",
@@ -331,7 +352,8 @@
     "logoUrl": "/logos/syd-prospa.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.prospa.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Series C"
   },
   {
     "id": "syd-tyro-health",
@@ -343,7 +365,8 @@
     "address": "Sydney CBD NSW (approximate HQ area)",
     "blurb": "HealthMatch is a health company in Australia’s startup ecosystem.",
     "website": "https://www.healthmatch.io",
-    "logoUrl": "/logos/syd-tyro-health.png"
+    "logoUrl": "/logos/syd-tyro-health.png",
+    "fundingStage": "Series B"
   },
   {
     "id": "syd-luxury-escapes",
@@ -358,7 +381,8 @@
     "logoUrl": "/logos/syd-luxury-escapes.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fluxuryescapes.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Seed"
   },
   {
     "id": "syd-zero-co",
@@ -373,7 +397,8 @@
     "logoUrl": "/logos/syd-zero-co.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fzero.co?w=1200"
-    ]
+    ],
+    "fundingStage": "Series A"
   },
   {
     "id": "syd-nabtech",
@@ -385,7 +410,8 @@
     "address": "Sydney CBD NSW (approximate HQ area)",
     "blurb": "NAB (Tech hub) is a fintech company in Australia’s startup ecosystem.",
     "website": "https://www.nab.com.au",
-    "logoUrl": "/logos/syd-nabtech.png"
+    "logoUrl": "/logos/syd-nabtech.png",
+    "fundingStage": "Bootstrapped"
   },
   {
     "id": "syd-tyro-labs",
@@ -397,7 +423,8 @@
     "address": "Sydney CBD NSW (approximate HQ area)",
     "blurb": "Reejig is a hr company in Australia’s startup ecosystem.",
     "website": "https://reejig.com",
-    "logoUrl": "/logos/syd-tyro-labs.png"
+    "logoUrl": "/logos/syd-tyro-labs.png",
+    "fundingStage": "Series C"
   },
   {
     "id": "syd-protecht",
@@ -409,7 +436,8 @@
     "address": "Sydney CBD NSW (approximate HQ area)",
     "blurb": "Talon.One (AU office) is a marketing company in Australia’s startup ecosystem.",
     "website": "https://www.talon.one",
-    "logoUrl": "/logos/syd-protecht.png"
+    "logoUrl": "/logos/syd-protecht.png",
+    "fundingStage": "Series B"
   },
   {
     "id": "syd-zeroconnect",
@@ -424,7 +452,8 @@
     "logoUrl": "/logos/syd-zeroconnect.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.deputy.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Series A"
   },
   {
     "id": "syd-mrt-yieldify",
@@ -436,7 +465,8 @@
     "address": "Sydney CBD NSW (approximate HQ area)",
     "blurb": "Yieldify (AU office) is a marketing company in Australia’s startup ecosystem.",
     "website": "https://www.yieldify.com",
-    "logoUrl": "/logos/syd-mrt-yieldify.png"
+    "logoUrl": "/logos/syd-mrt-yieldify.png",
+    "fundingStage": "Seed"
   },
   {
     "id": "syd-hipages",
@@ -451,7 +481,8 @@
     "logoUrl": "/logos/syd-hipages.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fhipages.com.au?w=1200"
-    ]
+    ],
+    "fundingStage": "Series B"
   },
   {
     "id": "syd-zenobe",
@@ -463,7 +494,8 @@
     "address": "Sydney CBD NSW (approximate HQ area)",
     "blurb": "HiSmile (Sydney office) is a ecommerce company in Australia’s startup ecosystem.",
     "website": "https://hismileteeth.com",
-    "logoUrl": "/logos/syd-zenobe.png"
+    "logoUrl": "/logos/syd-zenobe.png",
+    "fundingStage": "Series C"
   },
   {
     "id": "syd-assembly-payments",
@@ -478,7 +510,8 @@
     "logoUrl": "/logos/syd-assembly-payments.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fassemblypayments.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Bootstrapped"
   },
   {
     "id": "syd-paymentwall-au",
@@ -490,7 +523,8 @@
     "address": "Sydney CBD NSW (approximate HQ area)",
     "blurb": "Chargefox (Sydney office) is a energy company in Australia’s startup ecosystem.",
     "website": "https://www.chargefox.com",
-    "logoUrl": "/logos/syd-paymentwall-au.png"
+    "logoUrl": "/logos/syd-paymentwall-au.png",
+    "fundingStage": "Series B"
   },
   {
     "id": "syd-vet-chat",
@@ -502,7 +536,8 @@
     "address": "Sydney CBD NSW (approximate HQ area)",
     "blurb": "Pet insurance technology and claims.",
     "website": "https://www.petsure.com.au",
-    "logoUrl": "/logos/syd-vet-chat.png"
+    "logoUrl": "/logos/syd-vet-chat.png",
+    "fundingStage": "Series A"
   },
   {
     "id": "syd-lovewell",
@@ -514,7 +549,8 @@
     "address": "Sydney CBD NSW (approximate HQ area)",
     "blurb": "HealthEngine (Sydney office) is a health company in Australia’s startup ecosystem.",
     "website": "https://healthengine.com.au",
-    "logoUrl": "/logos/syd-lovewell.png"
+    "logoUrl": "/logos/syd-lovewell.png",
+    "fundingStage": "Pre-seed"
   },
   {
     "id": "syd-archistar",
@@ -526,7 +562,8 @@
     "address": "Sydney CBD NSW (approximate HQ area)",
     "blurb": "Archistar (Sydney office) is a proptech company in Australia’s startup ecosystem.",
     "website": "https://archistar.ai",
-    "logoUrl": "/logos/syd-archistar.png"
+    "logoUrl": "/logos/syd-archistar.png",
+    "fundingStage": "Series A"
   },
   {
     "id": "syd-quantium",
@@ -541,7 +578,8 @@
     "logoUrl": "/logos/syd-quantium.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.quantium.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Series B"
   },
   {
     "id": "syd-tyro-ml",
@@ -553,7 +591,8 @@
     "address": "Sydney CBD NSW (approximate HQ area)",
     "blurb": "Web3 gaming and NFT infrastructure.",
     "website": "https://www.immutable.com",
-    "logoUrl": "/logos/syd-tyro-ml.png"
+    "logoUrl": "/logos/syd-tyro-ml.png",
+    "fundingStage": "Series A"
   },
   {
     "id": "syd-halon",
@@ -568,7 +607,8 @@
     "logoUrl": "/logos/syd-halon.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fbuildkite.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Series D+"
   },
   {
     "id": "syd-tyro-insure",
@@ -583,7 +623,8 @@
     "logoUrl": "/logos/syd-tyro-insure.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fcovergenius.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Series C"
   },
   {
     "id": "syd-redbubble-syd",
@@ -595,7 +636,8 @@
     "address": "Sydney CBD NSW (approximate HQ area)",
     "blurb": "Redbubble (Sydney office) is a ecommerce company in Australia’s startup ecosystem.",
     "website": "https://www.redbubble.com",
-    "logoUrl": "/logos/syd-redbubble-syd.png"
+    "logoUrl": "/logos/syd-redbubble-syd.png",
+    "fundingStage": "Series D+"
   },
   {
     "id": "syd-better-caring",
@@ -607,7 +649,8 @@
     "address": "Sydney CBD NSW (approximate HQ area)",
     "blurb": "Mable (Sydney office) is a marketplace company in Australia’s startup ecosystem.",
     "website": "https://mable.com.au",
-    "logoUrl": "/logos/syd-better-caring.png"
+    "logoUrl": "/logos/syd-better-caring.png",
+    "fundingStage": "Series B"
   },
   {
     "id": "syd-wisetech-syd",
@@ -619,7 +662,8 @@
     "address": "Sydney CBD NSW (approximate HQ area)",
     "blurb": "WiseTech Global (Sydney office) is a logistics company in Australia’s startup ecosystem.",
     "website": "https://www.wisetechglobal.com",
-    "logoUrl": "/logos/syd-wisetech-syd.png"
+    "logoUrl": "/logos/syd-wisetech-syd.png",
+    "fundingStage": "Public"
   },
   {
     "id": "syd-tyro-data",
@@ -631,7 +675,8 @@
     "address": "Sydney CBD NSW (approximate HQ area)",
     "blurb": "DataStax (AU office) is a data company in Australia’s startup ecosystem.",
     "website": "https://www.datastax.com",
-    "logoUrl": "/logos/syd-tyro-data.png"
+    "logoUrl": "/logos/syd-tyro-data.png",
+    "fundingStage": "Public"
   },
   {
     "id": "syd-tyro-cyber",
@@ -643,7 +688,8 @@
     "address": "Sydney CBD NSW (approximate HQ area)",
     "blurb": "CyberCX (Sydney office) is a security company in Australia’s startup ecosystem.",
     "website": "https://cybercx.com.au",
-    "logoUrl": "/logos/syd-tyro-cyber.png"
+    "logoUrl": "/logos/syd-tyro-cyber.png",
+    "fundingStage": "Series B"
   },
   {
     "id": "syd-lyra",
@@ -658,7 +704,8 @@
     "logoUrl": "/logos/syd-lyra.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Flyratechnologies.com.au?w=1200"
-    ]
+    ],
+    "fundingStage": "Pre-seed"
   },
   {
     "id": "syd-kinso",
@@ -673,6 +720,7 @@
     "logoUrl": "/logos/syd-kinso.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fkinso.ai?w=1200"
-    ]
+    ],
+    "fundingStage": "Seed"
   }
 ]

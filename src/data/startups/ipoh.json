@@ -1,0 +1,242 @@
+[
+  {
+    "id": "iph-utp",
+    "name": "UTP",
+    "city": "ipoh",
+    "lat": 4.3866,
+    "lng": 100.9794,
+    "website": "https://www.utp.edu.my",
+    "sector": "Hub",
+    "address": "Seri Iskandar, Perak",
+    "blurb": "PETRONAS university commercialising energy and digital tech near Ipoh.",
+    "logoUrl": "https://logo.clearbit.com/utp.edu.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.utp.edu.my?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "iph-perak-digital",
+    "name": "Perak Digital",
+    "city": "ipoh",
+    "lat": 4.5975,
+    "lng": 101.0901,
+    "website": "https://www.perak.gov.my",
+    "sector": "Hub",
+    "address": "Ipoh, Perak",
+    "blurb": "State digital economy programmes.",
+    "logoUrl": "https://logo.clearbit.com/perak.gov.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.perak.gov.my?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "iph-grab",
+    "name": "Grab Ipoh",
+    "city": "ipoh",
+    "lat": 4.5958,
+    "lng": 101.0876,
+    "website": "https://www.grab.com",
+    "sector": "Superapp",
+    "address": "Ipoh, Perak",
+    "blurb": "City operations for Kinta Valley mobility and food.",
+    "logoUrl": "https://logo.clearbit.com/grab.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.grab.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "iph-shopee",
+    "name": "Shopee Ipoh",
+    "city": "ipoh",
+    "lat": 4.6012,
+    "lng": 101.0908,
+    "website": "https://shopee.com.my",
+    "sector": "Marketplace",
+    "address": "Ipoh, Perak",
+    "blurb": "E-commerce ops for Perak.",
+    "logoUrl": "https://logo.clearbit.com/shopee.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fshopee.com.my?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "iph-foodpanda",
+    "name": "foodpanda Ipoh",
+    "city": "ipoh",
+    "lat": 4.5988,
+    "lng": 101.0824,
+    "website": "https://www.foodpanda.my",
+    "sector": "Logistics",
+    "address": "Ipoh, Perak",
+    "blurb": "Delivery network across Ipoh Old Town and Greentown.",
+    "logoUrl": "https://logo.clearbit.com/foodpanda.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.foodpanda.my?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "iph-storehub",
+    "name": "StoreHub Ipoh",
+    "city": "ipoh",
+    "lat": 4.5952,
+    "lng": 101.0768,
+    "website": "https://www.storehub.com",
+    "sector": "SaaS",
+    "address": "Ipoh Old Town, Perak",
+    "blurb": "Cloud POS for Ipoh’s F&B scene.",
+    "logoUrl": "https://logo.clearbit.com/storehub.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.storehub.com?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "iph-tng",
+    "name": "Touch 'n Go Ipoh",
+    "city": "ipoh",
+    "lat": 4.5972,
+    "lng": 101.0912,
+    "website": "https://www.touchngo.com.my",
+    "sector": "FinTech",
+    "address": "Ipoh, Perak",
+    "blurb": "Transit and merchant wallet presence.",
+    "logoUrl": "https://logo.clearbit.com/touchngo.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.touchngo.com.my?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "iph-boost",
+    "name": "Boost Ipoh",
+    "city": "ipoh",
+    "lat": 4.5994,
+    "lng": 101.0884,
+    "website": "https://www.myboost.com.my",
+    "sector": "FinTech",
+    "address": "Ipoh, Perak",
+    "blurb": "e-wallet acquiring.",
+    "logoUrl": "https://logo.clearbit.com/myboost.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.myboost.com.my?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "iph-carsome",
+    "name": "Carsome Ipoh",
+    "city": "ipoh",
+    "lat": 4.5846,
+    "lng": 101.0862,
+    "website": "https://www.carsome.my",
+    "sector": "Marketplace",
+    "address": "Ipoh, Perak",
+    "blurb": "Used-car inspection centre.",
+    "logoUrl": "https://logo.clearbit.com/carsome.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.carsome.my?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "iph-ninjavan",
+    "name": "Ninja Van Ipoh",
+    "city": "ipoh",
+    "lat": 4.5728,
+    "lng": 101.0946,
+    "website": "https://www.ninjavan.co",
+    "sector": "Logistics",
+    "address": "Ipoh, Perak",
+    "blurb": "Last-mile hub for the Kinta Valley.",
+    "logoUrl": "https://logo.clearbit.com/ninjavan.co",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ninjavan.co?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "iph-easyparcel",
+    "name": "EasyParcel Ipoh",
+    "city": "ipoh",
+    "lat": 4.5964,
+    "lng": 101.0894,
+    "website": "https://www.easyparcel.com",
+    "sector": "Logistics",
+    "address": "Ipoh, Perak",
+    "blurb": "Parcel aggregator for Perak SMEs.",
+    "logoUrl": "https://logo.clearbit.com/easyparcel.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.easyparcel.com?w=1200"
+    ],
+    "fundingStage": "Series D+"
+  },
+  {
+    "id": "iph-ghl",
+    "name": "GHL Ipoh",
+    "city": "ipoh",
+    "lat": 4.5982,
+    "lng": 101.0906,
+    "website": "https://www.ghl.com",
+    "sector": "FinTech",
+    "address": "Ipoh, Perak",
+    "blurb": "Merchant acquiring.",
+    "logoUrl": "https://logo.clearbit.com/ghl.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ghl.com?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "iph-ipay88",
+    "name": "iPay88 Ipoh",
+    "city": "ipoh",
+    "lat": 4.5978,
+    "lng": 101.0888,
+    "website": "https://www.ipay88.com",
+    "sector": "FinTech",
+    "address": "Ipoh, Perak",
+    "blurb": "Payment gateway onboarding.",
+    "logoUrl": "https://logo.clearbit.com/ipay88.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ipay88.com?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "iph-unimap",
+    "name": "UniKL MSI",
+    "city": "ipoh",
+    "lat": 4.6088,
+    "lng": 101.1024,
+    "website": "https://www.unikl.edu.my",
+    "sector": "Hub",
+    "address": "Kulim / Ipoh catchment, Perak",
+    "blurb": "Technical campus feeding manufacturing-tech talent.",
+    "logoUrl": "https://logo.clearbit.com/unikl.edu.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.unikl.edu.my?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "iph-silverit",
+    "name": "Ipoh software cluster",
+    "city": "ipoh",
+    "lat": 4.6018,
+    "lng": 101.0902,
+    "website": "https://www.mdec.my",
+    "sector": "SaaS",
+    "address": "Greentown, Ipoh",
+    "blurb": "Greentown services cluster for local software houses.",
+    "logoUrl": "https://logo.clearbit.com/mdec.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.mdec.my?w=1200"
+    ],
+    "fundingStage": "Seed"
+  }
+]

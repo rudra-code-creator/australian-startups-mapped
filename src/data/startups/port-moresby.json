@@ -1,0 +1,330 @@
+[
+  {
+    "id": "pom-niupay",
+    "name": "NiuPay",
+    "city": "port-moresby",
+    "lat": -9.47855,
+    "lng": 147.1491,
+    "website": "https://niupay.com.pg",
+    "sector": "SaaS",
+    "address": "Harbour City, Port Moresby",
+    "blurb": "PNG-built public-sector digital payments and services platform.",
+    "buildingId": "port-moresby-harbour-city",
+    "buildingName": "Harbour City",
+    "logoUrl": "https://logo.clearbit.com/niupay.com.pg",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fniupay.com.pg?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "pom-kina",
+    "name": "Kina Bank",
+    "city": "port-moresby",
+    "lat": -9.4785,
+    "lng": 147.1491,
+    "website": "https://www.kinabank.com.pg",
+    "sector": "FinTech",
+    "address": "Harbour City, Port Moresby",
+    "blurb": "Digital-forward PNG bank and NiuPay investor.",
+    "buildingId": "port-moresby-harbour-city",
+    "buildingName": "Harbour City",
+    "logoUrl": "https://logo.clearbit.com/kinabank.com.pg",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.kinabank.com.pg?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "pom-bsp",
+    "name": "BSP PNG",
+    "city": "port-moresby",
+    "lat": -9.4788,
+    "lng": 147.1508,
+    "website": "https://www.bsp.com.pg",
+    "sector": "FinTech",
+    "address": "Douglas St, Port Moresby",
+    "blurb": "Largest PNG bank with expanding digital channels.",
+    "logoUrl": "https://logo.clearbit.com/bsp.com.pg",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.bsp.com.pg?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "pom-digicel",
+    "name": "Digicel PNG",
+    "city": "port-moresby",
+    "lat": -9.4672,
+    "lng": 147.1604,
+    "website": "https://www.digicelpng.com",
+    "sector": "Telecom",
+    "address": "Port Moresby",
+    "blurb": "Mobile network and mobile-money operator.",
+    "logoUrl": "https://logo.clearbit.com/digicelpng.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.digicelpng.com?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "pom-vodafone",
+    "name": "Vodafone PNG",
+    "city": "port-moresby",
+    "lat": -9.4668,
+    "lng": 147.1598,
+    "website": "https://www.vodafone.com.pg",
+    "sector": "Telecom",
+    "address": "Port Moresby",
+    "blurb": "Mobile competitor network.",
+    "logoUrl": "https://logo.clearbit.com/vodafone.com.pg",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.vodafone.com.pg?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "pom-telikom",
+    "name": "Telikom PNG",
+    "city": "port-moresby",
+    "lat": -9.4654,
+    "lng": 147.1586,
+    "website": "https://www.telikom.com.pg",
+    "sector": "Telecom",
+    "address": "Port Moresby",
+    "blurb": "Incumbent fixed and broadband.",
+    "logoUrl": "https://logo.clearbit.com/telikom.com.pg",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.telikom.com.pg?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "pom-dataco",
+    "name": "DataCo",
+    "city": "port-moresby",
+    "lat": -9.4648,
+    "lng": 147.1572,
+    "website": "https://www.datacopng.com",
+    "sector": "Telecom",
+    "address": "Port Moresby",
+    "blurb": "National wholesale data and cable operator.",
+    "logoUrl": "https://logo.clearbit.com/datacopng.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.datacopng.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "pom-datec",
+    "name": "Datec PNG",
+    "city": "port-moresby",
+    "lat": -9.47845,
+    "lng": 147.1491,
+    "website": "https://www.datec.com.pg",
+    "sector": "Enterprise",
+    "address": "Harbour City, Port Moresby",
+    "blurb": "Enterprise IT integrator.",
+    "buildingId": "port-moresby-harbour-city",
+    "buildingName": "Harbour City",
+    "logoUrl": "https://logo.clearbit.com/datec.com.pg",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.datec.com.pg?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "pom-daltron",
+    "name": "Daltron",
+    "city": "port-moresby",
+    "lat": -9.4768,
+    "lng": 147.1524,
+    "website": "https://www.daltron.com.pg",
+    "sector": "Enterprise",
+    "address": "Port Moresby",
+    "blurb": "Hardware, cloud, and enterprise services.",
+    "logoUrl": "https://logo.clearbit.com/daltron.com.pg",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.daltron.com.pg?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "pom-steamships",
+    "name": "Steamships digital",
+    "city": "port-moresby",
+    "lat": -9.4784,
+    "lng": 147.1491,
+    "website": "https://www.steamships.com.pg",
+    "sector": "Enterprise",
+    "address": "Harbour City, Port Moresby",
+    "blurb": "Conglomerate digital and logistics platforms.",
+    "buildingId": "port-moresby-harbour-city",
+    "buildingName": "Harbour City",
+    "logoUrl": "https://logo.clearbit.com/steamships.com.pg",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.steamships.com.pg?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "pom-airniugini",
+    "name": "Air Niugini digital",
+    "city": "port-moresby",
+    "lat": -9.4436,
+    "lng": 147.2202,
+    "website": "https://www.airniugini.com.pg",
+    "sector": "Travel",
+    "address": "Jacksons, Port Moresby",
+    "blurb": "National airline digital products.",
+    "logoUrl": "https://logo.clearbit.com/airniugini.com.pg",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.airniugini.com.pg?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "pom-pngair",
+    "name": "PNG Air digital",
+    "city": "port-moresby",
+    "lat": -9.4442,
+    "lng": 147.2188,
+    "website": "https://www.pngair.com.pg",
+    "sector": "Travel",
+    "address": "Port Moresby",
+    "blurb": "Domestic airline booking tech.",
+    "logoUrl": "https://logo.clearbit.com/pngair.com.pg",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.pngair.com.pg?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "pom-nasfund",
+    "name": "NASFUND digital",
+    "city": "port-moresby",
+    "lat": -9.4774,
+    "lng": 147.1516,
+    "website": "https://www.nasfund.com.pg",
+    "sector": "FinTech",
+    "address": "Port Moresby",
+    "blurb": "Superannuation digital member services.",
+    "logoUrl": "https://logo.clearbit.com/nasfund.com.pg",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.nasfund.com.pg?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "pom-nambawan",
+    "name": "Nambawan Super",
+    "city": "port-moresby",
+    "lat": -9.4766,
+    "lng": 147.1528,
+    "website": "https://www.nambawansuper.com.pg",
+    "sector": "FinTech",
+    "address": "Port Moresby",
+    "blurb": "Super fund digital channels.",
+    "logoUrl": "https://logo.clearbit.com/nambawansuper.com.pg",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.nambawansuper.com.pg?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "pom-mibank",
+    "name": "MiBank",
+    "city": "port-moresby",
+    "lat": -9.4694,
+    "lng": 147.1578,
+    "website": "https://www.mibank.com.pg",
+    "sector": "FinTech",
+    "address": "Port Moresby",
+    "blurb": "Microfinance bank with mobile channels.",
+    "logoUrl": "https://logo.clearbit.com/mibank.com.pg",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.mibank.com.pg?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "pom-moniplus",
+    "name": "Moni Plus",
+    "city": "port-moresby",
+    "lat": -9.4688,
+    "lng": 147.1584,
+    "website": "https://www.moniplus.com.pg",
+    "sector": "FinTech",
+    "address": "Port Moresby",
+    "blurb": "Digital credit and wallet services.",
+    "logoUrl": "https://logo.clearbit.com/moniplus.com.pg",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.moniplus.com.pg?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "pom-upng",
+    "name": "UPNG ICT",
+    "city": "port-moresby",
+    "lat": -9.4086,
+    "lng": 147.1728,
+    "website": "https://www.upng.ac.pg",
+    "sector": "EdTech",
+    "address": "Waigani, Port Moresby",
+    "blurb": "University ICT and innovation programmes.",
+    "logoUrl": "https://logo.clearbit.com/upng.ac.pg",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.upng.ac.pg?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "pom-innovate",
+    "name": "Innovate PNG",
+    "city": "port-moresby",
+    "lat": -9.4288,
+    "lng": 147.1806,
+    "website": "https://www.innovation.gov.pg",
+    "sector": "Hub",
+    "address": "Waigani, Port Moresby",
+    "blurb": "National innovation policy and founder programmes.",
+    "logoUrl": "https://logo.clearbit.com/innovation.gov.pg",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.innovation.gov.pg?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "pom-city-pharmacy",
+    "name": "City Pharmacy digital",
+    "city": "port-moresby",
+    "lat": -9.4752,
+    "lng": 147.1542,
+    "website": "https://www.cpl.com.pg",
+    "sector": "Health",
+    "address": "Port Moresby",
+    "blurb": "Retail pharmacy group e-commerce and loyalty.",
+    "logoUrl": "https://logo.clearbit.com/cpl.com.pg",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.cpl.com.pg?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "pom-bemobile",
+    "name": "Bemobile PNG",
+    "city": "port-moresby",
+    "lat": -9.4662,
+    "lng": 147.1608,
+    "website": "https://www.bemobile.com.pg",
+    "sector": "Telecom",
+    "address": "Port Moresby",
+    "blurb": "Mobile network.",
+    "logoUrl": "https://logo.clearbit.com/bemobile.com.pg",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.bemobile.com.pg?w=1200"
+    ],
+    "fundingStage": "Series B"
+  }
+]

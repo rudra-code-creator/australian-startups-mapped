@@ -1,0 +1,242 @@
+[
+  {
+    "id": "nou-opt",
+    "name": "OPT-NC",
+    "city": "noumea",
+    "lat": -22.2758,
+    "lng": 166.458,
+    "website": "https://www.opt.nc",
+    "sector": "Telecom",
+    "address": "Nouméa Centre",
+    "blurb": "New Caledonia’s public telecom and digital services operator.",
+    "logoUrl": "https://logo.clearbit.com/opt.nc",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.opt.nc?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "nou-startup-nc",
+    "name": "Start-up NC",
+    "city": "noumea",
+    "lat": -22.2712,
+    "lng": 166.4418,
+    "website": "https://www.startup.nc",
+    "sector": "Hub",
+    "address": "Nouméa",
+    "blurb": "Local startup association and founder programmes.",
+    "logoUrl": "https://logo.clearbit.com/startup.nc",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.startup.nc?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "nou-adecal",
+    "name": "ADECAL Technopole",
+    "city": "noumea",
+    "lat": -22.2624,
+    "lng": 166.4366,
+    "website": "https://www.adecal.nc",
+    "sector": "Hub",
+    "address": "Nouville, Nouméa",
+    "blurb": "Technopole supporting marine, digital, and agri ventures.",
+    "logoUrl": "https://logo.clearbit.com/adecal.nc",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.adecal.nc?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "nou-nautile",
+    "name": "Nautile",
+    "city": "noumea",
+    "lat": -22.2764,
+    "lng": 166.4572,
+    "website": "https://www.nautile.nc",
+    "sector": "Telecom",
+    "address": "Nouméa",
+    "blurb": "Internet and hosting provider.",
+    "logoUrl": "https://logo.clearbit.com/nautile.nc",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.nautile.nc?w=1200"
+    ],
+    "fundingStage": "Series D+"
+  },
+  {
+    "id": "nou-offratel",
+    "name": "Offratel",
+    "city": "noumea",
+    "lat": -22.2748,
+    "lng": 166.4564,
+    "website": "https://www.offratel.nc",
+    "sector": "Telecom",
+    "address": "Nouméa",
+    "blurb": "Telecom reseller and digital services.",
+    "logoUrl": "https://logo.clearbit.com/offratel.nc",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.offratel.nc?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "nou-caledonie-bb",
+    "name": "Calédonie Broadband",
+    "city": "noumea",
+    "lat": -22.2772,
+    "lng": 166.4592,
+    "website": "https://www.caledonie-broadband.nc",
+    "sector": "Telecom",
+    "address": "Nouméa",
+    "blurb": "Broadband operator.",
+    "logoUrl": "https://logo.clearbit.com/caledonie-broadband.nc",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.caledonie-broadband.nc?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "nou-canl",
+    "name": "Canal+ Calédonie digital",
+    "city": "noumea",
+    "lat": -22.2784,
+    "lng": 166.4586,
+    "website": "https://www.canalplus-caledonie.com",
+    "sector": "Media",
+    "address": "Nouméa",
+    "blurb": "Broadcast and streaming operations.",
+    "logoUrl": "https://logo.clearbit.com/canalplus-caledonie.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.canalplus-caledonie.com?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "nou-aircalin",
+    "name": "Aircalin digital",
+    "city": "noumea",
+    "lat": -22.2612,
+    "lng": 166.4728,
+    "website": "https://www.aircalin.com",
+    "sector": "Travel",
+    "address": "Magenta / Nouméa",
+    "blurb": "Airline digital and loyalty products.",
+    "logoUrl": "https://logo.clearbit.com/aircalin.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.aircalin.com?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "nou-unc",
+    "name": "Université de la Nouvelle-Calédonie",
+    "city": "noumea",
+    "lat": -22.2618,
+    "lng": 166.4338,
+    "website": "https://unc.nc",
+    "sector": "EdTech",
+    "address": "Nouville, Nouméa",
+    "blurb": "University innovation and digital programmes.",
+    "logoUrl": "https://logo.clearbit.com/unc.nc",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Func.nc?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "nou-cci",
+    "name": "CCI-NC Innovation",
+    "city": "noumea",
+    "lat": -22.2736,
+    "lng": 166.4452,
+    "website": "https://www.cci.nc",
+    "sector": "Hub",
+    "address": "Nouméa",
+    "blurb": "Chamber programmes for digital SMEs.",
+    "logoUrl": "https://logo.clearbit.com/cci.nc",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.cci.nc?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "nou-gie-tourisme",
+    "name": "GIE Tourisme",
+    "city": "noumea",
+    "lat": -22.2768,
+    "lng": 166.4436,
+    "website": "https://www.newcaledonia.travel",
+    "sector": "Travel",
+    "address": "Nouméa",
+    "blurb": "Destination platform and visitor tech.",
+    "logoUrl": "https://logo.clearbit.com/newcaledonia.travel",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.newcaledonia.travel?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "nou-enercal",
+    "name": "Enercal digital",
+    "city": "noumea",
+    "lat": -22.2694,
+    "lng": 166.4488,
+    "website": "https://www.enercal.nc",
+    "sector": "Energy",
+    "address": "Nouméa",
+    "blurb": "Utility digital customer channels.",
+    "logoUrl": "https://logo.clearbit.com/enercal.nc",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.enercal.nc?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "nou-eec",
+    "name": "EEC",
+    "city": "noumea",
+    "lat": -22.2708,
+    "lng": 166.4502,
+    "website": "https://www.eec.nc",
+    "sector": "Energy",
+    "address": "Nouméa",
+    "blurb": "Electricity distributor digital services.",
+    "logoUrl": "https://logo.clearbit.com/eec.nc",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.eec.nc?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "nou-lnc",
+    "name": "Les Nouvelles Calédoniennes",
+    "city": "noumea",
+    "lat": -22.2742,
+    "lng": 166.4478,
+    "website": "https://www.lnc.nc",
+    "sector": "Media",
+    "address": "Nouméa",
+    "blurb": "Digital newsroom.",
+    "logoUrl": "https://logo.clearbit.com/lnc.nc",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.lnc.nc?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "nou-scale",
+    "name": "Scale-1",
+    "city": "noumea",
+    "lat": -22.2726,
+    "lng": 166.4448,
+    "website": "https://www.scale-1.nc",
+    "sector": "SaaS",
+    "address": "Nouméa",
+    "blurb": "Local digital product studio.",
+    "logoUrl": "https://logo.clearbit.com/scale-1.nc",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.scale-1.nc?w=1200"
+    ],
+    "fundingStage": "Series B"
+  }
+]

@@ -1,7 +1,7 @@
 'use client';
 
 import { useCallback, useEffect, useMemo, useState } from "react";
-import { CITIES, CITY_SLUGS } from "@/lib/cities";
+import { CITIES, COUNTRIES } from "@/lib/cities";
 import type {
   CitySlug,
   LocationCorrectionStatus,
@@ -148,10 +148,14 @@ export function LocationFixesQueue() {
             onChange={(e) => setSelectedCity(e.target.value as CitySlug)}
             className="mt-1 w-48 rounded-lg border border-black/10 bg-white px-3 py-2 text-sm outline-none focus:border-black/30"
           >
-            {CITY_SLUGS.map((slug) => (
-              <option key={slug} value={slug}>
-                {CITIES[slug].name}
-              </option>
+            {COUNTRIES.map((country) => (
+              <optgroup key={country.id} label={country.name}>
+                {country.citySlugs.map((slug) => (
+                  <option key={slug} value={slug}>
+                    {CITIES[slug].name}
+                  </option>
+                ))}
+              </optgroup>
             ))}
           </select>
         </div>

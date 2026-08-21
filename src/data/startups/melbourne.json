@@ -14,7 +14,8 @@
     "logoUrl": "/logos/mel-airwallex.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.airwallex.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Series C"
   },
   {
     "id": "mel-culture-amp",
@@ -31,7 +32,8 @@
     "logoUrl": "/logos/mel-culture-amp.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.cultureamp.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Growth"
   },
   {
     "id": "mel-linktree",
@@ -48,7 +50,8 @@
     "logoUrl": "/logos/mel-linktree.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Flinktr.ee?w=1200"
-    ]
+    ],
+    "fundingStage": "Series B"
   },
   {
     "id": "mel-judo-bank",
@@ -65,7 +68,8 @@
     "logoUrl": "/logos/mel-judo-bank.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.judo.bank?w=1200"
-    ]
+    ],
+    "fundingStage": "Series A"
   },
   {
     "id": "mel-harrison-ai",
@@ -82,7 +86,8 @@
     "logoUrl": "/logos/mel-harrison-ai.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.harrison.ai?w=1200"
-    ]
+    ],
+    "fundingStage": "Series A"
   },
   {
     "id": "mel-envato",
@@ -97,7 +102,8 @@
     "logoUrl": "/logos/mel-envato.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fenvato.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Seed"
   },
   {
     "id": "mel-redbubble",
@@ -112,7 +118,8 @@
     "logoUrl": "/logos/mel-redbubble.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.redbubble.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Seed"
   },
   {
     "id": "mel-seek",
@@ -127,7 +134,8 @@
     "logoUrl": "/logos/mel-seek.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.seek.com.au?w=1200"
-    ]
+    ],
+    "fundingStage": "Series B"
   },
   {
     "id": "mel-rea-group",
@@ -142,7 +150,8 @@
     "logoUrl": "/logos/mel-rea-group.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.rea-group.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Series D+"
   },
   {
     "id": "mel-carsales",
@@ -157,7 +166,8 @@
     "logoUrl": "/logos/mel-carsales.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.carsales.com.au?w=1200"
-    ]
+    ],
+    "fundingStage": "Bootstrapped"
   },
   {
     "id": "mel-myob",
@@ -172,7 +182,8 @@
     "logoUrl": "/logos/mel-myob.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.myob.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Growth"
   },
   {
     "id": "mel-xero-mel",
@@ -184,7 +195,8 @@
     "address": "Melbourne CBD VIC (approximate HQ area)",
     "blurb": "Xero (Melbourne office) is a saas company in Australia’s startup ecosystem.",
     "website": "https://www.xero.com",
-    "logoUrl": "/logos/mel-xero-mel.png"
+    "logoUrl": "/logos/mel-xero-mel.png",
+    "fundingStage": "Series A"
   },
   {
     "id": "mel-sensis-digital",
@@ -196,7 +208,8 @@
     "address": "Melbourne CBD VIC (approximate HQ area)",
     "blurb": "Sensis (Digital) is a marketing company in Australia’s startup ecosystem.",
     "website": "https://www.sensis.com.au",
-    "logoUrl": "/logos/mel-sensis-digital.png"
+    "logoUrl": "/logos/mel-sensis-digital.png",
+    "fundingStage": "Bootstrapped"
   },
   {
     "id": "mel-hotdoc",
@@ -211,7 +224,8 @@
     "logoUrl": "/logos/mel-hotdoc.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.hotdoc.com.au?w=1200"
-    ]
+    ],
+    "fundingStage": "Seed"
   },
   {
     "id": "mel-1password-mel",
@@ -223,7 +237,8 @@
     "address": "Melbourne CBD VIC (approximate HQ area)",
     "blurb": "1Password (Melbourne office) is a security company in Australia’s startup ecosystem.",
     "website": "https://1password.com",
-    "logoUrl": "/logos/mel-1password-mel.png"
+    "logoUrl": "/logos/mel-1password-mel.png",
+    "fundingStage": "Public"
   },
   {
     "id": "mel-anzx-innovation",
@@ -235,7 +250,8 @@
     "address": "Melbourne CBD VIC (approximate HQ area)",
     "blurb": "ANZx (Innovation) is a fintech company in Australia’s startup ecosystem.",
     "website": "https://www.anz.com.au",
-    "logoUrl": "/logos/mel-anzx-innovation.png"
+    "logoUrl": "/logos/mel-anzx-innovation.png",
+    "fundingStage": "Public"
   },
   {
     "id": "mel-wise-tech",
@@ -250,7 +266,8 @@
     "logoUrl": "/logos/mel-wise-tech.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.wisetechglobal.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Public"
   },
   {
     "id": "mel-montu",
@@ -262,7 +279,8 @@
     "address": "Melbourne CBD VIC (approximate HQ area)",
     "blurb": "Montu is a health company in Australia’s startup ecosystem.",
     "website": "https://montu.com.au",
-    "logoUrl": "/logos/mel-montu.png"
+    "logoUrl": "/logos/mel-montu.png",
+    "fundingStage": "Growth"
   },
   {
     "id": "mel-tiger-trade",
@@ -274,7 +292,8 @@
     "address": "Melbourne CBD VIC (approximate HQ area)",
     "blurb": "Online brokerage platform.",
     "website": "https://www.tigerbrokers.com.au",
-    "logoUrl": "/logos/mel-tiger-trade.png"
+    "logoUrl": "/logos/mel-tiger-trade.png",
+    "fundingStage": "Seed"
   },
   {
     "id": "mel-lendi",
@@ -286,7 +305,8 @@
     "address": "Melbourne CBD VIC (approximate HQ area)",
     "blurb": "Lendi Group is a fintech company in Australia’s startup ecosystem.",
     "website": "https://www.lendi.com.au",
-    "logoUrl": "/logos/mel-lendi.png"
+    "logoUrl": "/logos/mel-lendi.png",
+    "fundingStage": "Series B"
   },
   {
     "id": "mel-a2b-australia",
@@ -298,7 +318,8 @@
     "address": "A2B Australia, Melbourne CBD VIC",
     "blurb": "Taxi and personal transport network technology.",
     "website": "https://www.a2baustralia.com",
-    "logoUrl": "/logos/mel-a2b-australia.png"
+    "logoUrl": "/logos/mel-a2b-australia.png",
+    "fundingStage": "Pre-seed"
   },
   {
     "id": "mel-zeller",
@@ -313,7 +334,8 @@
     "logoUrl": "/logos/mel-zeller.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.myzeller.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Seed"
   },
   {
     "id": "mel-eucalyptus-mel",
@@ -325,7 +347,8 @@
     "address": "Melbourne CBD VIC (approximate HQ area)",
     "blurb": "Eucalyptus (Melbourne office) is a health company in Australia’s startup ecosystem.",
     "website": "https://eucalyptus.vc",
-    "logoUrl": "/logos/mel-eucalyptus-mel.png"
+    "logoUrl": "/logos/mel-eucalyptus-mel.png",
+    "fundingStage": "Series B"
   },
   {
     "id": "mel-hubspot-mel",
@@ -337,7 +360,8 @@
     "address": "Melbourne CBD VIC (approximate HQ area)",
     "blurb": "HubSpot (Melbourne office) is a saas company in Australia’s startup ecosystem.",
     "website": "https://www.hubspot.com",
-    "logoUrl": "/logos/mel-hubspot-mel.png"
+    "logoUrl": "/logos/mel-hubspot-mel.png",
+    "fundingStage": "Bootstrapped"
   },
   {
     "id": "mel-splend",
@@ -352,7 +376,8 @@
     "logoUrl": "/logos/mel-splend.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.splend.com.au?w=1200"
-    ]
+    ],
+    "fundingStage": "Series B"
   },
   {
     "id": "mel-better-caring",
@@ -364,7 +389,8 @@
     "address": "Melbourne CBD VIC (approximate HQ area)",
     "blurb": "Mable is a marketplace company in Australia’s startup ecosystem.",
     "website": "https://mable.com.au",
-    "logoUrl": "/logos/mel-better-caring.png"
+    "logoUrl": "/logos/mel-better-caring.png",
+    "fundingStage": "Public"
   },
   {
     "id": "mel-ordermentum",
@@ -376,7 +402,8 @@
     "address": "Melbourne CBD VIC (approximate HQ area)",
     "blurb": "Ordermentum is a logistics company in Australia’s startup ecosystem.",
     "website": "https://www.ordermentum.com",
-    "logoUrl": "/logos/mel-ordermentum.png"
+    "logoUrl": "/logos/mel-ordermentum.png",
+    "fundingStage": "Pre-seed"
   },
   {
     "id": "mel-forethought",
@@ -388,7 +415,8 @@
     "address": "Melbourne CBD VIC (approximate HQ area)",
     "blurb": "Forethought (AU) is a ai company in Australia’s startup ecosystem.",
     "website": "https://www.forethought.com.au",
-    "logoUrl": "/logos/mel-forethought.png"
+    "logoUrl": "/logos/mel-forethought.png",
+    "fundingStage": "Series B"
   },
   {
     "id": "mel-cameo",
@@ -400,7 +428,8 @@
     "address": "Melbourne CBD VIC (approximate HQ area)",
     "blurb": "Personalised video shout-outs (AU presence).",
     "website": "https://www.cameo.com",
-    "logoUrl": "/logos/mel-cameo.png"
+    "logoUrl": "/logos/mel-cameo.png",
+    "fundingStage": "Series B"
   },
   {
     "id": "mel-coinspot",
@@ -412,7 +441,8 @@
     "address": "Melbourne CBD VIC (approximate HQ area)",
     "blurb": "CoinSpot (Melbourne office) is a fintech company in Australia’s startup ecosystem.",
     "website": "https://www.coinspot.com.au",
-    "logoUrl": "/logos/mel-coinspot.png"
+    "logoUrl": "/logos/mel-coinspot.png",
+    "fundingStage": "Series B"
   },
   {
     "id": "mel-swipe-crypto",
@@ -424,7 +454,8 @@
     "address": "Melbourne CBD VIC (approximate HQ area)",
     "blurb": "Swyftx (Melbourne office) is a fintech company in Australia’s startup ecosystem.",
     "website": "https://swyftx.com",
-    "logoUrl": "/logos/mel-swipe-crypto.png"
+    "logoUrl": "/logos/mel-swipe-crypto.png",
+    "fundingStage": "Seed"
   },
   {
     "id": "mel-grok-learning",
@@ -436,7 +467,8 @@
     "address": "Melbourne CBD VIC (approximate HQ area)",
     "blurb": "Grok Learning (Melbourne office) is a edtech company in Australia’s startup ecosystem.",
     "website": "https://groklearning.com",
-    "logoUrl": "/logos/mel-grok-learning.png"
+    "logoUrl": "/logos/mel-grok-learning.png",
+    "fundingStage": "Series A"
   },
   {
     "id": "mel-wisr",
@@ -448,7 +480,8 @@
     "address": "Melbourne CBD VIC (approximate HQ area)",
     "blurb": "Wisr (Melbourne office) is a fintech company in Australia’s startup ecosystem.",
     "website": "https://www.wisr.com.au",
-    "logoUrl": "/logos/mel-wisr.png"
+    "logoUrl": "/logos/mel-wisr.png",
+    "fundingStage": "Public"
   },
   {
     "id": "mel-kogan",
@@ -463,7 +496,8 @@
     "logoUrl": "/logos/mel-kogan.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.kogan.com?w=1200"
-    ]
+    ],
+    "fundingStage": "Series A"
   },
   {
     "id": "mel-the-iconic-mel",
@@ -475,7 +509,8 @@
     "address": "Melbourne CBD VIC (approximate HQ area)",
     "blurb": "THE ICONIC (Melbourne office) is a ecommerce company in Australia’s startup ecosystem.",
     "website": "https://www.theiconic.com.au",
-    "logoUrl": "/logos/mel-the-iconic-mel.png"
+    "logoUrl": "/logos/mel-the-iconic-mel.png",
+    "fundingStage": "Series D+"
   },
   {
     "id": "mel-promise-pay",
@@ -487,7 +522,8 @@
     "address": "Melbourne CBD VIC (approximate HQ area)",
     "blurb": "Australian payment gateway for developers.",
     "website": "https://pinpayments.com",
-    "logoUrl": "/logos/mel-promise-pay.png"
+    "logoUrl": "/logos/mel-promise-pay.png",
+    "fundingStage": "Seed"
   },
   {
     "id": "mel-forestry",
@@ -499,7 +535,8 @@
     "address": "Melbourne CBD VIC (approximate HQ area)",
     "blurb": "Reforestation and carbon project technology.",
     "website": "https://carbonpositiveaustralia.org.au",
-    "logoUrl": "/logos/mel-forestry.png"
+    "logoUrl": "/logos/mel-forestry.png",
+    "fundingStage": "Series B"
   },
   {
     "id": "mel-flip",
@@ -511,7 +548,8 @@
     "address": "Melbourne CBD VIC (approximate HQ area)",
     "blurb": "Online marketplace and retail commerce.",
     "website": "https://www.catch.com.au",
-    "logoUrl": "/logos/mel-flip.png"
+    "logoUrl": "/logos/mel-flip.png",
+    "fundingStage": "Series A"
   },
   {
     "id": "mel-goget-mel",
@@ -523,7 +561,8 @@
     "address": "Melbourne CBD VIC (approximate HQ area)",
     "blurb": "GoGet (Melbourne office) is a mobility company in Australia’s startup ecosystem.",
     "website": "https://www.goget.com.au",
-    "logoUrl": "/logos/mel-goget-mel.png"
+    "logoUrl": "/logos/mel-goget-mel.png",
+    "fundingStage": "Growth"
   },
   {
     "id": "mel-kiwi-rails",
@@ -535,7 +574,8 @@
     "address": "Melbourne CBD VIC (approximate HQ area)",
     "blurb": "Buildkite (Melbourne office) is a devtools company in Australia’s startup ecosystem.",
     "website": "https://buildkite.com",
-    "logoUrl": "/logos/mel-kiwi-rails.png"
+    "logoUrl": "/logos/mel-kiwi-rails.png",
+    "fundingStage": "Series B"
   },
   {
     "id": "mel-snapfix",
@@ -547,7 +587,8 @@
     "address": "Melbourne CBD VIC (approximate HQ area)",
     "blurb": "Marketplace for local service providers.",
     "website": "https://www.serviceseeking.com.au",
-    "logoUrl": "/logos/mel-snapfix.png"
+    "logoUrl": "/logos/mel-snapfix.png",
+    "fundingStage": "Series A"
   },
   {
     "id": "mel-spriggy",
@@ -559,7 +600,8 @@
     "address": "Melbourne CBD VIC (approximate HQ area)",
     "blurb": "Spriggy (Melbourne office) is a fintech company in Australia’s startup ecosystem.",
     "website": "https://www.spriggy.com.au",
-    "logoUrl": "/logos/mel-spriggy.png"
+    "logoUrl": "/logos/mel-spriggy.png",
+    "fundingStage": "Growth"
   },
   {
     "id": "mel-reach",
@@ -571,7 +613,8 @@
     "address": "Melbourne CBD VIC (approximate HQ area)",
     "blurb": "Online fashion retail.",
     "website": "https://www.theiconic.com.au",
-    "logoUrl": "/logos/mel-reach.png"
+    "logoUrl": "/logos/mel-reach.png",
+    "fundingStage": "Series A"
   },
   {
     "id": "mel-kinaxis",
@@ -583,7 +626,8 @@
     "address": "Melbourne CBD VIC (approximate HQ area)",
     "blurb": "Supply chain planning software (AU office).",
     "website": "https://www.kinaxis.com",
-    "logoUrl": "/logos/mel-kinaxis.png"
+    "logoUrl": "/logos/mel-kinaxis.png",
+    "fundingStage": "Growth"
   },
   {
     "id": "mel-archistar",
@@ -598,7 +642,8 @@
     "logoUrl": "/logos/mel-archistar.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Farchistar.ai?w=1200"
-    ]
+    ],
+    "fundingStage": "Series B"
   },
   {
     "id": "mel-lyra",
@@ -613,6 +658,7 @@
     "logoUrl": "/logos/mel-lyra.png",
     "imageUrls": [
       "https://s0.wp.com/mshots/v1/https%3A%2F%2Flyratechnologies.com.au?w=1200"
-    ]
+    ],
+    "fundingStage": "Bootstrapped"
   }
 ]

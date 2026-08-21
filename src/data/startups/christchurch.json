@@ -1,0 +1,504 @@
+[
+  {
+    "id": "chc-seequent",
+    "name": "Seequent",
+    "city": "christchurch",
+    "lat": -43.5436,
+    "lng": 172.6098,
+    "website": "https://www.seequent.com",
+    "sector": "Geoscience",
+    "address": "20 Hawthorne Dr, Addington, Christchurch",
+    "blurb": "Subsurface geoscience software (Leapfrog) headquartered in Christchurch.",
+    "logoUrl": "https://logo.clearbit.com/seequent.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.seequent.com?w=1200"
+    ],
+    "fundingStage": "Series D+"
+  },
+  {
+    "id": "chc-dawn",
+    "name": "Dawn Aerospace",
+    "city": "christchurch",
+    "lat": -43.4865,
+    "lng": 172.5328,
+    "website": "https://www.dawnaerospace.com",
+    "sector": "Aerospace",
+    "address": "Christchurch Airport, Harewood",
+    "blurb": "Spaceplane and green satellite-propulsion company based at Christchurch Airport.",
+    "logoUrl": "https://logo.clearbit.com/dawnaerospace.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.dawnaerospace.com?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "chc-partly",
+    "name": "Partly",
+    "city": "christchurch",
+    "lat": -43.53345,
+    "lng": 172.6397,
+    "website": "https://www.partly.com",
+    "sector": "SaaS",
+    "address": "78 Manchester St, Christchurch Central",
+    "blurb": "Auto-parts catalogue and commerce infrastructure founded in Christchurch.",
+    "buildingId": "christchurch-epic",
+    "buildingName": "EPIC Innovation",
+    "logoUrl": "https://logo.clearbit.com/partly.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.partly.com?w=1200"
+    ],
+    "fundingStage": "Series D+"
+  },
+  {
+    "id": "chc-orbica",
+    "name": "Orbica",
+    "city": "christchurch",
+    "lat": -43.5334,
+    "lng": 172.6397,
+    "website": "https://www.orbica.com",
+    "sector": "Geospatial",
+    "address": "78 Manchester St, Christchurch Central",
+    "blurb": "Geospatial AI and data platform built in Christchurch.",
+    "buildingId": "christchurch-epic",
+    "buildingName": "EPIC Innovation",
+    "logoUrl": "https://logo.clearbit.com/orbica.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.orbica.com?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "chc-tait",
+    "name": "Tait Communications",
+    "city": "christchurch",
+    "lat": -43.4788,
+    "lng": 172.5586,
+    "website": "https://www.taitradio.com",
+    "sector": "Telecom",
+    "address": "245 Wooldridge Rd, Harewood, Christchurch",
+    "blurb": "Mission-critical radio communications designed in Christchurch.",
+    "logoUrl": "https://logo.clearbit.com/taitradio.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.taitradio.com?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "chc-jade",
+    "name": "Jade Software",
+    "city": "christchurch",
+    "lat": -43.5068,
+    "lng": 172.5684,
+    "website": "https://www.jadeworld.com",
+    "sector": "Enterprise",
+    "address": "5 Sir Gil Simpson Dr, Burnside, Christchurch",
+    "blurb": "Enterprise software and payments technology company founded in Christchurch.",
+    "logoUrl": "https://logo.clearbit.com/jadeworld.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.jadeworld.com?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "chc-invert",
+    "name": "Invert Robotics",
+    "city": "christchurch",
+    "lat": -43.53335,
+    "lng": 172.6397,
+    "website": "https://www.invertrobotics.com",
+    "sector": "Robotics",
+    "address": "78 Manchester St, Christchurch Central",
+    "blurb": "Inspection robots for tanks and industrial assets.",
+    "buildingId": "christchurch-epic",
+    "buildingName": "EPIC Innovation",
+    "logoUrl": "https://logo.clearbit.com/invertrobotics.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.invertrobotics.com?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "chc-epic",
+    "name": "EPIC Innovation",
+    "city": "christchurch",
+    "lat": -43.5333,
+    "lng": 172.6397,
+    "website": "https://www.epicinnovation.co.nz",
+    "sector": "Hub",
+    "address": "78 Manchester St, Christchurch Central",
+    "blurb": "Christchurch’s inner-city innovation campus for tech tenants.",
+    "buildingId": "christchurch-epic",
+    "buildingName": "EPIC Innovation",
+    "logoUrl": "https://logo.clearbit.com/epicinnovation.co.nz",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.epicinnovation.co.nz?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "chc-ministry-awesome",
+    "name": "Ministry of Awesome",
+    "city": "christchurch",
+    "lat": -43.5339,
+    "lng": 172.6384,
+    "website": "https://www.ministryofawesome.com",
+    "sector": "Hub",
+    "address": "96 Lichfield St, Christchurch Central",
+    "blurb": "Founder community and startup programmes for Ōtautahi.",
+    "logoUrl": "https://logo.clearbit.com/ministryofawesome.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ministryofawesome.com?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "chc-te-ohaka",
+    "name": "Te Ohaka",
+    "city": "christchurch",
+    "lat": -43.5386,
+    "lng": 172.6436,
+    "website": "https://www.ara.ac.nz",
+    "sector": "Hub",
+    "address": "130 Madras St, Christchurch Central",
+    "blurb": "Ara Institute food and product innovation space in the central city.",
+    "logoUrl": "https://logo.clearbit.com/ara.ac.nz",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ara.ac.nz?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "chc-dynamic",
+    "name": "Dynamic Controls",
+    "city": "christchurch",
+    "lat": -43.5448,
+    "lng": 172.6142,
+    "website": "https://dynamiccontrols.com",
+    "sector": "Health",
+    "address": "17 Print Pl (Christchurch office), Addington",
+    "blurb": "Mobility electronics with design and commercial teams in Christchurch.",
+    "logoUrl": "https://logo.clearbit.com/dynamiccontrols.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fdynamiccontrols.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "chc-scott",
+    "name": "Scott Technology",
+    "city": "christchurch",
+    "lat": -43.5372,
+    "lng": 172.7024,
+    "website": "https://scottautomation.com",
+    "sector": "Robotics",
+    "address": "10 Maces Rd, Bromley, Christchurch",
+    "blurb": "Industrial automation and protein-processing robotics.",
+    "logoUrl": "https://logo.clearbit.com/scottautomation.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fscottautomation.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "chc-aranz",
+    "name": "ARANZ Medical",
+    "city": "christchurch",
+    "lat": -43.5308,
+    "lng": 172.6336,
+    "website": "https://www.aranzmedical.com",
+    "sector": "Health",
+    "address": "47 Hereford St, Christchurch Central",
+    "blurb": "3D wound-imaging medical devices from Christchurch.",
+    "logoUrl": "https://logo.clearbit.com/aranzmedical.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.aranzmedical.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "chc-where-scape",
+    "name": "WhereScape",
+    "city": "christchurch",
+    "lat": -43.533500000000004,
+    "lng": 172.63975000000002,
+    "website": "https://www.wherescape.com",
+    "sector": "Data",
+    "address": "78 Manchester St, Christchurch Central",
+    "blurb": "Data-warehouse automation software with Christchurch engineering roots.",
+    "buildingId": "christchurch-epic",
+    "buildingName": "EPIC Innovation",
+    "logoUrl": "https://logo.clearbit.com/wherescape.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.wherescape.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "chc-sli",
+    "name": "SLI Systems",
+    "city": "christchurch",
+    "lat": -43.53345,
+    "lng": 172.63975000000002,
+    "website": "https://www.sli-systems.com",
+    "sector": "SaaS",
+    "address": "78 Manchester St, Christchurch Central",
+    "blurb": "Site search and personalisation technology founded in Christchurch.",
+    "buildingId": "christchurch-epic",
+    "buildingName": "EPIC Innovation",
+    "logoUrl": "https://logo.clearbit.com/sli-systems.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.sli-systems.com?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "chc-unlimited",
+    "name": "Unlimited Realities",
+    "city": "christchurch",
+    "lat": -43.5334,
+    "lng": 172.63975000000002,
+    "website": "https://www.unlimitedrealities.com",
+    "sector": "XR",
+    "address": "78 Manchester St, Christchurch Central",
+    "blurb": "Spatial computing and simulation studio.",
+    "buildingId": "christchurch-epic",
+    "buildingName": "EPIC Innovation",
+    "logoUrl": "https://logo.clearbit.com/unlimitedrealities.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.unlimitedrealities.com?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "chc-cropx",
+    "name": "CropX",
+    "city": "christchurch",
+    "lat": -43.6401,
+    "lng": 172.4864,
+    "website": "https://www.cropx.com",
+    "sector": "AgriTech",
+    "address": "Lincoln township / Christchurch office",
+    "blurb": "Soil-sensing agritech with a Canterbury commercial presence.",
+    "logoUrl": "https://logo.clearbit.com/cropx.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.cropx.com?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "chc-lincoln-agritech",
+    "name": "Lincoln Agritech",
+    "city": "christchurch",
+    "lat": -43.6436,
+    "lng": 172.4682,
+    "website": "https://www.lincolnagritech.co.nz",
+    "sector": "AgriTech",
+    "address": "Engineering Dr, Lincoln, Canterbury",
+    "blurb": "Applied research company commercialising agri and environmental tech.",
+    "logoUrl": "https://logo.clearbit.com/lincolnagritech.co.nz",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.lincolnagritech.co.nz?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "chc-canterprise",
+    "name": "Canterprise",
+    "city": "christchurch",
+    "lat": -43.5226,
+    "lng": 172.5808,
+    "website": "https://www.canterbury.ac.nz",
+    "sector": "Hub",
+    "address": "20 Kirkwood Ave, Ilam, Christchurch",
+    "blurb": "University of Canterbury commercialisation office.",
+    "logoUrl": "https://logo.clearbit.com/canterbury.ac.nz",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.canterbury.ac.nz?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "chc-healthone",
+    "name": "HealthOne",
+    "city": "christchurch",
+    "lat": -43.5112,
+    "lng": 172.6284,
+    "website": "https://www.healthone.org.nz",
+    "sector": "Health",
+    "address": "248 Papanui Rd, Merivale, Christchurch",
+    "blurb": "Shared electronic health record used across the South Island.",
+    "logoUrl": "https://logo.clearbit.com/healthone.org.nz",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.healthone.org.nz?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "chc-pulse",
+    "name": "Pulse Energy",
+    "city": "christchurch",
+    "lat": -43.5338,
+    "lng": 172.6412,
+    "website": "https://www.pulseenergy.co.nz",
+    "sector": "Energy",
+    "address": "181 High St, Christchurch Central",
+    "blurb": "Electricity retailer with digital self-service built in Christchurch.",
+    "logoUrl": "https://logo.clearbit.com/pulseenergy.co.nz",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.pulseenergy.co.nz?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "chc-arc",
+    "name": "Arc by Capgemini",
+    "city": "christchurch",
+    "lat": -43.5294,
+    "lng": 172.6278,
+    "website": "https://www.capgemini.com",
+    "sector": "Enterprise",
+    "address": "123 Victoria St, Christchurch Central",
+    "blurb": "Digital engineering campus in the rebuilt central city.",
+    "logoUrl": "https://logo.clearbit.com/capgemini.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.capgemini.com?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "chc-allied-telesis",
+    "name": "Allied Telesis Labs",
+    "city": "christchurch",
+    "lat": -43.5418,
+    "lng": 172.5986,
+    "website": "https://www.alliedtelesis.com",
+    "sector": "Telecom",
+    "address": "27 Nazareth Ave, Middleton, Christchurch",
+    "blurb": "Network hardware and software engineering lab.",
+    "logoUrl": "https://logo.clearbit.com/alliedtelesis.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.alliedtelesis.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "chc-humanware",
+    "name": "HumanWare",
+    "city": "christchurch",
+    "lat": -43.5486,
+    "lng": 172.6794,
+    "website": "https://www.humanware.com",
+    "sector": "Health",
+    "address": "11 Radley St, Woolston, Christchurch",
+    "blurb": "Assistive technology for vision impairment.",
+    "logoUrl": "https://logo.clearbit.com/humanware.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.humanware.com?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "chc-nextwindow",
+    "name": "NextWindow",
+    "city": "christchurch",
+    "lat": -43.53335,
+    "lng": 172.63975000000002,
+    "website": "https://www.nextwindow.com",
+    "sector": "Hardware",
+    "address": "78 Manchester St, Christchurch Central",
+    "blurb": "Optical multi-touch hardware company with Christchurch origins.",
+    "buildingId": "christchurch-epic",
+    "buildingName": "EPIC Innovation",
+    "logoUrl": "https://logo.clearbit.com/nextwindow.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.nextwindow.com?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "chc-recover",
+    "name": "Recover",
+    "city": "christchurch",
+    "lat": -43.5333,
+    "lng": 172.63975000000002,
+    "website": "https://www.recover.co.nz",
+    "sector": "Climate",
+    "address": "78 Manchester St, Christchurch Central",
+    "blurb": "Post-disaster and insurance workflow software.",
+    "buildingId": "christchurch-epic",
+    "buildingName": "EPIC Innovation",
+    "logoUrl": "https://logo.clearbit.com/recover.co.nz",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.recover.co.nz?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "chc-taggtech",
+    "name": "Taggtech",
+    "city": "christchurch",
+    "lat": -43.533500000000004,
+    "lng": 172.6398,
+    "website": "https://www.taggtech.co.nz",
+    "sector": "IoT",
+    "address": "78 Manchester St, Christchurch Central",
+    "blurb": "Asset-tracking and IoT solutions from Canterbury.",
+    "buildingId": "christchurch-epic",
+    "buildingName": "EPIC Innovation",
+    "logoUrl": "https://logo.clearbit.com/taggtech.co.nz",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.taggtech.co.nz?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "chc-4sight",
+    "name": "4Sight Consulting",
+    "city": "christchurch",
+    "lat": -43.5572,
+    "lng": 172.7018,
+    "website": "https://www.4sight.co.nz",
+    "sector": "Climate",
+    "address": "2 Waterside Close, Ferrymead, Christchurch",
+    "blurb": "Environmental data and advisory technology.",
+    "logoUrl": "https://logo.clearbit.com/4sight.co.nz",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.4sight.co.nz?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "chc-magic-memories",
+    "name": "Magic Memories",
+    "city": "christchurch",
+    "lat": -43.5476,
+    "lng": 172.6342,
+    "website": "https://www.magicmemories.com",
+    "sector": "Media",
+    "address": "107 Montreal St, Sydenham, Christchurch",
+    "blurb": "Attraction photography and media technology.",
+    "logoUrl": "https://logo.clearbit.com/magicmemories.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.magicmemories.com?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "chc-xemt",
+    "name": "XEMT",
+    "city": "christchurch",
+    "lat": -43.53345,
+    "lng": 172.6398,
+    "website": "https://www.xemt.ai",
+    "sector": "AI",
+    "address": "78 Manchester St, Christchurch Central",
+    "blurb": "AI software and consultancy based in Christchurch.",
+    "buildingId": "christchurch-epic",
+    "buildingName": "EPIC Innovation",
+    "logoUrl": "https://logo.clearbit.com/xemt.ai",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.xemt.ai?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  }
+]
