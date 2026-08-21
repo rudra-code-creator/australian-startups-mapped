@@ -2,7 +2,7 @@
 
 import * as React from "react";
 import { MapContainer, TileLayer, useMap, useMapEvents } from "react-leaflet";
-import { CITIES } from "@/lib/cities";
+import { mapViewport } from "@/lib/cities";
 import { groupMarkers } from "@/lib/group-markers";
 import { metersBetween, MIN_CORRECTION_METERS } from "@/lib/geo";
 import type { Building, CitySlug, MapMarker, Startup } from "@/lib/types";
@@ -21,6 +21,7 @@ type LayoutDraft = {
 type PublicCorrection = {
   targetKind: "startup" | "building";
   targetId: string;
+  city: CitySlug;
   name: string;
   fromLat: number;
   fromLng: number;
@@ -31,7 +32,12 @@ type PublicCorrection = {
 
 function matchesSearch(startup: Startup, q: string) {
   if (!q) return true;
-  return startup.name.toLowerCase().includes(q);
+  return (
+    startup.name.toLowerCase().includes(q) ||
+    (startup.sector ?? "").toLowerCase().includes(q) ||
+    (startup.fundingStage ?? "").toLowerCase().includes(q) ||
+    (startup.address ?? "").toLowerCase().includes(q)
+  );
 }
 
 function applyDraftToStartups(startups: Startup[], draft: LayoutDraft["startups"]): Startup[] {
@@ -513,20 +519,30 @@ export function StartupMap({
       const draftStartups = applyDraftToStartups(startups, layoutDraft.startups);
       const draftBuildings = applyDraftToBuildings(buildings, layoutDraft.buildings);
 
-      const payload = {
-        startups: draftStartups,
-        buildings: Object.keys(layoutDraft.buildings).length > 0 ? draftBuildings : undefined,
-      };
+      const cities = [
+        ...new Set([
+          ...draftStartups.map((startup) => startup.city),
+          ...draftBuildings.map((building) => building.city),
+        ]),
+      ];
 
-      const response = await fetch(`/api/admin/seed-write/${city}`, {
-        method: "PUT",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(payload),
-      });
+      for (const writeCity of cities) {
+        const payload = {
+          startups: draftStartups.filter((startup) => startup.city === writeCity),
+          buildings: draftBuildings.filter((building) => building.city === writeCity),
+        };
+        if (payload.startups.length === 0) continue;
 
-      if (!response.ok) {
-        const error = await response.json().catch(() => ({}));
-        throw new Error((error as { error?: string }).error || "Write failed");
+        const response = await fetch(`/api/admin/seed-write/${writeCity}`, {
+          method: "PUT",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(payload),
+        });
+
+        if (!response.ok) {
+          const error = await response.json().catch(() => ({}));
+          throw new Error((error as { error?: string }).error || "Write failed");
+        }
       }
 
       return true;
@@ -589,6 +605,7 @@ export function StartupMap({
     setPublicCorrection({
       targetKind: "startup",
       targetId: startup.id,
+      city: startup.city,
       name: startup.name,
       fromLat: startup.lat,
       fromLng: startup.lng,
@@ -601,9 +618,11 @@ export function StartupMap({
   }, []);
 
   const handleReportHubLocation = React.useCallback((building: { id: string; name: string; lat: number; lng: number }) => {
+    const match = buildings.find((item) => item.id === building.id);
     setPublicCorrection({
       targetKind: "building",
       targetId: building.id,
+      city: match?.city ?? city,
       name: building.name,
       fromLat: building.lat,
       fromLng: building.lng,
@@ -612,7 +631,7 @@ export function StartupMap({
     });
     setSelectedStartupId(null);
     setExpandedHubId(null);
-  }, []);
+  }, [buildings, city]);
 
   const handlePublicDragEnd = React.useCallback((latlng: { lat: number; lng: number }) => {
     if (!publicCorrection) return;
@@ -638,7 +657,7 @@ export function StartupMap({
         const payload = {
           targetKind: publicCorrection.targetKind,
           targetId: publicCorrection.targetId,
-          city,
+          city: publicCorrection.city,
           name: publicCorrection.name,
           fromLat: publicCorrection.fromLat,
           fromLng: publicCorrection.fromLng,
@@ -682,7 +701,7 @@ export function StartupMap({
     [city, publicCorrection, isSubmittingCorrection],
   );
 
-  const { center, zoom } = CITIES[city];
+  const { center, zoom } = mapViewport(city);
 
   const fixMode: "off" | "curator" | "public" = 
     publicCorrection ? "public" :

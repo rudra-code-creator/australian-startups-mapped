@@ -1,0 +1,194 @@
+[
+  {
+    "id": "hon-our-telekom",
+    "name": "Our Telekom",
+    "city": "honiara",
+    "lat": -9.434,
+    "lng": 159.954,
+    "website": "https://www.telekom.com.sb",
+    "sector": "Telecom",
+    "address": "Honiara",
+    "blurb": "Solomon Islands incumbent telecom.",
+    "logoUrl": "https://logo.clearbit.com/telekom.com.sb",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.telekom.com.sb?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "hon-bemobile",
+    "name": "Bemobile",
+    "city": "honiara",
+    "lat": -9.4362,
+    "lng": 159.9558,
+    "website": "https://www.bemobile.com.sb",
+    "sector": "Telecom",
+    "address": "Honiara",
+    "blurb": "Mobile network operator.",
+    "logoUrl": "https://logo.clearbit.com/bemobile.com.sb",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.bemobile.com.sb?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "hon-satsol",
+    "name": "SATSOL",
+    "city": "honiara",
+    "lat": -9.4374,
+    "lng": 159.9582,
+    "website": "https://www.satsol.net",
+    "sector": "Telecom",
+    "address": "Honiara",
+    "blurb": "Satellite and ISP services.",
+    "logoUrl": "https://logo.clearbit.com/satsol.net",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.satsol.net?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "hon-island-tech",
+    "name": "Island Tech / KlikPei",
+    "city": "honiara",
+    "lat": -9.4336,
+    "lng": 159.9528,
+    "website": "https://klikpei.com",
+    "sector": "Marketplace",
+    "address": "Honiara",
+    "blurb": "E-commerce aggregator launched in the Solomons.",
+    "logoUrl": "https://logo.clearbit.com/klikpei.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fklikpei.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "hon-cbsi",
+    "name": "Central Bank of Solomon Islands",
+    "city": "honiara",
+    "lat": -9.4318,
+    "lng": 159.9496,
+    "website": "https://www.cbsi.com.sb",
+    "sector": "FinTech",
+    "address": "Honiara",
+    "blurb": "Regulator working on digital payments and inclusion.",
+    "logoUrl": "https://logo.clearbit.com/cbsi.com.sb",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.cbsi.com.sb?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "hon-bsp",
+    "name": "BSP Solomon Islands",
+    "city": "honiara",
+    "lat": -9.4348,
+    "lng": 159.9536,
+    "website": "https://www.bsp.com.sb",
+    "sector": "FinTech",
+    "address": "Honiara",
+    "blurb": "Regional bank digital channels.",
+    "logoUrl": "https://logo.clearbit.com/bsp.com.sb",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.bsp.com.sb?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "hon-anz",
+    "name": "ANZ Honiara",
+    "city": "honiara",
+    "lat": -9.4352,
+    "lng": 159.9544,
+    "website": "https://www.anz.com/solomonislands",
+    "sector": "FinTech",
+    "address": "Honiara",
+    "blurb": "Banking services in Point Cruz.",
+    "logoUrl": "https://logo.clearbit.com/anz.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.anz.com%2Fsolomonislands?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "hon-pob",
+    "name": "Pan Oceanic Bank",
+    "city": "honiara",
+    "lat": -9.4344,
+    "lng": 159.9532,
+    "website": "https://www.pob.com.sb",
+    "sector": "FinTech",
+    "address": "Honiara",
+    "blurb": "Local commercial bank.",
+    "logoUrl": "https://logo.clearbit.com/pob.com.sb",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.pob.com.sb?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "hon-solomon-power",
+    "name": "Solomon Power",
+    "city": "honiara",
+    "lat": -9.4286,
+    "lng": 160.0024,
+    "website": "https://www.solomonpower.com.sb",
+    "sector": "Energy",
+    "address": "Ranadi, Honiara",
+    "blurb": "Utility digital customer services.",
+    "logoUrl": "https://logo.clearbit.com/solomonpower.com.sb",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.solomonpower.com.sb?w=1200"
+    ],
+    "fundingStage": "Series D+"
+  },
+  {
+    "id": "hon-solomon-air",
+    "name": "Solomon Airlines digital",
+    "city": "honiara",
+    "lat": -9.428,
+    "lng": 160.0546,
+    "website": "https://www.flysolomons.com",
+    "sector": "Travel",
+    "address": "Honiara",
+    "blurb": "Airline digital and booking products.",
+    "logoUrl": "https://logo.clearbit.com/flysolomons.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.flysolomons.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "hon-sinu",
+    "name": "SINU ICT",
+    "city": "honiara",
+    "lat": -9.4378,
+    "lng": 160.0188,
+    "website": "https://www.sinu.edu.sb",
+    "sector": "EdTech",
+    "address": "Kukum, Honiara",
+    "blurb": "National university ICT programmes.",
+    "logoUrl": "https://logo.clearbit.com/sinu.edu.sb",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.sinu.edu.sb?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "hon-dtu",
+    "name": "Digital Transformation Unit",
+    "city": "honiara",
+    "lat": -9.4332,
+    "lng": 159.9518,
+    "website": "https://www.ict.gov.sb",
+    "sector": "CivicTech",
+    "address": "Honiara",
+    "blurb": "Government digital services team.",
+    "logoUrl": "https://logo.clearbit.com/ict.gov.sb",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ict.gov.sb?w=1200"
+    ],
+    "fundingStage": "Series A"
+  }
+]

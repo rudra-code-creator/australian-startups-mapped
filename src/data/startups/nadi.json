@@ -1,0 +1,242 @@
+[
+  {
+    "id": "ndi-ignite",
+    "name": "Ignite Pacific",
+    "city": "nadi",
+    "lat": -17.7765,
+    "lng": 177.4356,
+    "website": "https://ignitepacific.com",
+    "sector": "SaaS",
+    "address": "Nadi, Fiji",
+    "blurb": "Software, cybersecurity, and BulaWork recruitment tech based in Nadi.",
+    "logoUrl": "https://logo.clearbit.com/ignitepacific.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fignitepacific.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "ndi-bulawork",
+    "name": "BulaWork",
+    "city": "nadi",
+    "lat": -17.7772,
+    "lng": 177.4362,
+    "website": "https://bulawork.com",
+    "sector": "SaaS",
+    "address": "Nadi, Fiji",
+    "blurb": "AI recruitment platform for Pacific talent, built by Ignite Pacific.",
+    "logoUrl": "https://logo.clearbit.com/bulawork.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fbulawork.com?w=1200"
+    ],
+    "fundingStage": "Series D+"
+  },
+  {
+    "id": "ndi-easysign",
+    "name": "EasySign",
+    "city": "nadi",
+    "lat": -17.7768,
+    "lng": 177.4358,
+    "website": "https://ignitepacific.com",
+    "sector": "SaaS",
+    "address": "Nadi, Fiji",
+    "blurb": "Digital signatures product for Pacific businesses.",
+    "logoUrl": "https://logo.clearbit.com/ignitepacific.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fignitepacific.com?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "ndi-fiji-airways",
+    "name": "Fiji Airways digital",
+    "city": "nadi",
+    "lat": -17.7554,
+    "lng": 177.4436,
+    "website": "https://www.fijiairways.com",
+    "sector": "Travel",
+    "address": "Nasoso Rd, Nadi Airport",
+    "blurb": "Airline digital and loyalty products at Nadi Airport.",
+    "logoUrl": "https://logo.clearbit.com/fijiairways.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.fijiairways.com?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "ndi-tourism-fiji",
+    "name": "Tourism Fiji",
+    "city": "nadi",
+    "lat": -17.7748,
+    "lng": 177.4312,
+    "website": "https://www.fiji.travel",
+    "sector": "Travel",
+    "address": "Nadi",
+    "blurb": "Destination marketing and booking tech.",
+    "logoUrl": "https://logo.clearbit.com/fiji.travel",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.fiji.travel?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "ndi-airports-fiji",
+    "name": "Airports Fiji",
+    "city": "nadi",
+    "lat": -17.7558,
+    "lng": 177.4432,
+    "website": "https://www.airportsfiji.com",
+    "sector": "Travel",
+    "address": "Nadi Airport",
+    "blurb": "Airport operator digital services.",
+    "logoUrl": "https://logo.clearbit.com/airportsfiji.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.airportsfiji.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "ndi-vodafone-nadi",
+    "name": "Vodafone Nadi",
+    "city": "nadi",
+    "lat": -17.7762,
+    "lng": 177.4168,
+    "website": "https://www.vodafone.com.fj",
+    "sector": "Telecom",
+    "address": "Namaka, Nadi",
+    "blurb": "Retail and mobile-money presence in Nadi.",
+    "logoUrl": "https://logo.clearbit.com/vodafone.com.fj",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.vodafone.com.fj?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "ndi-digicel-nadi",
+    "name": "Digicel Nadi",
+    "city": "nadi",
+    "lat": -17.7768,
+    "lng": 177.4352,
+    "website": "https://www.digicelgroup.com",
+    "sector": "Telecom",
+    "address": "Nadi town",
+    "blurb": "Mobile services for the western division.",
+    "logoUrl": "https://logo.clearbit.com/digicelgroup.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.digicelgroup.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "ndi-westpac-nadi",
+    "name": "Westpac Nadi digital",
+    "city": "nadi",
+    "lat": -17.7774,
+    "lng": 177.435,
+    "website": "https://www.westpac.com.fj",
+    "sector": "FinTech",
+    "address": "Nadi town",
+    "blurb": "Retail banking digital channels.",
+    "logoUrl": "https://logo.clearbit.com/westpac.com.fj",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.westpac.com.fj?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "ndi-anz-nadi",
+    "name": "ANZ Nadi",
+    "city": "nadi",
+    "lat": -17.7776,
+    "lng": 177.4348,
+    "website": "https://www.anz.com/fiji",
+    "sector": "FinTech",
+    "address": "Main St, Nadi",
+    "blurb": "Banking services for tourism and SMEs.",
+    "logoUrl": "https://logo.clearbit.com/anz.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.anz.com%2Ffiji?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "ndi-bsp-nadi",
+    "name": "BSP Nadi",
+    "city": "nadi",
+    "lat": -17.777,
+    "lng": 177.4354,
+    "website": "https://www.bsp.com.fj",
+    "sector": "FinTech",
+    "address": "Nadi town",
+    "blurb": "Regional bank branch and digital onboarding.",
+    "logoUrl": "https://logo.clearbit.com/bsp.com.fj",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.bsp.com.fj?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "ndi-datec-nadi",
+    "name": "Datec Nadi",
+    "city": "nadi",
+    "lat": -17.7764,
+    "lng": 177.4172,
+    "website": "https://www.datec.com.fj",
+    "sector": "Enterprise",
+    "address": "Namaka, Nadi",
+    "blurb": "IT services for western Fiji corporates.",
+    "logoUrl": "https://logo.clearbit.com/datec.com.fj",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.datec.com.fj?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "ndi-unwired",
+    "name": "Unwired Fiji",
+    "city": "nadi",
+    "lat": -17.7756,
+    "lng": 177.4328,
+    "website": "https://www.unwired.com.fj",
+    "sector": "Telecom",
+    "address": "Nadi",
+    "blurb": "Wireless broadband provider.",
+    "logoUrl": "https://logo.clearbit.com/unwired.com.fj",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.unwired.com.fj?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "ndi-connect-nadi",
+    "name": "Connect Nadi",
+    "city": "nadi",
+    "lat": -17.7758,
+    "lng": 177.4334,
+    "website": "https://www.connect.com.fj",
+    "sector": "Telecom",
+    "address": "Nadi",
+    "blurb": "ISP serving the west.",
+    "logoUrl": "https://logo.clearbit.com/connect.com.fj",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.connect.com.fj?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "ndi-jacks",
+    "name": "Jacks Travel digital",
+    "city": "nadi",
+    "lat": -17.7608,
+    "lng": 177.4472,
+    "website": "https://www.jacksfiji.com",
+    "sector": "Travel",
+    "address": "Nadi Airport corridor",
+    "blurb": "Destination operator with digital booking tools.",
+    "logoUrl": "https://logo.clearbit.com/jacksfiji.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.jacksfiji.com?w=1200"
+    ],
+    "fundingStage": "Series A"
+  }
+]

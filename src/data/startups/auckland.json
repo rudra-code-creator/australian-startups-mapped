@@ -1,0 +1,720 @@
+[
+  {
+    "id": "akl-xero",
+    "name": "Xero",
+    "city": "auckland",
+    "lat": -36.8415,
+    "lng": 174.75615,
+    "website": "https://www.xero.com",
+    "sector": "SaaS",
+    "address": "12 Madden St, Auckland CBD",
+    "blurb": "Cloud accounting platform founded in New Zealand, with a major Auckland product office.",
+    "buildingId": "auckland-gridakl",
+    "buildingName": "GridAKL",
+    "logoUrl": "https://logo.clearbit.com/xero.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.xero.com?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "akl-vend",
+    "name": "Lightspeed (Vend)",
+    "city": "auckland",
+    "lat": -36.84145,
+    "lng": 174.75615,
+    "website": "https://www.lightspeedhq.com",
+    "sector": "SaaS",
+    "address": "12 Madden St, Auckland CBD",
+    "blurb": "Retail POS and commerce software; Vend was founded in Auckland.",
+    "buildingId": "auckland-gridakl",
+    "buildingName": "GridAKL",
+    "logoUrl": "https://logo.clearbit.com/lightspeedhq.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.lightspeedhq.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "akl-soul-machines",
+    "name": "Soul Machines",
+    "city": "auckland",
+    "lat": -36.8414,
+    "lng": 174.75615,
+    "website": "https://www.soulmachines.com",
+    "sector": "AI",
+    "address": "12 Madden St, Auckland CBD",
+    "blurb": "Digital people and conversational AI company founded in Auckland.",
+    "buildingId": "auckland-gridakl",
+    "buildingName": "GridAKL",
+    "logoUrl": "https://logo.clearbit.com/soulmachines.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.soulmachines.com?w=1200"
+    ],
+    "fundingStage": "Series D+"
+  },
+  {
+    "id": "akl-auror",
+    "name": "Auror",
+    "city": "auckland",
+    "lat": -36.84135,
+    "lng": 174.75615,
+    "website": "https://www.auror.co",
+    "sector": "SaaS",
+    "address": "12 Madden St, Auckland CBD",
+    "blurb": "Retail crime intelligence platform used by supermarket and retail networks.",
+    "buildingId": "auckland-gridakl",
+    "buildingName": "GridAKL",
+    "logoUrl": "https://logo.clearbit.com/auror.co",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.auror.co?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "akl-fergus",
+    "name": "Fergus",
+    "city": "auckland",
+    "lat": -36.851000000000006,
+    "lng": 174.78035,
+    "website": "https://fergus.com",
+    "sector": "SaaS",
+    "address": "The Strand, Parnell, Auckland",
+    "blurb": "Job management software for trade businesses, founded in Auckland.",
+    "buildingId": "auckland-icehouse",
+    "buildingName": "The Icehouse",
+    "logoUrl": "https://logo.clearbit.com/fergus.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Ffergus.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "akl-unleashed",
+    "name": "Unleashed Software",
+    "city": "auckland",
+    "lat": -36.850950000000005,
+    "lng": 174.78035,
+    "website": "https://www.unleashedsoftware.com",
+    "sector": "SaaS",
+    "address": "The Strand, Parnell, Auckland",
+    "blurb": "Inventory and manufacturing software for product businesses.",
+    "buildingId": "auckland-icehouse",
+    "buildingName": "The Icehouse",
+    "logoUrl": "https://logo.clearbit.com/unleashedsoftware.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.unleashedsoftware.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "akl-first-aml",
+    "name": "First AML",
+    "city": "auckland",
+    "lat": -36.84145,
+    "lng": 174.7562,
+    "website": "https://www.firstaml.com",
+    "sector": "FinTech",
+    "address": "12 Madden St, Auckland CBD",
+    "blurb": "AML onboarding and compliance platform for professional services firms.",
+    "buildingId": "auckland-gridakl",
+    "buildingName": "GridAKL",
+    "logoUrl": "https://logo.clearbit.com/firstaml.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.firstaml.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "akl-centrapay",
+    "name": "Centrapay",
+    "city": "auckland",
+    "lat": -36.8414,
+    "lng": 174.7562,
+    "website": "https://www.centrapay.com",
+    "sector": "FinTech",
+    "address": "12 Madden St, Auckland CBD",
+    "blurb": "Account-to-account payments network built in New Zealand.",
+    "buildingId": "auckland-gridakl",
+    "buildingName": "GridAKL",
+    "logoUrl": "https://logo.clearbit.com/centrapay.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.centrapay.com?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "akl-kami",
+    "name": "Kami",
+    "city": "auckland",
+    "lat": -36.84135,
+    "lng": 174.7562,
+    "website": "https://www.kamiapp.com",
+    "sector": "EdTech",
+    "address": "12 Madden St, Auckland CBD",
+    "blurb": "Classroom document and PDF app used by schools worldwide.",
+    "buildingId": "auckland-gridakl",
+    "buildingName": "GridAKL",
+    "logoUrl": "https://logo.clearbit.com/kamiapp.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.kamiapp.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "akl-90seconds",
+    "name": "90 Seconds",
+    "city": "auckland",
+    "lat": -36.841550000000005,
+    "lng": 174.75625,
+    "website": "https://90seconds.com",
+    "sector": "Media",
+    "address": "12 Madden St, Auckland CBD",
+    "blurb": "Video production platform connecting brands with global crews.",
+    "buildingId": "auckland-gridakl",
+    "buildingName": "GridAKL",
+    "logoUrl": "https://logo.clearbit.com/90seconds.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2F90seconds.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "akl-mega",
+    "name": "MEGA",
+    "city": "auckland",
+    "lat": -36.8456,
+    "lng": 174.7655,
+    "website": "https://mega.io",
+    "sector": "Cloud",
+    "address": "2 Queen St, Auckland CBD",
+    "blurb": "Privacy-focused cloud storage and collaboration platform founded in Auckland.",
+    "logoUrl": "https://logo.clearbit.com/mega.io",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fmega.io?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "akl-rocket-lab",
+    "name": "Rocket Lab",
+    "city": "auckland",
+    "lat": -36.9992,
+    "lng": 174.7904,
+    "website": "https://www.rocketlabusa.com",
+    "sector": "Aerospace",
+    "address": "25 Airpark Dr, Auckland Airport",
+    "blurb": "Small-launch aerospace company with major manufacturing in Auckland.",
+    "logoUrl": "https://logo.clearbit.com/rocketlabusa.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.rocketlabusa.com?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "akl-eroad",
+    "name": "EROAD",
+    "city": "auckland",
+    "lat": -36.7281,
+    "lng": 174.7082,
+    "website": "https://www.eroad.co.nz",
+    "sector": "Transport",
+    "address": "260 Oteha Valley Rd, Albany, Auckland",
+    "blurb": "Transport technology and A-road user charging platform headquartered in Auckland.",
+    "logoUrl": "https://logo.clearbit.com/eroad.co.nz",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.eroad.co.nz?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "akl-serato",
+    "name": "Serato",
+    "city": "auckland",
+    "lat": -36.8532,
+    "lng": 174.7538,
+    "website": "https://serato.com",
+    "sector": "Media",
+    "address": "52 Sale St, Freemans Bay, Auckland",
+    "blurb": "DJ and music software company founded in Auckland.",
+    "logoUrl": "https://logo.clearbit.com/serato.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fserato.com?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "akl-ninja-kiwi",
+    "name": "Ninja Kiwi",
+    "city": "auckland",
+    "lat": -36.8415,
+    "lng": 174.75625,
+    "website": "https://ninjakiwi.com",
+    "sector": "Games",
+    "address": "12 Madden St, Auckland CBD",
+    "blurb": "Game studio behind Bloons and other long-running titles.",
+    "buildingId": "auckland-gridakl",
+    "buildingName": "GridAKL",
+    "logoUrl": "https://logo.clearbit.com/ninjakiwi.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fninjakiwi.com?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "akl-grinding-gear",
+    "name": "Grinding Gear Games",
+    "city": "auckland",
+    "lat": -36.8765,
+    "lng": 174.7598,
+    "website": "https://www.grindinggear.com",
+    "sector": "Games",
+    "address": "6/23 Edwin St, Mt Eden, Auckland",
+    "blurb": "Studio behind Path of Exile, based in Auckland.",
+    "logoUrl": "https://logo.clearbit.com/grindinggear.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.grindinggear.com?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "akl-halter",
+    "name": "Halter",
+    "city": "auckland",
+    "lat": -36.8506,
+    "lng": 174.7812,
+    "website": "https://www.halterhq.com",
+    "sector": "AgriTech",
+    "address": "102/165 The Strand, Parnell, Auckland",
+    "blurb": "Solar-powered cattle collars and virtual fencing for pastoral farms.",
+    "logoUrl": "https://logo.clearbit.com/halterhq.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.halterhq.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "akl-figured",
+    "name": "Figured",
+    "city": "auckland",
+    "lat": -36.8509,
+    "lng": 174.7804,
+    "website": "https://www.figured.com",
+    "sector": "AgriTech",
+    "address": "The Strand, Parnell, Auckland",
+    "blurb": "Farm financial management software used across NZ and Australia.",
+    "buildingId": "auckland-icehouse",
+    "buildingName": "The Icehouse",
+    "logoUrl": "https://logo.clearbit.com/figured.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.figured.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "akl-hnry",
+    "name": "Hnry",
+    "city": "auckland",
+    "lat": -36.8414,
+    "lng": 174.75625,
+    "website": "https://hnry.com",
+    "sector": "FinTech",
+    "address": "12 Madden St, Auckland CBD",
+    "blurb": "Tax, invoicing, and admin platform for contractors and sole traders.",
+    "buildingId": "auckland-gridakl",
+    "buildingName": "GridAKL",
+    "logoUrl": "https://logo.clearbit.com/hnry.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fhnry.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "akl-kernel",
+    "name": "Kernel Wealth",
+    "city": "auckland",
+    "lat": -36.8448,
+    "lng": 174.7579,
+    "website": "https://www.kernelwealth.co.nz",
+    "sector": "FinTech",
+    "address": "22 Fanshawe St, Auckland CBD",
+    "blurb": "Low-fee KiwiSaver and investment funds built in Auckland.",
+    "logoUrl": "https://logo.clearbit.com/kernelwealth.co.nz",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.kernelwealth.co.nz?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "akl-harmoney",
+    "name": "Harmoney",
+    "city": "auckland",
+    "lat": -36.8442,
+    "lng": 174.7638,
+    "website": "https://www.harmoney.co.nz",
+    "sector": "FinTech",
+    "address": "110 Customs St W, Auckland CBD",
+    "blurb": "Digital consumer lending marketplace founded in Auckland.",
+    "logoUrl": "https://logo.clearbit.com/harmoney.co.nz",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.harmoney.co.nz?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "akl-pushpay",
+    "name": "Pushpay",
+    "city": "auckland",
+    "lat": -36.8489,
+    "lng": 174.7552,
+    "website": "https://pushpay.com",
+    "sector": "FinTech",
+    "address": "167 Victoria St W, Auckland CBD",
+    "blurb": "Payments and engagement software with New Zealand roots and an Auckland office.",
+    "logoUrl": "https://logo.clearbit.com/pushpay.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fpushpay.com?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "akl-imagr",
+    "name": "Imagr",
+    "city": "auckland",
+    "lat": -36.8508,
+    "lng": 174.7804,
+    "website": "https://imagr.co",
+    "sector": "RetailTech",
+    "address": "The Strand, Parnell, Auckland",
+    "blurb": "Computer-vision checkout and retail automation company.",
+    "buildingId": "auckland-icehouse",
+    "buildingName": "The Icehouse",
+    "logoUrl": "https://logo.clearbit.com/imagr.co",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fimagr.co?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "akl-coretex",
+    "name": "Coretex",
+    "city": "auckland",
+    "lat": -36.8728,
+    "lng": 174.7364,
+    "website": "https://www.coretex.com",
+    "sector": "Transport",
+    "address": "7a Taylors Rd, Morningside, Auckland",
+    "blurb": "Fleet telematics and cold-chain monitoring platform.",
+    "logoUrl": "https://logo.clearbit.com/coretex.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.coretex.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "akl-devoli",
+    "name": "Devoli",
+    "city": "auckland",
+    "lat": -36.8428,
+    "lng": 174.7572,
+    "website": "https://www.devoli.com",
+    "sector": "Telecom",
+    "address": "58 Gaunt St, Wynyard Quarter, Auckland",
+    "blurb": "Wholesale connectivity and software-defined network services.",
+    "logoUrl": "https://logo.clearbit.com/devoli.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.devoli.com?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "akl-montoux",
+    "name": "Montoux",
+    "city": "auckland",
+    "lat": -36.851000000000006,
+    "lng": 174.78044999999997,
+    "website": "https://www.montoux.com",
+    "sector": "InsurTech",
+    "address": "The Strand, Parnell, Auckland",
+    "blurb": "Actuarial automation software for life insurers.",
+    "buildingId": "auckland-icehouse",
+    "buildingName": "The Icehouse",
+    "logoUrl": "https://logo.clearbit.com/montoux.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.montoux.com?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "akl-tracksuit",
+    "name": "Tracksuit",
+    "city": "auckland",
+    "lat": -36.8415,
+    "lng": 174.75629999999998,
+    "website": "https://www.tracksuit.com",
+    "sector": "MarTech",
+    "address": "12 Madden St, Auckland CBD",
+    "blurb": "Brand-tracking platform for in-house marketing teams.",
+    "buildingId": "auckland-gridakl",
+    "buildingName": "GridAKL",
+    "logoUrl": "https://logo.clearbit.com/tracksuit.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.tracksuit.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "akl-crimson",
+    "name": "Crimson Education",
+    "city": "auckland",
+    "lat": -36.8438,
+    "lng": 174.7612,
+    "website": "https://www.crimsoneducation.com",
+    "sector": "EdTech",
+    "address": "18 Viaduct Harbour Ave, Auckland",
+    "blurb": "University admissions mentoring company founded in Auckland.",
+    "logoUrl": "https://logo.clearbit.com/crimsoneducation.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.crimsoneducation.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "akl-eventfinda",
+    "name": "Eventfinda",
+    "city": "auckland",
+    "lat": -36.8426,
+    "lng": 174.7598,
+    "website": "https://www.eventfinda.co.nz",
+    "sector": "Marketplace",
+    "address": "101 Pakenham St, Auckland CBD",
+    "blurb": "Events discovery and ticketing marketplace across New Zealand.",
+    "logoUrl": "https://logo.clearbit.com/eventfinda.co.nz",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.eventfinda.co.nz?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "akl-bookme",
+    "name": "Bookme",
+    "city": "auckland",
+    "lat": -36.8645,
+    "lng": 174.7588,
+    "website": "https://www.bookme.co.nz",
+    "sector": "Marketplace",
+    "address": "2/22 Dundonald St, Eden Terrace, Auckland",
+    "blurb": "Experiences and activities booking platform.",
+    "logoUrl": "https://logo.clearbit.com/bookme.co.nz",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.bookme.co.nz?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "akl-atomic-tessellator",
+    "name": "Atomic Tessellator",
+    "city": "auckland",
+    "lat": -36.8509,
+    "lng": 174.78044999999997,
+    "website": "https://www.atomictessellator.com",
+    "sector": "DeepTech",
+    "address": "The Strand, Parnell, Auckland",
+    "blurb": "AI materials-science company designing alternatives to rare-earth elements.",
+    "buildingId": "auckland-icehouse",
+    "buildingName": "The Icehouse",
+    "logoUrl": "https://logo.clearbit.com/atomictessellator.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.atomictessellator.com?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "akl-ai-foundry",
+    "name": "AI Foundry",
+    "city": "auckland",
+    "lat": -36.8472,
+    "lng": 174.7658,
+    "website": "https://www.aifoundry.co.nz",
+    "sector": "AI",
+    "address": "Datacom, Auckland",
+    "blurb": "Sovereign AI infrastructure hosted in Auckland data centres.",
+    "logoUrl": "https://logo.clearbit.com/aifoundry.co.nz",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.aifoundry.co.nz?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "akl-icehouse-ventures",
+    "name": "Icehouse Ventures",
+    "city": "auckland",
+    "lat": -36.85085,
+    "lng": 174.78044999999997,
+    "website": "https://www.icehouseventures.co.nz",
+    "sector": "Venture",
+    "address": "The Strand, Parnell, Auckland",
+    "blurb": "Early-stage New Zealand venture firm and founder community.",
+    "buildingId": "auckland-icehouse",
+    "buildingName": "The Icehouse",
+    "logoUrl": "https://logo.clearbit.com/icehouseventures.co.nz",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.icehouseventures.co.nz?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "akl-gridakl",
+    "name": "GridAKL",
+    "city": "auckland",
+    "lat": -36.84135,
+    "lng": 174.75629999999998,
+    "website": "https://www.gridakl.com",
+    "sector": "Hub",
+    "address": "12 Madden St, Auckland CBD",
+    "blurb": "Auckland’s waterfront innovation precinct for high-growth tech companies.",
+    "buildingId": "auckland-gridakl",
+    "buildingName": "GridAKL",
+    "logoUrl": "https://logo.clearbit.com/gridakl.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.gridakl.com?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "akl-generator",
+    "name": "Generator",
+    "city": "auckland",
+    "lat": -36.8694,
+    "lng": 174.7768,
+    "website": "https://generatornz.com",
+    "sector": "Hub",
+    "address": "Level 1/100 Carlton Gore Rd, Newmarket, Auckland",
+    "blurb": "Coworking and founder community with a flagship Newmarket campus.",
+    "logoUrl": "https://logo.clearbit.com/generatornz.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fgeneratornz.com?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "akl-bizdojo-akl",
+    "name": "BizDojo Auckland",
+    "city": "auckland",
+    "lat": -36.8443,
+    "lng": 174.7678,
+    "website": "https://www.bizdojo.com",
+    "sector": "Hub",
+    "address": "5 Britomart Pl, Auckland CBD",
+    "blurb": "Flexible workspace and startup community in Britomart.",
+    "logoUrl": "https://logo.clearbit.com/bizdojo.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.bizdojo.com?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "akl-sharesies-akl",
+    "name": "Sharesies",
+    "city": "auckland",
+    "lat": -36.8448,
+    "lng": 174.7579,
+    "website": "https://www.sharesies.nz",
+    "sector": "FinTech",
+    "address": "22 Fanshawe St, Auckland CBD",
+    "blurb": "Investment platform with a growing Auckland team alongside its Wellington HQ.",
+    "logoUrl": "https://logo.clearbit.com/sharesies.nz",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.sharesies.nz?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "akl-timely",
+    "name": "Timely",
+    "city": "auckland",
+    "lat": -36.851000000000006,
+    "lng": 174.7805,
+    "website": "https://www.gettimely.com",
+    "sector": "SaaS",
+    "address": "The Strand, Parnell, Auckland",
+    "blurb": "Salon and wellness booking software with New Zealand origins.",
+    "buildingId": "auckland-icehouse",
+    "buildingName": "The Icehouse",
+    "logoUrl": "https://logo.clearbit.com/gettimely.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.gettimely.com?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "akl-asknicely-akl",
+    "name": "AskNicely",
+    "city": "auckland",
+    "lat": -36.8415,
+    "lng": 174.75635,
+    "website": "https://www.asknicely.com",
+    "sector": "SaaS",
+    "address": "12 Madden St, Auckland CBD",
+    "blurb": "Customer experience and NPS software with a New Zealand engineering base.",
+    "buildingId": "auckland-gridakl",
+    "buildingName": "GridAKL",
+    "logoUrl": "https://logo.clearbit.com/asknicely.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.asknicely.com?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "akl-liven",
+    "name": "Liven",
+    "city": "auckland",
+    "lat": -36.84145,
+    "lng": 174.75635,
+    "website": "https://www.liven.com.au",
+    "sector": "FinTech",
+    "address": "12 Madden St, Auckland CBD",
+    "blurb": "Dining rewards and merchant payments network with an Auckland presence.",
+    "buildingId": "auckland-gridakl",
+    "buildingName": "GridAKL",
+    "logoUrl": "https://logo.clearbit.com/liven.com.au",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.liven.com.au?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "akl-wipster",
+    "name": "Wipster",
+    "city": "auckland",
+    "lat": -36.85085,
+    "lng": 174.7805,
+    "website": "https://wipster.io",
+    "sector": "Media",
+    "address": "The Strand, Parnell, Auckland",
+    "blurb": "Video review and approval software for creative teams.",
+    "buildingId": "auckland-icehouse",
+    "buildingName": "The Icehouse",
+    "logoUrl": "https://logo.clearbit.com/wipster.io",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwipster.io?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "akl-mint-innovation",
+    "name": "Mint Innovation",
+    "city": "auckland",
+    "lat": -36.8924,
+    "lng": 174.6955,
+    "website": "https://www.mint-innovation.com",
+    "sector": "Climate",
+    "address": "9 Saunders Pl, Avondale, Auckland",
+    "blurb": "Recovers precious metals from e-waste using biology-based processes.",
+    "logoUrl": "https://logo.clearbit.com/mint-innovation.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.mint-innovation.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  }
+]

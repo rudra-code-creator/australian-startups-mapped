@@ -1,0 +1,194 @@
+[
+  {
+    "id": "zh-gree",
+    "name": "Gree Electric",
+    "city": "zhuhai",
+    "lat": 22.27,
+    "lng": 113.58,
+    "website": "https://global.gree.com",
+    "sector": "Hardware",
+    "address": "Zhuhai",
+    "blurb": "Air-conditioner and appliance giant headquartered in Zhuhai.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/global.gree.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fglobal.gree.com?w=1200"
+    ]
+  },
+  {
+    "id": "zh-zhuhai-port",
+    "name": "Zhuhai Port digital",
+    "city": "zhuhai",
+    "lat": 22.25,
+    "lng": 113.55,
+    "website": "https://www.zhport.com",
+    "sector": "Logistics",
+    "address": "Zhuhai",
+    "blurb": "Port and logistics systems.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/zhport.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.zhport.com?w=1200"
+    ]
+  },
+  {
+    "id": "zh-zhongshan-torch",
+    "name": "Zhongshan Torch Hub",
+    "city": "zhuhai",
+    "lat": 22.52,
+    "lng": 113.39,
+    "website": "https://www.zs.gov.cn",
+    "sector": "Hub",
+    "address": "Zhongshan",
+    "blurb": "Torch Development Zone for manufacturing tech.",
+    "fundingStage": "Bootstrapped",
+    "logoUrl": "https://logo.clearbit.com/zs.gov.cn",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.zs.gov.cn?w=1200"
+    ]
+  },
+  {
+    "id": "zh-midea-zs",
+    "name": "Midea Zhongshan",
+    "city": "zhuhai",
+    "lat": 22.52,
+    "lng": 113.4,
+    "website": "https://www.midea.com",
+    "sector": "Hardware",
+    "address": "Zhongshan",
+    "blurb": "Appliance manufacturing base.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/midea.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.midea.com?w=1200"
+    ]
+  },
+  {
+    "id": "zh-oppo-zs",
+    "name": "OPPO Zhongshan",
+    "city": "zhuhai",
+    "lat": 22.52,
+    "lng": 113.38,
+    "website": "https://www.oppo.com",
+    "sector": "Hardware",
+    "address": "Zhongshan",
+    "blurb": "Electronics manufacturing.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/oppo.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.oppo.com?w=1200"
+    ]
+  },
+  {
+    "id": "zh-vivo-zs",
+    "name": "vivo Zhongshan",
+    "city": "zhuhai",
+    "lat": 22.51,
+    "lng": 113.39,
+    "website": "https://www.vivo.com",
+    "sector": "Hardware",
+    "address": "Zhongshan",
+    "blurb": "Electronics manufacturing.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/vivo.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.vivo.com?w=1200"
+    ]
+  },
+  {
+    "id": "zh-hengqin",
+    "name": "Hengqin Sci-Tech",
+    "city": "zhuhai",
+    "lat": 22.14,
+    "lng": 113.54,
+    "website": "https://www.hengqin.gov.cn",
+    "sector": "Hub",
+    "address": "Hengqin, Zhuhai",
+    "blurb": "Cross-border innovation zone with Macao.",
+    "fundingStage": "Bootstrapped",
+    "logoUrl": "https://logo.clearbit.com/hengqin.gov.cn",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.hengqin.gov.cn?w=1200"
+    ]
+  },
+  {
+    "id": "zh-uav",
+    "name": "Zhuhai UAV cluster",
+    "city": "zhuhai",
+    "lat": 22.27,
+    "lng": 113.55,
+    "website": "https://www.dji.com",
+    "sector": "Hardware",
+    "address": "Zhuhai",
+    "blurb": "Drone and aviation electronics suppliers.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/dji.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.dji.com?w=1200"
+    ]
+  },
+  {
+    "id": "zh-sf",
+    "name": "SF Express Zhuhai",
+    "city": "zhuhai",
+    "lat": 22.28,
+    "lng": 113.56,
+    "website": "https://www.sf-express.com",
+    "sector": "Logistics",
+    "address": "Zhuhai",
+    "blurb": "Express logistics.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/sf-express.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.sf-express.com?w=1200"
+    ]
+  },
+  {
+    "id": "zh-cainiao",
+    "name": "Cainiao Zhuhai",
+    "city": "zhuhai",
+    "lat": 22.27,
+    "lng": 113.55,
+    "website": "https://www.cainiao.com",
+    "sector": "Logistics",
+    "address": "Zhuhai",
+    "blurb": "E-commerce logistics.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/cainiao.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.cainiao.com?w=1200"
+    ]
+  },
+  {
+    "id": "zh-lalamove",
+    "name": "Lalamove Zhuhai",
+    "city": "zhuhai",
+    "lat": 22.27,
+    "lng": 113.57,
+    "website": "https://www.lalamove.com",
+    "sector": "Logistics",
+    "address": "Zhuhai",
+    "blurb": "On-demand delivery.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/lalamove.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.lalamove.com?w=1200"
+    ]
+  },
+  {
+    "id": "zh-gree-robot",
+    "name": "Gree robotics",
+    "city": "zhuhai",
+    "lat": 22.27,
+    "lng": 113.58,
+    "website": "https://global.gree.com",
+    "sector": "Robotics",
+    "address": "Zhuhai",
+    "blurb": "Industrial automation within Gree.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/global.gree.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fglobal.gree.com?w=1200"
+    ]
+  }
+]

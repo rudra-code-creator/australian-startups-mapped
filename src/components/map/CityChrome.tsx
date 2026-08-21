@@ -2,7 +2,8 @@
 
 import * as React from "react";
 import Link from "next/link";
-import { CITIES, CITY_SLUGS } from "@/lib/cities";
+import { useRouter } from "next/navigation";
+import { CITIES, COUNTRIES, chromeRegionLabel, chromeSiblings } from "@/lib/cities";
 import type { CitySlug } from "@/lib/types";
 
 export function CityChrome({
@@ -24,6 +25,10 @@ export function CityChrome({
   fixLocations?: boolean;
   onToggleFixLocations?: () => void;
 }) {
+  const router = useRouter();
+  const siblings = chromeSiblings(city);
+  const regionLabel = chromeRegionLabel(city);
+
   return (
     <div
       style={{
@@ -53,38 +58,60 @@ export function CityChrome({
         }}
       >
         <div className="flex items-center gap-3 min-w-0">
-          <div className="hidden sm:block">
+          <div className="hidden sm:block min-w-0">
             <div className="text-xs font-semibold tracking-[0.28em] uppercase text-[color:var(--muted)]">
-              City
+              {regionLabel}
             </div>
-            <div className="text-lg font-semibold text-[color:var(--ink)]">
+            <div className="text-lg font-semibold text-[color:var(--ink)] truncate">
               {CITIES[city].name}
             </div>
           </div>
 
-          <nav className="flex flex-wrap gap-1">
-            {CITY_SLUGS.map((slug) => {
-              const active = slug === city;
-              return (
-                <Link
-                  key={slug}
-                  href={`/maps/${slug}`}
-                  className="text-xs font-semibold rounded-full px-3 py-1 border transition-colors"
-                  style={{
-                    borderColor: active
-                      ? "rgba(15, 107, 107, 0.35)"
-                      : "rgba(148, 163, 184, 0.55)",
-                    background: active
-                      ? "rgba(15, 107, 107, 0.10)"
-                      : "rgba(255,255,255,0.55)",
-                    color: active ? "var(--teal-deep)" : "var(--ink)",
-                  }}
-                >
-                  {CITIES[slug].name}
-                </Link>
-              );
-            })}
-          </nav>
+          <div className="flex min-w-0 flex-wrap items-center gap-1">
+            {siblings.length > 1
+              ? siblings.map((slug) => {
+                  const active = slug === city;
+                  return (
+                    <Link
+                      key={slug}
+                      href={`/maps/${slug}`}
+                      className="text-xs font-semibold rounded-full px-3 py-1 border transition-colors"
+                      style={{
+                        borderColor: active
+                          ? "rgba(15, 107, 107, 0.35)"
+                          : "rgba(148, 163, 184, 0.55)",
+                        background: active
+                          ? "rgba(15, 107, 107, 0.10)"
+                          : "rgba(255,255,255,0.55)",
+                        color: active ? "var(--teal-deep)" : "var(--ink)",
+                      }}
+                    >
+                      {CITIES[slug].name}
+                    </Link>
+                  );
+                })
+              : null}
+
+            <label className="sr-only" htmlFor="city-switcher">
+              Jump to another city
+            </label>
+            <select
+              id="city-switcher"
+              value={city}
+              onChange={(event) => router.push(`/maps/${event.target.value}`)}
+              className="text-xs font-semibold rounded-full border border-slate-300 bg-white/80 px-3 py-1 outline-none focus:ring-2 focus:ring-[color:var(--teal)]"
+            >
+              {COUNTRIES.map((item) => (
+                <optgroup key={item.id} label={item.name}>
+                  {item.citySlugs.map((slug) => (
+                    <option key={slug} value={slug}>
+                      {CITIES[slug].name}
+                    </option>
+                  ))}
+                </optgroup>
+              ))}
+            </select>
+          </div>
         </div>
 
         <div className="flex items-center gap-3">
@@ -107,7 +134,7 @@ export function CityChrome({
               {fixLocations ? "Exit Fix Mode" : "Fix Locations"}
             </button>
           )}
-          
+
           <div className="hidden md:block text-xs text-[color:var(--muted)]">
             {visibleCount} / {totalCount}
           </div>
@@ -136,10 +163,11 @@ export function CityChrome({
             pointerEvents: "auto",
           }}
         >
-          Curated / illustrative — not a complete census.
+          {CITIES[city].note
+            ? `${CITIES[city].note}. Curated / illustrative — not a complete census.`
+            : "Curated / illustrative — not a complete census."}
         </div>
       </div>
     </div>
   );
 }
-

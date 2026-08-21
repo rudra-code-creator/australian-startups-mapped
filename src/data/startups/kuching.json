@@ -1,0 +1,328 @@
+[
+  {
+    "id": "kch-sdec",
+    "name": "SDEC",
+    "city": "kuching",
+    "lat": 1.55345,
+    "lng": 110.3447,
+    "website": "https://www.sdec.com.my",
+    "sector": "Hub",
+    "address": "Kuching, Sarawak",
+    "blurb": "Sarawak Digital Economy Corporation and founder programmes.",
+    "buildingId": "kuching-sdec",
+    "buildingName": "SDEC Digital Village",
+    "logoUrl": "https://logo.clearbit.com/sdec.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.sdec.com.my?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "kch-sains",
+    "name": "SAINS",
+    "city": "kuching",
+    "lat": 1.5535,
+    "lng": 110.3447,
+    "website": "https://www.sains.com.my",
+    "sector": "Enterprise",
+    "address": "Kuching, Sarawak",
+    "blurb": "Sarawak Information Systems, the state’s digital services group.",
+    "buildingId": "kuching-sdec",
+    "buildingName": "SDEC Digital Village",
+    "logoUrl": "https://logo.clearbit.com/sains.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.sains.com.my?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "kch-spay",
+    "name": "S Pay Global",
+    "city": "kuching",
+    "lat": 1.5535500000000002,
+    "lng": 110.3447,
+    "website": "https://www.spayglobal.my",
+    "sector": "FinTech",
+    "address": "Kuching, Sarawak",
+    "blurb": "Sarawak’s digital payments scheme.",
+    "buildingId": "kuching-sdec",
+    "buildingName": "SDEC Digital Village",
+    "logoUrl": "https://logo.clearbit.com/spayglobal.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.spayglobal.my?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "kch-sacofa",
+    "name": "Sacofa",
+    "city": "kuching",
+    "lat": 1.5486,
+    "lng": 110.3442,
+    "website": "https://www.sacofa.com.my",
+    "sector": "Telecom",
+    "address": "Kuching, Sarawak",
+    "blurb": "State fibre and connectivity company.",
+    "logoUrl": "https://logo.clearbit.com/sacofa.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.sacofa.com.my?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "kch-sarawak-energy",
+    "name": "Sarawak Energy digital",
+    "city": "kuching",
+    "lat": 1.5572,
+    "lng": 110.3518,
+    "website": "https://www.sarawakenergy.com",
+    "sector": "Energy",
+    "address": "Kuching, Sarawak",
+    "blurb": "Utility digital customer and grid systems.",
+    "logoUrl": "https://logo.clearbit.com/sarawakenergy.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.sarawakenergy.com?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "kch-unimas",
+    "name": "UNIMAS Innovation",
+    "city": "kuching",
+    "lat": 1.4688,
+    "lng": 110.4296,
+    "website": "https://www.unimas.my",
+    "sector": "Hub",
+    "address": "Kota Samarahan, Sarawak",
+    "blurb": "University commercialisation next to Kuching.",
+    "logoUrl": "https://logo.clearbit.com/unimas.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.unimas.my?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "kch-swinburne",
+    "name": "Swinburne Sarawak",
+    "city": "kuching",
+    "lat": 1.5324,
+    "lng": 110.3568,
+    "website": "https://www.swinburne.edu.my",
+    "sector": "EdTech",
+    "address": "Kuching, Sarawak",
+    "blurb": "Campus startup and engineering programmes.",
+    "logoUrl": "https://logo.clearbit.com/swinburne.edu.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.swinburne.edu.my?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "kch-grab",
+    "name": "Grab Kuching",
+    "city": "kuching",
+    "lat": 1.5533,
+    "lng": 110.3592,
+    "website": "https://www.grab.com",
+    "sector": "Superapp",
+    "address": "Kuching, Sarawak",
+    "blurb": "City operations.",
+    "logoUrl": "https://logo.clearbit.com/grab.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.grab.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "kch-shopee",
+    "name": "Shopee Kuching",
+    "city": "kuching",
+    "lat": 1.5488,
+    "lng": 110.3524,
+    "website": "https://shopee.com.my",
+    "sector": "Marketplace",
+    "address": "Kuching, Sarawak",
+    "blurb": "E-commerce ops for Sarawak.",
+    "logoUrl": "https://logo.clearbit.com/shopee.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fshopee.com.my?w=1200"
+    ],
+    "fundingStage": "Series D+"
+  },
+  {
+    "id": "kch-foodpanda",
+    "name": "foodpanda Kuching",
+    "city": "kuching",
+    "lat": 1.5564,
+    "lng": 110.3446,
+    "website": "https://www.foodpanda.my",
+    "sector": "Logistics",
+    "address": "Kuching, Sarawak",
+    "blurb": "Delivery network.",
+    "logoUrl": "https://logo.clearbit.com/foodpanda.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.foodpanda.my?w=1200"
+    ],
+    "fundingStage": "Series D+"
+  },
+  {
+    "id": "kch-tng",
+    "name": "Touch 'n Go Kuching",
+    "city": "kuching",
+    "lat": 1.5542,
+    "lng": 110.3512,
+    "website": "https://www.touchngo.com.my",
+    "sector": "FinTech",
+    "address": "Kuching, Sarawak",
+    "blurb": "Merchant wallet presence.",
+    "logoUrl": "https://logo.clearbit.com/touchngo.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.touchngo.com.my?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "kch-storehub",
+    "name": "StoreHub Kuching",
+    "city": "kuching",
+    "lat": 1.5608,
+    "lng": 110.3472,
+    "website": "https://www.storehub.com",
+    "sector": "SaaS",
+    "address": "Kuching waterfront, Sarawak",
+    "blurb": "Cloud POS for Kuching F&B.",
+    "logoUrl": "https://logo.clearbit.com/storehub.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.storehub.com?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "kch-ninjavan",
+    "name": "Ninja Van Kuching",
+    "city": "kuching",
+    "lat": 1.5412,
+    "lng": 110.3386,
+    "website": "https://www.ninjavan.co",
+    "sector": "Logistics",
+    "address": "Kuching, Sarawak",
+    "blurb": "Last-mile hub.",
+    "logoUrl": "https://logo.clearbit.com/ninjavan.co",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ninjavan.co?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "kch-easyparcel",
+    "name": "EasyParcel Kuching",
+    "city": "kuching",
+    "lat": 1.5524,
+    "lng": 110.3488,
+    "website": "https://www.easyparcel.com",
+    "sector": "Logistics",
+    "address": "Kuching, Sarawak",
+    "blurb": "Parcel aggregator.",
+    "logoUrl": "https://logo.clearbit.com/easyparcel.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.easyparcel.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "kch-boost",
+    "name": "Boost Kuching",
+    "city": "kuching",
+    "lat": 1.5536,
+    "lng": 110.3534,
+    "website": "https://www.myboost.com.my",
+    "sector": "FinTech",
+    "address": "Kuching, Sarawak",
+    "blurb": "e-wallet acquiring.",
+    "logoUrl": "https://logo.clearbit.com/myboost.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.myboost.com.my?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "kch-ghl",
+    "name": "GHL Kuching",
+    "city": "kuching",
+    "lat": 1.5548,
+    "lng": 110.3504,
+    "website": "https://www.ghl.com",
+    "sector": "FinTech",
+    "address": "Kuching, Sarawak",
+    "blurb": "Merchant acquiring.",
+    "logoUrl": "https://logo.clearbit.com/ghl.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ghl.com?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "kch-carsome",
+    "name": "Carsome Kuching",
+    "city": "kuching",
+    "lat": 1.5386,
+    "lng": 110.3624,
+    "website": "https://www.carsome.my",
+    "sector": "Marketplace",
+    "address": "Kuching, Sarawak",
+    "blurb": "Used-car inspection centre.",
+    "logoUrl": "https://logo.clearbit.com/carsome.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.carsome.my?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "kch-cenex",
+    "name": "CENTEXS",
+    "city": "kuching",
+    "lat": 1.5296,
+    "lng": 110.3442,
+    "website": "https://www.centexs.edu.my",
+    "sector": "Hub",
+    "address": "Kuching, Sarawak",
+    "blurb": "Technical excellence centre feeding digital skills.",
+    "logoUrl": "https://logo.clearbit.com/centexs.edu.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.centexs.edu.my?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "kch-ipay88",
+    "name": "iPay88 Kuching",
+    "city": "kuching",
+    "lat": 1.5552,
+    "lng": 110.3496,
+    "website": "https://www.ipay88.com",
+    "sector": "FinTech",
+    "address": "Kuching, Sarawak",
+    "blurb": "Payment gateway onboarding.",
+    "logoUrl": "https://logo.clearbit.com/ipay88.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ipay88.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "kch-lalamove",
+    "name": "Lalamove Kuching",
+    "city": "kuching",
+    "lat": 1.5518,
+    "lng": 110.3548,
+    "website": "https://www.lalamove.com",
+    "sector": "Logistics",
+    "address": "Kuching, Sarawak",
+    "blurb": "On-demand delivery.",
+    "logoUrl": "https://logo.clearbit.com/lalamove.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.lalamove.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  }
+]

@@ -58,6 +58,20 @@ export function StartupDetailPanel({
               <div className="text-xl font-semibold text-[color:var(--ink)] truncate">
                 {startup?.name ?? ""}
               </div>
+              {startup?.fundingStage ? (
+                <div className="mt-1.5 flex flex-wrap items-center gap-1.5">
+                  <span
+                    className="inline-flex items-center rounded-full px-2 py-0.5 text-[11px] font-semibold"
+                    style={{
+                      background: "rgba(15, 107, 107, 0.10)",
+                      color: "var(--teal-deep)",
+                      border: "1px solid rgba(15, 107, 107, 0.18)",
+                    }}
+                  >
+                    {startup.fundingStage}
+                  </span>
+                </div>
+              ) : null}
             </div>
           </div>
           <button
@@ -80,6 +94,18 @@ export function StartupDetailPanel({
               No description yet.
             </p>
           )}
+
+          {startup?.fundingStage ? (
+            <div className="space-y-1">
+              <div className="text-xs font-semibold tracking-[0.18em] uppercase text-[color:var(--muted)]">
+                Funding
+              </div>
+              <p className="text-sm leading-6 text-[color:var(--ink)]">
+                Latest stage (curated / illustrative):{" "}
+                <span className="font-semibold">{startup.fundingStage}</span>
+              </p>
+            </div>
+          ) : null}
 
           <div className="space-y-1">
             <div className="text-xs font-semibold tracking-[0.18em] uppercase text-[color:var(--muted)]">

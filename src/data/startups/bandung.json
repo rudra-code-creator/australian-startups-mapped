@@ -1,0 +1,648 @@
+[
+  {
+    "id": "bdg-efishery",
+    "name": "eFishery",
+    "city": "bandung",
+    "lat": -6.8624,
+    "lng": 107.59,
+    "website": "https://efishery.com",
+    "sector": "AgriTech",
+    "address": "Jl. Gegerkalong Hilir, Bandung",
+    "blurb": "IoT feeders and financing for fish and shrimp farmers, founded in Bandung.",
+    "logoUrl": "https://logo.clearbit.com/efishery.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fefishery.com?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "bdg-dicoding",
+    "name": "Dicoding",
+    "city": "bandung",
+    "lat": -6.8986,
+    "lng": 107.6188,
+    "website": "https://www.dicoding.com",
+    "sector": "EdTech",
+    "address": "Jl. Batik Kumeli, Bandung",
+    "blurb": "Developer education platform founded in Bandung.",
+    "logoUrl": "https://logo.clearbit.com/dicoding.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.dicoding.com?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "bdg-agate",
+    "name": "Agate",
+    "city": "bandung",
+    "lat": -6.8854,
+    "lng": 107.6136,
+    "website": "https://agate.id",
+    "sector": "Games",
+    "address": "Jl. Dago, Bandung",
+    "blurb": "One of Indonesia’s largest game studios, based in Bandung.",
+    "logoUrl": "https://logo.clearbit.com/agate.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fagate.id?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "bdg-suitmedia",
+    "name": "Suitmedia",
+    "city": "bandung",
+    "lat": -6.8822,
+    "lng": 107.5968,
+    "website": "https://suitmedia.com",
+    "sector": "SaaS",
+    "address": "Jl. Sukajadi, Bandung",
+    "blurb": "Digital product studio with deep Bandung engineering roots.",
+    "logoUrl": "https://logo.clearbit.com/suitmedia.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fsuitmedia.com?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "bdg-gits",
+    "name": "GITS Indonesia",
+    "city": "bandung",
+    "lat": -6.8608,
+    "lng": 107.6274,
+    "website": "https://gits.id",
+    "sector": "SaaS",
+    "address": "Jl. Dago Giri, Bandung",
+    "blurb": "Custom software and cloud engineering company.",
+    "logoUrl": "https://logo.clearbit.com/gits.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fgits.id?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "bdg-bdv",
+    "name": "Bandung Digital Valley",
+    "city": "bandung",
+    "lat": -6.91755,
+    "lng": 107.619,
+    "website": "https://www.bandungdigitalvalley.com",
+    "sector": "Hub",
+    "address": "Jl. Gegerkalong Hilir, Bandung",
+    "blurb": "Telkom’s Bandung incubator and startup campus.",
+    "buildingId": "bandung-digital-valley",
+    "buildingName": "Bandung Digital Valley",
+    "logoUrl": "https://logo.clearbit.com/bandungdigitalvalley.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.bandungdigitalvalley.com?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "bdg-itb-lpi",
+    "name": "ITB Innovation",
+    "city": "bandung",
+    "lat": -6.8915,
+    "lng": 107.6107,
+    "website": "https://www.itb.ac.id",
+    "sector": "Hub",
+    "address": "ITB Ganesha, Bandung",
+    "blurb": "Institut Teknologi Bandung research commercialisation.",
+    "logoUrl": "https://logo.clearbit.com/itb.ac.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.itb.ac.id?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "bdg-telkom-university",
+    "name": "Telkom University Hub",
+    "city": "bandung",
+    "lat": -6.9734,
+    "lng": 107.6304,
+    "website": "https://telkomuniversity.ac.id",
+    "sector": "Hub",
+    "address": "Jl. Telekomunikasi, Dayeuhkolot, Bandung",
+    "blurb": "Campus startup programmes next to Telkom’s Bandung footprint.",
+    "logoUrl": "https://logo.clearbit.com/telkomuniversity.ac.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Ftelkomuniversity.ac.id?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "bdg-brodo",
+    "name": "Brodo",
+    "city": "bandung",
+    "lat": -6.8936,
+    "lng": 107.6132,
+    "website": "https://bro.do",
+    "sector": "Consumer",
+    "address": "Jl. Trunojoyo, Bandung",
+    "blurb": "DTC footwear brand with a strong digital commerce stack, founded in Bandung.",
+    "logoUrl": "https://logo.clearbit.com/bro.do",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fbro.do?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "bdg-hangry",
+    "name": "Hangry Bandung",
+    "city": "bandung",
+    "lat": -6.9054,
+    "lng": 107.6158,
+    "website": "https://hangry.id",
+    "sector": "Consumer",
+    "address": "Jl. Riau, Bandung",
+    "blurb": "Cloud-kitchen brand with a major Bandung kitchen network.",
+    "logoUrl": "https://logo.clearbit.com/hangry.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fhangry.id?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "bdg-gojek",
+    "name": "Gojek Bandung",
+    "city": "bandung",
+    "lat": -6.9214,
+    "lng": 107.6098,
+    "website": "https://www.gojek.com",
+    "sector": "Superapp",
+    "address": "Jl. Asia Afrika, Bandung",
+    "blurb": "City operations for ride-hailing and GoFood.",
+    "logoUrl": "https://logo.clearbit.com/gojek.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.gojek.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "bdg-grab",
+    "name": "Grab Bandung",
+    "city": "bandung",
+    "lat": -6.9078,
+    "lng": 107.5996,
+    "website": "https://www.grab.com",
+    "sector": "Superapp",
+    "address": "Jl. Pasir Kaliki, Bandung",
+    "blurb": "Grab regional office for West Java.",
+    "logoUrl": "https://logo.clearbit.com/grab.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.grab.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "bdg-tokopedia",
+    "name": "Tokopedia Bandung",
+    "city": "bandung",
+    "lat": -6.8932,
+    "lng": 107.6038,
+    "website": "https://www.tokopedia.com",
+    "sector": "Marketplace",
+    "address": "Jl. Cihampelas, Bandung",
+    "blurb": "Seller community and campus talent office.",
+    "logoUrl": "https://logo.clearbit.com/tokopedia.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.tokopedia.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "bdg-shopee",
+    "name": "Shopee Bandung",
+    "city": "bandung",
+    "lat": -6.9406,
+    "lng": 107.6428,
+    "website": "https://shopee.co.id",
+    "sector": "Marketplace",
+    "address": "Jl. Soekarno-Hatta, Bandung",
+    "blurb": "E-commerce operations for Priangan.",
+    "logoUrl": "https://logo.clearbit.com/shopee.co.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fshopee.co.id?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "bdg-ruangguru",
+    "name": "Ruangguru Bandung",
+    "city": "bandung",
+    "lat": -6.8874,
+    "lng": 107.6152,
+    "website": "https://www.ruangguru.com",
+    "sector": "EdTech",
+    "address": "Jl. Dipatiukur, Bandung",
+    "blurb": "Edtech city team next to the university belt.",
+    "logoUrl": "https://logo.clearbit.com/ruangguru.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ruangguru.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "bdg-zenius",
+    "name": "Zenius Bandung",
+    "city": "bandung",
+    "lat": -6.8848,
+    "lng": 107.6134,
+    "website": "https://www.zenius.net",
+    "sector": "EdTech",
+    "address": "Jl. Dago, Bandung",
+    "blurb": "Learning-content production in Bandung.",
+    "logoUrl": "https://logo.clearbit.com/zenius.net",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.zenius.net?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "bdg-mekari",
+    "name": "Mekari Bandung",
+    "city": "bandung",
+    "lat": -6.9218,
+    "lng": 107.6102,
+    "website": "https://mekari.com",
+    "sector": "SaaS",
+    "address": "Jl. Asia Afrika, Bandung",
+    "blurb": "SaaS implementation for West Java SMEs.",
+    "logoUrl": "https://logo.clearbit.com/mekari.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fmekari.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "bdg-qasir",
+    "name": "Qasir Bandung",
+    "city": "bandung",
+    "lat": -6.8944,
+    "lng": 107.6042,
+    "website": "https://www.qasir.id",
+    "sector": "SaaS",
+    "address": "Jl. Cihampelas, Bandung",
+    "blurb": "POS software with a large Bandung merchant base.",
+    "logoUrl": "https://logo.clearbit.com/qasir.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.qasir.id?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "bdg-majoo",
+    "name": "majoo",
+    "city": "bandung",
+    "lat": -6.9084,
+    "lng": 107.5992,
+    "website": "https://majoo.id",
+    "sector": "SaaS",
+    "address": "Jl. Pasirkaliki, Bandung",
+    "blurb": "Cloud POS founded to serve F&B; strong Bandung presence.",
+    "logoUrl": "https://logo.clearbit.com/majoo.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fmajoo.id?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "bdg-privy",
+    "name": "Privy Bandung",
+    "city": "bandung",
+    "lat": -6.9022,
+    "lng": 107.6186,
+    "website": "https://privy.id",
+    "sector": "SaaS",
+    "address": "Jl. Diponegoro, Bandung",
+    "blurb": "e-KYC and signature onboarding for West Java enterprises.",
+    "logoUrl": "https://logo.clearbit.com/privy.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fprivy.id?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "bdg-nodeflux",
+    "name": "Nodeflux Bandung",
+    "city": "bandung",
+    "lat": -6.8918,
+    "lng": 107.6109,
+    "website": "https://www.nodeflux.io",
+    "sector": "AI",
+    "address": "Jl. Ganesha, Bandung",
+    "blurb": "Computer-vision engineering talent from ITB’s orbit.",
+    "logoUrl": "https://logo.clearbit.com/nodeflux.io",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.nodeflux.io?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "bdg-kata",
+    "name": "Kata.ai Bandung",
+    "city": "bandung",
+    "lat": -6.8878,
+    "lng": 107.6156,
+    "website": "https://kata.ai",
+    "sector": "AI",
+    "address": "Jl. Dipatiukur, Bandung",
+    "blurb": "Conversational-AI engineering office.",
+    "logoUrl": "https://logo.clearbit.com/kata.ai",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fkata.ai?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "bdg-traveloka",
+    "name": "Traveloka Bandung",
+    "city": "bandung",
+    "lat": -6.9048,
+    "lng": 107.6162,
+    "website": "https://www.traveloka.com",
+    "sector": "Travel",
+    "address": "Jl. Riau, Bandung",
+    "blurb": "Travel product and campus recruiting office.",
+    "logoUrl": "https://logo.clearbit.com/traveloka.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.traveloka.com?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "bdg-tiket",
+    "name": "tiket.com Bandung",
+    "city": "bandung",
+    "lat": -6.9212,
+    "lng": 107.6096,
+    "website": "https://www.tiket.com",
+    "sector": "Travel",
+    "address": "Jl. Asia Afrika, Bandung",
+    "blurb": "Inventory and customer-ops for West Java travel.",
+    "logoUrl": "https://logo.clearbit.com/tiket.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.tiket.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "bdg-halodoc",
+    "name": "Halodoc Bandung",
+    "city": "bandung",
+    "lat": -6.8964,
+    "lng": 107.5998,
+    "website": "https://www.halodoc.com",
+    "sector": "Health",
+    "address": "Jl. Pasteur, Bandung",
+    "blurb": "Clinic network and telemedicine partnerships.",
+    "logoUrl": "https://logo.clearbit.com/halodoc.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.halodoc.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "bdg-ovo",
+    "name": "OVO Bandung",
+    "city": "bandung",
+    "lat": -6.8892,
+    "lng": 107.5956,
+    "website": "https://www.ovo.id",
+    "sector": "FinTech",
+    "address": "Paris Van Java, Bandung",
+    "blurb": "Merchant acquiring across Bandung retail.",
+    "logoUrl": "https://logo.clearbit.com/ovo.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ovo.id?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "bdg-dana",
+    "name": "DANA Bandung",
+    "city": "bandung",
+    "lat": -6.8948,
+    "lng": 107.6044,
+    "website": "https://www.dana.id",
+    "sector": "FinTech",
+    "address": "Jl. Cihampelas, Bandung",
+    "blurb": "Wallet city operations.",
+    "logoUrl": "https://logo.clearbit.com/dana.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.dana.id?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "bdg-xendit",
+    "name": "Xendit Bandung",
+    "city": "bandung",
+    "lat": -6.8856,
+    "lng": 107.6138,
+    "website": "https://www.xendit.co",
+    "sector": "FinTech",
+    "address": "Jl. Dago, Bandung",
+    "blurb": "Payments engineering and campus hiring.",
+    "logoUrl": "https://logo.clearbit.com/xendit.co",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.xendit.co?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "bdg-shipper",
+    "name": "Shipper Bandung",
+    "city": "bandung",
+    "lat": -6.9412,
+    "lng": 107.6418,
+    "website": "https://shipper.id",
+    "sector": "Logistics",
+    "address": "Jl. Soekarno-Hatta, Bandung",
+    "blurb": "Fulfilment for Bandung fashion and CMT sellers.",
+    "logoUrl": "https://logo.clearbit.com/shipper.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fshipper.id?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "bdg-anteraja",
+    "name": "Anteraja Bandung",
+    "city": "bandung",
+    "lat": -6.9422,
+    "lng": 107.6442,
+    "website": "https://anteraja.id",
+    "sector": "Logistics",
+    "address": "Jl. Soekarno-Hatta, Bandung",
+    "blurb": "Parcel sortation for West Java.",
+    "logoUrl": "https://logo.clearbit.com/anteraja.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fanteraja.id?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "bdg-idn",
+    "name": "IDN Bandung",
+    "city": "bandung",
+    "lat": -6.8842,
+    "lng": 107.6182,
+    "website": "https://www.idn.media",
+    "sector": "Media",
+    "address": "Jl. Ir. H. Djuanda, Bandung",
+    "blurb": "Youth media production in Bandung.",
+    "logoUrl": "https://logo.clearbit.com/idn.media",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.idn.media?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "bdg-telkomsel",
+    "name": "Telkomsel Bandung",
+    "city": "bandung",
+    "lat": -6.9148,
+    "lng": 107.6092,
+    "website": "https://www.telkomsel.com",
+    "sector": "Telecom",
+    "address": "Jl. Japati, Bandung",
+    "blurb": "Telco digital products from Telkom’s Bandung campus.",
+    "logoUrl": "https://logo.clearbit.com/telkomsel.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.telkomsel.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "bdg-indosat",
+    "name": "Indosat Bandung",
+    "city": "bandung",
+    "lat": -6.9216,
+    "lng": 107.6104,
+    "website": "https://indosatooredoo.com",
+    "sector": "Telecom",
+    "address": "Jl. Asia Afrika, Bandung",
+    "blurb": "Network and digital lifestyle office.",
+    "logoUrl": "https://logo.clearbit.com/indosatooredoo.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Findosatooredoo.com?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "bdg-startup-campus",
+    "name": "Startup Campus Bandung",
+    "city": "bandung",
+    "lat": -6.9175,
+    "lng": 107.619,
+    "website": "https://startupcampus.id",
+    "sector": "Hub",
+    "address": "Jl. Gegerkalong Hilir, Bandung",
+    "blurb": "Founder training programmes tied to the university belt.",
+    "buildingId": "bandung-digital-valley",
+    "buildingName": "Bandung Digital Valley",
+    "logoUrl": "https://logo.clearbit.com/startupcampus.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fstartupcampus.id?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "bdg-locomote",
+    "name": "Locomote",
+    "city": "bandung",
+    "lat": -6.9174500000000005,
+    "lng": 107.619,
+    "website": "https://www.locomote.id",
+    "sector": "SaaS",
+    "address": "Jl. Gegerkalong Hilir, Bandung",
+    "blurb": "Workforce and operations software from Bandung builders.",
+    "buildingId": "bandung-digital-valley",
+    "buildingName": "Bandung Digital Valley",
+    "logoUrl": "https://logo.clearbit.com/locomote.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.locomote.id?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "bdg-emveep",
+    "name": "Emveep",
+    "city": "bandung",
+    "lat": -6.8882,
+    "lng": 107.6148,
+    "website": "https://www.emveep.com",
+    "sector": "SaaS",
+    "address": "Jl. Dipatiukur, Bandung",
+    "blurb": "B2B software studio serving export manufacturers.",
+    "logoUrl": "https://logo.clearbit.com/emveep.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.emveep.com?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "bdg-kargo",
+    "name": "Kargo Bandung",
+    "city": "bandung",
+    "lat": -6.9402,
+    "lng": 107.6406,
+    "website": "https://kargo.tech",
+    "sector": "Logistics",
+    "address": "Jl. Soekarno-Hatta, Bandung",
+    "blurb": "Digital freight for West Java industry.",
+    "logoUrl": "https://logo.clearbit.com/kargo.tech",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fkargo.tech?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "bdg-paperid",
+    "name": "Paper.id Bandung",
+    "city": "bandung",
+    "lat": -6.8938,
+    "lng": 107.604,
+    "website": "https://www.paper.id",
+    "sector": "SaaS",
+    "address": "Jl. Cihampelas, Bandung",
+    "blurb": "Invoicing software city team.",
+    "logoUrl": "https://logo.clearbit.com/paper.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.paper.id?w=1200"
+    ],
+    "fundingStage": "Series D+"
+  },
+  {
+    "id": "bdg-colearn",
+    "name": "CoLearn Bandung",
+    "city": "bandung",
+    "lat": -6.8872,
+    "lng": 107.615,
+    "website": "https://www.colearn.id",
+    "sector": "EdTech",
+    "address": "Jl. Dipatiukur, Bandung",
+    "blurb": "STEM tutoring content and tutor ops.",
+    "logoUrl": "https://logo.clearbit.com/colearn.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.colearn.id?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "bdg-sociolla",
+    "name": "Sociolla Bandung",
+    "city": "bandung",
+    "lat": -6.889,
+    "lng": 107.5954,
+    "website": "https://www.sociolla.com",
+    "sector": "Marketplace",
+    "address": "Paris Van Java, Bandung",
+    "blurb": "Beauty retail and fulfilment presence.",
+    "logoUrl": "https://logo.clearbit.com/sociolla.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.sociolla.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  }
+]

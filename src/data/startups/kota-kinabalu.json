@@ -1,0 +1,242 @@
+[
+  {
+    "id": "kk-ums",
+    "name": "UMS Innovation",
+    "city": "kota-kinabalu",
+    "lat": 6.0364,
+    "lng": 116.1188,
+    "website": "https://www.ums.edu.my",
+    "sector": "Hub",
+    "address": "Kota Kinabalu, Sabah",
+    "blurb": "Universiti Malaysia Sabah commercialisation and marine-tech spinouts.",
+    "logoUrl": "https://logo.clearbit.com/ums.edu.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ums.edu.my?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "kk-sabah-net",
+    "name": "Sabah Net",
+    "city": "kota-kinabalu",
+    "lat": 5.9804,
+    "lng": 116.0735,
+    "website": "https://www.sabah.gov.my",
+    "sector": "Telecom",
+    "address": "Kota Kinabalu, Sabah",
+    "blurb": "State digital infrastructure programmes.",
+    "logoUrl": "https://logo.clearbit.com/sabah.gov.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.sabah.gov.my?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "kk-tourism",
+    "name": "Sabah Tourism digital",
+    "city": "kota-kinabalu",
+    "lat": 5.9832,
+    "lng": 116.0762,
+    "website": "https://www.sabahtourism.com",
+    "sector": "Travel",
+    "address": "Kota Kinabalu, Sabah",
+    "blurb": "Destination platform for Sabah travel.",
+    "logoUrl": "https://logo.clearbit.com/sabahtourism.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.sabahtourism.com?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "kk-grab",
+    "name": "Grab Kota Kinabalu",
+    "city": "kota-kinabalu",
+    "lat": 5.9788,
+    "lng": 116.0724,
+    "website": "https://www.grab.com",
+    "sector": "Superapp",
+    "address": "Kota Kinabalu, Sabah",
+    "blurb": "City operations.",
+    "logoUrl": "https://logo.clearbit.com/grab.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.grab.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "kk-shopee",
+    "name": "Shopee Kota Kinabalu",
+    "city": "kota-kinabalu",
+    "lat": 5.9816,
+    "lng": 116.0758,
+    "website": "https://shopee.com.my",
+    "sector": "Marketplace",
+    "address": "Kota Kinabalu, Sabah",
+    "blurb": "E-commerce ops for Sabah.",
+    "logoUrl": "https://logo.clearbit.com/shopee.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fshopee.com.my?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "kk-foodpanda",
+    "name": "foodpanda Kota Kinabalu",
+    "city": "kota-kinabalu",
+    "lat": 5.9796,
+    "lng": 116.0784,
+    "website": "https://www.foodpanda.my",
+    "sector": "Logistics",
+    "address": "Kota Kinabalu, Sabah",
+    "blurb": "Delivery network.",
+    "logoUrl": "https://logo.clearbit.com/foodpanda.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.foodpanda.my?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "kk-tng",
+    "name": "Touch 'n Go Kota Kinabalu",
+    "city": "kota-kinabalu",
+    "lat": 5.9808,
+    "lng": 116.0742,
+    "website": "https://www.touchngo.com.my",
+    "sector": "FinTech",
+    "address": "Kota Kinabalu, Sabah",
+    "blurb": "Merchant wallet presence.",
+    "logoUrl": "https://logo.clearbit.com/touchngo.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.touchngo.com.my?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "kk-storehub",
+    "name": "StoreHub Kota Kinabalu",
+    "city": "kota-kinabalu",
+    "lat": 5.9836,
+    "lng": 116.0768,
+    "website": "https://www.storehub.com",
+    "sector": "SaaS",
+    "address": "Gaya Street precinct, Kota Kinabalu",
+    "blurb": "Cloud POS for KK F&B and tourism retail.",
+    "logoUrl": "https://logo.clearbit.com/storehub.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.storehub.com?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "kk-ninjavan",
+    "name": "Ninja Van Kota Kinabalu",
+    "city": "kota-kinabalu",
+    "lat": 5.9684,
+    "lng": 116.0682,
+    "website": "https://www.ninjavan.co",
+    "sector": "Logistics",
+    "address": "Kota Kinabalu, Sabah",
+    "blurb": "Last-mile hub.",
+    "logoUrl": "https://logo.clearbit.com/ninjavan.co",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ninjavan.co?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "kk-easyparcel",
+    "name": "EasyParcel Kota Kinabalu",
+    "city": "kota-kinabalu",
+    "lat": 5.9812,
+    "lng": 116.0738,
+    "website": "https://www.easyparcel.com",
+    "sector": "Logistics",
+    "address": "Kota Kinabalu, Sabah",
+    "blurb": "Parcel aggregator.",
+    "logoUrl": "https://logo.clearbit.com/easyparcel.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.easyparcel.com?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "kk-boost",
+    "name": "Boost Kota Kinabalu",
+    "city": "kota-kinabalu",
+    "lat": 5.9792,
+    "lng": 116.0752,
+    "website": "https://www.myboost.com.my",
+    "sector": "FinTech",
+    "address": "Kota Kinabalu, Sabah",
+    "blurb": "e-wallet acquiring.",
+    "logoUrl": "https://logo.clearbit.com/myboost.com.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.myboost.com.my?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "kk-carsome",
+    "name": "Carsome Kota Kinabalu",
+    "city": "kota-kinabalu",
+    "lat": 5.9628,
+    "lng": 116.0824,
+    "website": "https://www.carsome.my",
+    "sector": "Marketplace",
+    "address": "Kota Kinabalu, Sabah",
+    "blurb": "Used-car inspection centre.",
+    "logoUrl": "https://logo.clearbit.com/carsome.my",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.carsome.my?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "kk-ghl",
+    "name": "GHL Kota Kinabalu",
+    "city": "kota-kinabalu",
+    "lat": 5.9806,
+    "lng": 116.0748,
+    "website": "https://www.ghl.com",
+    "sector": "FinTech",
+    "address": "Kota Kinabalu, Sabah",
+    "blurb": "Merchant acquiring.",
+    "logoUrl": "https://logo.clearbit.com/ghl.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ghl.com?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "kk-ipay88",
+    "name": "iPay88 Kota Kinabalu",
+    "city": "kota-kinabalu",
+    "lat": 5.9818,
+    "lng": 116.0732,
+    "website": "https://www.ipay88.com",
+    "sector": "FinTech",
+    "address": "Kota Kinabalu, Sabah",
+    "blurb": "Payment gateway onboarding.",
+    "logoUrl": "https://logo.clearbit.com/ipay88.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ipay88.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "kk-lalamove",
+    "name": "Lalamove Kota Kinabalu",
+    "city": "kota-kinabalu",
+    "lat": 5.9774,
+    "lng": 116.0716,
+    "website": "https://www.lalamove.com",
+    "sector": "Logistics",
+    "address": "Kota Kinabalu, Sabah",
+    "blurb": "On-demand delivery.",
+    "logoUrl": "https://logo.clearbit.com/lalamove.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.lalamove.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  }
+]

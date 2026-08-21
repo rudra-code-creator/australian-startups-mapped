@@ -1,0 +1,194 @@
+[
+  {
+    "id": "vil-interchange",
+    "name": "Interchange Limited",
+    "city": "port-vila",
+    "lat": -17.7334,
+    "lng": 168.3272,
+    "website": "https://www.interchange.vu",
+    "sector": "Telecom",
+    "address": "Port Vila",
+    "blurb": "Submarine-cable company connecting Vanuatu.",
+    "logoUrl": "https://logo.clearbit.com/interchange.vu",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.interchange.vu?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "vil-digicel",
+    "name": "Digicel Vanuatu",
+    "city": "port-vila",
+    "lat": -17.7342,
+    "lng": 168.3264,
+    "website": "https://www.digicelvanuatu.com",
+    "sector": "Telecom",
+    "address": "Port Vila",
+    "blurb": "Mobile network and mobile-money services.",
+    "logoUrl": "https://logo.clearbit.com/digicelvanuatu.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.digicelvanuatu.com?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "vil-vodafone",
+    "name": "Vodafone Vanuatu",
+    "city": "port-vila",
+    "lat": -17.7328,
+    "lng": 168.3278,
+    "website": "https://www.vodafone.com.vu",
+    "sector": "Telecom",
+    "address": "Port Vila",
+    "blurb": "Mobile and digital services.",
+    "logoUrl": "https://logo.clearbit.com/vodafone.com.vu",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.vodafone.com.vu?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "vil-wantok",
+    "name": "Wantok",
+    "city": "port-vila",
+    "lat": -17.7338,
+    "lng": 168.3258,
+    "website": "https://www.wantok.vu",
+    "sector": "Telecom",
+    "address": "Port Vila",
+    "blurb": "Local mobile brand.",
+    "logoUrl": "https://logo.clearbit.com/wantok.vu",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.wantok.vu?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "vil-tvl",
+    "name": "Telecom Vanuatu",
+    "city": "port-vila",
+    "lat": -17.7346,
+    "lng": 168.3268,
+    "website": "https://www.tvl.vu",
+    "sector": "Telecom",
+    "address": "Port Vila",
+    "blurb": "Incumbent fixed and mobile operator.",
+    "logoUrl": "https://logo.clearbit.com/tvl.vu",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.tvl.vu?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "vil-rbv",
+    "name": "Reserve Bank of Vanuatu",
+    "city": "port-vila",
+    "lat": -17.7318,
+    "lng": 168.3284,
+    "website": "https://www.rbv.gov.vu",
+    "sector": "FinTech",
+    "address": "Port Vila",
+    "blurb": "Regulator supporting digital finance innovation.",
+    "logoUrl": "https://logo.clearbit.com/rbv.gov.vu",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.rbv.gov.vu?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "vil-nbv",
+    "name": "National Bank of Vanuatu",
+    "city": "port-vila",
+    "lat": -17.7332,
+    "lng": 168.3262,
+    "website": "https://www.nbv.vu",
+    "sector": "FinTech",
+    "address": "Port Vila",
+    "blurb": "Local bank digital channels.",
+    "logoUrl": "https://logo.clearbit.com/nbv.vu",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.nbv.vu?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "vil-wanfuteng",
+    "name": "Wanfuteng Bank",
+    "city": "port-vila",
+    "lat": -17.734,
+    "lng": 168.3274,
+    "website": "https://www.wanfutengbank.com",
+    "sector": "FinTech",
+    "address": "Port Vila",
+    "blurb": "Indigenous-owned bank with digital services.",
+    "logoUrl": "https://logo.clearbit.com/wanfutengbank.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.wanfutengbank.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "vil-tourism",
+    "name": "Vanuatu Tourism",
+    "city": "port-vila",
+    "lat": -17.7324,
+    "lng": 168.3254,
+    "website": "https://vanuatu.travel",
+    "sector": "Travel",
+    "address": "Port Vila",
+    "blurb": "Destination marketing and visitor information tech.",
+    "logoUrl": "https://logo.clearbit.com/vanuatu.travel",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fvanuatu.travel?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "vil-air-vanuatu",
+    "name": "Air Vanuatu digital",
+    "city": "port-vila",
+    "lat": -17.6992,
+    "lng": 168.32,
+    "website": "https://www.airvanuatu.com",
+    "sector": "Travel",
+    "address": "Bauerfield, Port Vila",
+    "blurb": "Airline digital products.",
+    "logoUrl": "https://logo.clearbit.com/airvanuatu.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.airvanuatu.com?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "vil-uncdf",
+    "name": "UNCDF Vanuatu",
+    "city": "port-vila",
+    "lat": -17.7336,
+    "lng": 168.327,
+    "website": "https://www.uncdf.org",
+    "sector": "FinTech",
+    "address": "Port Vila",
+    "blurb": "Digital finance programmes with local partners.",
+    "logoUrl": "https://logo.clearbit.com/uncdf.org",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.uncdf.org?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "vil-further-arts",
+    "name": "Further Arts",
+    "city": "port-vila",
+    "lat": -17.7352,
+    "lng": 168.3248,
+    "website": "https://furtherarts.org",
+    "sector": "Media",
+    "address": "Port Vila",
+    "blurb": "Creative-tech and digital culture organisation.",
+    "logoUrl": "https://logo.clearbit.com/furtherarts.org",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Ffurtherarts.org?w=1200"
+    ],
+    "fundingStage": "Series B"
+  }
+]

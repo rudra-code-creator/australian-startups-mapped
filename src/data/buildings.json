@@ -33,5 +33,194 @@
     "city": "perth",
     "lat": -31.955589571327703,
     "lng": 115.86049675941467
+  },
+  {
+    "id": "auckland-gridakl",
+    "name": "GridAKL",
+    "city": "auckland",
+    "lat": -36.84145,
+    "lng": 174.75625
+  },
+  {
+    "id": "auckland-icehouse",
+    "name": "The Icehouse",
+    "city": "auckland",
+    "lat": -36.8509,
+    "lng": 174.7804
+  },
+  {
+    "id": "wellington-creative-hq",
+    "name": "Creative HQ",
+    "city": "wellington",
+    "lat": -41.2926,
+    "lng": 174.7772
+  },
+  {
+    "id": "christchurch-epic",
+    "name": "EPIC Innovation",
+    "city": "christchurch",
+    "lat": -43.5334,
+    "lng": 172.6398
+  },
+  {
+    "id": "singapore-block71",
+    "name": "BLOCK71",
+    "city": "singapore",
+    "lat": 1.2979,
+    "lng": 103.7876
+  },
+  {
+    "id": "singapore-launchpad",
+    "name": "LaunchPad @ one-north",
+    "city": "singapore",
+    "lat": 1.2995,
+    "lng": 103.7871
+  },
+  {
+    "id": "jakarta-scbd",
+    "name": "SCBD Campus",
+    "city": "jakarta",
+    "lat": -6.225,
+    "lng": 106.809
+  },
+  {
+    "id": "bandung-digital-valley",
+    "name": "Bandung Digital Valley",
+    "city": "bandung",
+    "lat": -6.9175,
+    "lng": 107.6191
+  },
+  {
+    "id": "yogyakarta-jdv",
+    "name": "Jogja Digital Valley",
+    "city": "yogyakarta",
+    "lat": -7.7828,
+    "lng": 110.3671
+  },
+  {
+    "id": "batam-nongsa",
+    "name": "Nongsa Digital Park",
+    "city": "batam",
+    "lat": 1.1855,
+    "lng": 104.0945
+  },
+  {
+    "id": "suva-innovation-hub",
+    "name": "Fiji Innovation Hub",
+    "city": "suva",
+    "lat": -18.1416,
+    "lng": 178.4419
+  },
+  {
+    "id": "port-moresby-harbour-city",
+    "name": "Harbour City",
+    "city": "port-moresby",
+    "lat": -9.4785,
+    "lng": 147.1492
+  },
+  {
+    "id": "jb-utm-technovation",
+    "name": "UTM Technovation Park",
+    "city": "johor-bahru",
+    "lat": 1.5594,
+    "lng": 103.638
+  },
+  {
+    "id": "jb-medini",
+    "name": "Medini Iskandar",
+    "city": "johor-bahru",
+    "lat": 1.4178,
+    "lng": 103.6264
+  },
+  {
+    "id": "kv-mranti",
+    "name": "MRANTI Park",
+    "city": "klang-valley",
+    "lat": 2.9212,
+    "lng": 101.6564
+  },
+  {
+    "id": "kv-bangsar-south",
+    "name": "Bangsar South",
+    "city": "klang-valley",
+    "lat": 3.1108,
+    "lng": 101.6656
+  },
+  {
+    "id": "penang-cat",
+    "name": "@CAT Penang",
+    "city": "penang",
+    "lat": 5.3278,
+    "lng": 100.2876
+  },
+  {
+    "id": "kuching-sdec",
+    "name": "SDEC Digital Village",
+    "city": "kuching",
+    "lat": 1.5535,
+    "lng": 110.3448
+  },
+  {
+    "id": "blr-koramangala",
+    "name": "Koramangala Hub",
+    "city": "bangalore",
+    "lat": 12.9352,
+    "lng": 77.6245
+  },
+  {
+    "id": "mum-bkc",
+    "name": "Bandra Kurla Complex",
+    "city": "mumbai",
+    "lat": 19.0668,
+    "lng": 72.8697
+  },
+  {
+    "id": "del-cyberhub",
+    "name": "Cyber Hub",
+    "city": "delhi-ncr",
+    "lat": 28.495,
+    "lng": 77.089
+  },
+  {
+    "id": "hyd-hitech",
+    "name": "HITEC City",
+    "city": "hyderabad",
+    "lat": 17.4435,
+    "lng": 78.3772
+  },
+  {
+    "id": "chn-omr",
+    "name": "OMR / Tidel Park",
+    "city": "chennai",
+    "lat": 12.989,
+    "lng": 80.248
+  },
+  {
+    "id": "pun-hinjewadi",
+    "name": "Hinjewadi",
+    "city": "pune",
+    "lat": 18.5912,
+    "lng": 73.7389
+  },
+  {
+    "id": "hk-cyberport",
+    "name": "Cyberport",
+    "city": "hong-kong",
+    "lat": 22.261,
+    "lng": 114.13
+  },
+  {
+    "id": "sz-nanshan",
+    "name": "Nanshan / Science Park",
+    "city": "shenzhen",
+    "lat": 22.54,
+    "lng": 113.94
+  },
+  {
+    "id": "gz-pazhou",
+    "name": "Pazhou",
+    "city": "guangzhou",
+    "lat": 23.098,
+    "lng": 113.37
   }
 ]

@@ -1,6 +1,6 @@
 import { enrichStartupPresentation } from "./branding";
-import { isCitySlug } from "./cities";
-import { loadBuildings, loadSeedStartups } from "./load-seed";
+import { isCitySlug, linkedMapSlugs } from "./cities";
+import { loadMapBuildings, loadMapStartups } from "./load-seed";
 import { mergeStartups } from "./merge-startups";
 import { groupMarkers } from "./group-markers";
 import { prisma } from "./db";
@@ -23,6 +23,7 @@ export async function getCityMapData(
   }
 
   const city: CitySlug = cityParam;
+  const mapCities = linkedMapSlugs(city);
 
   let approvedRows: Awaited<ReturnType<typeof prisma.suggestion.findMany>> = [];
   let approvedCorrections: Awaited<
@@ -31,10 +32,10 @@ export async function getCityMapData(
 
   try {
     approvedRows = await prisma.suggestion.findMany({
-      where: { status: "approved", city },
+      where: { status: "approved", city: { in: mapCities } },
     });
     approvedCorrections = await prisma.locationCorrection.findMany({
-      where: { status: "approved", city },
+      where: { status: "approved", city: { in: mapCities } },
     });
   } catch {
     // Seed-only when SQLite is missing or unmigrated (typical on Netlify).
@@ -46,7 +47,7 @@ export async function getCityMapData(
       enrichStartupPresentation({
         id: r.id,
         name: r.name,
-        city,
+        city: isCitySlug(r.city) ? r.city : city,
         lat: r.lat as number,
         lng: r.lng as number,
         logoUrl: r.logoUrl ?? undefined,
@@ -59,8 +60,8 @@ export async function getCityMapData(
       }),
     );
 
-  const seedStartups = loadSeedStartups(city);
-  const seedBuildings = loadBuildings().filter((b) => b.city === city);
+  const seedStartups = loadMapStartups(city);
+  const seedBuildings = loadMapBuildings(city);
   const { startups: positioned, buildings } = applyLocationCorrections(
     seedStartups,
     seedBuildings,

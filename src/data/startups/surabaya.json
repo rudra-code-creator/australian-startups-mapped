@@ -1,0 +1,482 @@
+[
+  {
+    "id": "sby-gojek",
+    "name": "Gojek Surabaya",
+    "city": "surabaya",
+    "lat": -7.2756,
+    "lng": 112.7194,
+    "website": "https://www.gojek.com",
+    "sector": "Superapp",
+    "address": "Jl. HR Muhammad, Surabaya",
+    "blurb": "East Java operations and driver-partner office for Gojek.",
+    "logoUrl": "https://logo.clearbit.com/gojek.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.gojek.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "sby-grab",
+    "name": "Grab Surabaya",
+    "city": "surabaya",
+    "lat": -7.2918,
+    "lng": 112.7186,
+    "website": "https://www.grab.com",
+    "sector": "Superapp",
+    "address": "Jl. Mayjend Sungkono, Surabaya",
+    "blurb": "Grab regional office serving Surabaya and East Java.",
+    "logoUrl": "https://logo.clearbit.com/grab.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.grab.com?w=1200"
+    ],
+    "fundingStage": "Series D+"
+  },
+  {
+    "id": "sby-shopee",
+    "name": "Shopee Surabaya",
+    "city": "surabaya",
+    "lat": -7.3196,
+    "lng": 112.7348,
+    "website": "https://shopee.co.id",
+    "sector": "Marketplace",
+    "address": "Jl. Ahmad Yani, Surabaya",
+    "blurb": "E-commerce hub and last-mile operations for East Java.",
+    "logoUrl": "https://logo.clearbit.com/shopee.co.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fshopee.co.id?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "sby-tokopedia",
+    "name": "Tokopedia Surabaya",
+    "city": "surabaya",
+    "lat": -7.2672,
+    "lng": 112.7446,
+    "website": "https://www.tokopedia.com",
+    "sector": "Marketplace",
+    "address": "Jl. Basuki Rahmat, Surabaya",
+    "blurb": "Merchant success and logistics office.",
+    "logoUrl": "https://logo.clearbit.com/tokopedia.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.tokopedia.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "sby-traveloka",
+    "name": "Traveloka Surabaya",
+    "city": "surabaya",
+    "lat": -7.2624,
+    "lng": 112.7392,
+    "website": "https://www.traveloka.com",
+    "sector": "Travel",
+    "address": "Tunjungan Plaza, Surabaya",
+    "blurb": "Travel superapp East Java office.",
+    "logoUrl": "https://logo.clearbit.com/traveloka.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.traveloka.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "sby-ruangguru",
+    "name": "Ruangguru Surabaya",
+    "city": "surabaya",
+    "lat": -7.2884,
+    "lng": 112.7378,
+    "website": "https://www.ruangguru.com",
+    "sector": "EdTech",
+    "address": "Jl. Raya Darmo, Surabaya",
+    "blurb": "Education-tech city team for East Java schools.",
+    "logoUrl": "https://logo.clearbit.com/ruangguru.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ruangguru.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "sby-mekari",
+    "name": "Mekari Surabaya",
+    "city": "surabaya",
+    "lat": -7.2888,
+    "lng": 112.6756,
+    "website": "https://mekari.com",
+    "sector": "SaaS",
+    "address": "Pakuwon Tower, Surabaya",
+    "blurb": "Cloud HR and accounting for East Java SMEs.",
+    "logoUrl": "https://logo.clearbit.com/mekari.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fmekari.com?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "sby-midtrans",
+    "name": "Midtrans Surabaya",
+    "city": "surabaya",
+    "lat": -7.2654,
+    "lng": 112.7442,
+    "website": "https://midtrans.com",
+    "sector": "FinTech",
+    "address": "Jl. Panglima Sudirman, Surabaya",
+    "blurb": "Payments onboarding for East Java merchants.",
+    "logoUrl": "https://logo.clearbit.com/midtrans.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fmidtrans.com?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "sby-jala",
+    "name": "Jala",
+    "city": "surabaya",
+    "lat": -7.4496,
+    "lng": 112.7182,
+    "website": "https://jala.tech",
+    "sector": "AgriTech",
+    "address": "Sidoarjo / Surabaya metro",
+    "blurb": "Shrimp-farm sensors and software from the Surabaya metro.",
+    "logoUrl": "https://logo.clearbit.com/jala.tech",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fjala.tech?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "sby-majoo",
+    "name": "majoo Surabaya",
+    "city": "surabaya",
+    "lat": -7.2718,
+    "lng": 112.7486,
+    "website": "https://majoo.id",
+    "sector": "SaaS",
+    "address": "Jl. Dr. Soetomo, Surabaya",
+    "blurb": "Cloud POS used by F&B outlets across East Java.",
+    "logoUrl": "https://logo.clearbit.com/majoo.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fmajoo.id?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "sby-qasir",
+    "name": "Qasir Surabaya",
+    "city": "surabaya",
+    "lat": -7.2742,
+    "lng": 112.7536,
+    "website": "https://www.qasir.id",
+    "sector": "SaaS",
+    "address": "Jl. Raya Gubeng, Surabaya",
+    "blurb": "Warung POS adoption team.",
+    "logoUrl": "https://logo.clearbit.com/qasir.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.qasir.id?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "sby-sirclo",
+    "name": "SIRCLO Surabaya",
+    "city": "surabaya",
+    "lat": -7.2922,
+    "lng": 112.7192,
+    "website": "https://www.sirclo.com",
+    "sector": "SaaS",
+    "address": "Jl. Mayjend Sungkono, Surabaya",
+    "blurb": "Brand e-commerce implementations for East Java manufacturers.",
+    "logoUrl": "https://logo.clearbit.com/sirclo.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.sirclo.com?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "sby-anteraja",
+    "name": "Anteraja Surabaya",
+    "city": "surabaya",
+    "lat": -7.3672,
+    "lng": 112.6764,
+    "website": "https://anteraja.id",
+    "sector": "Logistics",
+    "address": "Jl. Raya Taman, Sidoarjo",
+    "blurb": "Parcel hub for Greater Surabaya.",
+    "logoUrl": "https://logo.clearbit.com/anteraja.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fanteraja.id?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "sby-shipper",
+    "name": "Shipper Surabaya",
+    "city": "surabaya",
+    "lat": -7.3518,
+    "lng": 112.7684,
+    "website": "https://shipper.id",
+    "sector": "Logistics",
+    "address": "Jl. Raya Waru, Sidoarjo",
+    "blurb": "Fulfilment warehouse serving East Java sellers.",
+    "logoUrl": "https://logo.clearbit.com/shipper.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fshipper.id?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "sby-blibli",
+    "name": "Blibli Surabaya",
+    "city": "surabaya",
+    "lat": -7.2758,
+    "lng": 112.7806,
+    "website": "https://www.blibli.com",
+    "sector": "Marketplace",
+    "address": "Galaxy Mall, Surabaya",
+    "blurb": "Omnichannel retail tech presence in East Surabaya.",
+    "logoUrl": "https://logo.clearbit.com/blibli.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.blibli.com?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "sby-ovo",
+    "name": "OVO Surabaya",
+    "city": "surabaya",
+    "lat": -7.2892,
+    "lng": 112.6752,
+    "website": "https://www.ovo.id",
+    "sector": "FinTech",
+    "address": "Pakuwon Mall, Surabaya",
+    "blurb": "Merchant acquiring and city operations.",
+    "logoUrl": "https://logo.clearbit.com/ovo.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ovo.id?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "sby-dana",
+    "name": "DANA Surabaya",
+    "city": "surabaya",
+    "lat": -7.2626,
+    "lng": 112.7394,
+    "website": "https://www.dana.id",
+    "sector": "FinTech",
+    "address": "Tunjungan Plaza, Surabaya",
+    "blurb": "Digital wallet city team.",
+    "logoUrl": "https://logo.clearbit.com/dana.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.dana.id?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "sby-halodoc",
+    "name": "Halodoc Surabaya",
+    "city": "surabaya",
+    "lat": -7.2878,
+    "lng": 112.7368,
+    "website": "https://www.halodoc.com",
+    "sector": "Health",
+    "address": "Jl. Raya Darmo, Surabaya",
+    "blurb": "Telemedicine partnerships with East Java clinics.",
+    "logoUrl": "https://logo.clearbit.com/halodoc.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.halodoc.com?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "sby-airlangga-tekno",
+    "name": "Airlangga Tech",
+    "city": "surabaya",
+    "lat": -7.2678,
+    "lng": 112.7846,
+    "website": "https://www.unair.ac.id",
+    "sector": "Hub",
+    "address": "Kampus C Unair, Mulyorejo, Surabaya",
+    "blurb": "University commercialisation and health-tech spinouts.",
+    "logoUrl": "https://logo.clearbit.com/unair.ac.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.unair.ac.id?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "sby-its-technopark",
+    "name": "ITS Technopark",
+    "city": "surabaya",
+    "lat": -7.2818,
+    "lng": 112.7954,
+    "website": "https://www.its.ac.id",
+    "sector": "Hub",
+    "address": "ITS Sukolilo, Surabaya",
+    "blurb": "Institut Teknologi Sepuluh Nopember innovation park.",
+    "logoUrl": "https://logo.clearbit.com/its.ac.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.its.ac.id?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "sby-ciputra",
+    "name": "Ciputra Hub",
+    "city": "surabaya",
+    "lat": -7.2854,
+    "lng": 112.6388,
+    "website": "https://www.ciputra.ac.id",
+    "sector": "Hub",
+    "address": "UC Town, Citraland, Surabaya",
+    "blurb": "Entrepreneurship campus and startup studio in west Surabaya.",
+    "logoUrl": "https://logo.clearbit.com/ciputra.ac.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ciputra.ac.id?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "sby-ddc",
+    "name": "DDC Healthcare Tech",
+    "city": "surabaya",
+    "lat": -7.3188,
+    "lng": 112.7356,
+    "website": "https://www.ddc.co.id",
+    "sector": "Health",
+    "address": "Jl. Ahmad Yani, Surabaya",
+    "blurb": "Diagnostics and health-information systems.",
+    "logoUrl": "https://logo.clearbit.com/ddc.co.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ddc.co.id?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "sby-jawapos-digital",
+    "name": "Jawa Pos Digital",
+    "city": "surabaya",
+    "lat": -7.3164,
+    "lng": 112.7362,
+    "website": "https://www.jawapos.com",
+    "sector": "Media",
+    "address": "Graha Pena, Jl. Ahmad Yani, Surabaya",
+    "blurb": "Regional media-tech newsroom and digital products.",
+    "logoUrl": "https://logo.clearbit.com/jawapos.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.jawapos.com?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "sby-indosat",
+    "name": "Indosat Surabaya",
+    "city": "surabaya",
+    "lat": -7.3148,
+    "lng": 112.7344,
+    "website": "https://indosatooredoo.com",
+    "sector": "Telecom",
+    "address": "Jl. Ahmad Yani, Surabaya",
+    "blurb": "Telco digital services hub for East Java.",
+    "logoUrl": "https://logo.clearbit.com/indosatooredoo.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Findosatooredoo.com?w=1200"
+    ],
+    "fundingStage": "Pre-seed"
+  },
+  {
+    "id": "sby-telkomsel",
+    "name": "Telkomsel Surabaya",
+    "city": "surabaya",
+    "lat": -7.2658,
+    "lng": 112.7488,
+    "website": "https://www.telkomsel.com",
+    "sector": "Telecom",
+    "address": "Jl. Pemuda, Surabaya",
+    "blurb": "Mobile and digital lifestyle products for East Java.",
+    "logoUrl": "https://logo.clearbit.com/telkomsel.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.telkomsel.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "sby-xl",
+    "name": "XL Axiata Surabaya",
+    "city": "surabaya",
+    "lat": -7.2668,
+    "lng": 112.7452,
+    "website": "https://www.xl.co.id",
+    "sector": "Telecom",
+    "address": "Jl. Basuki Rahmat, Surabaya",
+    "blurb": "Network and digital services office.",
+    "logoUrl": "https://logo.clearbit.com/xl.co.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.xl.co.id?w=1200"
+    ],
+    "fundingStage": "Series D+"
+  },
+  {
+    "id": "sby-bank-jatim-digital",
+    "name": "Bank Jatim Digital",
+    "city": "surabaya",
+    "lat": -7.2662,
+    "lng": 112.7438,
+    "website": "https://www.bankjatim.co.id",
+    "sector": "FinTech",
+    "address": "Jl. Basuki Rahmat, Surabaya",
+    "blurb": "Regional bank digital channels and SME platforms.",
+    "logoUrl": "https://logo.clearbit.com/bankjatim.co.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.bankjatim.co.id?w=1200"
+    ],
+    "fundingStage": "Series C"
+  },
+  {
+    "id": "sby-bukalapak",
+    "name": "Bukalapak Surabaya",
+    "city": "surabaya",
+    "lat": -7.2762,
+    "lng": 112.7188,
+    "website": "https://www.bukalapak.com",
+    "sector": "Marketplace",
+    "address": "Jl. HR Muhammad, Surabaya",
+    "blurb": "Mitra and marketplace city operations.",
+    "logoUrl": "https://logo.clearbit.com/bukalapak.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.bukalapak.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "sby-efishery",
+    "name": "eFishery East Java",
+    "city": "surabaya",
+    "lat": -7.4522,
+    "lng": 112.7188,
+    "website": "https://efishery.com",
+    "sector": "AgriTech",
+    "address": "Sidoarjo aquaculture belt",
+    "blurb": "Pond IoT and financing coverage across East Java farms.",
+    "logoUrl": "https://logo.clearbit.com/efishery.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fefishery.com?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "sby-kargo",
+    "name": "Kargo Technologies",
+    "city": "surabaya",
+    "lat": -7.2914,
+    "lng": 112.7178,
+    "website": "https://kargo.tech",
+    "sector": "Logistics",
+    "address": "Jl. Mayjend Sungkono, Surabaya",
+    "blurb": "Digital freight for industrial East Java.",
+    "logoUrl": "https://logo.clearbit.com/kargo.tech",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fkargo.tech?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  }
+]

@@ -1,0 +1,656 @@
+[
+  {
+    "id": "mum-paytm",
+    "name": "Paytm",
+    "city": "mumbai",
+    "lat": 19.06675,
+    "lng": 72.86959999999999,
+    "website": "https://paytm.com",
+    "sector": "FinTech",
+    "address": "Bandra Kurla Complex, Mumbai",
+    "blurb": "Payments and financial services giant with a major Mumbai market presence.",
+    "fundingStage": "Public",
+    "buildingId": "mum-bkc",
+    "buildingName": "Bandra Kurla Complex",
+    "logoUrl": "https://logo.clearbit.com/paytm.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fpaytm.com?w=1200"
+    ]
+  },
+  {
+    "id": "mum-dream11",
+    "name": "Dream11",
+    "city": "mumbai",
+    "lat": 19,
+    "lng": 72.83,
+    "website": "https://www.dream11.com",
+    "sector": "Media",
+    "address": "Lower Parel, Mumbai",
+    "blurb": "Fantasy sports unicorn founded in Mumbai.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/dream11.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.dream11.com?w=1200"
+    ]
+  },
+  {
+    "id": "mum-policybazaar",
+    "name": "Policybazaar",
+    "city": "mumbai",
+    "lat": 19.06,
+    "lng": 72.87,
+    "website": "https://www.policybazaar.com",
+    "sector": "InsurTech",
+    "address": "Mumbai / Gurugram",
+    "blurb": "Insurance marketplace with strong Mumbai distribution.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/policybazaar.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.policybazaar.com?w=1200"
+    ]
+  },
+  {
+    "id": "mum-nykaa",
+    "name": "Nykaa",
+    "city": "mumbai",
+    "lat": 19.12,
+    "lng": 72.85,
+    "website": "https://www.nykaa.com",
+    "sector": "Marketplace",
+    "address": "Mumbai",
+    "blurb": "Beauty and lifestyle commerce unicorn, public.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/nykaa.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.nykaa.com?w=1200"
+    ]
+  },
+  {
+    "id": "mum-groww",
+    "name": "Groww",
+    "city": "mumbai",
+    "lat": 19.0668,
+    "lng": 72.86959999999999,
+    "website": "https://groww.in",
+    "sector": "FinTech",
+    "address": "Bandra Kurla Complex, Mumbai",
+    "blurb": "Investment app for stocks and mutual funds.",
+    "fundingStage": "Series D+",
+    "buildingId": "mum-bkc",
+    "buildingName": "Bandra Kurla Complex",
+    "logoUrl": "https://logo.clearbit.com/groww.in",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fgroww.in?w=1200"
+    ]
+  },
+  {
+    "id": "mum-zepto",
+    "name": "Zepto",
+    "city": "mumbai",
+    "lat": 19.12,
+    "lng": 72.85,
+    "website": "https://www.zeptonow.com",
+    "sector": "Logistics",
+    "address": "Andheri / Mumbai HQ",
+    "blurb": "10-minute grocery delivery founded in Mumbai.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/zeptonow.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.zeptonow.com?w=1200"
+    ]
+  },
+  {
+    "id": "mum-lenskart",
+    "name": "Lenskart",
+    "city": "mumbai",
+    "lat": 19.07,
+    "lng": 72.87,
+    "website": "https://www.lenskart.com",
+    "sector": "Consumer",
+    "address": "Mumbai / Gurugram",
+    "blurb": "Eyewear D2C and retail network.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/lenskart.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.lenskart.com?w=1200"
+    ]
+  },
+  {
+    "id": "mum-carwale",
+    "name": "CarWale",
+    "city": "mumbai",
+    "lat": 19.1,
+    "lng": 72.83,
+    "website": "https://www.carwale.com",
+    "sector": "Marketplace",
+    "address": "Mumbai",
+    "blurb": "Auto classifieds and research platform.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/carwale.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.carwale.com?w=1200"
+    ]
+  },
+  {
+    "id": "mum-bookmyshow",
+    "name": "BookMyShow",
+    "city": "mumbai",
+    "lat": 19.06,
+    "lng": 72.84,
+    "website": "https://in.bookmyshow.com",
+    "sector": "Media",
+    "address": "Mumbai",
+    "blurb": "Entertainment ticketing platform.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/in.bookmyshow.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fin.bookmyshow.com?w=1200"
+    ]
+  },
+  {
+    "id": "mum-pharmeasy",
+    "name": "PharmEasy",
+    "city": "mumbai",
+    "lat": 19.12,
+    "lng": 72.87,
+    "website": "https://pharmeasy.in",
+    "sector": "Health",
+    "address": "Mumbai",
+    "blurb": "Online pharmacy and diagnostics.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/pharmeasy.in",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fpharmeasy.in?w=1200"
+    ]
+  },
+  {
+    "id": "mum-fractal",
+    "name": "Fractal Analytics",
+    "city": "mumbai",
+    "lat": 19.066850000000002,
+    "lng": 72.86959999999999,
+    "website": "https://fractal.ai",
+    "sector": "AI",
+    "address": "Bandra Kurla Complex, Mumbai",
+    "blurb": "AI analytics unicorn with Mumbai HQ roots.",
+    "fundingStage": "Series D+",
+    "buildingId": "mum-bkc",
+    "buildingName": "Bandra Kurla Complex",
+    "logoUrl": "https://logo.clearbit.com/fractal.ai",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Ffractal.ai?w=1200"
+    ]
+  },
+  {
+    "id": "mum-delhivery",
+    "name": "Delhivery",
+    "city": "mumbai",
+    "lat": 19.08,
+    "lng": 72.88,
+    "website": "https://www.delhivery.com",
+    "sector": "Logistics",
+    "address": "Mumbai hub",
+    "blurb": "Logistics network with major Mumbai sortation.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/delhivery.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.delhivery.com?w=1200"
+    ]
+  },
+  {
+    "id": "mum-easebuzz",
+    "name": "Easebuzz",
+    "city": "mumbai",
+    "lat": 19.07,
+    "lng": 72.87,
+    "website": "https://easebuzz.in",
+    "sector": "FinTech",
+    "address": "Pune / Mumbai corridor",
+    "blurb": "Payments for education and SMEs.",
+    "fundingStage": "Series B",
+    "logoUrl": "https://logo.clearbit.com/easebuzz.in",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Feasebuzz.in?w=1200"
+    ]
+  },
+  {
+    "id": "mum-smallcase",
+    "name": "smallcase",
+    "city": "mumbai",
+    "lat": 19.06,
+    "lng": 72.87,
+    "website": "https://www.smallcase.com",
+    "sector": "FinTech",
+    "address": "Mumbai",
+    "blurb": "Thematic investing platform.",
+    "fundingStage": "Series C",
+    "logoUrl": "https://logo.clearbit.com/smallcase.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.smallcase.com?w=1200"
+    ]
+  },
+  {
+    "id": "mum-upstox",
+    "name": "Upstox",
+    "city": "mumbai",
+    "lat": 19.0669,
+    "lng": 72.86959999999999,
+    "website": "https://upstox.com",
+    "sector": "FinTech",
+    "address": "Bandra Kurla Complex, Mumbai",
+    "blurb": "Discount brokerage and trading app.",
+    "fundingStage": "Series C",
+    "buildingId": "mum-bkc",
+    "buildingName": "Bandra Kurla Complex",
+    "logoUrl": "https://logo.clearbit.com/upstox.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fupstox.com?w=1200"
+    ]
+  },
+  {
+    "id": "mum-angelone",
+    "name": "Angel One",
+    "city": "mumbai",
+    "lat": 19.06,
+    "lng": 72.86,
+    "website": "https://www.angelone.in",
+    "sector": "FinTech",
+    "address": "Mumbai",
+    "blurb": "Listed brokerage with a large digital franchise.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/angelone.in",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.angelone.in?w=1200"
+    ]
+  },
+  {
+    "id": "mum-5paisa",
+    "name": "5paisa",
+    "city": "mumbai",
+    "lat": 19.05,
+    "lng": 72.85,
+    "website": "https://www.5paisa.com",
+    "sector": "FinTech",
+    "address": "Mumbai",
+    "blurb": "Digital brokerage for retail traders.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/5paisa.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.5paisa.com?w=1200"
+    ]
+  },
+  {
+    "id": "mum-tata-digital",
+    "name": "Tata Digital",
+    "city": "mumbai",
+    "lat": 18.93,
+    "lng": 72.83,
+    "website": "https://www.tatadigital.com",
+    "sector": "Marketplace",
+    "address": "Mumbai",
+    "blurb": "Tata Neu superapp and digital commerce group.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/tatadigital.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.tatadigital.com?w=1200"
+    ]
+  },
+  {
+    "id": "mum-bigbasket",
+    "name": "bigbasket",
+    "city": "mumbai",
+    "lat": 19.1,
+    "lng": 72.88,
+    "website": "https://www.bigbasket.com",
+    "sector": "Logistics",
+    "address": "Mumbai",
+    "blurb": "Online grocery pioneer, Tata group.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/bigbasket.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.bigbasket.com?w=1200"
+    ]
+  },
+  {
+    "id": "mum-urban-company",
+    "name": "Urban Company",
+    "city": "mumbai",
+    "lat": 19.12,
+    "lng": 72.85,
+    "website": "https://www.urbancompany.com",
+    "sector": "Marketplace",
+    "address": "Mumbai ops",
+    "blurb": "Home services marketplace with dense Mumbai supply.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/urbancompany.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.urbancompany.com?w=1200"
+    ]
+  },
+  {
+    "id": "mum-meesho-mum",
+    "name": "Meesho Mumbai",
+    "city": "mumbai",
+    "lat": 19.07,
+    "lng": 72.87,
+    "website": "https://www.meesho.com",
+    "sector": "Marketplace",
+    "address": "Mumbai",
+    "blurb": "Social commerce seller and category ops.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/meesho.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.meesho.com?w=1200"
+    ]
+  },
+  {
+    "id": "mum-razorpay-mum",
+    "name": "Razorpay Mumbai",
+    "city": "mumbai",
+    "lat": 19.0667,
+    "lng": 72.86965,
+    "website": "https://razorpay.com",
+    "sector": "FinTech",
+    "address": "Bandra Kurla Complex, Mumbai",
+    "blurb": "Payments enterprise coverage for Western India.",
+    "fundingStage": "Series D+",
+    "buildingId": "mum-bkc",
+    "buildingName": "Bandra Kurla Complex",
+    "logoUrl": "https://logo.clearbit.com/razorpay.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Frazorpay.com?w=1200"
+    ]
+  },
+  {
+    "id": "mum-swiggy-mum",
+    "name": "Swiggy Mumbai",
+    "city": "mumbai",
+    "lat": 19.08,
+    "lng": 72.84,
+    "website": "https://www.swiggy.com",
+    "sector": "Logistics",
+    "address": "Mumbai",
+    "blurb": "Food and Instamart densest city ops.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/swiggy.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.swiggy.com?w=1200"
+    ]
+  },
+  {
+    "id": "mum-zomato-mum",
+    "name": "Zomato Mumbai",
+    "city": "mumbai",
+    "lat": 19.09,
+    "lng": 72.85,
+    "website": "https://www.zomato.com",
+    "sector": "Logistics",
+    "address": "Mumbai",
+    "blurb": "Food delivery and dining discovery.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/zomato.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.zomato.com?w=1200"
+    ]
+  },
+  {
+    "id": "mum-jio",
+    "name": "Jio Platforms",
+    "city": "mumbai",
+    "lat": 19.06,
+    "lng": 72.87,
+    "website": "https://www.jio.com",
+    "sector": "Telecom",
+    "address": "Mumbai",
+    "blurb": "Digital services and connectivity arm of Reliance.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/jio.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.jio.com?w=1200"
+    ]
+  },
+  {
+    "id": "mum-sharekhan",
+    "name": "Sharekhan",
+    "city": "mumbai",
+    "lat": 19.05,
+    "lng": 72.84,
+    "website": "https://www.sharekhan.com",
+    "sector": "FinTech",
+    "address": "Mumbai",
+    "blurb": "Full-service brokerage going digital.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/sharekhan.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.sharekhan.com?w=1200"
+    ]
+  },
+  {
+    "id": "mum-goodera",
+    "name": "Goodera",
+    "city": "mumbai",
+    "lat": 19.07,
+    "lng": 72.87,
+    "website": "https://www.goodera.com",
+    "sector": "SaaS",
+    "address": "Mumbai",
+    "blurb": "Corporate volunteering and ESG platform.",
+    "fundingStage": "Series A",
+    "logoUrl": "https://logo.clearbit.com/goodera.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.goodera.com?w=1200"
+    ]
+  },
+  {
+    "id": "mum-setu",
+    "name": "Setu",
+    "city": "mumbai",
+    "lat": 19.06675,
+    "lng": 72.86965,
+    "website": "https://setu.co",
+    "sector": "FinTech",
+    "address": "Bandra Kurla Complex, Mumbai",
+    "blurb": "Account aggregator and open banking APIs.",
+    "fundingStage": "Series B",
+    "buildingId": "mum-bkc",
+    "buildingName": "Bandra Kurla Complex",
+    "logoUrl": "https://logo.clearbit.com/setu.co",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fsetu.co?w=1200"
+    ]
+  },
+  {
+    "id": "mum-cashfree-mum",
+    "name": "Cashfree Mumbai",
+    "city": "mumbai",
+    "lat": 19.07,
+    "lng": 72.87,
+    "website": "https://www.cashfree.com",
+    "sector": "FinTech",
+    "address": "Mumbai",
+    "blurb": "Payments enterprise coverage.",
+    "fundingStage": "Series C",
+    "logoUrl": "https://logo.clearbit.com/cashfree.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.cashfree.com?w=1200"
+    ]
+  },
+  {
+    "id": "mum-incred",
+    "name": "InCred",
+    "city": "mumbai",
+    "lat": 19.06,
+    "lng": 72.86,
+    "website": "https://www.incred.com",
+    "sector": "FinTech",
+    "address": "Mumbai",
+    "blurb": "Digital lending and wealth.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/incred.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.incred.com?w=1200"
+    ]
+  },
+  {
+    "id": "mum-furlenco",
+    "name": "Furlenco",
+    "city": "mumbai",
+    "lat": 19.1,
+    "lng": 72.85,
+    "website": "https://www.furlenco.com",
+    "sector": "Consumer",
+    "address": "Mumbai / Bengaluru",
+    "blurb": "Furniture subscription and rental.",
+    "fundingStage": "Series C",
+    "logoUrl": "https://logo.clearbit.com/furlenco.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.furlenco.com?w=1200"
+    ]
+  },
+  {
+    "id": "mum-housing",
+    "name": "Housing.com",
+    "city": "mumbai",
+    "lat": 19.07,
+    "lng": 72.87,
+    "website": "https://housing.com",
+    "sector": "PropTech",
+    "address": "Mumbai",
+    "blurb": "Property search portal.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/housing.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fhousing.com?w=1200"
+    ]
+  },
+  {
+    "id": "mum-magicbricks",
+    "name": "Magicbricks",
+    "city": "mumbai",
+    "lat": 19.06,
+    "lng": 72.86,
+    "website": "https://www.magicbricks.com",
+    "sector": "PropTech",
+    "address": "Mumbai",
+    "blurb": "Real-estate classifieds.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/magicbricks.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.magicbricks.com?w=1200"
+    ]
+  },
+  {
+    "id": "mum-acko",
+    "name": "ACKO",
+    "city": "mumbai",
+    "lat": 19.07,
+    "lng": 72.87,
+    "website": "https://www.acko.com",
+    "sector": "InsurTech",
+    "address": "Mumbai / Bengaluru",
+    "blurb": "Digital insurer with Mumbai presence.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/acko.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.acko.com?w=1200"
+    ]
+  },
+  {
+    "id": "mum-pine-labs",
+    "name": "Pine Labs",
+    "city": "mumbai",
+    "lat": 19.0668,
+    "lng": 72.86965,
+    "website": "https://www.pinelabs.com",
+    "sector": "FinTech",
+    "address": "Bandra Kurla Complex, Mumbai",
+    "blurb": "Merchant payments and POS network.",
+    "fundingStage": "Series D+",
+    "buildingId": "mum-bkc",
+    "buildingName": "Bandra Kurla Complex",
+    "logoUrl": "https://logo.clearbit.com/pinelabs.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.pinelabs.com?w=1200"
+    ]
+  },
+  {
+    "id": "mum-mobikwik",
+    "name": "MobiKwik",
+    "city": "mumbai",
+    "lat": 19.08,
+    "lng": 72.87,
+    "website": "https://www.mobikwik.com",
+    "sector": "FinTech",
+    "address": "Mumbai ops",
+    "blurb": "Wallet and BNPL for Indian consumers.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/mobikwik.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.mobikwik.com?w=1200"
+    ]
+  },
+  {
+    "id": "mum-bankbazaar",
+    "name": "BankBazaar",
+    "city": "mumbai",
+    "lat": 19.07,
+    "lng": 72.86,
+    "website": "https://www.bankbazaar.com",
+    "sector": "FinTech",
+    "address": "Mumbai",
+    "blurb": "Credit and loan marketplace.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/bankbazaar.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.bankbazaar.com?w=1200"
+    ]
+  },
+  {
+    "id": "mum-clear",
+    "name": "Clear",
+    "city": "mumbai",
+    "lat": 19.07,
+    "lng": 72.87,
+    "website": "https://cleartax.in",
+    "sector": "FinTech",
+    "address": "Mumbai / Bengaluru",
+    "blurb": "Tax filing and compliance software.",
+    "fundingStage": "Series C",
+    "logoUrl": "https://logo.clearbit.com/cleartax.in",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fcleartax.in?w=1200"
+    ]
+  },
+  {
+    "id": "mum-ply",
+    "name": "PLY",
+    "city": "mumbai",
+    "lat": 19.06,
+    "lng": 72.86,
+    "website": "https://www.ply.me",
+    "sector": "FinTech",
+    "address": "Mumbai",
+    "blurb": "SME credit and embedded finance.",
+    "fundingStage": "Series A",
+    "logoUrl": "https://logo.clearbit.com/ply.me",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ply.me?w=1200"
+    ]
+  },
+  {
+    "id": "mum-liquiloans",
+    "name": "LiquiLoans",
+    "city": "mumbai",
+    "lat": 19.07,
+    "lng": 72.87,
+    "website": "https://www.liquiloans.com",
+    "sector": "FinTech",
+    "address": "Mumbai",
+    "blurb": "P2P and fixed-income marketplace.",
+    "fundingStage": "Series C",
+    "logoUrl": "https://logo.clearbit.com/liquiloans.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.liquiloans.com?w=1200"
+    ]
+  }
+]

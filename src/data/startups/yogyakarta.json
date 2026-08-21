@@ -1,0 +1,442 @@
+[
+  {
+    "id": "yog-jdv",
+    "name": "Jogja Digital Valley",
+    "city": "yogyakarta",
+    "lat": -7.78285,
+    "lng": 110.36699999999999,
+    "website": "https://www.jogjadigitalvalley.com",
+    "sector": "Hub",
+    "address": "Jl. Laksda Adisucipto, Yogyakarta",
+    "blurb": "Telkom’s Yogyakarta incubator for local product companies.",
+    "buildingId": "yogyakarta-jdv",
+    "buildingName": "Jogja Digital Valley",
+    "logoUrl": "https://logo.clearbit.com/jogjadigitalvalley.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.jogjadigitalvalley.com?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "yog-botika",
+    "name": "Botika",
+    "city": "yogyakarta",
+    "lat": -7.7828,
+    "lng": 110.36699999999999,
+    "website": "https://botika.online",
+    "sector": "AI",
+    "address": "Jl. Laksda Adisucipto, Yogyakarta",
+    "blurb": "Chatbot and conversational commerce platform from Yogyakarta.",
+    "buildingId": "yogyakarta-jdv",
+    "buildingName": "Jogja Digital Valley",
+    "logoUrl": "https://logo.clearbit.com/botika.online",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fbotika.online?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "yog-klar",
+    "name": "KLAR Smile",
+    "city": "yogyakarta",
+    "lat": -7.7468,
+    "lng": 110.3772,
+    "website": "https://klar.co.id",
+    "sector": "Health",
+    "address": "Jl. Palagan Tentara Pelajar, Yogyakarta",
+    "blurb": "DTC dental aligners brand with Yogyakarta operations.",
+    "logoUrl": "https://logo.clearbit.com/klar.co.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fklar.co.id?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "yog-jala",
+    "name": "Jala Yogyakarta",
+    "city": "yogyakarta",
+    "lat": -7.7554,
+    "lng": 110.3816,
+    "website": "https://jala.tech",
+    "sector": "AgriTech",
+    "address": "Jl. Kaliurang, Yogyakarta",
+    "blurb": "Aquaculture software with a Yogyakarta product presence.",
+    "logoUrl": "https://logo.clearbit.com/jala.tech",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fjala.tech?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "yog-ugm",
+    "name": "UGM Science Techno Park",
+    "city": "yogyakarta",
+    "lat": -7.7712,
+    "lng": 110.3775,
+    "website": "https://ugm.ac.id",
+    "sector": "Hub",
+    "address": "UGM Bulaksumur, Yogyakarta",
+    "blurb": "University commercialisation and deep-tech spinouts.",
+    "logoUrl": "https://logo.clearbit.com/ugm.ac.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fugm.ac.id?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "yog-amikom",
+    "name": "Amikom Startup",
+    "city": "yogyakarta",
+    "lat": -7.7596,
+    "lng": 110.4088,
+    "website": "https://home.amikom.ac.id",
+    "sector": "Hub",
+    "address": "Jl. Ring Road Utara, Condongcatur, Yogyakarta",
+    "blurb": "Campus software and game studio pipeline.",
+    "logoUrl": "https://logo.clearbit.com/home.amikom.ac.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fhome.amikom.ac.id?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "yog-gojek",
+    "name": "Gojek Yogyakarta",
+    "city": "yogyakarta",
+    "lat": -7.7926,
+    "lng": 110.3658,
+    "website": "https://www.gojek.com",
+    "sector": "Superapp",
+    "address": "Jl. Malioboro, Yogyakarta",
+    "blurb": "City operations for ride-hailing and GoFood.",
+    "logoUrl": "https://logo.clearbit.com/gojek.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.gojek.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "yog-grab",
+    "name": "Grab Yogyakarta",
+    "city": "yogyakarta",
+    "lat": -7.7758,
+    "lng": 110.3884,
+    "website": "https://www.grab.com",
+    "sector": "Superapp",
+    "address": "Jl. Affandi, Yogyakarta",
+    "blurb": "Grab city office for DIY.",
+    "logoUrl": "https://logo.clearbit.com/grab.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.grab.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "yog-shopee",
+    "name": "Shopee Yogyakarta",
+    "city": "yogyakarta",
+    "lat": -7.7832,
+    "lng": 110.3876,
+    "website": "https://shopee.co.id",
+    "sector": "Marketplace",
+    "address": "Jl. Laksda Adisucipto, Yogyakarta",
+    "blurb": "E-commerce ops for the Yogyakarta catchment.",
+    "logoUrl": "https://logo.clearbit.com/shopee.co.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fshopee.co.id?w=1200"
+    ],
+    "fundingStage": "Series A"
+  },
+  {
+    "id": "yog-tokopedia",
+    "name": "Tokopedia Yogyakarta",
+    "city": "yogyakarta",
+    "lat": -7.7752,
+    "lng": 110.3908,
+    "website": "https://www.tokopedia.com",
+    "sector": "Marketplace",
+    "address": "Jl. Gejayan, Yogyakarta",
+    "blurb": "Seller community office.",
+    "logoUrl": "https://logo.clearbit.com/tokopedia.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.tokopedia.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "yog-bukalapak",
+    "name": "Bukalapak Yogyakarta",
+    "city": "yogyakarta",
+    "lat": -7.7724,
+    "lng": 110.3566,
+    "website": "https://www.bukalapak.com",
+    "sector": "Marketplace",
+    "address": "Jl. Magelang, Yogyakarta",
+    "blurb": "Mitra network for Yogyakarta MSMEs.",
+    "logoUrl": "https://logo.clearbit.com/bukalapak.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.bukalapak.com?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "yog-ruangguru",
+    "name": "Ruangguru Yogyakarta",
+    "city": "yogyakarta",
+    "lat": -7.7548,
+    "lng": 110.3812,
+    "website": "https://www.ruangguru.com",
+    "sector": "EdTech",
+    "address": "Jl. Kaliurang, Yogyakarta",
+    "blurb": "Tutor supply and school partnerships.",
+    "logoUrl": "https://logo.clearbit.com/ruangguru.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ruangguru.com?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "yog-zenius",
+    "name": "Zenius Yogyakarta",
+    "city": "yogyakarta",
+    "lat": -7.7822,
+    "lng": 110.3744,
+    "website": "https://www.zenius.net",
+    "sector": "EdTech",
+    "address": "Jl. C. Simanjuntak, Yogyakarta",
+    "blurb": "Learning content and campus ambassadors.",
+    "logoUrl": "https://logo.clearbit.com/zenius.net",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.zenius.net?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "yog-dicoding",
+    "name": "Dicoding Yogyakarta",
+    "city": "yogyakarta",
+    "lat": -7.78275,
+    "lng": 110.36699999999999,
+    "website": "https://www.dicoding.com",
+    "sector": "EdTech",
+    "address": "Jl. Laksda Adisucipto, Yogyakarta",
+    "blurb": "Developer education community in Jogja.",
+    "buildingId": "yogyakarta-jdv",
+    "buildingName": "Jogja Digital Valley",
+    "logoUrl": "https://logo.clearbit.com/dicoding.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.dicoding.com?w=1200"
+    ],
+    "fundingStage": "Series D+"
+  },
+  {
+    "id": "yog-mekari",
+    "name": "Mekari Yogyakarta",
+    "city": "yogyakarta",
+    "lat": -7.7736,
+    "lng": 110.3562,
+    "website": "https://mekari.com",
+    "sector": "SaaS",
+    "address": "Jl. Magelang, Yogyakarta",
+    "blurb": "SaaS onboarding for Jogja SMEs.",
+    "logoUrl": "https://logo.clearbit.com/mekari.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fmekari.com?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "yog-qasir",
+    "name": "Qasir Yogyakarta",
+    "city": "yogyakarta",
+    "lat": -7.7932,
+    "lng": 110.3656,
+    "website": "https://www.qasir.id",
+    "sector": "SaaS",
+    "address": "Jl. Malioboro, Yogyakarta",
+    "blurb": "POS for Malioboro and traditional retailers.",
+    "logoUrl": "https://logo.clearbit.com/qasir.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.qasir.id?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "yog-majoo",
+    "name": "majoo Yogyakarta",
+    "city": "yogyakarta",
+    "lat": -7.8194,
+    "lng": 110.3708,
+    "website": "https://majoo.id",
+    "sector": "SaaS",
+    "address": "Jl. Prawirotaman, Yogyakarta",
+    "blurb": "Cloud POS for Jogja’s F&B street.",
+    "logoUrl": "https://logo.clearbit.com/majoo.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fmajoo.id?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "yog-halodoc",
+    "name": "Halodoc Yogyakarta",
+    "city": "yogyakarta",
+    "lat": -7.7756,
+    "lng": 110.3748,
+    "website": "https://www.halodoc.com",
+    "sector": "Health",
+    "address": "Jl. Cik Di Tiro, Yogyakarta",
+    "blurb": "Clinic and hospital partnerships.",
+    "logoUrl": "https://logo.clearbit.com/halodoc.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.halodoc.com?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "yog-traveloka",
+    "name": "Traveloka Yogyakarta",
+    "city": "yogyakarta",
+    "lat": -7.7922,
+    "lng": 110.3659,
+    "website": "https://www.traveloka.com",
+    "sector": "Travel",
+    "address": "Jl. Malioboro, Yogyakarta",
+    "blurb": "Destination inventory for Jogja tourism.",
+    "logoUrl": "https://logo.clearbit.com/traveloka.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.traveloka.com?w=1200"
+    ],
+    "fundingStage": "Series D+"
+  },
+  {
+    "id": "yog-tiket",
+    "name": "tiket.com Yogyakarta",
+    "city": "yogyakarta",
+    "lat": -7.7762,
+    "lng": 110.3888,
+    "website": "https://www.tiket.com",
+    "sector": "Travel",
+    "address": "Jl. Affandi, Yogyakarta",
+    "blurb": "Hotels and attractions booking ops.",
+    "logoUrl": "https://logo.clearbit.com/tiket.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.tiket.com?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "yog-ovo",
+    "name": "OVO Yogyakarta",
+    "city": "yogyakarta",
+    "lat": -7.7826,
+    "lng": 110.4012,
+    "website": "https://www.ovo.id",
+    "sector": "FinTech",
+    "address": "Plaza Ambarrukmo, Yogyakarta",
+    "blurb": "Merchant acquiring across Jogja retail.",
+    "logoUrl": "https://logo.clearbit.com/ovo.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ovo.id?w=1200"
+    ],
+    "fundingStage": "Growth"
+  },
+  {
+    "id": "yog-dana",
+    "name": "DANA Yogyakarta",
+    "city": "yogyakarta",
+    "lat": -7.775,
+    "lng": 110.3904,
+    "website": "https://www.dana.id",
+    "sector": "FinTech",
+    "address": "Jl. Gejayan, Yogyakarta",
+    "blurb": "Wallet city operations.",
+    "logoUrl": "https://logo.clearbit.com/dana.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.dana.id?w=1200"
+    ],
+    "fundingStage": "Series B"
+  },
+  {
+    "id": "yog-xendit",
+    "name": "Xendit Yogyakarta",
+    "city": "yogyakarta",
+    "lat": -7.7827,
+    "lng": 110.36699999999999,
+    "website": "https://www.xendit.co",
+    "sector": "FinTech",
+    "address": "Jl. Laksda Adisucipto, Yogyakarta",
+    "blurb": "Payments campus hiring and SME onboarding.",
+    "buildingId": "yogyakarta-jdv",
+    "buildingName": "Jogja Digital Valley",
+    "logoUrl": "https://logo.clearbit.com/xendit.co",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.xendit.co?w=1200"
+    ],
+    "fundingStage": "Public"
+  },
+  {
+    "id": "yog-anteraja",
+    "name": "Anteraja Yogyakarta",
+    "city": "yogyakarta",
+    "lat": -7.7672,
+    "lng": 110.4096,
+    "website": "https://anteraja.id",
+    "sector": "Logistics",
+    "address": "Jl. Maguwoharjo, Yogyakarta",
+    "blurb": "Parcel hub for DIY.",
+    "logoUrl": "https://logo.clearbit.com/anteraja.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fanteraja.id?w=1200"
+    ],
+    "fundingStage": "Seed"
+  },
+  {
+    "id": "yog-shipper",
+    "name": "Shipper Yogyakarta",
+    "city": "yogyakarta",
+    "lat": -7.7836,
+    "lng": 110.3922,
+    "website": "https://shipper.id",
+    "sector": "Logistics",
+    "address": "Jl. Laksda Adisucipto, Yogyakarta",
+    "blurb": "Fulfilment for Jogja crafts and F&B sellers.",
+    "logoUrl": "https://logo.clearbit.com/shipper.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fshipper.id?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "yog-gits",
+    "name": "GITS Yogyakarta",
+    "city": "yogyakarta",
+    "lat": -7.7562,
+    "lng": 110.3822,
+    "website": "https://gits.id",
+    "sector": "SaaS",
+    "address": "Jl. Kaliurang, Yogyakarta",
+    "blurb": "Software engineering office drawing Jogja talent.",
+    "logoUrl": "https://logo.clearbit.com/gits.id",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fgits.id?w=1200"
+    ],
+    "fundingStage": "Bootstrapped"
+  },
+  {
+    "id": "yog-suitmedia",
+    "name": "Suitmedia Yogyakarta",
+    "city": "yogyakarta",
+    "lat": -7.7824,
+    "lng": 110.3746,
+    "website": "https://suitmedia.com",
+    "sector": "SaaS",
+    "address": "Jl. C. Simanjuntak, Yogyakarta",
+    "blurb": "Product studio with a Yogyakarta team.",
+    "logoUrl": "https://logo.clearbit.com/suitmedia.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fsuitmedia.com?w=1200"
+    ],
+    "fundingStage": "Series D+"
+  }
+]

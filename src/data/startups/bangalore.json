@@ -1,0 +1,662 @@
+[
+  {
+    "id": "blr-flipkart",
+    "name": "Flipkart",
+    "city": "bangalore",
+    "lat": 12.932,
+    "lng": 77.695,
+    "website": "https://www.flipkart.com",
+    "sector": "Marketplace",
+    "address": "Embassy Tech Village, Bengaluru",
+    "blurb": "India’s leading e-commerce marketplace, founded in Bangalore.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/flipkart.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.flipkart.com?w=1200"
+    ]
+  },
+  {
+    "id": "blr-swiggy",
+    "name": "Swiggy",
+    "city": "bangalore",
+    "lat": 12.93515,
+    "lng": 77.6244,
+    "website": "https://www.swiggy.com",
+    "sector": "Logistics",
+    "address": "Koramangala, Bengaluru",
+    "blurb": "Food delivery and quick commerce unicorn founded in Bangalore.",
+    "fundingStage": "Growth",
+    "buildingId": "blr-koramangala",
+    "buildingName": "Koramangala Hub",
+    "logoUrl": "https://logo.clearbit.com/swiggy.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.swiggy.com?w=1200"
+    ]
+  },
+  {
+    "id": "blr-razorpay",
+    "name": "Razorpay",
+    "city": "bangalore",
+    "lat": 12.9352,
+    "lng": 77.6244,
+    "website": "https://razorpay.com",
+    "sector": "FinTech",
+    "address": "Koramangala, Bengaluru",
+    "blurb": "Payments infrastructure for Indian businesses.",
+    "fundingStage": "Series D+",
+    "buildingId": "blr-koramangala",
+    "buildingName": "Koramangala Hub",
+    "logoUrl": "https://logo.clearbit.com/razorpay.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Frazorpay.com?w=1200"
+    ]
+  },
+  {
+    "id": "blr-phonepe",
+    "name": "PhonePe",
+    "city": "bangalore",
+    "lat": 12.933,
+    "lng": 77.696,
+    "website": "https://www.phonepe.com",
+    "sector": "FinTech",
+    "address": "Embassy Tech Village, Bengaluru",
+    "blurb": "UPI payments and financial services app.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/phonepe.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.phonepe.com?w=1200"
+    ]
+  },
+  {
+    "id": "blr-zerodha",
+    "name": "Zerodha",
+    "city": "bangalore",
+    "lat": 12.925,
+    "lng": 77.675,
+    "website": "https://zerodha.com",
+    "sector": "FinTech",
+    "address": "Bellandur, Bengaluru",
+    "blurb": "Bootstrapped discount broker that redefined Indian retail investing.",
+    "fundingStage": "Bootstrapped",
+    "logoUrl": "https://logo.clearbit.com/zerodha.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fzerodha.com?w=1200"
+    ]
+  },
+  {
+    "id": "blr-freshworks",
+    "name": "Freshworks",
+    "city": "bangalore",
+    "lat": 12.91,
+    "lng": 77.52,
+    "website": "https://www.freshworks.com",
+    "sector": "SaaS",
+    "address": "Global Village, Bengaluru",
+    "blurb": "Customer engagement SaaS with deep Bangalore roots.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/freshworks.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.freshworks.com?w=1200"
+    ]
+  },
+  {
+    "id": "blr-meesho",
+    "name": "Meesho",
+    "city": "bangalore",
+    "lat": 12.93525,
+    "lng": 77.6244,
+    "website": "https://www.meesho.com",
+    "sector": "Marketplace",
+    "address": "Koramangala, Bengaluru",
+    "blurb": "Social commerce marketplace for India’s reseller economy.",
+    "fundingStage": "Series D+",
+    "buildingId": "blr-koramangala",
+    "buildingName": "Koramangala Hub",
+    "logoUrl": "https://logo.clearbit.com/meesho.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.meesho.com?w=1200"
+    ]
+  },
+  {
+    "id": "blr-cred",
+    "name": "CRED",
+    "city": "bangalore",
+    "lat": 12.9353,
+    "lng": 77.6244,
+    "website": "https://cred.club",
+    "sector": "FinTech",
+    "address": "Koramangala, Bengaluru",
+    "blurb": "Credit-card rewards and fintech app for affluent Indians.",
+    "fundingStage": "Series D+",
+    "buildingId": "blr-koramangala",
+    "buildingName": "Koramangala Hub",
+    "logoUrl": "https://logo.clearbit.com/cred.club",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fcred.club?w=1200"
+    ]
+  },
+  {
+    "id": "blr-sharechat",
+    "name": "ShareChat",
+    "city": "bangalore",
+    "lat": 12.9784,
+    "lng": 77.6408,
+    "website": "https://sharechat.com",
+    "sector": "Media",
+    "address": "Indiranagar, Bengaluru",
+    "blurb": "Indian-language social network and Moj short video.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/sharechat.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fsharechat.com?w=1200"
+    ]
+  },
+  {
+    "id": "blr-udaan",
+    "name": "Udaan",
+    "city": "bangalore",
+    "lat": 12.927,
+    "lng": 77.678,
+    "website": "https://udaan.com",
+    "sector": "Marketplace",
+    "address": "Bellandur, Bengaluru",
+    "blurb": "B2B marketplace for Indian SMEs and kiranas.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/udaan.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fudaan.com?w=1200"
+    ]
+  },
+  {
+    "id": "blr-slice",
+    "name": "slice",
+    "city": "bangalore",
+    "lat": 12.9351,
+    "lng": 77.62445,
+    "website": "https://www.sliceit.com",
+    "sector": "FinTech",
+    "address": "Koramangala, Bengaluru",
+    "blurb": "Consumer credit and neobanking for young Indians.",
+    "fundingStage": "Series C",
+    "buildingId": "blr-koramangala",
+    "buildingName": "Koramangala Hub",
+    "logoUrl": "https://logo.clearbit.com/sliceit.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.sliceit.com?w=1200"
+    ]
+  },
+  {
+    "id": "blr-nobroker",
+    "name": "NoBroker",
+    "city": "bangalore",
+    "lat": 12.9784,
+    "lng": 77.6408,
+    "website": "https://www.nobroker.in",
+    "sector": "PropTech",
+    "address": "Indiranagar, Bengaluru",
+    "blurb": "Broker-free rental and home services marketplace.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/nobroker.in",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.nobroker.in?w=1200"
+    ]
+  },
+  {
+    "id": "blr-postman",
+    "name": "Postman",
+    "city": "bangalore",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "website": "https://www.postman.com",
+    "sector": "SaaS",
+    "address": "Bengaluru",
+    "blurb": "API platform used by developers worldwide.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/postman.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.postman.com?w=1200"
+    ]
+  },
+  {
+    "id": "blr-chargebee",
+    "name": "Chargebee",
+    "city": "bangalore",
+    "lat": 12.97,
+    "lng": 77.6,
+    "website": "https://www.chargebee.com",
+    "sector": "SaaS",
+    "address": "Bengaluru",
+    "blurb": "Subscription billing infrastructure.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/chargebee.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.chargebee.com?w=1200"
+    ]
+  },
+  {
+    "id": "blr-browserstack",
+    "name": "BrowserStack",
+    "city": "bangalore",
+    "lat": 12.968,
+    "lng": 77.61,
+    "website": "https://www.browserstack.com",
+    "sector": "SaaS",
+    "address": "Bengaluru",
+    "blurb": "Cross-browser testing platform.",
+    "fundingStage": "Series B",
+    "logoUrl": "https://logo.clearbit.com/browserstack.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.browserstack.com?w=1200"
+    ]
+  },
+  {
+    "id": "blr-cultfit",
+    "name": "Cult.fit",
+    "city": "bangalore",
+    "lat": 12.93515,
+    "lng": 77.62445,
+    "website": "https://www.cult.fit",
+    "sector": "Health",
+    "address": "Koramangala, Bengaluru",
+    "blurb": "Fitness, nutrition, and digital wellness brand.",
+    "fundingStage": "Series D+",
+    "buildingId": "blr-koramangala",
+    "buildingName": "Koramangala Hub",
+    "logoUrl": "https://logo.clearbit.com/cult.fit",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.cult.fit?w=1200"
+    ]
+  },
+  {
+    "id": "blr-unacademy",
+    "name": "Unacademy",
+    "city": "bangalore",
+    "lat": 12.9784,
+    "lng": 77.6408,
+    "website": "https://unacademy.com",
+    "sector": "EdTech",
+    "address": "Indiranagar, Bengaluru",
+    "blurb": "Online learning for competitive exams.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/unacademy.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Funacademy.com?w=1200"
+    ]
+  },
+  {
+    "id": "blr-livspace",
+    "name": "Livspace",
+    "city": "bangalore",
+    "lat": 12.961,
+    "lng": 77.638,
+    "website": "https://www.livspace.com",
+    "sector": "PropTech",
+    "address": "Domlur, Bengaluru",
+    "blurb": "Home interiors marketplace and design platform.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/livspace.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.livspace.com?w=1200"
+    ]
+  },
+  {
+    "id": "blr-hasura",
+    "name": "Hasura",
+    "city": "bangalore",
+    "lat": 12.971,
+    "lng": 77.61,
+    "website": "https://hasura.io",
+    "sector": "SaaS",
+    "address": "Bengaluru",
+    "blurb": "GraphQL and data-access platform for developers.",
+    "fundingStage": "Series C",
+    "logoUrl": "https://logo.clearbit.com/hasura.io",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fhasura.io?w=1200"
+    ]
+  },
+  {
+    "id": "blr-yellowai",
+    "name": "Yellow.ai",
+    "city": "bangalore",
+    "lat": 12.97,
+    "lng": 77.6,
+    "website": "https://yellow.ai",
+    "sector": "AI",
+    "address": "Bengaluru",
+    "blurb": "Conversational AI platform for enterprises.",
+    "fundingStage": "Series C",
+    "logoUrl": "https://logo.clearbit.com/yellow.ai",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fyellow.ai?w=1200"
+    ]
+  },
+  {
+    "id": "blr-ola",
+    "name": "Ola",
+    "city": "bangalore",
+    "lat": 12.93,
+    "lng": 77.62,
+    "website": "https://www.olacabs.com",
+    "sector": "Mobility",
+    "address": "Bengaluru",
+    "blurb": "Ride-hailing and EV mobility group founded in Bangalore.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/olacabs.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.olacabs.com?w=1200"
+    ]
+  },
+  {
+    "id": "blr-ola-electric",
+    "name": "Ola Electric",
+    "city": "bangalore",
+    "lat": 12.93,
+    "lng": 77.63,
+    "website": "https://olaelectric.com",
+    "sector": "Climate",
+    "address": "Bengaluru",
+    "blurb": "EV two-wheeler manufacturer.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/olaelectric.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Folaelectric.com?w=1200"
+    ]
+  },
+  {
+    "id": "blr-zepto",
+    "name": "Zepto",
+    "city": "bangalore",
+    "lat": 12.9352,
+    "lng": 77.62445,
+    "website": "https://www.zeptonow.com",
+    "sector": "Logistics",
+    "address": "Koramangala, Bengaluru",
+    "blurb": "Quick-commerce grocery with a large Bangalore footprint.",
+    "fundingStage": "Series D+",
+    "buildingId": "blr-koramangala",
+    "buildingName": "Koramangala Hub",
+    "logoUrl": "https://logo.clearbit.com/zeptonow.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.zeptonow.com?w=1200"
+    ]
+  },
+  {
+    "id": "blr-jupiter",
+    "name": "Jupiter",
+    "city": "bangalore",
+    "lat": 12.97,
+    "lng": 77.6,
+    "website": "https://jupiter.money",
+    "sector": "FinTech",
+    "address": "Bengaluru",
+    "blurb": "Digital banking and money app.",
+    "fundingStage": "Series C",
+    "logoUrl": "https://logo.clearbit.com/jupiter.money",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fjupiter.money?w=1200"
+    ]
+  },
+  {
+    "id": "blr-open",
+    "name": "Open",
+    "city": "bangalore",
+    "lat": 12.97,
+    "lng": 77.61,
+    "website": "https://open.money",
+    "sector": "FinTech",
+    "address": "Bengaluru",
+    "blurb": "Banking and payments OS for SMEs.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/open.money",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fopen.money?w=1200"
+    ]
+  },
+  {
+    "id": "blr-khatabook",
+    "name": "Khatabook",
+    "city": "bangalore",
+    "lat": 12.97,
+    "lng": 77.6,
+    "website": "https://khatabook.com",
+    "sector": "FinTech",
+    "address": "Bengaluru",
+    "blurb": "Digital ledger for Indian merchants.",
+    "fundingStage": "Series C",
+    "logoUrl": "https://logo.clearbit.com/khatabook.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fkhatabook.com?w=1200"
+    ]
+  },
+  {
+    "id": "blr-apna",
+    "name": "Apna",
+    "city": "bangalore",
+    "lat": 12.97,
+    "lng": 77.6,
+    "website": "https://apna.co",
+    "sector": "Marketplace",
+    "address": "Bengaluru",
+    "blurb": "Jobs marketplace for blue- and grey-collar India.",
+    "fundingStage": "Series C",
+    "logoUrl": "https://logo.clearbit.com/apna.co",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fapna.co?w=1200"
+    ]
+  },
+  {
+    "id": "blr-cashfree",
+    "name": "Cashfree",
+    "city": "bangalore",
+    "lat": 12.97,
+    "lng": 77.6,
+    "website": "https://www.cashfree.com",
+    "sector": "FinTech",
+    "address": "Bengaluru",
+    "blurb": "Payments and payouts API for Indian businesses.",
+    "fundingStage": "Series C",
+    "logoUrl": "https://logo.clearbit.com/cashfree.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.cashfree.com?w=1200"
+    ]
+  },
+  {
+    "id": "blr-niramai",
+    "name": "Niramai",
+    "city": "bangalore",
+    "lat": 12.97,
+    "lng": 77.6,
+    "website": "https://www.niramai.com",
+    "sector": "Health",
+    "address": "Bengaluru",
+    "blurb": "AI breast-cancer screening using thermal imaging.",
+    "fundingStage": "Series A",
+    "logoUrl": "https://logo.clearbit.com/niramai.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.niramai.com?w=1200"
+    ]
+  },
+  {
+    "id": "blr-synapsica",
+    "name": "Synapsica",
+    "city": "bangalore",
+    "lat": 12.97,
+    "lng": 77.6,
+    "website": "https://synapsica.com",
+    "sector": "Health",
+    "address": "Bengaluru",
+    "blurb": "AI radiology diagnostics.",
+    "fundingStage": "Series A",
+    "logoUrl": "https://logo.clearbit.com/synapsica.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fsynapsica.com?w=1200"
+    ]
+  },
+  {
+    "id": "blr-pratilipi",
+    "name": "Pratilipi",
+    "city": "bangalore",
+    "lat": 12.93525,
+    "lng": 77.62445,
+    "website": "https://www.pratilipi.com",
+    "sector": "Media",
+    "address": "Koramangala, Bengaluru",
+    "blurb": "Indian-language storytelling platform.",
+    "fundingStage": "Series C",
+    "buildingId": "blr-koramangala",
+    "buildingName": "Koramangala Hub",
+    "logoUrl": "https://logo.clearbit.com/pratilipi.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.pratilipi.com?w=1200"
+    ]
+  },
+  {
+    "id": "blr-instamojo",
+    "name": "Instamojo",
+    "city": "bangalore",
+    "lat": 12.9353,
+    "lng": 77.62445,
+    "website": "https://www.instamojo.com",
+    "sector": "FinTech",
+    "address": "Koramangala, Bengaluru",
+    "blurb": "Payments and storefront tools for SMEs.",
+    "fundingStage": "Series B",
+    "buildingId": "blr-koramangala",
+    "buildingName": "Koramangala Hub",
+    "logoUrl": "https://logo.clearbit.com/instamojo.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.instamojo.com?w=1200"
+    ]
+  },
+  {
+    "id": "blr-navi",
+    "name": "Navi",
+    "city": "bangalore",
+    "lat": 12.96,
+    "lng": 77.64,
+    "website": "https://navi.com",
+    "sector": "FinTech",
+    "address": "Bengaluru",
+    "blurb": "Digital lending and insurance group.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/navi.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fnavi.com?w=1200"
+    ]
+  },
+  {
+    "id": "blr-fractal",
+    "name": "Fractal Analytics",
+    "city": "bangalore",
+    "lat": 12.968,
+    "lng": 77.6,
+    "website": "https://fractal.ai",
+    "sector": "AI",
+    "address": "Bengaluru",
+    "blurb": "AI and analytics services unicorn.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/fractal.ai",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Ffractal.ai?w=1200"
+    ]
+  },
+  {
+    "id": "blr-myntra",
+    "name": "Myntra",
+    "city": "bangalore",
+    "lat": 12.97,
+    "lng": 77.6,
+    "website": "https://www.myntra.com",
+    "sector": "Marketplace",
+    "address": "Bengaluru",
+    "blurb": "Fashion e-commerce in the Flipkart group.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/myntra.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.myntra.com?w=1200"
+    ]
+  },
+  {
+    "id": "blr-dunzo",
+    "name": "Dunzo",
+    "city": "bangalore",
+    "lat": 12.9351,
+    "lng": 77.6245,
+    "website": "https://www.dunzo.com",
+    "sector": "Logistics",
+    "address": "Koramangala, Bengaluru",
+    "blurb": "Hyperlocal delivery pioneer from Bangalore.",
+    "fundingStage": "Series D+",
+    "buildingId": "blr-koramangala",
+    "buildingName": "Koramangala Hub",
+    "logoUrl": "https://logo.clearbit.com/dunzo.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.dunzo.com?w=1200"
+    ]
+  },
+  {
+    "id": "blr-bounce",
+    "name": "Bounce",
+    "city": "bangalore",
+    "lat": 12.935,
+    "lng": 77.62,
+    "website": "https://www.bounceshare.com",
+    "sector": "Mobility",
+    "address": "Bengaluru",
+    "blurb": "Shared mobility and EV scooter network.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/bounceshare.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.bounceshare.com?w=1200"
+    ]
+  },
+  {
+    "id": "blr-cleartrip",
+    "name": "Cleartrip",
+    "city": "bangalore",
+    "lat": 12.972,
+    "lng": 77.595,
+    "website": "https://www.cleartrip.com",
+    "sector": "Travel",
+    "address": "Bengaluru",
+    "blurb": "Online travel agency with deep India inventory.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/cleartrip.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.cleartrip.com?w=1200"
+    ]
+  },
+  {
+    "id": "blr-byjus",
+    "name": "BYJU'S",
+    "city": "bangalore",
+    "lat": 12.9125,
+    "lng": 77.6015,
+    "website": "https://byjus.com",
+    "sector": "EdTech",
+    "address": "Bengaluru",
+    "blurb": "Edtech platform that scaled online learning from Bangalore.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/byjus.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fbyjus.com?w=1200"
+    ]
+  },
+  {
+    "id": "blr-licious",
+    "name": "Licious",
+    "city": "bangalore",
+    "lat": 12.97,
+    "lng": 77.6,
+    "website": "https://www.licious.in",
+    "sector": "Consumer",
+    "address": "Bengaluru",
+    "blurb": "Fresh meat and seafood D2C brand.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/licious.in",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.licious.in?w=1200"
+    ]
+  }
+]

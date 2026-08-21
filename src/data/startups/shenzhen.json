@@ -1,0 +1,492 @@
+[
+  {
+    "id": "sz-tencent",
+    "name": "Tencent",
+    "city": "shenzhen",
+    "lat": 22.539949999999997,
+    "lng": 113.9399,
+    "website": "https://www.tencent.com",
+    "sector": "Media",
+    "address": "Nanshan District, Shenzhen",
+    "blurb": "Internet and gaming giant headquartered in Shenzhen.",
+    "fundingStage": "Public",
+    "buildingId": "sz-nanshan",
+    "buildingName": "Nanshan / Science Park",
+    "logoUrl": "https://logo.clearbit.com/tencent.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.tencent.com?w=1200"
+    ]
+  },
+  {
+    "id": "sz-huawei",
+    "name": "Huawei",
+    "city": "shenzhen",
+    "lat": 22.64,
+    "lng": 114.08,
+    "website": "https://www.huawei.com",
+    "sector": "Hardware",
+    "address": "Bantian / Longgang, Shenzhen",
+    "blurb": "Telecom and consumer electronics HQ.",
+    "fundingStage": "Bootstrapped",
+    "logoUrl": "https://logo.clearbit.com/huawei.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.huawei.com?w=1200"
+    ]
+  },
+  {
+    "id": "sz-dji",
+    "name": "DJI",
+    "city": "shenzhen",
+    "lat": 22.54,
+    "lng": 113.9399,
+    "website": "https://www.dji.com",
+    "sector": "Hardware",
+    "address": "Nanshan District, Shenzhen",
+    "blurb": "Consumer drone leader founded in Shenzhen.",
+    "fundingStage": "Growth",
+    "buildingId": "sz-nanshan",
+    "buildingName": "Nanshan / Science Park",
+    "logoUrl": "https://logo.clearbit.com/dji.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.dji.com?w=1200"
+    ]
+  },
+  {
+    "id": "sz-byd",
+    "name": "BYD",
+    "city": "shenzhen",
+    "lat": 22.63,
+    "lng": 114.13,
+    "website": "https://www.byd.com",
+    "sector": "Climate",
+    "address": "Shenzhen",
+    "blurb": "EV and battery giant based in Shenzhen.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/byd.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.byd.com?w=1200"
+    ]
+  },
+  {
+    "id": "sz-pingan",
+    "name": "Ping An",
+    "city": "shenzhen",
+    "lat": 22.54,
+    "lng": 114.05,
+    "website": "https://www.pingan.com",
+    "sector": "FinTech",
+    "address": "Shenzhen",
+    "blurb": "Insurance and fintech group.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/pingan.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.pingan.com?w=1200"
+    ]
+  },
+  {
+    "id": "sz-oneplus",
+    "name": "OnePlus",
+    "city": "shenzhen",
+    "lat": 22.54,
+    "lng": 113.95,
+    "website": "https://www.oneplus.com",
+    "sector": "Hardware",
+    "address": "Shenzhen",
+    "blurb": "Smartphone brand in the OPPO group.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/oneplus.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.oneplus.com?w=1200"
+    ]
+  },
+  {
+    "id": "sz-oppo",
+    "name": "OPPO",
+    "city": "shenzhen",
+    "lat": 22.55,
+    "lng": 113.95,
+    "website": "https://www.oppo.com",
+    "sector": "Hardware",
+    "address": "Shenzhen / Dongguan",
+    "blurb": "Smartphone manufacturer.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/oppo.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.oppo.com?w=1200"
+    ]
+  },
+  {
+    "id": "sz-vivo",
+    "name": "vivo",
+    "city": "shenzhen",
+    "lat": 22.55,
+    "lng": 113.96,
+    "website": "https://www.vivo.com",
+    "sector": "Hardware",
+    "address": "Shenzhen / Dongguan",
+    "blurb": "Smartphone manufacturer.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/vivo.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.vivo.com?w=1200"
+    ]
+  },
+  {
+    "id": "sz-sf",
+    "name": "SF Express",
+    "city": "shenzhen",
+    "lat": 22.55,
+    "lng": 114.05,
+    "website": "https://www.sf-express.com",
+    "sector": "Logistics",
+    "address": "Shenzhen",
+    "blurb": "Express logistics leader.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/sf-express.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.sf-express.com?w=1200"
+    ]
+  },
+  {
+    "id": "sz-cainiao",
+    "name": "Cainiao Shenzhen",
+    "city": "shenzhen",
+    "lat": 22.55,
+    "lng": 114.1,
+    "website": "https://www.cainiao.com",
+    "sector": "Logistics",
+    "address": "Shenzhen",
+    "blurb": "Alibaba logistics network node.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/cainiao.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.cainiao.com?w=1200"
+    ]
+  },
+  {
+    "id": "sz-meituan",
+    "name": "Meituan Shenzhen",
+    "city": "shenzhen",
+    "lat": 22.54,
+    "lng": 114.05,
+    "website": "https://www.meituan.com",
+    "sector": "Logistics",
+    "address": "Shenzhen",
+    "blurb": "Local services and delivery.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/meituan.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.meituan.com?w=1200"
+    ]
+  },
+  {
+    "id": "sz-pinduoduo",
+    "name": "Pinduoduo / Temu ops",
+    "city": "shenzhen",
+    "lat": 22.54,
+    "lng": 114.05,
+    "website": "https://www.pinduoduo.com",
+    "sector": "Marketplace",
+    "address": "Shenzhen",
+    "blurb": "Social commerce and Temu supply chain.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/pinduoduo.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.pinduoduo.com?w=1200"
+    ]
+  },
+  {
+    "id": "sz-shein",
+    "name": "SHEIN",
+    "city": "shenzhen",
+    "lat": 22.55,
+    "lng": 114.05,
+    "website": "https://www.shein.com",
+    "sector": "Marketplace",
+    "address": "Shenzhen / Guangzhou",
+    "blurb": "Fast-fashion e-commerce giant with Shenzhen roots.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/shein.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.shein.com?w=1200"
+    ]
+  },
+  {
+    "id": "sz-ubtrobot",
+    "name": "UBTECH",
+    "city": "shenzhen",
+    "lat": 22.54005,
+    "lng": 113.9399,
+    "website": "https://www.ubtrobot.com",
+    "sector": "Robotics",
+    "address": "Nanshan District, Shenzhen",
+    "blurb": "Humanoid and education robots.",
+    "fundingStage": "Public",
+    "buildingId": "sz-nanshan",
+    "buildingName": "Nanshan / Science Park",
+    "logoUrl": "https://logo.clearbit.com/ubtrobot.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ubtrobot.com?w=1200"
+    ]
+  },
+  {
+    "id": "sz-orbbec",
+    "name": "Orbbec",
+    "city": "shenzhen",
+    "lat": 22.54,
+    "lng": 113.95,
+    "website": "https://www.orbbec.com",
+    "sector": "Hardware",
+    "address": "Shenzhen",
+    "blurb": "3D vision cameras.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/orbbec.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.orbbec.com?w=1200"
+    ]
+  },
+  {
+    "id": "sz-mindray",
+    "name": "Mindray",
+    "city": "shenzhen",
+    "lat": 22.58,
+    "lng": 113.95,
+    "website": "https://www.mindray.com",
+    "sector": "Health",
+    "address": "Shenzhen",
+    "blurb": "Medical devices leader.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/mindray.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.mindray.com?w=1200"
+    ]
+  },
+  {
+    "id": "sz-hytera",
+    "name": "Hytera",
+    "city": "shenzhen",
+    "lat": 22.55,
+    "lng": 114.05,
+    "website": "https://www.hytera.com",
+    "sector": "Telecom",
+    "address": "Shenzhen",
+    "blurb": "Professional radio communications.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/hytera.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.hytera.com?w=1200"
+    ]
+  },
+  {
+    "id": "sz-transsion",
+    "name": "Transsion",
+    "city": "shenzhen",
+    "lat": 22.55,
+    "lng": 113.95,
+    "website": "https://www.transsion.com",
+    "sector": "Hardware",
+    "address": "Shenzhen",
+    "blurb": "Smartphone brands for emerging markets.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/transsion.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.transsion.com?w=1200"
+    ]
+  },
+  {
+    "id": "sz-royole",
+    "name": "Royole",
+    "city": "shenzhen",
+    "lat": 22.54,
+    "lng": 113.94,
+    "website": "https://www.royole.com",
+    "sector": "Hardware",
+    "address": "Shenzhen",
+    "blurb": "Flexible display pioneer.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/royole.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.royole.com?w=1200"
+    ]
+  },
+  {
+    "id": "sz-kuang-chi",
+    "name": "Kuang-Chi",
+    "city": "shenzhen",
+    "lat": 22.55,
+    "lng": 113.95,
+    "website": "https://www.kuang-chi.com",
+    "sector": "DeepTech",
+    "address": "Shenzhen",
+    "blurb": "Metamaterials and future transport R&D.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/kuang-chi.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.kuang-chi.com?w=1200"
+    ]
+  },
+  {
+    "id": "sz-appot",
+    "name": "Appota / local app",
+    "city": "shenzhen",
+    "lat": 22.5401,
+    "lng": 113.9399,
+    "website": "https://www.tencent.com",
+    "sector": "Media",
+    "address": "Nanshan District, Shenzhen",
+    "blurb": "Consumer internet product teams.",
+    "fundingStage": "Public",
+    "buildingId": "sz-nanshan",
+    "buildingName": "Nanshan / Science Park",
+    "logoUrl": "https://logo.clearbit.com/tencent.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.tencent.com?w=1200"
+    ]
+  },
+  {
+    "id": "sz-xpeng",
+    "name": "XPeng",
+    "city": "shenzhen",
+    "lat": 22.55,
+    "lng": 114.05,
+    "website": "https://www.xpeng.com",
+    "sector": "Climate",
+    "address": "Shenzhen / Guangzhou",
+    "blurb": "Smart EV brand with Shenzhen presence.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/xpeng.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.xpeng.com?w=1200"
+    ]
+  },
+  {
+    "id": "sz-honor",
+    "name": "Honor",
+    "city": "shenzhen",
+    "lat": 22.54,
+    "lng": 113.95,
+    "website": "https://www.honor.com",
+    "sector": "Hardware",
+    "address": "Shenzhen",
+    "blurb": "Smartphone brand.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/honor.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.honor.com?w=1200"
+    ]
+  },
+  {
+    "id": "sz-zpmc",
+    "name": "ZTE",
+    "city": "shenzhen",
+    "lat": 22.55,
+    "lng": 114.05,
+    "website": "https://www.zte.com.cn",
+    "sector": "Telecom",
+    "address": "Shenzhen",
+    "blurb": "Telecom equipment giant.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/zte.com.cn",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.zte.com.cn?w=1200"
+    ]
+  },
+  {
+    "id": "sz-hasee",
+    "name": "Hasee",
+    "city": "shenzhen",
+    "lat": 22.55,
+    "lng": 113.96,
+    "website": "https://www.hasee.com",
+    "sector": "Hardware",
+    "address": "Shenzhen",
+    "blurb": "PC and electronics brand.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/hasee.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.hasee.com?w=1200"
+    ]
+  },
+  {
+    "id": "sz-anker",
+    "name": "Anker Innovations",
+    "city": "shenzhen",
+    "lat": 22.54,
+    "lng": 113.95,
+    "website": "https://www.anker.com",
+    "sector": "Hardware",
+    "address": "Shenzhen / Changsha",
+    "blurb": "Consumer electronics charging brand.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/anker.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.anker.com?w=1200"
+    ]
+  },
+  {
+    "id": "sz-baseus",
+    "name": "Baseus",
+    "city": "shenzhen",
+    "lat": 22.54,
+    "lng": 113.95,
+    "website": "https://www.baseus.com",
+    "sector": "Hardware",
+    "address": "Shenzhen",
+    "blurb": "Consumer accessories brand.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/baseus.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.baseus.com?w=1200"
+    ]
+  },
+  {
+    "id": "sz-insta360",
+    "name": "Insta360",
+    "city": "shenzhen",
+    "lat": 22.5399,
+    "lng": 113.93995,
+    "website": "https://www.insta360.com",
+    "sector": "Hardware",
+    "address": "Nanshan District, Shenzhen",
+    "blurb": "360° camera company.",
+    "fundingStage": "Growth",
+    "buildingId": "sz-nanshan",
+    "buildingName": "Nanshan / Science Park",
+    "logoUrl": "https://logo.clearbit.com/insta360.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.insta360.com?w=1200"
+    ]
+  },
+  {
+    "id": "sz-autel",
+    "name": "Autel Robotics",
+    "city": "shenzhen",
+    "lat": 22.55,
+    "lng": 113.95,
+    "website": "https://www.autelrobotics.com",
+    "sector": "Hardware",
+    "address": "Shenzhen",
+    "blurb": "Drone and robotics.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/autelrobotics.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.autelrobotics.com?w=1200"
+    ]
+  },
+  {
+    "id": "sz-micro",
+    "name": "Micro Connect",
+    "city": "shenzhen",
+    "lat": 22.54,
+    "lng": 114.05,
+    "website": "https://www.microconnect.com",
+    "sector": "FinTech",
+    "address": "Shenzhen / HK",
+    "blurb": "SME revenue-based finance.",
+    "fundingStage": "Series C",
+    "logoUrl": "https://logo.clearbit.com/microconnect.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.microconnect.com?w=1200"
+    ]
+  }
+]

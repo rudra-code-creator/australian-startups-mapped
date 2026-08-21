@@ -1,4 +1,84 @@
-export type CitySlug = "brisbane" | "sydney" | "melbourne" | "adelaide" | "perth";
+export type CitySlug =
+  | "brisbane"
+  | "sydney"
+  | "melbourne"
+  | "adelaide"
+  | "perth"
+  | "auckland"
+  | "wellington"
+  | "christchurch"
+  | "port-moresby"
+  | "suva"
+  | "nadi"
+  | "noumea"
+  | "port-vila"
+  | "honiara"
+  | "jakarta"
+  | "surabaya"
+  | "bandung"
+  | "yogyakarta"
+  | "denpasar"
+  | "medan"
+  | "batam"
+  | "johor-bahru"
+  | "malacca"
+  | "klang-valley"
+  | "ipoh"
+  | "penang"
+  | "kuantan"
+  | "kuching"
+  | "kota-kinabalu"
+  | "singapore"
+  | "delhi-ncr"
+  | "mumbai"
+  | "pune"
+  | "bangalore"
+  | "hyderabad"
+  | "chennai"
+  | "kolkata"
+  | "hong-kong"
+  | "shenzhen"
+  | "dongguan"
+  | "guangzhou"
+  | "zhuhai";
+
+export type CountryId =
+  | "australia"
+  | "new-zealand"
+  | "papua-new-guinea"
+  | "fiji"
+  | "new-caledonia"
+  | "vanuatu"
+  | "solomon-islands"
+  | "indonesia"
+  | "malaysia"
+  | "singapore"
+  | "india"
+  | "greater-bay-area";
+
+/** Curated / illustrative latest known funding stage for map labels. */
+export type FundingStage =
+  | "Pre-seed"
+  | "Seed"
+  | "Series A"
+  | "Series B"
+  | "Series C"
+  | "Series D+"
+  | "Growth"
+  | "Public"
+  | "Bootstrapped";
+
+export const FUNDING_STAGES: FundingStage[] = [
+  "Pre-seed",
+  "Seed",
+  "Series A",
+  "Series B",
+  "Series C",
+  "Series D+",
+  "Growth",
+  "Public",
+  "Bootstrapped",
+];
 
 export type Startup = {
   id: string;
@@ -14,6 +94,7 @@ export type Startup = {
   buildingId?: string;
   buildingName?: string;
   sector?: string;
+  fundingStage?: FundingStage;
 };
 
 export type Building = {
@@ -53,4 +134,3 @@ export type LocationCorrectionInput = {
   clearBuildingId?: boolean;
   submitterNote?: string;
 };
-

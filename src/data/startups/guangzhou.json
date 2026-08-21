@@ -1,0 +1,406 @@
+[
+  {
+    "id": "gz-netease",
+    "name": "NetEase Guangzhou",
+    "city": "guangzhou",
+    "lat": 23.13,
+    "lng": 113.26,
+    "website": "https://www.netease.com",
+    "sector": "Media",
+    "address": "Guangzhou",
+    "blurb": "Gaming and internet products.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/netease.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.netease.com?w=1200"
+    ]
+  },
+  {
+    "id": "gz-wechat",
+    "name": "Tencent Guangzhou",
+    "city": "guangzhou",
+    "lat": 23.13,
+    "lng": 113.27,
+    "website": "https://www.tencent.com",
+    "sector": "Media",
+    "address": "Guangzhou",
+    "blurb": "Tencent southern China presence.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/tencent.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.tencent.com?w=1200"
+    ]
+  },
+  {
+    "id": "gz-xpeng",
+    "name": "XPeng",
+    "city": "guangzhou",
+    "lat": 23.13,
+    "lng": 113.3,
+    "website": "https://www.xpeng.com",
+    "sector": "Climate",
+    "address": "Guangzhou",
+    "blurb": "Smart EV brand headquartered in Guangzhou.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/xpeng.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.xpeng.com?w=1200"
+    ]
+  },
+  {
+    "id": "gz-gac",
+    "name": "GAC Aion",
+    "city": "guangzhou",
+    "lat": 23.15,
+    "lng": 113.3,
+    "website": "https://www.gac.com.cn",
+    "sector": "Climate",
+    "address": "Guangzhou",
+    "blurb": "EV brand from GAC Group.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/gac.com.cn",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.gac.com.cn?w=1200"
+    ]
+  },
+  {
+    "id": "gz-vipshop",
+    "name": "Vipshop",
+    "city": "guangzhou",
+    "lat": 23.12,
+    "lng": 113.35,
+    "website": "https://www.vip.com",
+    "sector": "Marketplace",
+    "address": "Guangzhou",
+    "blurb": "Online discount retailer founded in Guangzhou.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/vip.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.vip.com?w=1200"
+    ]
+  },
+  {
+    "id": "gz-ly",
+    "name": "LY.com / Tongcheng",
+    "city": "guangzhou",
+    "lat": 23.13,
+    "lng": 113.27,
+    "website": "https://www.ly.com",
+    "sector": "Travel",
+    "address": "Guangzhou / Suzhou",
+    "blurb": "Travel platform presence.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/ly.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ly.com?w=1200"
+    ]
+  },
+  {
+    "id": "gz-meituan",
+    "name": "Meituan Guangzhou",
+    "city": "guangzhou",
+    "lat": 23.13,
+    "lng": 113.26,
+    "website": "https://www.meituan.com",
+    "sector": "Logistics",
+    "address": "Guangzhou",
+    "blurb": "Local services density.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/meituan.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.meituan.com?w=1200"
+    ]
+  },
+  {
+    "id": "gz-jd",
+    "name": "JD Guangzhou",
+    "city": "guangzhou",
+    "lat": 23.1,
+    "lng": 113.35,
+    "website": "https://www.jd.com",
+    "sector": "Marketplace",
+    "address": "Guangzhou",
+    "blurb": "E-commerce logistics hub.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/jd.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.jd.com?w=1200"
+    ]
+  },
+  {
+    "id": "gz-alibaba",
+    "name": "Alibaba Guangzhou",
+    "city": "guangzhou",
+    "lat": 23.097949999999997,
+    "lng": 113.3699,
+    "website": "https://www.alibabagroup.com",
+    "sector": "Marketplace",
+    "address": "Pazhou, Guangzhou",
+    "blurb": "Alibaba / AliExpress Pazhou presence.",
+    "fundingStage": "Public",
+    "buildingId": "gz-pazhou",
+    "buildingName": "Pazhou",
+    "logoUrl": "https://logo.clearbit.com/alibabagroup.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.alibabagroup.com?w=1200"
+    ]
+  },
+  {
+    "id": "gz-pazhou",
+    "name": "Pazhou AI Cluster",
+    "city": "guangzhou",
+    "lat": 23.098,
+    "lng": 113.3699,
+    "website": "https://www.gz.gov.cn",
+    "sector": "Hub",
+    "address": "Pazhou, Guangzhou",
+    "blurb": "AI and digital trade precinct.",
+    "fundingStage": "Bootstrapped",
+    "buildingId": "gz-pazhou",
+    "buildingName": "Pazhou",
+    "logoUrl": "https://logo.clearbit.com/gz.gov.cn",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.gz.gov.cn?w=1200"
+    ]
+  },
+  {
+    "id": "gz-iflytek",
+    "name": "iFLYTEK Guangzhou",
+    "city": "guangzhou",
+    "lat": 23.13,
+    "lng": 113.3,
+    "website": "https://www.iflytek.com",
+    "sector": "AI",
+    "address": "Guangzhou",
+    "blurb": "Speech AI regional presence.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/iflytek.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.iflytek.com?w=1200"
+    ]
+  },
+  {
+    "id": "gz-yy",
+    "name": "JOYY / YY",
+    "city": "guangzhou",
+    "lat": 23.13,
+    "lng": 113.27,
+    "website": "https://www.joyy.com",
+    "sector": "Media",
+    "address": "Guangzhou",
+    "blurb": "Live streaming and social entertainment.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/joyy.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.joyy.com?w=1200"
+    ]
+  },
+  {
+    "id": "gz-huya",
+    "name": "Huya",
+    "city": "guangzhou",
+    "lat": 23.13,
+    "lng": 113.27,
+    "website": "https://www.huya.com",
+    "sector": "Media",
+    "address": "Guangzhou",
+    "blurb": "Game live-streaming platform.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/huya.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.huya.com?w=1200"
+    ]
+  },
+  {
+    "id": "gz-shein-gz",
+    "name": "SHEIN Guangzhou",
+    "city": "guangzhou",
+    "lat": 23.12,
+    "lng": 113.3,
+    "website": "https://www.shein.com",
+    "sector": "Marketplace",
+    "address": "Guangzhou",
+    "blurb": "Fashion e-commerce operations.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/shein.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.shein.com?w=1200"
+    ]
+  },
+  {
+    "id": "gz-sf",
+    "name": "SF Express Guangzhou",
+    "city": "guangzhou",
+    "lat": 23.15,
+    "lng": 113.35,
+    "website": "https://www.sf-express.com",
+    "sector": "Logistics",
+    "address": "Guangzhou",
+    "blurb": "Express logistics hub.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/sf-express.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.sf-express.com?w=1200"
+    ]
+  },
+  {
+    "id": "gz-cainiao",
+    "name": "Cainiao Guangzhou",
+    "city": "guangzhou",
+    "lat": 23.1,
+    "lng": 113.35,
+    "website": "https://www.cainiao.com",
+    "sector": "Logistics",
+    "address": "Guangzhou",
+    "blurb": "E-commerce logistics.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/cainiao.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.cainiao.com?w=1200"
+    ]
+  },
+  {
+    "id": "gz-pingan",
+    "name": "Ping An Guangzhou",
+    "city": "guangzhou",
+    "lat": 23.13,
+    "lng": 113.27,
+    "website": "https://www.pingan.com",
+    "sector": "FinTech",
+    "address": "Guangzhou",
+    "blurb": "Insurance and fintech services.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/pingan.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.pingan.com?w=1200"
+    ]
+  },
+  {
+    "id": "gz-webank",
+    "name": "WeBank presence",
+    "city": "guangzhou",
+    "lat": 23.13,
+    "lng": 113.27,
+    "website": "https://www.webank.com",
+    "sector": "FinTech",
+    "address": "Guangzhou / Shenzhen",
+    "blurb": "Digital banking services footprint.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/webank.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.webank.com?w=1200"
+    ]
+  },
+  {
+    "id": "gz-kugou",
+    "name": "Kugou",
+    "city": "guangzhou",
+    "lat": 23.13,
+    "lng": 113.26,
+    "website": "https://www.kugou.com",
+    "sector": "Media",
+    "address": "Guangzhou",
+    "blurb": "Music streaming platform.",
+    "fundingStage": "Growth",
+    "logoUrl": "https://logo.clearbit.com/kugou.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.kugou.com?w=1200"
+    ]
+  },
+  {
+    "id": "gz-netease-cloud",
+    "name": "NetEase Cloud Music GZ",
+    "city": "guangzhou",
+    "lat": 23.12,
+    "lng": 113.27,
+    "website": "https://music.163.com",
+    "sector": "Media",
+    "address": "Guangzhou",
+    "blurb": "Music product teams.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/music.163.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fmusic.163.com?w=1200"
+    ]
+  },
+  {
+    "id": "gz-xiaopeng-motors",
+    "name": "XPeng Motors HQ",
+    "city": "guangzhou",
+    "lat": 23.14,
+    "lng": 113.32,
+    "website": "https://www.xpeng.com",
+    "sector": "Climate",
+    "address": "Guangzhou",
+    "blurb": "EV HQ campus.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/xpeng.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.xpeng.com?w=1200"
+    ]
+  },
+  {
+    "id": "gz-gree",
+    "name": "Gree",
+    "city": "guangzhou",
+    "lat": 23.1,
+    "lng": 113.3,
+    "website": "https://global.gree.com",
+    "sector": "Hardware",
+    "address": "Guangzhou / Zhuhai corridor",
+    "blurb": "Appliance giant commercial presence.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/global.gree.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fglobal.gree.com?w=1200"
+    ]
+  },
+  {
+    "id": "gz-midea",
+    "name": "Midea Guangzhou",
+    "city": "guangzhou",
+    "lat": 23.12,
+    "lng": 113.3,
+    "website": "https://www.midea.com",
+    "sector": "Hardware",
+    "address": "Guangzhou",
+    "blurb": "Appliance and robotics group presence.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/midea.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.midea.com?w=1200"
+    ]
+  },
+  {
+    "id": "gz-trip",
+    "name": "Trip.com Guangzhou",
+    "city": "guangzhou",
+    "lat": 23.13,
+    "lng": 113.27,
+    "website": "https://www.trip.com",
+    "sector": "Travel",
+    "address": "Guangzhou",
+    "blurb": "Travel inventory and ops.",
+    "fundingStage": "Public",
+    "logoUrl": "https://logo.clearbit.com/trip.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.trip.com?w=1200"
+    ]
+  },
+  {
+    "id": "gz-lalamove",
+    "name": "Lalamove Guangzhou",
+    "city": "guangzhou",
+    "lat": 23.13,
+    "lng": 113.26,
+    "website": "https://www.lalamove.com",
+    "sector": "Logistics",
+    "address": "Guangzhou",
+    "blurb": "On-demand delivery city ops.",
+    "fundingStage": "Series D+",
+    "logoUrl": "https://logo.clearbit.com/lalamove.com",
+    "imageUrls": [
+      "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.lalamove.com?w=1200"
+    ]
+  }
+]

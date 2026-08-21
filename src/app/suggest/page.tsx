@@ -15,8 +15,8 @@ export default function SuggestPage() {
           Put your startup on the map.
         </h1>
         <p className="mt-5 text-base text-[color:var(--muted)]">
-          Share a startup or hub you think belongs on the Australian Startup
-          Map. Suggestions are reviewed before they appear publicly.
+          Share a startup or hub you think belongs on the map. Suggestions are
+          reviewed before they appear publicly.
         </p>
 
         <div className="mt-10">
