@@ -2,7 +2,7 @@ import { AdminTabs } from "@/components/admin/AdminTabs";
 
 export default function AdminPage() {
   return (
-    <main className="min-h-screen bg-white text-[color:var(--ink)]">
+    <main className="min-h-screen bg-[color:var(--paper)] text-[color:var(--ink)]">
       <div className="mx-auto max-w-5xl px-4 py-10">
         <div className="flex items-end justify-between gap-4">
           <div>

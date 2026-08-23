@@ -134,19 +134,19 @@ export function LocationFixesQueue() {
         <button
           type="button"
           onClick={() => void refresh()}
-          className="rounded-lg border border-black/10 bg-white px-3 py-2 text-sm hover:bg-black/5"
+          className="rounded-lg border border-[color:var(--border-subtle)] bg-[color:var(--surface-solid)] px-3 py-2 text-sm hover:bg-[color:var(--surface-hover)]"
         >
           Refresh
         </button>
       </div>
 
-      <div className="flex flex-wrap items-center gap-3 rounded-xl border border-black/10 bg-white p-4 text-sm shadow-sm">
+      <div className="flex flex-wrap items-center gap-3 rounded-xl border border-[color:var(--border-subtle)] bg-[color:var(--surface-solid)] p-4 text-sm shadow-sm">
         <div>
           <div className="text-xs font-medium text-black/70">City</div>
           <select
             value={selectedCity}
             onChange={(e) => setSelectedCity(e.target.value as CitySlug)}
-            className="mt-1 w-48 rounded-lg border border-black/10 bg-white px-3 py-2 text-sm outline-none focus:border-black/30"
+            className="mt-1 w-48 rounded-lg border border-[color:var(--border-subtle)] bg-[color:var(--surface-solid)] px-3 py-2 text-sm outline-none focus:border-black/30"
           >
             {COUNTRIES.map((country) => (
               <optgroup key={country.id} label={country.name}>
@@ -182,7 +182,7 @@ export function LocationFixesQueue() {
         {rows.map((row) => (
           <div
             key={row.id}
-            className="rounded-xl border border-black/10 bg-white p-4 shadow-sm"
+            className="rounded-xl border border-[color:var(--border-subtle)] bg-[color:var(--surface-solid)] p-4 shadow-sm"
           >
             <div className="flex flex-wrap items-start justify-between gap-3">
               <div className="min-w-[260px]">
@@ -218,7 +218,7 @@ export function LocationFixesQueue() {
                 <button
                   type="button"
                   onClick={() => void updateStatus(row.id, "reject")}
-                  className="rounded-lg border border-black/10 bg-white px-3 py-2 text-sm hover:bg-black/5"
+                  className="rounded-lg border border-[color:var(--border-subtle)] bg-[color:var(--surface-solid)] px-3 py-2 text-sm hover:bg-[color:var(--surface-hover)]"
                 >
                   Reject
                 </button>
@@ -235,7 +235,7 @@ export function LocationFixesQueue() {
         ))}
 
         {!loading && rows.length === 0 ? (
-          <div className="rounded-xl border border-black/10 bg-white p-8 text-center text-sm text-[color:var(--muted)]">
+          <div className="rounded-xl border border-[color:var(--border-subtle)] bg-[color:var(--surface-solid)] p-8 text-center text-sm text-[color:var(--muted)]">
             No pending location fixes.
           </div>
         ) : null}

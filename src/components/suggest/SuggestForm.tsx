@@ -139,7 +139,7 @@ export function SuggestForm() {
   return (
     <form
       onSubmit={handleSubmit}
-      className="rounded-3xl border border-slate-200 bg-white/80 p-6 shadow-sm"
+      className="rounded-3xl border border-[color:var(--border-subtle)] bg-[color:var(--surface)] p-6 shadow-sm"
       aria-busy={pending}
     >
       <fieldset className="space-y-5" disabled={disabled}>
@@ -152,7 +152,7 @@ export function SuggestForm() {
               type="text"
               value={values.name}
               onChange={(event) => updateField("name", event.target.value)}
-              className="mt-1 w-full rounded-full border border-slate-200 bg-white/80 px-4 py-2 text-sm outline-none focus:ring-2 focus:ring-[color:var(--teal)]"
+              className="mt-1 w-full rounded-full border border-[color:var(--border-subtle)] bg-[color:var(--surface)] px-4 py-2 text-sm outline-none focus:ring-2 focus:ring-[color:var(--teal)]"
               required
             />
             {fieldErrors.name ? (
@@ -167,7 +167,7 @@ export function SuggestForm() {
             <select
               value={values.city}
               onChange={(event) => updateField("city", event.target.value)}
-              className="mt-1 w-full rounded-full border border-slate-200 bg-white/80 px-4 py-2 text-sm outline-none focus:ring-2 focus:ring-[color:var(--teal)]"
+              className="mt-1 w-full rounded-full border border-[color:var(--border-subtle)] bg-[color:var(--surface)] px-4 py-2 text-sm outline-none focus:ring-2 focus:ring-[color:var(--teal)]"
               required
             >
               <option value="">Choose a city</option>
@@ -196,7 +196,7 @@ export function SuggestForm() {
               onChange={(event) =>
                 updateField("addressOrBuilding", event.target.value)
               }
-              className="mt-1 w-full rounded-full border border-slate-200 bg-white/80 px-4 py-2 text-sm outline-none focus:ring-2 focus:ring-[color:var(--teal)]"
+              className="mt-1 w-full rounded-full border border-[color:var(--border-subtle)] bg-[color:var(--surface)] px-4 py-2 text-sm outline-none focus:ring-2 focus:ring-[color:var(--teal)]"
               required
             />
             {fieldErrors.addressOrBuilding ? (
@@ -215,7 +215,7 @@ export function SuggestForm() {
               value={values.website}
               onChange={(event) => updateField("website", event.target.value)}
               placeholder="https://example.com"
-              className="mt-1 w-full rounded-full border border-slate-200 bg-white/80 px-4 py-2 text-sm outline-none focus:ring-2 focus:ring-[color:var(--teal)]"
+              className="mt-1 w-full rounded-full border border-[color:var(--border-subtle)] bg-[color:var(--surface)] px-4 py-2 text-sm outline-none focus:ring-2 focus:ring-[color:var(--teal)]"
             />
             {fieldErrors.website ? (
               <p className="mt-1 text-xs text-red-600">
@@ -233,7 +233,7 @@ export function SuggestForm() {
               value={values.logoUrl}
               onChange={(event) => updateField("logoUrl", event.target.value)}
               placeholder="https://logo.example.com/startup.png"
-              className="mt-1 w-full rounded-full border border-slate-200 bg-white/80 px-4 py-2 text-sm outline-none focus:ring-2 focus:ring-[color:var(--teal)]"
+              className="mt-1 w-full rounded-full border border-[color:var(--border-subtle)] bg-[color:var(--surface)] px-4 py-2 text-sm outline-none focus:ring-2 focus:ring-[color:var(--teal)]"
             />
             <p className="mt-1 text-xs text-[color:var(--muted)]">
               Optional — used for the map bubble. We can fall back to initials
@@ -255,7 +255,7 @@ export function SuggestForm() {
               value={values.email}
               onChange={(event) => updateField("email", event.target.value)}
               placeholder="you@example.com"
-              className="mt-1 w-full rounded-full border border-slate-200 bg-white/80 px-4 py-2 text-sm outline-none focus:ring-2 focus:ring-[color:var(--teal)]"
+              className="mt-1 w-full rounded-full border border-[color:var(--border-subtle)] bg-[color:var(--surface)] px-4 py-2 text-sm outline-none focus:ring-2 focus:ring-[color:var(--teal)]"
             />
             <p className="mt-1 text-xs text-[color:var(--muted)]">
               Only used if we need to clarify something about the listing.

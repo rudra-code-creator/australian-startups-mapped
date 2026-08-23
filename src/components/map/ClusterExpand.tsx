@@ -192,10 +192,10 @@ export function ClusterExpand({
         left,
         top,
         width: 280,
-        background: "white",
+        background: "var(--surface-solid)",
         borderRadius: 18,
-        border: "1px solid rgba(15, 107, 107, 0.14)",
-        boxShadow: "var(--map-shadow)",
+        border: "1px solid var(--border)",
+        boxShadow: "var(--map-shadow), var(--glow-soft)",
         padding: 12,
         zIndex: 1000,
         pointerEvents: "auto",
@@ -221,7 +221,7 @@ export function ClusterExpand({
             event.stopPropagation();
             onClose();
           }}
-          className="text-xs font-semibold rounded-full px-2 py-1 border border-slate-200 hover:bg-slate-50"
+          className="text-xs font-semibold rounded-full px-2 py-1 border border-[color:var(--border-subtle)] hover:bg-[color:var(--surface-hover)]"
           aria-label="Close"
         >
           Close
