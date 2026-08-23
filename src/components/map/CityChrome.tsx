@@ -41,18 +41,16 @@ export function CityChrome({
       }}
     >
       <div
-        className="mx-auto"
+        className="mx-auto shell-bar"
         style={{
           maxWidth: 1100,
           display: "flex",
           gap: 12,
           alignItems: "center",
           justifyContent: "space-between",
-          background: "rgba(255,255,255,0.88)",
-          backdropFilter: "blur(10px)",
-          border: "1px solid rgba(15, 107, 107, 0.14)",
+          backdropFilter: "blur(12px)",
+          border: "1px solid var(--border)",
           borderRadius: 22,
-          boxShadow: "var(--map-shadow)",
           padding: "12px 14px",
           pointerEvents: "auto",
         }}
@@ -75,16 +73,8 @@ export function CityChrome({
                     <Link
                       key={slug}
                       href={`/maps/${slug}`}
-                      className="text-xs font-semibold rounded-full px-3 py-1 border transition-colors"
-                      style={{
-                        borderColor: active
-                          ? "rgba(15, 107, 107, 0.35)"
-                          : "rgba(148, 163, 184, 0.55)",
-                        background: active
-                          ? "rgba(15, 107, 107, 0.10)"
-                          : "rgba(255,255,255,0.55)",
-                        color: active ? "var(--teal-deep)" : "var(--ink)",
-                      }}
+                      className="ui-chip text-xs font-semibold rounded-full px-3 py-1 border transition-colors"
+                      data-active={active ? "true" : "false"}
                     >
                       {CITIES[slug].name}
                     </Link>
@@ -99,7 +89,7 @@ export function CityChrome({
               id="city-switcher"
               value={city}
               onChange={(event) => router.push(`/maps/${event.target.value}`)}
-              className="text-xs font-semibold rounded-full border border-slate-300 bg-white/80 px-3 py-1 outline-none focus:ring-2 focus:ring-[color:var(--teal)]"
+              className="ui-input text-xs font-semibold rounded-full border px-3 py-1 outline-none focus:ring-2 focus:ring-[color:var(--teal)]"
             >
               {COUNTRIES.map((item) => (
                 <optgroup key={item.id} label={item.name}>
@@ -120,11 +110,11 @@ export function CityChrome({
               onClick={onToggleFixLocations}
               style={{
                 padding: "6px 12px",
-                backgroundColor: fixLocations ? "var(--teal)" : "rgba(255,255,255,0.8)",
+                backgroundColor: fixLocations ? "var(--teal)" : "var(--surface)",
                 border: "1px solid",
-                borderColor: fixLocations ? "var(--teal)" : "rgba(148, 163, 184, 0.35)",
+                borderColor: fixLocations ? "var(--teal)" : "var(--border-subtle)",
                 borderRadius: "16px",
-                color: fixLocations ? "white" : "var(--ink)",
+                color: fixLocations ? "var(--paper)" : "var(--ink)",
                 fontSize: "12px",
                 fontWeight: "600",
                 cursor: "pointer",
@@ -146,7 +136,7 @@ export function CityChrome({
             value={search}
             onChange={(e) => onSearchChange(e.target.value)}
             placeholder="Search startups…"
-            className="text-sm px-4 py-2 rounded-full border border-slate-200 bg-white/80 outline-none focus:ring-2 focus:ring-[color:var(--teal)] w-[min(280px,40vw)]"
+            className="ui-input text-sm px-4 py-2 rounded-full border outline-none focus:ring-2 focus:ring-[color:var(--teal)] w-[min(280px,40vw)]"
           />
         </div>
       </div>
@@ -155,12 +145,13 @@ export function CityChrome({
         <div
           className="text-[11px] text-[color:var(--muted)]"
           style={{
-            background: "rgba(255,255,255,0.70)",
-            border: "1px solid rgba(148, 163, 184, 0.35)",
+            background: "var(--surface)",
+            border: "1px solid var(--border-subtle)",
             borderRadius: 9999,
             padding: "6px 12px",
             width: "fit-content",
             pointerEvents: "auto",
+            backdropFilter: "blur(10px)",
           }}
         >
           {CITIES[city].note

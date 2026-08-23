@@ -136,10 +136,10 @@ function PublicCorrectionModal({
             top: "50%",
             left: "50%",
             transform: "translate(-50%, -50%)",
-            background: "white",
+            background: "var(--surface-solid)",
             borderRadius: 18,
-            border: "1px solid rgba(15, 107, 107, 0.14)",
-            boxShadow: "var(--map-shadow)",
+            border: "1px solid var(--border)",
+            boxShadow: "var(--map-shadow), var(--glow-soft)",
             padding: 24,
             zIndex: 1300,
             maxWidth: "min(420px, calc(100vw - 32px))",
@@ -154,7 +154,7 @@ function PublicCorrectionModal({
         <div className="flex gap-3 justify-end">
           <button
             onClick={onCancel}
-            className="px-4 py-2 text-sm border border-slate-200 rounded-lg hover:bg-slate-50"
+            className="px-4 py-2 text-sm border border-[color:var(--border-subtle)] rounded-lg hover:bg-[color:var(--surface-hover)]"
           >
             Cancel
           </button>
@@ -191,10 +191,10 @@ function PublicCorrectionModal({
           top: "50%",
           left: "50%",
           transform: "translate(-50%, -50%)",
-          background: "white",
+          background: "var(--surface-solid)",
           borderRadius: 18,
-          border: "1px solid rgba(15, 107, 107, 0.14)",
-          boxShadow: "var(--map-shadow)",
+          border: "1px solid var(--border)",
+          boxShadow: "var(--map-shadow), var(--glow-soft)",
           padding: 24,
           zIndex: 1300,
           maxWidth: "min(420px, calc(100vw - 32px))",
@@ -210,7 +210,7 @@ function PublicCorrectionModal({
         value={note}
         onChange={(e) => setNote(e.target.value)}
         placeholder="e.g., 'They moved to this building last month' or 'The pin was on the wrong street'"
-        className="w-full p-3 border border-slate-200 rounded-lg text-sm resize-none"
+        className="ui-input w-full p-3 border rounded-lg text-sm resize-none"
         rows={3}
         disabled={isSubmitting}
       />
@@ -218,7 +218,7 @@ function PublicCorrectionModal({
         <button
           onClick={onCancel}
           disabled={isSubmitting}
-          className="px-4 py-2 text-sm border border-slate-200 rounded-lg hover:bg-slate-50 disabled:opacity-50"
+          className="px-4 py-2 text-sm border border-[color:var(--border-subtle)] rounded-lg hover:bg-[color:var(--surface-hover)] disabled:opacity-50"
         >
           Cancel
         </button>
@@ -274,10 +274,10 @@ function ExitFixModeModal({
           top: "50%",
           left: "50%",
           transform: "translate(-50%, -50%)",
-          background: "white",
+          background: "var(--surface-solid)",
           borderRadius: 18,
-          border: "1px solid rgba(15, 107, 107, 0.14)",
-          boxShadow: "var(--map-shadow)",
+          border: "1px solid var(--border)",
+          boxShadow: "var(--map-shadow), var(--glow-soft)",
           padding: 24,
           zIndex: 1300,
           maxWidth: "min(440px, calc(100vw - 32px))",
@@ -301,7 +301,7 @@ function ExitFixModeModal({
             type="button"
             onClick={onKeepEditing}
             disabled={isSaving}
-            className="px-4 py-2 text-sm border border-slate-200 rounded-lg hover:bg-slate-50 disabled:opacity-50"
+            className="px-4 py-2 text-sm border border-[color:var(--border-subtle)] rounded-lg hover:bg-[color:var(--surface-hover)] disabled:opacity-50"
           >
             Keep editing
           </button>

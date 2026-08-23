@@ -3,6 +3,8 @@ import { Fraunces, DM_Sans } from "next/font/google";
 import "leaflet/dist/leaflet.css";
 import "./globals.css";
 import { Shell } from "@/components/Shell";
+import { ThemeProvider } from "@/components/theme/ThemeProvider";
+import { ThemeScript } from "@/components/theme/theme-script";
 
 const fraunces = Fraunces({
   subsets: ["latin"],
@@ -26,11 +28,20 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en" className={fraunces.className}>
+    <html
+      lang="en"
+      className={fraunces.className}
+      data-theme="dark"
+      suppressHydrationWarning
+    >
+      <head>
+        <ThemeScript />
+      </head>
       <body className={dmSans.className}>
-        <Shell>{children}</Shell>
+        <ThemeProvider>
+          <Shell>{children}</Shell>
+        </ThemeProvider>
       </body>
     </html>
   );
 }
-

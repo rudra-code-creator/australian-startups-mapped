@@ -37,10 +37,10 @@ export function StartupDetailPanel({
           "transform 240ms cubic-bezier(0.2, 0.9, 0.2, 1), opacity 200ms ease-out",
         opacity: open ? 1 : 0,
         borderRadius: 22,
-        background: "rgba(255,255,255,0.96)",
-        backdropFilter: "blur(10px)",
-        border: "1px solid rgba(15, 107, 107, 0.14)",
-        boxShadow: "var(--map-shadow)",
+        background: "var(--surface)",
+        backdropFilter: "blur(14px)",
+        border: "1px solid var(--border)",
+        boxShadow: "var(--map-shadow), var(--glow-soft)",
         zIndex: 1200,
         overflow: "hidden",
         pointerEvents: open ? "auto" : "none",
@@ -48,7 +48,7 @@ export function StartupDetailPanel({
       aria-hidden={!open}
     >
       <div className="h-full flex flex-col">
-        <div className="p-4 border-b border-slate-200/70 flex items-start justify-between gap-3">
+        <div className="p-4 border-b border-[color:var(--border-subtle)] flex items-start justify-between gap-3">
           <div className="min-w-0 flex items-center gap-3">
             {startup ? <LogoImage startup={startup} size={48} /> : null}
             <div className="min-w-0">
@@ -63,9 +63,9 @@ export function StartupDetailPanel({
                   <span
                     className="inline-flex items-center rounded-full px-2 py-0.5 text-[11px] font-semibold"
                     style={{
-                      background: "rgba(15, 107, 107, 0.10)",
+                      background: "var(--teal-dim)",
                       color: "var(--teal-deep)",
-                      border: "1px solid rgba(15, 107, 107, 0.18)",
+                      border: "1px solid var(--border)",
                     }}
                   >
                     {startup.fundingStage}
@@ -77,7 +77,7 @@ export function StartupDetailPanel({
           <button
             type="button"
             onClick={onClose}
-            className="text-xs font-semibold rounded-full px-3 py-1 border border-slate-200 hover:bg-slate-50"
+            className="text-xs font-semibold rounded-full px-3 py-1 border border-[color:var(--border-subtle)] hover:bg-[color:var(--surface-hover)]"
             aria-label="Close details"
           >
             Close
@@ -138,8 +138,8 @@ export function StartupDetailPanel({
                     style={{
                       width: "100%",
                       borderRadius: 16,
-                      border: "1px solid rgba(15, 107, 107, 0.12)",
-                      background: "#e8eeef",
+                      border: "1px solid var(--border-subtle)",
+                      background: "var(--paper-2)",
                       display: "block",
                       minHeight: 160,
                       objectFit: "cover",
@@ -161,9 +161,9 @@ export function StartupDetailPanel({
                 rel="noreferrer"
                 className="inline-flex items-center rounded-full px-3 py-1.5 text-xs font-semibold"
                 style={{
-                  background: "rgba(15, 107, 107, 0.10)",
+                  background: "var(--teal-dim)",
                   color: "var(--teal-deep)",
-                  border: "1px solid rgba(15, 107, 107, 0.18)",
+                  border: "1px solid var(--border)",
                 }}
               >
                 Visit website
@@ -176,7 +176,7 @@ export function StartupDetailPanel({
                 )}`}
                 target="_blank"
                 rel="noreferrer"
-                className="inline-flex items-center rounded-full px-3 py-1.5 text-xs font-semibold border border-slate-200 hover:bg-slate-50"
+                className="inline-flex items-center rounded-full px-3 py-1.5 text-xs font-semibold border border-[color:var(--border-subtle)] hover:bg-[color:var(--surface-hover)]"
               >
                 Open in Google Maps
               </a>
@@ -184,7 +184,7 @@ export function StartupDetailPanel({
             {startup && onReportLocation ? (
               <button
                 onClick={() => onReportLocation(startup)}
-                className="inline-flex items-center rounded-full px-3 py-1.5 text-xs font-semibold border border-slate-200 hover:bg-slate-50"
+                className="inline-flex items-center rounded-full px-3 py-1.5 text-xs font-semibold border border-[color:var(--border-subtle)] hover:bg-[color:var(--surface-hover)]"
               >
                 Location looks wrong
               </button>

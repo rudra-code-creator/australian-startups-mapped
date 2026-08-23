@@ -136,14 +136,14 @@ export function PendingQueue({ skipAuthGate = false }: { skipAuthGate?: boolean 
           <button
             type="button"
             onClick={refresh}
-            className="rounded-lg border border-black/10 bg-white px-3 py-2 text-sm hover:bg-black/5"
+            className="rounded-lg border border-[color:var(--border-subtle)] bg-[color:var(--surface-solid)] px-3 py-2 text-sm hover:bg-[color:var(--surface-hover)]"
           >
             Refresh
           </button>
           <button
             type="button"
             onClick={logout}
-            className="rounded-lg border border-black/10 bg-white px-3 py-2 text-sm hover:bg-black/5"
+            className="rounded-lg border border-[color:var(--border-subtle)] bg-[color:var(--surface-solid)] px-3 py-2 text-sm hover:bg-[color:var(--surface-hover)]"
           >
             Logout
           </button>
@@ -154,7 +154,7 @@ export function PendingQueue({ skipAuthGate = false }: { skipAuthGate?: boolean 
 
       <div className="grid gap-4">
         {rows.map((s) => (
-          <div key={s.id} className="rounded-xl border border-black/10 bg-white p-4 shadow-sm">
+          <div key={s.id} className="rounded-xl border border-[color:var(--border-subtle)] bg-[color:var(--surface-solid)] p-4 shadow-sm">
             <div className="flex flex-wrap items-start justify-between gap-3">
               <div className="min-w-[260px]">
                 <div className="text-base font-semibold leading-tight">{s.name}</div>
@@ -212,7 +212,7 @@ export function PendingQueue({ skipAuthGate = false }: { skipAuthGate?: boolean 
                   <button
                     type="button"
                     onClick={() => reject(s.id)}
-                    className="rounded-lg border border-black/10 bg-white px-3 py-2 text-sm hover:bg-black/5"
+                    className="rounded-lg border border-[color:var(--border-subtle)] bg-[color:var(--surface-solid)] px-3 py-2 text-sm hover:bg-[color:var(--surface-hover)]"
                   >
                     Reject
                   </button>
@@ -230,7 +230,7 @@ export function PendingQueue({ skipAuthGate = false }: { skipAuthGate?: boolean 
         ))}
 
         {authed === true && !loading && rows.length === 0 ? (
-          <div className="rounded-xl border border-black/10 bg-white p-8 text-center text-sm text-[color:var(--muted)]">
+          <div className="rounded-xl border border-[color:var(--border-subtle)] bg-[color:var(--surface-solid)] p-8 text-center text-sm text-[color:var(--muted)]">
             No pending suggestions.
           </div>
         ) : null}
